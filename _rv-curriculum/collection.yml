@@ -2,6 +2,7 @@ collections:
   rv-curriculum:
     output: true
     order:
+      - Curriculum and Instruction/Mother Tongue.md
       - Curriculum and Instruction/Mathematics.md
       - Curriculum and Instruction/Science.md
       - Curriculum and Instruction/Physical Education, Art and Music.md
