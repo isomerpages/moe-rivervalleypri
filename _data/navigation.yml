@@ -1,6 +1,74 @@
 logo: /images/Homepage/schoollogo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: About RV
+    url: /permalink
+    sublinks:
+      - title: School Crest
+        url: /permalink
+      - title: Vision, Mission & Values
+        url: /permalink
+      - title: School Rules & Regulation
+        url: /permalink
+      - title: Homework Guidelines
+        url: /permalink
+      - title: Student Safety
+        url: /permalink
+  - title: RV Family
+    url: /permalink
+    sublinks:
+      - title: Principal
+        url: /permalink
+      - title: Vice-Principals
+        url: /permalink
+      - title: Key Personnel
+        url: /permalink
+      - title: Teaching Staff
+        url: /permalink
+      - title: Administration & Support Staff
+        url: /permalink
+  - title: RV Curriculum
+    url: /permalink
+    sublinks:
+      - title: Curriculum & Instruction
+        url: /permalink
+      - title: Character & Citizenship Ed
+        url: /permalink
+      - title: Co-Curricular Activities
+        url: /permalink
+      - title: Programme for Active Learning
+        url: /permalink
+  - title: RV Partners
+    url: /permalink
+    sublinks:
+      - title: School Advisory Committee
+        url: /permalink
+      - title: Parent Engagement Programme
+        url: /permalink
+      - title: Community Partner Programme
+        url: /permalink
+      - title: Parents Gateway
+        url: /permalink
+  - title: RV Information
+    url: /permalink
+    sublinks:
+      - title: School Curriculum Hours
+        url: /permalink
+      - title: Directions to School
+        url: /permalink
+      - title: Vendor Information
+        url: /permalink
+      - title: Student Learning Space
+        url: /permalink
+  - title: RV Student
+    url: /permalink
+    sublinks:
+      - title: Student Learning Space (SLS)
+        url: /permalink
+      - title: Student iCON
+        url: /permalink
+      - title: RV Library
+        url: /permalink
+      - title: eNewsletter
+        url: /permalink
+  - title: RV Photo
+    url: /permalink
