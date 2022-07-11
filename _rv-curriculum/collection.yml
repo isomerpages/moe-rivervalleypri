@@ -2,4 +2,5 @@ collections:
   rv-curriculum:
     output: true
     order:
+      - CCE/.keep
       - CCA And PAL/.keep
