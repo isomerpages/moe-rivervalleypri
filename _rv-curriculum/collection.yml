@@ -2,6 +2,7 @@ collections:
   rv-curriculum:
     output: true
     order:
+      - Curriculum and Instruction/Physical Education, Art and Music.md
       - Curriculum and Instruction/InfoComm Technology.md
       - Curriculum and Instruction/.keep
       - CCE/.keep
