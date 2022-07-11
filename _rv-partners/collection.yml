@@ -2,4 +2,5 @@ collections:
   rv-partners:
     output: true
     order:
+      - Community Partnerships Programme.md
       - Parents Gateway.md
