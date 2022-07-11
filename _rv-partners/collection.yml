@@ -2,5 +2,6 @@ collections:
   rv-partners:
     output: true
     order:
+      - Parent Engagement Programme.md
       - Community Partnerships Programme.md
       - Parents Gateway.md
