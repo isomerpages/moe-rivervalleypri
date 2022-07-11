@@ -1,0 +1,4 @@
+collections:
+  rv-partners:
+    output: true
+    order: []
