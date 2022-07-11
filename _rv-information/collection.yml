@@ -2,5 +2,6 @@ collections:
   rv-information:
     output: true
     order:
+      - Directions to School.md
       - Vendor Information.md
       - Student Learning Space.md
