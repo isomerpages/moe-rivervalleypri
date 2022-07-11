@@ -2,5 +2,6 @@ collections:
   about-rv:
     output: true
     order:
+      - Student Safety/Student Safety.md
       - Student Safety/Cyber wellness.md
       - Student Safety/.keep
