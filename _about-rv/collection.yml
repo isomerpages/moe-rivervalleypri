@@ -2,6 +2,7 @@ collections:
   about-rv:
     output: true
     order:
+      - School Rules & Regulations.md
       - Homework Guidelines.md
       - Student Safety/Student Safety.md
       - Student Safety/Cyber wellness.md
