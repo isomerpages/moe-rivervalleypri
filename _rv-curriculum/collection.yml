@@ -1,4 +1,5 @@
 collections:
   rv-curriculum:
     output: true
-    order: []
+    order:
+      - CCA And PAL/.keep
