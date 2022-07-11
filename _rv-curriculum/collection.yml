@@ -1,0 +1,4 @@
+collections:
+  rv-curriculum:
+    output: true
+    order: []
