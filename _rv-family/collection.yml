@@ -2,4 +2,5 @@ collections:
   rv-family:
     output: true
     order:
+      - Teaching Staff.md
       - Administration & Support Staff.md
