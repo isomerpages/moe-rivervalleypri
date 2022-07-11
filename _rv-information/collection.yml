@@ -2,4 +2,5 @@ collections:
   rv-information:
     output: true
     order:
+      - Vendor Information.md
       - Student Learning Space.md
