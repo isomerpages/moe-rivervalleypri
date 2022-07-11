@@ -2,6 +2,7 @@ collections:
   rv-family:
     output: true
     order:
+      - Vice Principals.md
       - Key Personnel.md
       - Teaching Staff.md
       - Administration & Support Staff.md
