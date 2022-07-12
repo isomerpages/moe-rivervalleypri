@@ -3,8 +3,6 @@ title: School Crest
 permalink: /about-rv/School-Crest
 description: ""
 ---
-
-
 <img style="width:30%;height:50%" src="/images/About%20RV/RVPS%20Logo.png">
 
 #### The Colours
