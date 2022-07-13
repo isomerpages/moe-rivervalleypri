@@ -72,3 +72,33 @@ Fun with Chinese Stories @ RV is conducted during the school holidays for the Pr
   
 
 The Cultural Workshops are conducted during the school holidays for Primary 3 and Primary 4 students. These cultural workshops aims to provide a wide range of interesting hands-on MTL activities to deepen students’ interest in the cultural aspects of the language.
+
+| ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mother%20Tongue/CL1.jpg) | ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mother%20Tongue/CL2.jpg) |
+|---|---|
+
+##### Parents’ Workshops
+
+  
+
+Having a close partnership with the school will help parents to better understand students’ learning experience, and better support our students’ learning. Primary 5 & 6 Parents’ Workshop are conducted in Term 1 every year to equip parents with some basic knowledge on helping their children to learn better and do well for Chinese.   
+
+##### MT Modular Programme
+
+  
+
+The Mother Tongue Modular programme provides a platform for the Primary 1 students to explore, imagine and learn with curiosity and most importantly to experience the joy of learning the Mother Languages. Students will participate in a series of lessons consist of rhymes, music and movement, language games and story-telling. These age-appropriate activities allow the students to learn the different thinking skills and to be creative, as well as be more confident in using their Mother Tongue language. At the end of the programme, students will be showcasing what they have learned by putting up a performance. 
+
+  
+为了让一年级的学生能在玩乐中学习华文华语，此课程设计特意加入了音乐的律动和不同种类的综合游戏，训练学生的语言表达能力及提升他们的自信心。同时，通过听故事活动，达到创意思考及思维逻辑的训练。在课程结束前，学生还将通过短剧展示所学
+
+  
+
+  
+
+##### Other MTL Programmes @ RVPS:  
+
+* MTL Fortnight
+* Conversational Malay P3 & P4
+* Chinese New Year Celebration
+* Mid-Autumn Festival Celebration
+* P2 & P4 Cultural Performance Theatre Experience
