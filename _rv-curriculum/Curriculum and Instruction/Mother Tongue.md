@@ -102,3 +102,7 @@ The Mother Tongue Modular programme provides a platform for the Primary 1 studen
 * Chinese New Year Celebration
 * Mid-Autumn Festival Celebration
 * P2 & P4 Cultural Performance Theatre Experience
+
+| ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mother%20Tongue/CL3.jpg) | ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mother%20Tongue/CL4.jpg) |
+|---|---|
+| ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mother%20Tongue/CL5.jpg) | ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mother%20Tongue/CL6.jpg) |
