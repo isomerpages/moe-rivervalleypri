@@ -89,3 +89,38 @@ To engage our students more and to instill greater joy of learning, math departm
 ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/Picture16.jpg)
 
 ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/Picture18.png)
+
+**(vi) Math Week**
+
+This will be a yearly event that kicked off in 2019. Students of all levels participate in activities specially designed for their respective levels by the math department.  These activities range from classroom activities to recess booths. They are given many opportunities to try out some hands-on activities and online games to integrate what they have learnt in their lessons to real life experiences.  Math representatives are given opportunity to show their leadership skills as they take charge of the execution of the games during recess and assist teachers with the resources and showcasing of students’ work in class.
+
+| ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/Picture19.jpg) | ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/Picture20.jpg) |
+|---|---|
+
+#### MATH CURRICULUM CUSTOMISATION
+-----------------------------
+
+As not all students have the same starting points and learn at the same pace, in RV we tailor customized curriculum to different groups of students. For students who will need more time to achieve the same level of mastery compared to others, we have the LSM, pull out teaching, and programme for the high achieving groups. We also explore differentiated instruction by taking consideration into their readiness levels. For example, students with higher readiness can be given more challenging tasks to deepen their understanding while students with lower readiness can be given tasks with more scaffolding. By so doing, we hope our students are motivated in their learning of math and gain confidence at the different phase of their learning.
+
+**(A) Students with strong inclination towards Math**
+
+For these students, teachers seek to ignite their passion for learning by giving them tasks that are challenging that they are required to work in groups to facilitate the value of team work and also presentation skills.
+
+Activities and task worksheets are designed across levels to stretch students with higher order thinking. Math Olympiad training for competent and interested students outside curriculum time has been planned for P3 and P4 students. Students are also selected to participate in various Olympiad competitions.
+
+We also have the **Mathematics Enrichment programme**, which is conducted out of curriculum time for targeted for P4 and P5 selected students who have a deep passion for Mathematics, strong content knowledge in the subject and the willingness and resilience to solve mathematical problems. The overall main objective is to reinforce confidence in students to investigate and problem solve higher order questions, encouraging creativity and empowering learners to take pride in their work. It focuses on the learning process rather than the final solution. All these aim to strengthen their love for Mathematics.
+
+The activities selected are in tangent to the school syllabus but also extends beyond it. It involves enrichment topics that enhances the challenging and enjoyable learning experience.
+
+**(B) Math Uplift Programme**
+
+In our effort to help these students, teachers have been deployed and resources allocated to enable these students to be placed in the pull-out classes (P3 to P6). The main purpose is to provide these students with more attention to help improve their learning and mastery of the basic content and skills. In addition to helping students close their learning gaps, the teachers also help to develop positive attitudes in learning Mathematics such as self-esteem, confidence and resilience.
+
+Learning gaps that are aligned to learning outcomes (what we want the students to master) are identified after each assessment based on their weak areas. Teachers then re-teach the concepts and retest students and the results are monitored closely.
+
+**(C) Learning Support Programme (LSM)**
+
+The Learning Support for Mathematics (LSM) Programme is designed for students who need extra support in acquiring basic numeracy skills when they enter Primary 1. This support is given for 2 years. The class size is small and hence students received more individual attention from the teacher. The focus in LSM is on building good mathematical understanding and aims to build students’ confidence and positive beliefs about their ability to do Math. The students learn through varied activities such as role-playing, the use of manipulatives, visual drills and the playing of Mathematical games. They also receive help in the specific areas that they are weak in. Review tests are conducted at the end of each chapter and this is a form of feedback for parents, teachers and the students.
+
+| ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/Picture21.jpg) | ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/Picture22.jpg) |
+|---|---|
