@@ -57,3 +57,28 @@ The programme provides a platform to promote joy and passion for learning as the
 The P2 Math Modular Programme seeks to bring joy of learning into the mathematics classrooms of our precious Primary 2 students. Believing strongly that “Math is Fun and Math is Everywhere”, the Math department designs lesson packages that enrich students’ learning of Math.
 
 From the exploration of mathematical manipulatives to bringing Math out of the classroom to making application of Math in real-life situations, students will be given opportunities to enjoy, learn and use Math in interactive ways. During the three-period lesson, students are given different tasks and activities that stretch their thinking and creativity, enable them to work collaboratively as a team, allow them to make mathematical communication and connection, experience how positive attitudes and values can be displayed through problem solving and finding excitement in the learning of Math. At the end of the programme, we hope to evoke the passion of Math among our young RVians.
+
+| ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/Picture6.jpg) | ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/Picture7.jpg) |
+|---|---|
+| ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/Picture8.jpg) | ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/Picture9.jpg) |
+
+**(iii) ICT-based Lessons**
+
+To promote self-directed and collaborative learning in Math with the help of ICT affordances, students are exposed to the use of Excel Spreadsheet, Google Sites, Games, Padlet and Kahoot! The ICT affordances help them to understand mathematical concepts through visualizations, simulations and representations. Assignment of resources in the MC Online portal also allows teachers to support students in learning with online resources. Through harnessing ICT affordances, students are given opportunities to explore, experiment and design.
+
+| ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/Picture10.jpg) | ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/Picture11.jpg) |
+|---|---|
+
+**iv) Activity-based lessons**
+
+Math teachers adopt this approach in which students learn by doing and applying. Teachers provide activities to engage students so that they can explore and learn mathematical concepts and skills, individually or collaboratively in groups. Teachers plan for students to use teaching aids like manipulatives or other resources. From concrete manipulatives and experiences, students are guided to uncover abstract mathematical concepts or results. During the activities, students apply what they have learnt and share their learning with one another collaboratively.
+
+These lessons are also designed to create different types of learning experiences and cater to the diverse learning needs and styles of our students. It promotes a higher level of active participation and deeper mathematical discourse in our lessons.
+
+| ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/Picture13.jpg) | ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/Picture14.jpg) |
+|---|---|
+
+**(v) Marvell-ious Math Programme**
+
+To engage our students more and to instill greater joy of learning, math department teachers plan lessons that enable students to have inquiry-based and activity-based learning. Students participate in different activities that require them to investigate, make conclusion, use manipulatives to find answers, create artfacts and make presentation. There are also assignments that range from hands-on activities to interactive games and virtual manipulatives. Teachers also introduce online quizzes, brain teasers and fun puzzles for students to reinforce their learning.  All these aim to help students to find the learning of Mathematics more relevant, engaging and enjoyable. The programme has been well-received by both teachers and students.
+
