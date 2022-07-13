@@ -17,9 +17,14 @@ In River Valley Primary School, the English curriculum is based on STELLAR (Stra
 STELLAR has been fully implemented from Primary One to Primary Six in the school. STELLAR’s vision is to develop in children the love for reading and a strong foundation in the English Language. It aims to strengthen children’s learning of the English Language and promote a positive attitude towards reading in the foundational years by using engaging and age-appropriate strategies and instructional materials.
 
 The 2020 EL Syllabus was implemented from the Primary One level in 2020, its overarching aim being to develop effective and affective language use among students, focusing on 21st century competencies, values and soft skills such as empathy and cultural sensitivity. In language learning, there is a sharper focus on metacognition, multiliteracies, and inquiry through dialogue, all of which will be achieved through teaching approaches that place explicit emphasis on Differentiated Instruction and Assessment for Learning. (pictures taken before Covid-19)
-| <img style="width:70%;height:50%" src="/images/RV%20Curriculum/Curriculum%20and%20Instructions/English/1pic.jpg"> |<img style="width:100%;height:50%" src="images/RV%20Curriculum/Curriculum%20and%20Instructions/English/3pic.jpg"> |
-|---|---|
-|<img style="width:100%;height:50%" src="/images/RV%20Curriculum/Curriculum%20and%20Instructions/English/2pic.jpg"> | <img style="width:100%;height:50%" src="images/RV%20Curriculum/Curriculum%20and%20Instructions/English/4pic.jpg"> |
+<img style="width:50%;height:50%" src="/images/RV%20Curriculum/Curriculum%20and%20Instructions/English/1pic.jpg">
+
+<img style="width:50%;height:50%" src="images/RV%20Curriculum/Curriculum%20and%20Instructions/English/3pic.jpg">
+
+
+<img style="width:50%;height:50%" src="/images/RV%20Curriculum/Curriculum%20and%20Instructions/English/2pic.jpg">
+
+<img style="width:50%;height:50%" src="images/RV%20Curriculum/Curriculum%20and%20Instructions/English/4pic.jpg">
 
 #### **Questioning for Critical Thinking**
 
