@@ -29,15 +29,18 @@ Pictorial representations include models, drawings, diagrams, charts or graphs t
 
 The teaching of heuristics is essential for mathematical problem solving. As such, RVians are given opportunities to solve problems using a repertoire of heuristics progressively. With practice, students should be able to apply the heuristics that they have learnt to solve problems independently. Beyond personal practice, students will deepen their mastery through discussions and provide explanations of their reasoning.
 
-| ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/Picture1.jpg) | ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/Picture2.jpg) |
-|---|---|
+![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/Picture1.jpg)
+
+![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/Picture2.jpg) 
+
 
 **(iii) Challenging students through Making Thinking Visible Routines (MTV)**
 
 To grow our students into stronger critical thinkers and to deepen their understanding, Math teachers will make use of thinking routines to guide students’ thinking and allow them to articulate and to present their thinking. Teachers also make use of intellectual standards of critical thinking such as Accuracy and Clarity to sharpen students’ responses and enable them to pick up the skills to present their solutions for solving problems.
 
-| ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/Picture3.jpg) | ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/Picture4.jpg) |
-|---|---|
+![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/Picture3.jpg)
+
+![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/Picture4.jpg) 
 
 #### Promoting Joy of Learning in Math
 ---------------------------------
@@ -150,4 +153,3 @@ It reinforces the learning and provides students with opportunities to engage in
 
 | ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/Picture27.jpg) | ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/Picture28.jpg) |
 |---|---|
-
