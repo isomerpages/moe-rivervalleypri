@@ -17,15 +17,15 @@ In River Valley Primary School, the English curriculum is based on STELLAR (Stra
 STELLAR has been fully implemented from Primary One to Primary Six in the school. STELLAR’s vision is to develop in children the love for reading and a strong foundation in the English Language. It aims to strengthen children’s learning of the English Language and promote a positive attitude towards reading in the foundational years by using engaging and age-appropriate strategies and instructional materials.
 
 The 2020 EL Syllabus was implemented from the Primary One level in 2020, its overarching aim being to develop effective and affective language use among students, focusing on 21st century competencies, values and soft skills such as empathy and cultural sensitivity. In language learning, there is a sharper focus on metacognition, multiliteracies, and inquiry through dialogue, all of which will be achieved through teaching approaches that place explicit emphasis on Differentiated Instruction and Assessment for Learning. (pictures taken before Covid-19)
-| ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/English/1pic.jpg) | ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/English/3pic.jpg) |
+| <img style="width:70%;height:50%" src="/images/RV%20Curriculum/Curriculum%20and%20Instructions/English/1pic.jpg"> |<img style="width:100%;height:50%" src="images/RV%20Curriculum/Curriculum%20and%20Instructions/English/3pic.jpg"> |
 |---|---|
-| ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/English/2pic.jpg) | ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/English/4pic.jpg) |
+|<img style="width:100%;height:50%" src="/images/RV%20Curriculum/Curriculum%20and%20Instructions/English/2pic.jpg"> | <img style="width:100%;height:50%" src="images/RV%20Curriculum/Curriculum%20and%20Instructions/English/4pic.jpg"> |
 
 #### **Questioning for Critical Thinking**
 
 To further strengthen critical thinking amongst our students, questioning techniques that are situated on the revised Bloom’s Taxonomy are used in daily teaching and learning. Teachers are careful and deliberate in selecting age and developmentally appropriate approaches in equipping our students with the skills necessary for them to develop the 21st Century Competencies that are necessary for the globalised world we live in. Making Thinking Visible routines are adopted and adapted into our curriculum to support and structure students’ questioning and thinking. See-Think-Wonder as a pre-reading tool, and Perspective-Taking for upper primary writing are but some of the thinking routines that our students are immersed in.
 
-| ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/English/Crti1.png) | ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/English/Crit2.jpg) |
+| <img style="width:100%;height:50%" src="/images/RV%20Curriculum/Curriculum%20and%20Instructions/English/Crti1.png"> | ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/English/Crit2.jpg) |
 |---|---|
 
 #### **Literacy Support Programmes**
@@ -122,6 +122,3 @@ Through the Integrated Learning Project, students are provided opportunities to 
 | ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/English/ILP%201.jpg) | ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/English/ILP%202.jpg) |
 |---|---|
 | ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/English/ILP%203.jpg) | ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/English/ILP%204.jpg) |
-
-
-
