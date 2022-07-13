@@ -82,3 +82,10 @@ These lessons are also designed to create different types of learning experience
 
 To engage our students more and to instill greater joy of learning, math department teachers plan lessons that enable students to have inquiry-based and activity-based learning. Students participate in different activities that require them to investigate, make conclusion, use manipulatives to find answers, create artfacts and make presentation. There are also assignments that range from hands-on activities to interactive games and virtual manipulatives. Teachers also introduce online quizzes, brain teasers and fun puzzles for students to reinforce their learning.  All these aim to help students to find the learning of Mathematics more relevant, engaging and enjoyable. The programme has been well-received by both teachers and students.
 
+![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/Picture15.jpg)
+
+![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/Picture17.png)
+
+![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/Picture16.jpg)
+
+![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/Picture18.png)
