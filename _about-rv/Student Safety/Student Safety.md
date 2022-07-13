@@ -41,7 +41,7 @@ While waiting to board public buses, students have been advised to observe the f
 
 For the safety of our students, no vehicles are allowed to be driven into the school foyer when parents send and fetch their children. This is done to keep other students who are crossing the small road within the school safe. The only exception is when it rains. Parents are allowed to drive into the school to pick up their children at the foyer. We seek the cooperation of all parents who drive to school to follow traffic rules and regulations and practice road safety and courtesy for the safety of all our students and staff. Please refer to the additional letters on
 
-**[Addtional Demerit Points to be awarded against Errant Drivers in School Zones.pdf](https://rivervalleypri.moe.edu.sg/qql/slot/u167/About%20RV/Student%20Safety/Additional%20Demerit%20Points%20to%20be%20awarded%20against%20Errant%20Drivers%20in%20School%20Zones.pdf)**  
+**[Addtional Demerit Points to be awarded against Errant Drivers in School Zones.pdf](/files/About%20RV/Additional%20Demerit%20Points%20to%20be%20awarded%20against%20Errant%20Drivers%20in%20School%20Zones.pdf)**  
 
   
 
