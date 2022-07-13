@@ -124,3 +124,30 @@ The Learning Support for Mathematics (LSM) Programme is designed for students wh
 
 | ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/Picture21.jpg) | ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/Picture22.jpg) |
 |---|---|
+
+#### ASSESSMENTS
+-----------
+
+Assessment is an integral part of the teaching and learning process. A balanced assessment system includes both summative and formative assessments which are valid and reliable. In RV, we use assessments not only to have feedback on our students’ learning but also to monitor their learning so that timely intervention can be carried out. We also use Formative assessments to provide information on how well students are progressing toward the desired learning goal(s).  and informs students of their specific areas of strengths and weaknesses. A variety of modes of assessment, eg. performance tasks, diagnostic test, bite-sized tests, etc, are used in RV to enable teachers to have better feedback on their students’ learning and to implement follow-up actions to close gaps.
+
+**1) Performance tasks**
+
+The performance tasks assess students’ understanding and application of mathematical concepts in a non-threatening environment. Students either work individually, in pairs or groups to perform the tasks. Marks and rubrics are used to assess students’ performance in the task.
+
+| ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/Picture23.jpg) | ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/Picture24.jpg) |
+|---|---|
+
+**2) Bite-sized Assessments**
+
+This comes in the form of Topical test and Mini Test to test mastery and application of skills and concepts. Qualitative feedback is also given to the students and parents to highlight areas where students have done well, and also ways to improve students’ learning. A Math checklist (selected topics) from P1 to P5 is used by teachers to evaluate learning and then to narrow gaps after assessing the students. Students and their parents are given feedback about their progress.
+
+| ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/Picture25.jpg) | ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/Picture26.jpg) |
+|---|---|
+
+**3) Journal Writing**
+
+It reinforces the learning and provides students with opportunities to engage in reflection, question their own understanding, connect the abstract and the concrete, and apply the knowledge they have acquired to solve problems. Teachers make use of questions to enhance students’ ability to justify their solutions.
+
+| ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/Picture27.jpg) | ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/Picture28.jpg) |
+|---|---|
+
