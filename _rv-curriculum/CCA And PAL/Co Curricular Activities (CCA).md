@@ -22,3 +22,34 @@ Our Primary 1 and Primary 2 students are enrolled in the **Programme for Active
 |:---:	|:---:	|
 | Fridays, 7.30 - 9:30am 	| Fridays, 7.30 -9:30am 	|
 | * Extra trainings for school team members are held on Monday afternoons, 2:00 - 4:00pm. 	|  	|
+
+#### CCA
+---
+
+We have a total of 17 CCAs for students to choose from. These CCAs fall under **Clubs & Societies, Sports & Games, Performing Arts and Uniformed Groups**. Below is a listing of the CCAs and the Teachers-in-charge.
+
+| CCA 	| Teacher-in-Charge 	| Email 	|
+|:---:	|:---:	|:---:	|
+|  Clubs & Societies 	|  	|  	|
+| Visual Arts Club 	| Mrs Tan-Chu Pau Leng 	| chu_pau_leng@schools.gov.sg 	|
+| Chess (Weiqi) Club 	| Ms Wong Ching Yee 	| wong_ching_yee@schools.gov.sg 	|
+| Info-Comm Technology Club 	| Ms Sharon Ho 	| Ho_Jia_Hui_Sharon@schools.gov.sg 	|
+|  Performing Arts 	|  	|  	|
+| Concert Band 	| Ms Joy Ang 	| ang_soo_en_joy@schools.gov.sg 	|
+| Choir 	| Ms Goh Wan Yu 	| goh_wan_yu@schools.gov.sg 	|
+| Dance Ensemble 	| Ms Sim Kay Yin 	| sim_kay_yin@schools.gov.sg 	|
+| Drama 	| Ms Evelyn Ng 	| ng_geok_neo_evelyn@schools.gov.sg 	|
+| ports & Games 	|  	|  	|
+| |
+| Badminton (Boys only) 	| Ms Tay Ruiqi 	| tay_ruiqi@schools.gov.sg 	|
+| Basketball (Boys only) 	| Mr Aylwin Tan 	| tan_g-sern_aylwin@schools.gov.sg 	|
+| Floorball (Boys only) 	| Mdm Amirah 	| nur_amirah_abu_hasan@schools.gov.sg 	|
+| Football (Boys only) 	| Ms Nadia 	| nadia_erlyna_fauzilan@schools.gov.sg 	|
+| Netball (Girls only) 	| Mdm Cecilia Huang 	| Oh_Seow_Huey_Cecilia@schools.gov.sg 	|
+| Volleyball (Girls only) 	| Mr Lao Li 	| lao_li@schools.gov.sg 	|
+| Wushu 	| Ms Wang Jia Xin 	| wang_jiaxin@schools.gov.sg 	|
+| Uniformed Groups 	|  	|  	|
+| |
+| Brownies (Girls only) 	| Ms Bernadette Kor 	| bernadette_kor_hong_yin@schools.gov.sg 	|
+| Red Cross Society of Singapore 	| Ms Lin Chuqing 	| lin_chuqing@schools.gov.sg 	|
+| Scouts (Boys only) 	| Ms Roshane 	| Roshane_Rajandran@schools.gov.sg 	|
