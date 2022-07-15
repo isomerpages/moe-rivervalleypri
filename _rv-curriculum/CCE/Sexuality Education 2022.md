@@ -71,7 +71,7 @@ c. Character and Citizenship Education (CCE)
   
 8.         Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.  
   
-9.         Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also [**downloadable here**](https://rivervalleypri.moe.edu.sg/qql/slot/u167/RVPS_parents%20opt-out%20form%202022.pdf). The completed opt-out form is to be submitted by 09/02/2022.  
+9.         Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also [downloadable here](/files/RV%20Curriculum/CCE/Student%20Well%20Being/RVPS_parents%20opt-out%20form%202022.pdf). The completed opt-out form is to be submitted by 09/02/2022.  
   
 10.       Parents can contact the school at **6737 1785** or email us at [rvps@moe.edu.sg](mailto:rvps@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.  
   
