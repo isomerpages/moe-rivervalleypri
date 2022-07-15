@@ -47,6 +47,3 @@ Guided by the 3H (Head, Heart, Hand), the school’s VIA programme is part of a 
 <figcaption> <strong>Students involved in GLOW-X</strong> </figcaption>
 
 </figure>
-
-
-
