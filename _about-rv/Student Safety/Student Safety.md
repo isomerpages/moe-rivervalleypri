@@ -6,13 +6,7 @@ third_nav_title: Student Safety
 ---
 Safety of our students is of paramount importance to us at RVPS. We have continuously emphasized the importance of good safety guidelines and practices to our students. Through school programmes such as Fire/ Emergency Evacuation exercises, learning journeys to the Road safety Park, talks by School Leaders and assembly sharing by the Singapore Road Safety Council and SBS Transit, our students are taught how to keep themselves safe at all times.
 
-![](/images/About%20RV/IMG-20150204-WA0004.jpg)
-
-![](/images/About%20RV/IMG-20150204-WA0006.jpg)
-
-![](/images/About%20RV/7pic.jpg)
-
-![](/images/About%20RV/6pic.jpg)
+![](/images/About%20RV/photo_6235784303653007519_w.png)
 
 #### (A) Safety on the road
 
