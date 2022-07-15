@@ -3,7 +3,6 @@ title: Parents Gateway
 permalink: /rv-partners/Parents-Gateway
 description: ""
 ---
-  
 Dear Parents of River Valley Primary School,  
 
   
@@ -17,7 +16,7 @@ Parents Gateway is an initiative by MOE to enable parents to interact with schoo
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PCM5o8jAncc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**_[PG Parents User Guide](https://rivervalleypri.moe.edu.sg/qql/slot/u167/Parents%20Gateway/PG-Parents-User-Guide.pdf)_**
+[PG Parents User Guide](/files/RV%20Partners/Parents%20Gateway/PG-Parents-User-Guide.pdf)
 
 [iOS: Parents Gateway on Apple AppStore](https://apps.apple.com/sg/app/parents-gateway/id1267198708)
 
