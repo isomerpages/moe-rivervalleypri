@@ -26,7 +26,6 @@ To ensure safety of our students, parents/guardians of students using the school
 
 #### (C) Safety on public buses
 
-####   
 
 While waiting to board public buses, students have been advised to observe the following: 
 
@@ -37,7 +36,6 @@ While waiting to board public buses, students have been advised to observe the f
 
 #### (D) Other road safety precautions
 
-####   
 
 For the safety of our students, no vehicles are allowed to be driven into the school foyer when parents send and fetch their children. This is done to keep other students who are crossing the small road within the school safe. The only exception is when it rains. Parents are allowed to drive into the school to pick up their children at the foyer. We seek the cooperation of all parents who drive to school to follow traffic rules and regulations and practice road safety and courtesy for the safety of all our students and staff. Please refer to the additional letters on
 
