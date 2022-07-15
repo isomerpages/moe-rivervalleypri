@@ -29,18 +29,14 @@ Pictorial representations include models, drawings, diagrams, charts or graphs t
 
 The teaching of heuristics is essential for mathematical problem solving. As such, RVians are given opportunities to solve problems using a repertoire of heuristics progressively. With practice, students should be able to apply the heuristics that they have learnt to solve problems independently. Beyond personal practice, students will deepen their mastery through discussions and provide explanations of their reasoning.
 
-![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/Picture1.jpg)
-
-![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/Picture2.jpg) 
+![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/Pic1.png)
 
 
 **(iii) Challenging students through Making Thinking Visible Routines (MTV)**
 
 To grow our students into stronger critical thinkers and to deepen their understanding, Math teachers will make use of thinking routines to guide students’ thinking and allow them to articulate and to present their thinking. Teachers also make use of intellectual standards of critical thinking such as Accuracy and Clarity to sharpen students’ responses and enable them to pick up the skills to present their solutions for solving problems.
 
-![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/Picture3.jpg)
-
-![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/Picture4.jpg) 
+![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/Pic2.png)
 
 #### Promoting Joy of Learning in Math
 ---------------------------------
@@ -61,16 +57,13 @@ The P2 Math Modular Programme seeks to bring joy of learning into the mathematic
 
 From the exploration of mathematical manipulatives to bringing Math out of the classroom to making application of Math in real-life situations, students will be given opportunities to enjoy, learn and use Math in interactive ways. During the three-period lesson, students are given different tasks and activities that stretch their thinking and creativity, enable them to work collaboratively as a team, allow them to make mathematical communication and connection, experience how positive attitudes and values can be displayed through problem solving and finding excitement in the learning of Math. At the end of the programme, we hope to evoke the passion of Math among our young RVians.
 
-| ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/Picture6.jpg) | ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/Picture7.jpg) |
-|---|---|
-| ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/Picture8.jpg) | ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/Picture9.jpg) |
+![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/Pic4.png)
 
 **(iii) ICT-based Lessons**
 
 To promote self-directed and collaborative learning in Math with the help of ICT affordances, students are exposed to the use of Excel Spreadsheet, Google Sites, Games, Padlet and Kahoot! The ICT affordances help them to understand mathematical concepts through visualizations, simulations and representations. Assignment of resources in the MC Online portal also allows teachers to support students in learning with online resources. Through harnessing ICT affordances, students are given opportunities to explore, experiment and design.
 
-| ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/Picture10.jpg) | ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/Picture11.jpg) |
-|---|---|
+![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/Pic5.png)
 
 **iv) Activity-based lessons**
 
@@ -78,27 +71,19 @@ Math teachers adopt this approach in which students learn by doing and applying.
 
 These lessons are also designed to create different types of learning experiences and cater to the diverse learning needs and styles of our students. It promotes a higher level of active participation and deeper mathematical discourse in our lessons.
 
-| ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/Picture13.jpg) | ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/Picture14.jpg) |
-|---|---|
+![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/Pic3.png)
 
 **(v) Marvell-ious Math Programme**
 
 To engage our students more and to instill greater joy of learning, math department teachers plan lessons that enable students to have inquiry-based and activity-based learning. Students participate in different activities that require them to investigate, make conclusion, use manipulatives to find answers, create artfacts and make presentation. There are also assignments that range from hands-on activities to interactive games and virtual manipulatives. Teachers also introduce online quizzes, brain teasers and fun puzzles for students to reinforce their learning.  All these aim to help students to find the learning of Mathematics more relevant, engaging and enjoyable. The programme has been well-received by both teachers and students.
 
-![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/Picture15.jpg)
-
-![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/Picture17.png)
-
-![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/Picture16.jpg)
-
-![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/Picture18.png)
+![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/Pic6.png)
 
 **(vi) Math Week**
 
 This will be a yearly event that kicked off in 2019. Students of all levels participate in activities specially designed for their respective levels by the math department.  These activities range from classroom activities to recess booths. They are given many opportunities to try out some hands-on activities and online games to integrate what they have learnt in their lessons to real life experiences.  Math representatives are given opportunity to show their leadership skills as they take charge of the execution of the games during recess and assist teachers with the resources and showcasing of students’ work in class.
-
-| ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/Picture19.jpg) | ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/Picture20.jpg) |
-|---|---|
+ 
+![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/pic7.png)
 
 #### MATH CURRICULUM CUSTOMISATION
 -----------------------------
@@ -125,9 +110,7 @@ Learning gaps that are aligned to learning outcomes (what we want the students t
 
 The Learning Support for Mathematics (LSM) Programme is designed for students who need extra support in acquiring basic numeracy skills when they enter Primary 1. This support is given for 2 years. The class size is small and hence students received more individual attention from the teacher. The focus in LSM is on building good mathematical understanding and aims to build students’ confidence and positive beliefs about their ability to do Math. The students learn through varied activities such as role-playing, the use of manipulatives, visual drills and the playing of Mathematical games. They also receive help in the specific areas that they are weak in. Review tests are conducted at the end of each chapter and this is a form of feedback for parents, teachers and the students.
 
-| ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/Picture21.jpg) | ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/Picture22.jpg) |
-|---|---|
-
+![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/pic8.png)
 #### ASSESSMENTS
 -----------
 
@@ -137,19 +120,16 @@ Assessment is an integral part of the teaching and learning process. A balanced 
 
 The performance tasks assess students’ understanding and application of mathematical concepts in a non-threatening environment. Students either work individually, in pairs or groups to perform the tasks. Marks and rubrics are used to assess students’ performance in the task.
 
-| ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/Picture23.jpg) | ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/Picture24.jpg) |
-|---|---|
+![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/pic9.png)
 
 **2) Bite-sized Assessments**
 
 This comes in the form of Topical test and Mini Test to test mastery and application of skills and concepts. Qualitative feedback is also given to the students and parents to highlight areas where students have done well, and also ways to improve students’ learning. A Math checklist (selected topics) from P1 to P5 is used by teachers to evaluate learning and then to narrow gaps after assessing the students. Students and their parents are given feedback about their progress.
 
-| ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/Picture25.jpg) | ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/Picture26.jpg) |
-|---|---|
+![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/pic10.png)
 
 **3) Journal Writing**
 
 It reinforces the learning and provides students with opportunities to engage in reflection, question their own understanding, connect the abstract and the concrete, and apply the knowledge they have acquired to solve problems. Teachers make use of questions to enhance students’ ability to justify their solutions.
 
-| ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/Picture27.jpg) | ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/Picture28.jpg) |
-|---|---|
+![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mathematics/pic11.png)
