@@ -2,6 +2,7 @@ collections:
   rv-curriculum:
     output: true
     order:
+      - Curriculum and Instruction/Aesthetics Department.md
       - Curriculum and Instruction/Physical Education.md
       - Curriculum and Instruction/English.md
       - Curriculum and Instruction/Mother Tongue.md
