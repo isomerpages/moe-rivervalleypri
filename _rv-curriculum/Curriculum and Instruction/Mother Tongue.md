@@ -18,8 +18,7 @@ The MTL curriculum is structured in a thematic style that facilitates the explor
 
 Recognising that our students come from homes with highly varied language backgrounds, our MTL classes focus on engaging and interactive pedagogy that is facilitated by customisation and varied means of assessment to cater to the different needs of students.  Programmes are designed to target their learning needs as well as enrich their awareness of and appreciation for culture.
 
-| ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mother%20Tongue/After%20additional%20content_2.jpg) | ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mother%20Tongue/After%20additional%20content_21.jpg) |
-|---|---|
+![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mother%20Tongue/pic1.png)
 
 ### Programmes for Chinese Language
 -------------------------------
@@ -32,8 +31,7 @@ Recognising that our students come from homes with highly varied language backgr
 
 Talent Development Programme (TDP) is designed for selected Primary 4 and Primary 5 higher ability students who have consistently shown high levels of proficiency in the Chinese Language. The programme aims at heightening students’ interest in the Chinese Language as well as to provide an out-of-classroom context for greater effectiveness in communicating in the language. Through TDP, students will learn the basic skills in news reporting and broadcasting, thereby enhancing their proficiency in the Chinese Language, oral presentation skills and inter-personal communication skills. Students will be also be trained in basic techniques of filming and news editing.
 
-| ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mother%20Tongue/Slide1.jpg) | ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mother%20Tongue/Slide2.jpg) |
-|---|---|
+![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mother%20Tongue/pic2.png)
 
 ##### Primary 3 Primary 4 HCL Mother Tongue Enrichment Programme
 
@@ -45,9 +43,7 @@ The Primary 3 and Primary 4 Higher Chinese Language Enrichment programme aims to
 
 Our annual China Cultural Immersion Programme is conducted at the end of Term 2 every year. The objective of this immersion programme is to deepen and enrich our students’ knowledge of the Chinese language, history and culture. The programme provides students the opportunity of immersing themselves in the rich history and culture of China through exchange programme in a local primary school in China and visits to national monuments and historical sites.
 
-![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mother%20Tongue/7pic.jpg)
-
-![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mother%20Tongue/8pic.jpg)
+![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mother%20Tongue/pic3.png)
 
 ##### Guided Reading Programme @ RV
 
@@ -73,8 +69,7 @@ Fun with Chinese Stories @ RV is conducted during the school holidays for the Pr
 
 The Cultural Workshops are conducted during the school holidays for Primary 3 and Primary 4 students. These cultural workshops aims to provide a wide range of interesting hands-on MTL activities to deepen students’ interest in the cultural aspects of the language.
 
-| ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mother%20Tongue/CL1.jpg) | ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mother%20Tongue/CL2.jpg) |
-|---|---|
+![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mother%20Tongue/pic4.png)
 
 ##### Parents’ Workshops
 
@@ -103,6 +98,4 @@ The Mother Tongue Modular programme provides a platform for the Primary 1 studen
 * Mid-Autumn Festival Celebration
 * P2 & P4 Cultural Performance Theatre Experience
 
-| ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mother%20Tongue/CL3.jpg) | ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mother%20Tongue/CL4.jpg) |
-|---|---|
-| ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mother%20Tongue/CL5.jpg) | ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mother%20Tongue/CL6.jpg) |
+![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Mother%20Tongue/pic5.png)
