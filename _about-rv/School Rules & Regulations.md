@@ -106,7 +106,6 @@ This contract can be downloaded here.
 
 #### [RVPS Smart Communication Devices Contract](https://go.gov.sg/rvps-scdc2020)
 
-####   
 
 However, the students would be bound by the following rules on its usage;
 
