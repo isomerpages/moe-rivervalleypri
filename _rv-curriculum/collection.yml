@@ -2,14 +2,14 @@ collections:
   rv-curriculum:
     output: true
     order:
-      - Curriculum and Instruction/Aesthetics Department.md
-      - Curriculum and Instruction/Physical Education.md
+      - Curriculum and Instruction/.keep
       - Curriculum and Instruction/English.md
       - Curriculum and Instruction/Mother Tongue.md
       - Curriculum and Instruction/Mathematics.md
       - Curriculum and Instruction/Science.md
+      - Curriculum and Instruction/Physical Education.md
+      - Curriculum and Instruction/Aesthetics Department.md
       - Curriculum and Instruction/InfoComm Technology.md
-      - Curriculum and Instruction/.keep
       - CCE/Student Well Being.md
       - CCE/Student Leadership (Masses).md
       - CCE/Student Leadership (Councillors).md
