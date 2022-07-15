@@ -53,3 +53,7 @@ We have a total of 17 CCAs for students to choose from. These CCAs fall under *
 | Brownies (Girls only) 	| Ms Bernadette Kor 	| bernadette_kor_hong_yin@schools.gov.sg 	|
 | Red Cross Society of Singapore 	| Ms Lin Chuqing 	| lin_chuqing@schools.gov.sg 	|
 | Scouts (Boys only) 	| Ms Roshane 	| Roshane_Rajandran@schools.gov.sg 	|
+
+All our Primary 3 to Primary 6 students are involved in a CCA and they are strongly encouraged to stay and excel in the CCA for the four years. At the end of Primary 6, students will be given a CCA Certificate to mark their graduation.
+
+Please visit the respective CCA pages for more information on the CCAs offered in RVPS and their activities.
