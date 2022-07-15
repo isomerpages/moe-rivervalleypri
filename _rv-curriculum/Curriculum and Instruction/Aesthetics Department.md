@@ -34,3 +34,21 @@ The school adopts the E3 approach, so as to ensure that our arts programme provi
 ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/PE,%20Arts%20and%20Music/Aesthetics%20department/pic1.jpg)
 ![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/PE,%20Arts%20and%20Music/Aesthetics%20department/pic2.jpg)
 
+![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/PE,%20Arts%20and%20Music/Aesthetics%20department/photo_6235498026902859834_w.png)
+
+### Our Music Lesson
+----------------
+
+![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/PE,%20Arts%20and%20Music/Aesthetics%20department/Music2021.jpg)
+
+### Signature Programme
+-------------------
+
+**The** **aRtsVenture week** is a signature programme where RVians develop a passion for learning and appreciation of the arts by expressing themselves through various art and music making activities.
+
+Some key highlights include:
+
+*   Recess Booths and Performances
+*   Assembly Programmes
+
+![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/PE,%20Arts%20and%20Music/Aesthetics%20department/Art1.jpg)
