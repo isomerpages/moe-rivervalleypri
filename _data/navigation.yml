@@ -1,7 +1,7 @@
 logo: /images/Homepage/schoollogo.png
 links:
   - title: About RV
-    url: /About-RV
+    url: /about-rv/About-RV
     sublinks:
       - title: School Crest
         url: /permalink
