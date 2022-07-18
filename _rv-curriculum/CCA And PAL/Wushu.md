@@ -36,7 +36,7 @@ In 2019, RVPS Wushu received an accolade at the _National School Games Wushu Co
 
 <figure>
 
-<img src="/images/RV%20Curriculum/CCA%20and%20PAL/Wushu/q1.jpg">
+<img style="width:60%;height:50%" src="/images/RV%20Curriculum/CCA%20and%20PAL/Wushu/q1.jpg">
 
 <figcaption> <strong> AATAVIUS KADEN NG receiving the trophy at the competition venue</strong> </figcaption>
 
@@ -64,10 +64,3 @@ Our main objective is to increase sporting and performance opportunities for the
 
 ![](/images/RV%20Curriculum/CCA%20and%20PAL/Wushu/q3.jpg)
 RVPS Wushu will continue to nurture its members to be **_Inspiring Learners, Edifying Leaders_** so as to become useful members of society and spread the martial spirit of Wushu.
-
-
-
-
-
-
-
