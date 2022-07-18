@@ -14,4 +14,4 @@ description: ""
 | Dental Clinic Opening Days 	| 6732 1345 Tuesday, Wednesday, Friday 	|
 | Fax 	| 6732 1951 	|
 | Student Learning Space (SLS) & Student ICON Password Reset  	|  [Password Reset Request Form](https://form.gov.sg/5da6a91857a4920012781a00) 	|
-| Parents Gateway 	| Parents Gateway 	|
+| Parents Gateway 	| [Parents Gateway](/rv-partners/Parents-Gateway)	|
