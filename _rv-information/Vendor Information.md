@@ -21,8 +21,6 @@ Closed on Saturday, Sunday and Public Holidays.
 #### School Uniform/PE Attire - Bibi & Baba Pte Ltd
 ----------------------------------------------
 
-####   
-
 **Address of Retail Outlet:**
 
 545 Orchard Road, #02-28 Far East Shopping Centre, S(238882)
