@@ -58,7 +58,7 @@ links:
       - title: Student Learning Space
         url: /rv-information/Student-Learning-Space
   - title: RV Student
-    url: /permalink
+    url: /rv-student/RV-Student
     sublinks:
       - title: Student Learning Space (SLS)
         url: https://vle.learning.moe.edu.sg/login
