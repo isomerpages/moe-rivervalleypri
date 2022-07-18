@@ -42,7 +42,7 @@ We have a total of 17 CCAs for students to choose from. These CCAs fall under *
 | ports & Games 	|  	|  	|
 | |
 | Badminton (Boys only) 	| Ms Tay Ruiqi 	| [tay_ruiqi@schools.gov.sg ](tay_ruiqi@schools.gov.sg )	|
-| Basketball (Boys only) 	| Mr Aylwin Tan 	| [tan_g-sern_aylwin@schools.gov.sg](tan_g-sern_aylwin@schools.gov.sg)(sern_aylwin@schools.gov.sg)|
+| Basketball (Boys only) 	| Mr Aylwin Tan 	| [tan_g-sern_aylwin@schools.gov.sg](tan_g-sern_aylwin@schools.gov.sg)|
 | Floorball (Boys only) 	| Mdm Amirah 	| [nur_amirah_abu_hasan@schools.gov.sg](nur_amirah_abu_hasan@schools.gov.sg)|
 | Football (Boys only) 	| Ms Nadia 	| [nadia_erlyna_fauzilan@schools.gov.sg](nadia_erlyna_fauzilan@schools.gov.sg) 	|
 | Netball (Girls only) 	| Mdm Cecilia Huang 	| [Oh_Seow_Huey_Cecilia@schools.gov.sg](Oh_Seow_Huey_Cecilia@schools.gov.sg) 	|
