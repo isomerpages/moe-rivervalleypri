@@ -2,4 +2,5 @@ collections:
   homepage:
     output: true
     order:
+      - MOE Sexuality Education in Schools.md
       - Registration for Parent Volunteer Scheme.md
