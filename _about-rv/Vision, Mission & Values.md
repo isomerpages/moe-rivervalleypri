@@ -57,11 +57,7 @@ Enhancing Administration
   
 
 ### Vision, Mission and Values Explained
-------------------------------------
-
-  
-
----
+----------
 
 ### Philosophy
 ----------
