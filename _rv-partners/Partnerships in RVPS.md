@@ -7,7 +7,7 @@ At RVPS, we endeavour to develop and promote strong school-home-community partne
 
 To guide us in these efforts, RVPS has adopted the following Partnership Framework espoused by MOE.
 
-![](/images/RV%20Partners/Picture1.jpg)
+<img style="width:50%;height:50%" src="/images/RV%20Partners/Picture1.jpg">
 
 Undergirding the partnership framework is a common shared goal to create an environment that best support our students’ learning and development, premised on Trust, Respect and Understanding.
 
