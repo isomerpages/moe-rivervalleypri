@@ -11,9 +11,8 @@ sections:
       key_highlights:
         - title: Announcements
           description: "Parent Volunteer Scheme "
-          url: ""
+          url: /homepage/Registration-for-Parent-Volunteer-Scheme
         - title: News
           description: MOE Sexuality Ed in Schools
           url: ""
 ---
-
