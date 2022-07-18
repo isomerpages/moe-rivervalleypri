@@ -1,4 +1,5 @@
 collections:
   rv-student:
     output: true
-    order: []
+    order:
+      - Enewsletter.md
