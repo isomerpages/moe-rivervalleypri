@@ -5,5 +5,5 @@ description: ""
 ---
 | Our Staff 	|  	|  	|
 |:---:	|:---:	|:---:	|
-| Principal 	| Vice-Principals 	| Key Personnel 	|
+| [Principal](/rv-family/Principal) 	| Vice-Principals 	| Key Personnel 	|
 | Teaching Staff 	| Administration & Support Staff 	|  	|
