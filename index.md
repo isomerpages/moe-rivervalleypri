@@ -2,7 +2,7 @@
 layout: homepage
 title: River Valley Primary School
 description: An Isomer site of the Singapore Government
-image: /images/isomer-logo.svg
+image: /images/2023 Images/RVPS Logo.png
 permalink: /
 notification: ""
 sections:
@@ -13,3 +13,4 @@ sections:
           description: "Parent Volunteer Scheme "
           url: /homepage/Registration-for-Parent-Volunteer-Scheme
 ---
+
