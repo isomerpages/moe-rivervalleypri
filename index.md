@@ -12,7 +12,4 @@ sections:
         - title: Announcements
           description: "Parent Volunteer Scheme "
           url: /homepage/Registration-for-Parent-Volunteer-Scheme
-        - title: MOE Sexuality Education in Schools
-          description: Click here for more info
-          url: ""
 ---
