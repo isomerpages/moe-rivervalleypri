@@ -1,6 +1,6 @@
 ---
 title: Key Personnel
-permalink: /rv-family/Key-Personnel
+permalink: /rv-family/Key-Personnel/
 description: ""
 ---
 |  Head of Department |   |   |
