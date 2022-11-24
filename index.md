@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/Homepage.gif
+      background: /images/2023 Images/RVPS SD2023.jpg
       key_highlights:
         - title: Announcements
           description: "Parent Volunteer Scheme "
@@ -16,4 +16,3 @@ sections:
           description: Click here for more info
           url: ""
 ---
-
