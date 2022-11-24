@@ -16,13 +16,8 @@ locations:
     title: Main Office
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
+      - phone: +65 6737 1785
+      - email: rpvs@moe.edu.sg
+      - other: Student Password Reset <i>https://go.gov.sg/rvps-sls-reset-request</i>
     title: General Enquiries & Feedback
-  - content:
-      - phone: ""
-      - email: careers@abc.gov.sg
-      - other: ""
-    title: Careers
 ---
