@@ -1,6 +1,6 @@
 ---
 title: Vendor Information
-permalink: /rv-information/Vendor-Information
+permalink: /rv-information/Vendor-Information/
 description: ""
 ---
 #### School Bookshop - Pacific Bookstore Pte Ltd
@@ -35,15 +35,9 @@ Monday - Saturday: 10.00am - 7.00pm
 
 Sunday: 10.00am - 6.00pm
 
-#### School Bus - Rui Feng Chartered Pte Ltd
+#### School Bus - Elite Transport Pte Ltd
 ---------------------------------------
 
-  
-
-44 Sungei Kadut Street 1,  Singapore 729349
-
-Tel: 6467 0956
-
-Email:  [ruifengschoolbus\_rvps@outlook.com](mailto:ruifengschoolbus_rvps@outlook.com)
-
-School Bus Coordinator (Ms Joanne): 8685 9995
+Tel: 6479 7597<br>
+Email:  [rvps.schoolbus@gmail.com](mailto:rvps.schoolbus@gmail.com)<br>
+School Bus Coordinator: 9277 4567
