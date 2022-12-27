@@ -1,6 +1,6 @@
 ---
 title: Parent Engagement Programme
-permalink: /rv-partners/Parent-Engagement-Programme
+permalink: /rv-partners/Parent-Engagement-Programme/
 description: ""
 ---
 At RV, we believe in fostering strong partnership with our parents to better support the learning and development of our children. As such we have a dedicated **Parents Engagement Programme (aka PEP@RVPS)** with clear defined structures/platforms to guide us in nurturing the partnership. 

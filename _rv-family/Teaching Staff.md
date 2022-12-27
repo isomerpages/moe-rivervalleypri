@@ -1,6 +1,6 @@
 ---
 title: Teaching Staff
-permalink: /rv-family/Teaching-Staff
+permalink: /rv-family/Teaching-Staff/
 description: ""
 ---
 #### Primary 1

@@ -1,6 +1,6 @@
 ---
 title: School Curriculum Hours
-permalink: /rv-information/School-Curriculum-Hours
+permalink: /rv-information/School-Curriculum-Hours/
 description: ""
 ---
 | Levels 	| Days 	| School Hours 	| Recess Break 	| Snack Break 	| Lunch Break 	|

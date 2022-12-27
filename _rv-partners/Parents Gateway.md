@@ -1,6 +1,6 @@
 ---
 title: Parents Gateway
-permalink: /rv-partners/Parents-Gateway
+permalink: /rv-partners/Parents-Gateway/
 description: ""
 ---
 Dear Parents of River Valley Primary School,  

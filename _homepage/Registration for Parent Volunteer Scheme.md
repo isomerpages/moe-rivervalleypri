@@ -1,6 +1,6 @@
 ---
 title: Registration for Parent Volunteer Scheme
-permalink: /homepage/Registration-for-Parent-Volunteer-Scheme
+permalink: /homepage/Registration-for-Parent-Volunteer-Scheme/
 description: ""
 ---
 **The registration for Parent Volunteer Scheme for Singapore Citizens / Singapore PR child born in 2017 is closed.**
