@@ -49,8 +49,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://moe-rivervalleypri-staging.netlify.app
-prod: https://moe-rivervalleypri-prod.netlify.app
+staging: https://staging.d3t9x4uwhq1as2.amplifyapp.com
+prod: https://master.d3t9x4uwhq1as2.amplifyapp.com
 shareicon: /images/2023 Images/RVPS Logo.png
 is_government: false
 facebook-pixel: ""
