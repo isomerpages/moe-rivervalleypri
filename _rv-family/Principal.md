@@ -3,20 +3,25 @@ title: Principal
 permalink: /rv-family/Principal/
 description: ""
 ---
-Dear Parents, 
+It is a great honour to be posted to River Valley Primary School (RVPS) as the 7th Principal of the school – a school that believes in developing students as passionate life-long learners and becoming confident leaders who are anchored in values.  I appreciate the hard work that the former Principals as well as the teachers (past and present) have done in shaping RVPS to become what it is today.
 
-Our students are growing up in exciting times. Their future will be filled with tremendous opportunities and changes that we possibly cannot foresee today. The purpose of our schools is to equip our young with knowledge, skills and character values that will enable them to stay relevant, excel and to take Singapore forward in her future. 
+In RVPS, we believe that education is more than just doing well in examinations. It is also about character building and values inculcation.  We strongly believe in nurturing creativity and curiosity in our students.  In addition, we strive to empower them to be critical thinkers who are able to make sound decisions.
 
-As an educator, I play a key role in safeguarding our nation’s future, the social fabric and our identity. Our school system is entrusted with the important task of growing citizens with strong civic-mindedness and love for the country. Besides building a strong foundation in literacy and numeracy, the other aims of our education system include enabling our students to understand the world around them and discover their personal talents so that they can lead fulfilling lives as individuals and active, compassionate citizens. This pursuit is just as important as their other academic pursuits. As Singapore continues to prosper, it is important that our students remain grounded in their values, be able to work in teams, be willing to step out of their comfort zones to contribute and make a difference in Singapore. 
+Personally, I believe that every child is important and given the right environment and support, he/she will be developed to the best of his/her potential.   Schools are part of the society.  Therefore, partnership with parents and the community is important in the education of our students. Together, we will provide our students with a unique and meaningful learning experience that nurtures each and every one of them to be individuals of good character, anchored in sound moral values, equipped with the 21st century skills and knowledge for higher learning. 
 
-In RVPS, we will continue to channel our energies towards nurturing our children to be future-ready 21st century citizens, who not only possess the relevant skills and competencies to compete with the best in the world, but are also imbued with the right values and hearts that put others’ needs before one’s own. 
+Quoting Mahatma Gandhi,
 
-As a parent of two children, I believe that family plays an important role in our students’ education. Beyond home, our students spend most of their time in school. It is important that parents and schools establish and maintain honest and open communication lines geared towards the best possible education for our children. 
+Your beliefs become your thoughts,  
+Your thoughts become your words,  
+Your words become your actions,  
+Your actions become your habits,  
+Your habits become your values,  
+Your values become your destiny.
 
-In RVPS, we will work closely with our parents to establish effective and robust home-school collaborations to create conducive learning environments at home and in school. We also look forward to partnering you to build strong foundations and cultivate essential skills that would help your child to excel not only academically but also in life. Let us work together to prepare every RVian for the test of life, not just a life of tests. RVPS wishes all RVians joy and excitement in this life-long journey of learning.. 
+Our school vision, Inspiring Learners, Edifying Leaders, hinges on our school belief that every child is well-anchored in the right values and skills.  The school mission, vision and values serve as the lighthouse that guides us in nurturing the life-long learner and leader in our students – with passion and strength of character through our distinctive programmes.  I am confident that the parents will continue to journey with my team of dedicated and caring staff to provide our students an enriching schooling experience, inculcate the values and develop the social-emotional competencies in our students.
 
-Strive For the Best! 
+I am thankful to the previous principals for laying a strong foundation in the school, allowing me the opportunity to delve deeper into the curriculum and develop depth in the teaching and learning processes.  Moving forward, the school hopes to create new platforms for our students to care, share, learn and motivate one another to greater heights.
 
-**Mdm Wong Li Peng**
-**Principal**
-[wong_li_peng@schools.gov.sg](mailto:wong_li_peng@schools.gov.sg)
+**Mrs Jennifer Pang** <br>
+**Principal**<br>
+[pang_chee_chyn@schools.gov.sg](mailto:wong_li_peng@schools.gov.sg)
