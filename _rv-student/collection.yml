@@ -1,0 +1,6 @@
+collections:
+  rv-student:
+    output: true
+    order:
+      - RV Student.md
+      - Enewsletter.md

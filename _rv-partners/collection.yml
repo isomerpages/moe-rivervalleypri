@@ -1,0 +1,9 @@
+collections:
+  rv-partners:
+    output: true
+    order:
+      - Partnerships in RVPS.md
+      - School Advisory Committee (SAC).md
+      - Parent Engagement Programme.md
+      - Community Partnerships Programme.md
+      - Parents Gateway.md

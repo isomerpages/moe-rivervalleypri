@@ -1,0 +1,9 @@
+collections:
+  rv-information:
+    output: true
+    order:
+      - RV Information.md
+      - School Curriculum Hours.md
+      - Directions to School.md
+      - Vendor Information.md
+      - Student Learning Space.md
