@@ -19,7 +19,7 @@ description: ""
 | Mother Tounge Languages | Ms Loh Si Jie  | loh_si_jie@schools.gov.sg  |
 | Science | Ms Chen Weixuan | chen_weixuan@schools.gov.sg  |
 | Aesthetics  | Mrs Priscilla Yip | goh_shu_yi_priscilla@schools.gov.sg  |
-| Co-Curricular Activities | Ms Joyce Ng | ng_sok_kian_joyce@schools.gov.sg  ||   |   |   |
+| Co-Curricular Activities | Ms Joyce Ng | ng_sok_kian_joyce@schools.gov.sg  |
 |   |   |   |
 
 | Year Head  |   |   |
@@ -27,3 +27,4 @@ description: ""
 | Primary 3 & Primary 5 | Ms Reginia Loh  | loh_sook_yee_reginia@schools.gov.sg  |
 | Primary 2 & Primary 6 | Mdm Lena Lim  | lena_lim@schools.gov.sg  |
 | Primary 1 & Primary 4 | Mdm Janaki | janaki_retanam@schools.gov.sg  |
+|   |   |   |
