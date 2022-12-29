@@ -47,10 +47,10 @@ We have a total of 17 CCAs for students to choose from. These CCAs fall under *
 | **Sports & Games** | Teacher-in-Charge | Email |
 | -------- | -------- | -------- |
 | Badminton (Boys only) 	| Ms Tay Ruiqi 	| [tay_ruiqi@schools.gov.sg ](tay_ruiqi@schools.gov.sg )	|
-| Basketball (Boys only) 	| Mr  Mufsin 	| [abdul_mufsin@schools.gov.sg](abdul_mufsin@schools.gov.sg)|
+| Basketball (Boys only) 	| Mr Mufsin 	| [abdul_mufsin@schools.gov.sg](abdul_mufsin@schools.gov.sg)|
 | Floorball (Boys only) 	| Mdm Amirah 	| [nur_amirah_abu_hasan@schools.gov.sg](nur_amirah_abu_hasan@schools.gov.sg)|
 | Football (Boys only) 	| Ms Nadia 	| [nadia_erlyna_fauzilan@schools.gov.sg](nadia_erlyna_fauzilan@schools.gov.sg) 	|
-| Netball (Girls only) 	| Ms Teo Hui Xin 	| [teo_hui_xin@schools.gov.sg](teo_hui_xin@schools.gov.sg) 	|
+| Netball (Girls only) 	| Mdm Teo Hui Xin 	| [teo_hui_xin@schools.gov.sg](teo_hui_xin@schools.gov.sg) 	|
 | Volleyball (Girls only) 	| Mr Lao Li 	| [lao_li@schools.gov.sg](lao_li@schools.gov.sg) 	|
 | Wushu 	| Ms Wang Jia Xin 	| [wang_jiaxin@schools.gov.sg](wang_jiaxin@schools.gov.sg)
 
