@@ -23,5 +23,4 @@ Our school vision, Inspiring Learners, Edifying Leaders, hinges on our school be
 I am thankful to the previous principals for laying a strong foundation in the school, allowing me the opportunity to delve deeper into the curriculum and develop depth in the teaching and learning processes.  Moving forward, the school hopes to create new platforms for our students to care, share, learn and motivate one another to greater heights.
 
 **Mrs Jennifer Pang** <br>
-**Principal**<br>
-[pang_chee_chyn@schools.gov.sg](mailto:wong_li_peng@schools.gov.sg)
+**Principal**<br><a href="mailto:pang_chee_chyn@schools.gov.sg">pang_chee_chyn@schools.gov.sg</a><br>
