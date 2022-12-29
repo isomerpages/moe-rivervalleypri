@@ -3,6 +3,8 @@ title: Directions to School
 permalink: /rv-information/Directions-to-School/
 description: ""
 ---
+[River Valley Primary School, Google Map](https://goo.gl/maps/MC9HhRPRbTCHbiuG9)
+
 **By MRT**: Alight at Great World MRT (TEL) Use Exit 1 head east on River Valley Green <br>
 
 **By Bus:  
