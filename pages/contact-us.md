@@ -6,12 +6,12 @@ agency_name: River Valley Primary School
 locations:
   - address:
       - River Valley Primary School
-      - 2 River Valley Gree
+      - 2 River Valley Green
       - Singapore 237993
     operating_hours:
       - days: Mon - Fri
         time: 8.00 am - 5.00 pm
-        description: Closed on Public Holidays
+        description: Closed on Weekend and Public Holidays
     maps_link: ""
     title: Main Office
 contacts:
