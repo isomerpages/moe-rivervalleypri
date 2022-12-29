@@ -25,7 +25,6 @@ Our Primary 1 and Primary 2 students are enrolled in the **Programme for Active
 
 #### CCA
 ---
-
 We have a total of 17 CCAs for students to choose from. These CCAs fall under **Clubs & Societies, Sports & Games, Performing Arts and Uniformed Groups**. Below is a listing of the CCAs and the Teachers-in-charge.
 
 <br>
@@ -67,6 +66,4 @@ We have a total of 17 CCAs for students to choose from. These CCAs fall under *
 
 <br>
 
-All our Primary 3 to Primary 6 students are involved in a CCA and they are strongly encouraged to stay and excel in the CCA for the four years. At the end of Primary 6, students will be given a CCA Certificate to mark their graduation.
-
-Please visit the respective CCA pages for more information on the CCAs offered in RVPS and their activities.
+All our Primary 3 to Primary 6 students are involved in a CCA and they are strongly encouraged to stay and excel in the CCA for the four years. At the end of Primary 6, students will be given a CCA Certificate to mark their graduation. <br> Please visit the respective CCA pages for more information on the CCAs offered in RVPS and their activities.
