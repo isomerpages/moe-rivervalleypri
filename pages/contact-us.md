@@ -17,7 +17,7 @@ locations:
 contacts:
   - content:
       - phone: +65 6737 1785
-      - email: rpvs@moe.edu.sg
-      - other: Student Password Reset <i>https://go.gov.sg/rvps-sls-reset-request</i>
+      - email: rvps@moe.edu.sg
+      - other: ""
     title: General Enquiries & Feedback
 ---
