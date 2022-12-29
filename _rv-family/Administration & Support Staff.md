@@ -4,24 +4,24 @@ permalink: /rv-family/Administration-Support-Staff/
 description: ""
 ---
 ##### Executive Administration Service (EAS)
-<br>
-Administration Manager <a href="mailto:chen_wanying@schools.gov.sg">Ms Chen Wanying</a><br>
 
-Administrative Executive <a href="mailto:lee_siew_kim@schools.gov.sg">Mdm May Lee</a><br>
+**Administration Manager** <br><a href="mailto:chen_wanying@schools.gov.sg">Ms Chen Wanying</a><br>
 
-Operation Manager <a href="mailto:chandramohan_arumugam@schools.gov.sg">Mr Mohan</a><br>
+**Administrative Executive** <br><a href="mailto:lee_siew_kim@schools.gov.sg">Mdm May Lee</a><br>
 
-Management Support Officer
-<a href="mailto:ang_aizhen@schools.gov.sg">Ms Ang Ai Zhen </a><br>
+**Operation Manager** <br><a href="mailto:chandramohan_arumugam@schools.gov.sg">Mr Mohan</a><br>
 
-Management Support Officer <a href="mailto:theresa_woo_wai_mun@schools.gov.sg">Ms Theresa Woo Wai Mun</a><br>
+**Management Support Officer**
+<br><a href="mailto:ang_aizhen@schools.gov.sg">Ms Ang Ai Zhen </a><br>
 
-ICT Manager <a href="mailto:muhammad_hasif_mohd_hanifah@moe.edu.sg">Mr Hasif</a><br>
+**Management Support Officer** <br><a href="mailto:theresa_woo_wai_mun@schools.gov.sg">Ms Theresa Woo Wai Mun</a><br>
 
-Operation Support Officer, Mdm Salamah<br>
-Operation Support Officer, Mdm Noraini<br>
-Operation Support Officer, Mdm Bong May Lin<br>
-Operation Support Officer, Mdm Sieng Foong Lian<br>
+**ICT Manager** <br><a href="mailto:muhammad_hasif_mohd_hanifah@moe.edu.sg">Mr Hasif</a><br>
+
+**Operation Support Officer**<br>Mdm Salamah<br>
+**Operation Support Officer**<br>Mdm Noraini<br>
+**Operation Support Officer**<br>Mdm Bong May Lin<br>
+**Operation Support Officer**<br>Mdm Sieng Foong Lian<br>
 
 ##### Allied Educator (LBS & School Counsellor)
 
