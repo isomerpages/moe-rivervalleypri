@@ -2,7 +2,9 @@ collections:
   rv-family:
     output: true
     order:
+      - RV Family.md
       - Principal.md
       - Vice Principals.md
       - Key Personnel.md
+      - Teaching Staff 2022.md
       - Administration & Support Staff.md

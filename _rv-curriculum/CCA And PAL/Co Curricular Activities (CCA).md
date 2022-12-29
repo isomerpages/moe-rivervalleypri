@@ -13,11 +13,11 @@ Similar to the LEAPS Approach used by the secondary schools, we adopt it into de
 Our Primary 1 and Primary 2 students are enrolled in the **Programme for Active Learning (PAL)**. Please click here for more information on our PAL programme. To ensure that every student is involved in a CCA, RVPS has incorporated CCA as part of curriculum time.
 <br>
 
-| Primary 1 &  2 PAL |  | Fridays, 7.30 - 9:30am |
+| Primary 1 &  2 PAL |  | Fridays, 7.30 - 9:00am |
 | -------- | -------- | -------- |
 |  |  |  |
 
-| Primary 3 - 6 CCA |  | Fridays, 7.30 -9:30am |
+| Primary 3 - 6 CCA |  | Fridays, 7.30 -9:00am |
 | -------- | -------- | -------- |
 |  |  |  |
 
@@ -47,10 +47,10 @@ We have a total of 17 CCAs for students to choose from. These CCAs fall under *
 | **Sports & Games** | Teacher-in-Charge | Email |
 | -------- | -------- | -------- |
 | Badminton (Boys only) 	| Ms Tay Ruiqi 	| [tay_ruiqi@schools.gov.sg ](tay_ruiqi@schools.gov.sg )	|
-| Basketball (Boys only) 	| Mr  Mufsin 	| [abdul_mufsin@schools.gov.sg](abdul_mufsin@schools.gov.sg)|
+| Basketball (Boys only) 	| Mr Mufsin 	| [abdul_mufsin@schools.gov.sg](abdul_mufsin@schools.gov.sg)|
 | Floorball (Boys only) 	| Mdm Amirah 	| [nur_amirah_abu_hasan@schools.gov.sg](nur_amirah_abu_hasan@schools.gov.sg)|
 | Football (Boys only) 	| Ms Nadia 	| [nadia_erlyna_fauzilan@schools.gov.sg](nadia_erlyna_fauzilan@schools.gov.sg) 	|
-| Netball (Girls only) 	| Ms Teo Hui Xin 	| [teo_hui_xin@schools.gov.sg](teo_hui_xin@schools.gov.sg) 	|
+| Netball (Girls only) 	| Mdm Teo Hui Xin 	| [teo_hui_xin@schools.gov.sg](teo_hui_xin@schools.gov.sg) 	|
 | Volleyball (Girls only) 	| Mr Lao Li 	| [lao_li@schools.gov.sg](lao_li@schools.gov.sg) 	|
 | Wushu 	| Ms Wang Jia Xin 	| [wang_jiaxin@schools.gov.sg](wang_jiaxin@schools.gov.sg)
 
@@ -58,9 +58,11 @@ We have a total of 17 CCAs for students to choose from. These CCAs fall under *
 
 | **Uniformed Groups** 	| Teacher-in-Charge | Email |
 | -------- | -------- | -------- |
-| Brownies (Girls only) 	| Ms Bernadette Kor 	| [bernadette_kor_hong_yin@schools.gov.sg](bernadette_kor_hong_yin@schools.gov.sg) 	|
+| Brownies (Girls only) 	| Ms Tan Yee Li 	| [tan_yee_li@schools.gov.sg](tan_yee_li@schools.gov.sg) 	|
 | Red Cross Society of Singapore 	| Ms Lin Chuqing 	| [lin_chuqing@schools.gov.sg](lin_chuqing@schools.gov.sg) 	|
 | Scouts (Boys only) 	| Ms Asveeny  	| [asveeny_sanjeevi@schools.gov.sg](asveeny_sanjeevi@schools.gov.sg) 	|
 
 <br>
-All our Primary 3 to Primary 6 students are involved in a CCA and they are strongly encouraged to stay and excel in the CCA for the four years. At the end of Primary 6, students will be given a CCA Certificate to mark their graduation. <br> Please visit the respective CCA pages for more information on the CCAs offered in RVPS and their activities.
+All our Primary 3 to Primary 6 students are involved in a CCA and they are strongly encouraged to stay and excel in the CCA for the four years. At the end of Primary 6, students will be given a CCA Certificate to mark their graduation. 
+
+Please visit the respective CCA pages for more information on the CCAs offered in RVPS and their activities.

@@ -3,10 +3,8 @@ title: Vice Principals
 permalink: /rv-family/Vice-Principals/
 description: ""
 ---
-Mrs Jacqueline Hiew (Academic)
-<br>
-[jacqueline_loh@schools.gov.sg](jacqueline_loh@schools.gov.sg)
- <br>
+<br>Mrs Jacqueline Hiew (Academic)
+<br><a href="mailto:jacqueline_loh@schools.gov.sg">jacqueline_loh@schools.gov.sg</a><br>
+
 Mrs Goh Seok Ghee (Admin)
-<br>
-[wong_seok_ghee@schools.gov.sg](wong_seok_ghee@schools.gov.sg)
+<br><a href="mailto:wong_seok_ghee@schools.gov.sg">wong_seok_ghee@schools.gov.sg</a><br>
