@@ -13,10 +13,13 @@ Similar to the LEAPS Approach used by the secondary schools, we adopt it into de
 Our Primary 1 and Primary 2 students are enrolled in the **Programme for Active Learning (PAL)**. Please click here for more information on our PAL programme. To ensure that every student is involved in a CCA, RVPS has incorporated CCA as part of curriculum time.
 <br>
 
-| Primary 1 & Primary 2 PAL 	| Primary 3 - 6 	|
-|:---:	|:---:	|
-| Fridays, 7.30 - 9:30am 	| Fridays, 7.30 -9:30am 	|
-| * Extra trainings for school team members are held on Monday afternoons, 2:00 - 4:00pm. 	|  	|
+| Primary 1 &  2 PAL |  | Fridays, 7.30 - 9:30am |
+| -------- | -------- | -------- |
+
+| Primary 3 - 6 CCA |  | Fridays, 7.30 -9:30am |
+| -------- | -------- | -------- |
+
+* Extra trainings for school team members are held on Monday afternoons, 2:00 - 4:00pm. <br>
 
 #### CCA
 ---
