@@ -5,7 +5,7 @@ description: ""
 ---
 [River Valley Primary School, Google Map](https://goo.gl/maps/MC9HhRPRbTCHbiuG9)
 
-**By MRT**: Alight at Great World MRT (Thomson East Coast Line)
+**By MRT**: Alight at Great World MRT (Thomson-East Coast Line)
 Use exit 1 Head east on River Valley Green <br>
 
 **By Bus:  
