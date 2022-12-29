@@ -25,9 +25,7 @@ Our Primary 1 and Primary 2 students are enrolled in the **Programme for Active
 
 #### CCA
 ---
-We have a total of 17 CCAs for students to choose from. These CCAs fall under **Clubs & Societies, Sports & Games, Performing Arts and Uniformed Groups**. Below is a listing of the CCAs and the Teachers-in-charge.
-
-<br>
+We have a total of 17 CCAs for students to choose from. These CCAs fall under **Clubs & Societies, Sports & Games, Performing Arts and Uniformed Groups**. Below is a listing of the CCAs and the Teachers-in-charge. <br>
 
 | **Clubs & Societies** | Teacher-in-Charge | Email |
 | -------- | -------- | -------- |
