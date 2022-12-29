@@ -1,6 +1,6 @@
 ---
 title: Partnerships in RVPS
-permalink: /rv-partners/Partnerships-in-RVPS
+permalink: /rv-partners/Partnerships-in-RVPS/
 description: ""
 ---
 At RVPS, we endeavour to develop and promote strong school-home-community partnerships with our key stakeholders, namely; parents, School Advisory Committee members and community partners. Through identifying emerging trends and new demands of the external environment, we (school and partners) will be able to work hand in hand to put in place collaborative and mutually beneficial programmes that enrich our students’ learning.

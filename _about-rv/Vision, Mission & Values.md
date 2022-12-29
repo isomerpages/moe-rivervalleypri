@@ -1,6 +1,6 @@
 ---
 title: Vision, Mission & Values
-permalink: /about-rv/Vision-Mission-Values
+permalink: /about-rv/Vision-Mission-Values/
 description: ""
 ---
 <img style="width:30%;height:50%" src="/images/About%20RV/RVPS%20Logo.png">
