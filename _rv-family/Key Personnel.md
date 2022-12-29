@@ -22,8 +22,6 @@ description: ""
 | Co-Curricular Activities | Ms Joyce Ng | ng_sok_kian_joyce@schools.gov.sg  ||   |   |   |
 |   |   |   |
 
-
-
 | Year Head  |   |   |
 |---|---|---|
 | Primary 3 & Primary 5 | Ms Reginia Loh  | loh_sook_yee_reginia@schools.gov.sg  |
