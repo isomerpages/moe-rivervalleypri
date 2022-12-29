@@ -6,8 +6,8 @@ description: ""
 ##### Executive Administration Service (EAS)
 |  |  |
 |---|---|
-| Administration Manager | [Ms Chen Wanying](chen_wanying@schools.gov.sg) |
-| Administrative Executive | [Mdm May Lee ](lee_siew_kim@schools.gov.sg)|
+| Administration Manager | Ms Chen Wanying (chen_wanying@schools.gov.sg) |
+| Administrative Executive | Mdm May Lee (lee_siew_kim@schools.gov.sg)|
 | Operation Manager | [Mr Mohan](chandramohan_arumugam@schools.gov.sg) |
 | Management Support Officer | [Ms Ang Ai Zhen Jenny](ang_aizhen@schools.gov.sg) |
 | Management Support Officer | [Ms Theresa Woo Wai Mun ](theresa_woo_wai_mun@schools.gov.sg)|
