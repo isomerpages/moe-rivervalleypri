@@ -3,7 +3,6 @@ title: Teaching Staff 2022
 permalink: /rv-family/permalink/
 description: ""
 ---
-
 #### Primary 1
 ---------
 
@@ -77,4 +76,3 @@ description: ""
 |  Friendship |[ Ms Farah ](farah_nadiah_jamil@schools.gov.sg)& [Ms Wang Jiaxin ](wang_jiaxin@schools.gov.sg) |
 |  Graciousness | [Mrs Gladys Chung ](ng_wai_heng_gladys@schools.gov.sg)& [Mrs Priscilla Yip ](goh_shu_yi_priscilla@schools.gov.sg)
 |  Honesty | [ Ms Sim Kay Yin](sim_kay_yin@schools.gov.sg) & [Ms Cindy Chew ](cindy_chew_ai_ping@schools.gov.sg)|
-
