@@ -8,7 +8,7 @@ description: ""
 
 |  |  |
 |---|---|
-| Administration Manager | [Mr Ang Tien Hock](ang_tien_hock@schools.gov.sg) |
+| Administration Manager | [Ms Chen Wanying](chen_wanying@schools.gov.sg) |
 | Administrative Executive | [Mdm May Lee ](lee_siew_kim@schools.gov.sg)|
 | Operation Manager | [Mr Mohan](chandramohan_arumugam@schools.gov.sg) |
 | Management Support Officer | [Ms Ang Ai Zhen Jenny](ang_aizhen@schools.gov.sg) |
@@ -26,4 +26,4 @@ description: ""
 |---|---|
 | Learning & Behavioural Support |  [ Ms Tang Yan Ting Mandy ](tang_yan_ting_mandy@schools.gov.sg)|
 | Learning & Behavioural Support |   [Ms Janice Cheong ](cheong_qian_hua@schools.gov.sg)|
-| School Counsellor  |  [ Ms Samantha Low Shu En](samantha_low_shu_en@schools.gov.sg) |
+| School Counsellor  |  [ Ms Abree Wong](Rvps_Counselling@schools.gov.sg) |
