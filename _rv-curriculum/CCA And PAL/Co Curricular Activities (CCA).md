@@ -65,5 +65,4 @@ We have a total of 17 CCAs for students to choose from. These CCAs fall under *
 | Scouts (Boys only) 	| Ms Asveeny  	| [asveeny_sanjeevi@schools.gov.sg](asveeny_sanjeevi@schools.gov.sg) 	|
 
 <br>
-
 All our Primary 3 to Primary 6 students are involved in a CCA and they are strongly encouraged to stay and excel in the CCA for the four years. At the end of Primary 6, students will be given a CCA Certificate to mark their graduation. <br> Please visit the respective CCA pages for more information on the CCAs offered in RVPS and their activities.
