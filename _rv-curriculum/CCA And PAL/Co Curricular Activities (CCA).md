@@ -58,7 +58,7 @@ We have a total of 17 CCAs for students to choose from. These CCAs fall under *
 
 | **Uniformed Groups** 	| Teacher-in-Charge | Email |
 | -------- | -------- | -------- |
-| Brownies (Girls only) 	| Ms Bernadette Kor 	| [bernadette_kor_hong_yin@schools.gov.sg](bernadette_kor_hong_yin@schools.gov.sg) 	|
+| Brownies (Girls only) 	| Ms Tan Yee Li 	| [tan_yee_li@schools.gov.sg](tan_yee_li@schools.gov.sg) 	|
 | Red Cross Society of Singapore 	| Ms Lin Chuqing 	| [lin_chuqing@schools.gov.sg](lin_chuqing@schools.gov.sg) 	|
 | Scouts (Boys only) 	| Ms Asveeny  	| [asveeny_sanjeevi@schools.gov.sg](asveeny_sanjeevi@schools.gov.sg) 	|
 
