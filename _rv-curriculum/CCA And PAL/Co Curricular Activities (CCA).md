@@ -11,7 +11,6 @@ We believe in the importance of values education through CCA. Our teachers work 
 Similar to the LEAPS Approach used by the secondary schools, we adopt it into development plan for our students to ensure the aspects on **Leadership, Enrichment, Achievement, Participation and Service-Learning are incorporated in our CCA programmes**. <br>
 
 Our Primary 1 and Primary 2 students are enrolled in the **Programme for Active Learning (PAL)**. Please click here for more information on our PAL programme. To ensure that every student is involved in a CCA, RVPS has incorporated CCA as part of curriculum time.
-
 <br>
 
 | Primary 1 & Primary 2 PAL 	| Primary 3 - 6 	|
