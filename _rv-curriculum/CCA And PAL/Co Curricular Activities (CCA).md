@@ -30,7 +30,7 @@ We have a total of 17 CCAs for students to choose from. These CCAs fall under *
 
 | CCA 	| Teacher-in-Charge 	| Email 	|
 |:---:	|:---:	|:---:	|
-|  **Clubs & Societie**s 	|  	|  	|
+|  **Clubs & Societies** 	|  	|  	|
 | Visual Arts Club 	| Mrs Kannan 	| [thilagarani_kannan@schools.gov.sg](thilagarani_kannan@schools.gov.sg )	|
 | Chess (Weiqi) Club 	| Ms Wong Ching Yee 	| [wong_ching_yee@schools.gov.sg ](wong_ching_yee@schools.gov.sg )	|
 | Info-Comm Technology Club 	| Ms Sharon Ho 	| [Ho_Jia_Hui_Sharon@schools.gov.sg ](Ho_Jia_Hui_Sharon@schools.gov.sg )	|
