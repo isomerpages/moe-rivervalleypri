@@ -18,10 +18,11 @@ description: ""
 
 **ICT Manager** <br><a href="mailto:muhammad_hasif_mohd_hanifah@moe.edu.sg">Mr Hasif</a><br>
 
-**Operation Support Officer**<br>Mdm Salamah<br>
-**Operation Support Officer**<br>Mdm Noraini<br>
-**Operation Support Officer**<br>Mdm Bong May Lin<br>
-**Operation Support Officer**<br>Mdm Sieng Foong Lian<br>
+**Operation Support Officer**<br>
+Mdm Salamah<br>
+Mdm Noraini<br>
+Mdm Bong May Lin<br>
+Mdm Sieng Foong Lian<br>
 
 ##### Allied Educator (LBS & School Counsellor)
 
