@@ -28,16 +28,17 @@ Our Primary 1 and Primary 2 students are enrolled in the **Programme for Active
 
 We have a total of 17 CCAs for students to choose from. These CCAs fall under **Clubs & Societies, Sports & Games, Performing Arts and Uniformed Groups**. Below is a listing of the CCAs and the Teachers-in-charge.
 
-| CCA 	| Teacher-in-Charge 	| Email 	|
-|:---:	|:---:	|:---:	|
-|  **Clubs & Societies** 	|  	|  	|
+<br>
+
+| **Clubs & Societies** | Teacher-in-Charge | Email |
+| -------- | -------- | -------- |
 | Visual Arts Club 	| Mrs Kannan 	| [thilagarani_kannan@schools.gov.sg](thilagarani_kannan@schools.gov.sg )	|
 | Chess (Weiqi) Club 	| Ms Wong Ching Yee 	| [wong_ching_yee@schools.gov.sg ](wong_ching_yee@schools.gov.sg )	|
 | Info-Comm Technology Club 	| Ms Sharon Ho 	| [Ho_Jia_Hui_Sharon@schools.gov.sg ](Ho_Jia_Hui_Sharon@schools.gov.sg )
 
 <br>
 
-| **Performing Arts** |  |  |
+| **Performing Arts** | Teacher-in-Charge | Email |
 | -------- | -------- | -------- |
 | Concert Band 	| Ms Chen Chueh Ching 	| [chen_chueh_ching@schools.gov.sg](chen_chueh_ching@schools.gov.sg)	|
 | Choir 	| Ms Karen Chin 	| [karen_chin_kar_wen@schools.gov.sg](karen_chin_kar_wen@schools.gov.sg)	|
@@ -46,7 +47,7 @@ We have a total of 17 CCAs for students to choose from. These CCAs fall under *
 
 <br>
 
-| **Sports & Games** |  |  |
+| **Sports & Games** | Teacher-in-Charge | Email |
 | -------- | -------- | -------- |
 | Badminton (Boys only) 	| Ms Tay Ruiqi 	| [tay_ruiqi@schools.gov.sg ](tay_ruiqi@schools.gov.sg )	|
 | Basketball (Boys only) 	| Mr  Mufsin 	| [abdul_mufsin@schools.gov.sg](abdul_mufsin@schools.gov.sg)|
@@ -58,7 +59,7 @@ We have a total of 17 CCAs for students to choose from. These CCAs fall under *
 
 <br>
 
-| **Uniformed Groups** 	| 	| |
+| **Uniformed Groups** 	| Teacher-in-Charge | Email |
 | -------- | -------- | -------- |
 | Brownies (Girls only) 	| Ms Bernadette Kor 	| [bernadette_kor_hong_yin@schools.gov.sg](bernadette_kor_hong_yin@schools.gov.sg) 	|
 | Red Cross Society of Singapore 	| Ms Lin Chuqing 	| [lin_chuqing@schools.gov.sg](lin_chuqing@schools.gov.sg) 	|
