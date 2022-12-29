@@ -14,6 +14,7 @@ description: ""
 | Student Mangement | Ms Chung Li Koon | chung_Li_Koon@schools.gov.sg
 
 <br>
+<br>
 
 | Level / Subject Head  |   |   |
 |---|---|---|
@@ -22,6 +23,7 @@ description: ""
 | Aesthetics  | Mrs Priscilla Yip | goh_shu_yi_priscilla@schools.gov.sg  |
 | Co-Curricular Activities | Ms Joyce Ng | ng_sok_kian_joyce@schools.gov.sg
 
+<br>
 <br>
 
 | Year Head  |   |   |
