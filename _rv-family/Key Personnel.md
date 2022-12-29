@@ -6,7 +6,7 @@ description: ""
 |  Head of Department |   |   |
 |---|---|---|
 | English     | Ms Vino  | vinothini_rajah@schools.gov.sg |
-| Mathematics | Ms Kathleen Lee | kathleen_lee_mui_hwa@schools.gov.sg |
+| Mother Tounge Languages | Ms Kay Ee Ee | kay_ee_ee@schools.gov.sg |
 | Science | Mr Ng Kok Leong | ng_kok_leong@schools.gov.sg |
 | PE / CCA / Aesthetics | Ms Lynn Teo | teo_mei_ling_lynn@schools.gov.sg |
 | Info-Comm Technology | Ms Cindy Chew | cindy_chew_ai_ping@schools.gov.sg  |
