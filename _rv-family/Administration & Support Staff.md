@@ -4,26 +4,31 @@ permalink: /rv-family/Administration-Support-Staff/
 description: ""
 ---
 ##### Executive Administration Service (EAS)
---------------------------------------
 
-|  |  |
-|---|---|
-| Administration Manager | [Ms Chen Wanying](chen_wanying@schools.gov.sg) |
-| Administrative Executive | [Mdm May Lee ](lee_siew_kim@schools.gov.sg)|
-| Operation Manager | [Mr Mohan](chandramohan_arumugam@schools.gov.sg) |
-| Management Support Officer | [Ms Ang Ai Zhen Jenny](ang_aizhen@schools.gov.sg) |
-| Management Support Officer | [Ms Theresa Woo Wai Mun ](theresa_woo_wai_mun@schools.gov.sg)|
-| ICT Manager | [Mr Hasif](muhammad_hasif_mohd_hanifah@moe.edu.sg) |
-| Operation Support Officer | Mdm Salamah |
-| Operation Support Officer | Mdm Noraini |
-| Operation Support Officer | Mdm Bong May Lin |
-| Operation Support Officer | Mdm Sieng Foong Lian |
+**Administration Manager** <br><a href="mailto:chen_wanying@schools.gov.sg">Ms Chen Wanying</a><br>
+
+**Administrative Executive** <br><a href="mailto:lee_siew_kim@schools.gov.sg">Mdm May Lee</a><br>
+
+**Operation Manager** <br><a href="mailto:chandramohan_arumugam@schools.gov.sg">Mr Mohan</a><br>
+
+**Management Support Officer**
+<br><a href="mailto:ang_aizhen@schools.gov.sg">Ms Ang Ai Zhen </a><br>
+
+**Management Support Officer** <br><a href="mailto:theresa_woo_wai_mun@schools.gov.sg">Ms Theresa Woo Wai Mun</a><br>
+
+**ICT Manager** <br><a href="mailto:muhammad_hasif_mohd_hanifah@moe.edu.sg">Mr Hasif</a><br>
+
+**Operation Support Officer**<br>Mdm Salamah<br>
+**Operation Support Officer**<br>Mdm Noraini<br>
+**Operation Support Officer**<br>Mdm Bong May Lin<br>
+**Operation Support Officer**<br>Mdm Sieng Foong Lian<br>
 
 ##### Allied Educator (LBS & School Counsellor)
------------------------------------------
 
-|  |  |
-|---|---|
-| Learning & Behavioural Support |  [ Ms Tang Yan Ting Mandy ](tang_yan_ting_mandy@schools.gov.sg)|
-| Learning & Behavioural Support |   [Ms Janice Cheong ](cheong_qian_hua@schools.gov.sg)|
-| School Counsellor  |  [ Ms Abree Wong](Rvps_Counselling@schools.gov.sg) |
+**Learning & Behavioural Support**
+<br><a href="mailto:tang_yan_ting_mandy@schools.gov.sg">Ms Tang Yan Ting Mandy</a><br>
+
+**Learning & Behavioural Support** <br><a href="mailto:cheong_qian_hua@schools.gov.sg">Ms Janice Cheong</a><br>
+
+**School Counsellor**<br>
+<a href="mailto:Rvps_Counselling@schools.gov.sg">School Counselling</a><br>
