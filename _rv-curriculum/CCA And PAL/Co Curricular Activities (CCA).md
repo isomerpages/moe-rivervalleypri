@@ -15,9 +15,11 @@ Our Primary 1 and Primary 2 students are enrolled in the **Programme for Active
 
 | Primary 1 &  2 PAL |  | Fridays, 7.30 - 9:30am |
 | -------- | -------- | -------- |
+|  |  |  |
 
 | Primary 3 - 6 CCA |  | Fridays, 7.30 -9:30am |
 | -------- | -------- | -------- |
+|  |  |  |
 
 * Extra trainings for school team members are held on Monday afternoons, 2:00 - 4:00pm. <br>
 
