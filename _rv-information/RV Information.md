@@ -7,7 +7,7 @@ description: ""
 |---	|---	|
 | Postal Address 	| 2 River Valley Green, Singapore 237993 	|
 | School Email 	| [rvps@moe.edu.sg ](rvps@moe.edu.sg )	|
-| General Office Operating Hours 	|  0800 Hrs - 1800 Hrs 	|
+| General Office Operating Hours 	|  0730 Hrs - 1730 Hrs 	|
 | General Office 	| 6737 1785 	|
 | HOD Room 	| 6734 1142 	|
 | Staff Room 	| 6734 2050 / 6235 7190 	|
