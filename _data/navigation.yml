@@ -60,11 +60,11 @@ links:
   - title: RV Student
     url: /rv-student/RV-Student
     sublinks:
+      - title: RV Photo
+        url: https://photos.app.goo.gl/W8NBmTFKVDFmQQEi8
       - title: Student Learning Space (SLS)
         url: https://vle.learning.moe.edu.sg/login
       - title: Student iCON
         url: https://workspace.google.com/dashboard
       - title: RV Library
         url: https://schoolibrary.moe.edu.sg/rivervalleypri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME
-  - title: RV Photo
-    url: https://photos.app.goo.gl/W8NBmTFKVDFmQQEi8
