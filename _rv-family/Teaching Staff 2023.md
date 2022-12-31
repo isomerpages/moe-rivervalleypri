@@ -44,8 +44,6 @@ description: ""
 #### Primary 3
 <br>
 
-
-
 | Class | Form Teachers | Email Address |
 | -------- | -------- | -------- |
 | Confidence   | Ms Sim Kay Yin     | sim_kay_yin@schools.gov.sg      |
@@ -60,6 +58,17 @@ description: ""
 |     | Ms Sofia     |      |
 | Honesty     | Ms Emily Seow    | seow_pei_suan_emily@schools.gov.sg    |
 |    | Ms Sharon Ho    | ho_jia_hui_sharon@schools.gov.sg     |
+
+<br>
+
+#### Primary 4
+<br>
+
+
+
+
+
+
 
 
 
