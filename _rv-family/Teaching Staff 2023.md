@@ -71,12 +71,17 @@ description: ""
 | Diligence    | Ms Asveeny     | asveeny_sanjeevi@schools.gov.sg     |
 | Endurance    | Mdm Wong Ching Yee    | wong_ching_yee@schools.gov.sg     |
 |      | Mr Tyler Ng    | ng_min_yu_tyler@schools.gov.sg     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
+| Friendship    | Ms Sherlyn Ng    | ng_wee_hua@schools.gov.sg      |
+| Graciousness     | Ms Lynn Teo    | teo_mei_ling_lynn@schools.gov.sg     |
+| Honesty    | Ms Tay Ruiqi    | tay_ruiqi@schools.gov.sg     |
+
+<br>
+
+#### Primary 5
+<br>
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
 | Text     | Text     | Text     |
 
 
