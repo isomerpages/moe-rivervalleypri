@@ -46,10 +46,17 @@ description: ""
 
 
 
-| Column 1 | Column 2 | Column 3 |
+| Class | Form Teachers | Email Address |
 | -------- | -------- | -------- |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
+| Confidence   | Ms Sim Kay Yin     | sim_kay_yin@schools.gov.sg      |
+|     | Mr Iskandar     |      |
+| Diligence     | Mdm Lena Lim     | lena_lim@schools.gov.sg     |
+|      | Mr Matthew Chong    | chong_chi_au_matthew@schools.gov.sg     |
+| Endurance | Mr Ng Kok Leong     | ng_kok_leong@schools.gov.sg     |
+|     | Mdm Amirah     | nur_amirah_abu_hasan@schools.gov.sg     |
+| Friendship     | Ms Cindy Chew     | chew_ai_ping@schools.gov.sg     |
+|     | Ms Jocelyn     | jocelyn_chua@schools.gov.sg     |
+| Graciousness  | Text     | Text     |
 | Text     | Text     | Text     |
 | Text     | Text     | Text     |
 | Text     | Text     | Text     |
