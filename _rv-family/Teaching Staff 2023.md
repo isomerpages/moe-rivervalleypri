@@ -102,6 +102,7 @@ description: ""
 
 | Class | Form Teachers | Email Address |
 | -------- | -------- | -------- |
+| Confidence    | Mrs Kannan     | thilagarani_kannan@schools.gov.sg     |
 | Text     | Text     | Text     |
 | Text     | Text     | Text     |
 | Text     | Text     | Text     |
@@ -113,8 +114,6 @@ description: ""
 | Text     | Text     | Text     |
 | Text     | Text     | Text     |
 | Text     | Text     | Text     |
-| Text     | Text     | Text     |
-
 
 
 
