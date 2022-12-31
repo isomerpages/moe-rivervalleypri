@@ -3,7 +3,7 @@ title: Teaching Staff 2023
 permalink: /rv-family/teaching-staff/
 description: ""
 ---
-#### Primary 1
+#### Primary 1 
 <br>
 
 | Class | Form Teachers | Email Address |
@@ -21,6 +21,7 @@ description: ""
 |     | Ms Jasmine Woo     | woo_yee_ping_jasmine@schools.gov.sg    |
 | Kindness    | Ms Joy Ang     | ang_soo_en_joy@schools.gov.sg |
 |      | Mdm Kavitha    | kasinathan_vadivaloo_kavitha@schools.gov.sg     |
+
 #### Primary 2
 <br>
 
@@ -35,6 +36,7 @@ description: ""
 | Honesty    | Ms Chandhini     | chandhini_pandey@schools.gov.sg    |
 | Kindness     | Mdm Ida    | idawatee_ahmad@schools.gov.sg      |
 |    | Mr Wan Jiajun     | wan_jiajun@schools.gov.sg     |
+
 #### Primary 3
 <br>
 
@@ -52,6 +54,7 @@ description: ""
 |     | Ms Sofia     |      |
 | Honesty     | Ms Emily Seow    | seow_pei_suan_emily@schools.gov.sg    |
 |    | Ms Sharon Ho    | ho_jia_hui_sharon@schools.gov.sg     |
+
 #### Primary 4
 <br>
 
@@ -65,6 +68,7 @@ description: ""
 | Friendship    | Ms Sherlyn Ng    | ng_wee_hua@schools.gov.sg      |
 | Graciousness     | Ms Lynn Teo    | teo_mei_ling_lynn@schools.gov.sg     |
 | Honesty    | Ms Tay Ruiqi    | tay_ruiqi@schools.gov.sg     |
+
 #### Primary 5
 <br>
 
@@ -82,6 +86,7 @@ description: ""
 |     | Mdm Rajes    | lakshmanan_rajeswari@schools.gov.sg     |
 | Honesty     | Mr Tan Chia Seng     | tan_chia_seng@schools.gov.sg     |
 |     | Ms Aisyah     | irniaisyah_mohamed_ambri@schools.gov.sg     |
+
 #### Primary 6
 <br>
 
