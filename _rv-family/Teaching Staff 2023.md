@@ -103,17 +103,17 @@ description: ""
 | Class | Form Teachers | Email Address |
 | -------- | -------- | -------- |
 | Confidence    | Mrs Kannan     | thilagarani_kannan@schools.gov.sg     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
+|      | Mdm Huang Xin     | huang_xin@schools.gov.sg     |
+| Diligence     | Ms Tan Jia Ying    | tan_jia_ying_a@schools.gov.sg     |
+|      | Ms Tan Miaw Fen    | tan_miaw_fen@schools.gov.sg     |
+| Endurance    | Ms Vino    | vinothini_rajah@schools.gov.sg     |
+|    | Mdm Teo Huixin     | teo_hui_xin@schools.gov.sg    |
+| Friendship     | Mrs Cecilia Huang    | oh_seow_huey_cecilia@schools.gov.sg     |
+|     | Ms Tan Yee Li    | tan_yee_li@schools.gov.sg    |
+| Graciousness     | Ms Reginia Loh    | loh_sook_yee_reginia@schools.gov.sg      |
+|      | Mr Chopra     | pavanjeev_singh_chopra@schools.gov.sg     |
+| Honesty    | Ms Chung Li Koon    | chung_li_koon@schools.gov.sg     |
+|     | Ms Loh Si Jie   | loh_si_jie@schools.gov.sg    |
 
 
 
