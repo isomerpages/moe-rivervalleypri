@@ -83,7 +83,7 @@ description: ""
 | Class | Form Teachers | Email Address |
 | -------- | -------- | -------- |
 | Confidence     | Mr Mufsin    | abdul_mufsin@schools.gov.sg     |
-| Text     | Text     | Text     |
+| Text     | Ms Chen Chueh Ching    | chen_chueh_ching@schools.gov.sg    |
 | Text     | Text     | Text     |
 | Text     | Text     | Text     |
 | Text     | Text     | Text     |
