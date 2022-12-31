@@ -15,7 +15,6 @@ description: ""
 | Endurance     | Ms Jamie Chin     | chin_mee_yen@schools.gov.sg |
 |      | Mrs Ipiter     | Pappathi_Ipiter@schools.gov.sg    |
 | Friendship     | Mrs Gladys Chung     | ng_wai_heng_gladys@schools.gov.sg     |
-|      | Mdm Chang Te Fang     |      |
 | Gracioiusnses     | Ms Jada Woo     | jada_woo@schools.gov.sg     |
 |     | Ms Wang Jiaxin | wang_jiaxin@schools.gov.sg     |
 | Honesty   | Mdm Shabana    | nurjhana_shabana_musa_bharooch@schools.gov.sg     |
@@ -35,14 +34,20 @@ description: ""
 |      | Mr Lao Li     | lao_li@schools.gov.sg    |
 | Endurance     | Mrs Priscilla Yip     | goh_shu_yi_priscilla@schools.gov.sg     |
 | Friendship    | Ms Lin Chuqing     | lin_chuqing@schools.gov.sg     |
-|     | Ms Roshane    |      |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
+| Graciousness     | Ms Chan Qiuting    | chan_qiuting@schools.gov.sg      |
+| Honesty    | Ms Chandhini     | chandhini_pandey@schools.gov.sg    |
+| Kindness     | Mdm Ida    | idawatee_ahmad@schools.gov.sg      |
+|    | Mr Wan Jiajun     | wan_jiajun@schools.gov.sg     |
+
+<br>
+
+#### Primary 3
+<br>
+
+
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
 | Text     | Text     | Text     |
 
 
