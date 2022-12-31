@@ -28,14 +28,14 @@ description: ""
 #### Primary 2
 <br>
 
-| Column 1 | Column 2 | Column 3 |
+| Class | Form Teachers | Email Address |
 | -------- | -------- | -------- |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
+| Confidence    | Ms Ranjini    | ranjinidevi_thanasegaram@schools.gov.sg   |
+| Diligence     | Mdm Janaki     | janaki_retanam@schools.gov.sg      |
+|      | Mr Lao Li     | lao_li@schools.gov.sg    |
+| Endurance     | Mrs Priscilla Yip     | goh_shu_yi_priscilla@schools.gov.sg     |
+| Friendship    | Ms Lin Chuqing     | lin_chuqing@schools.gov.sg     |
+|     | Ms Roshane    |      |
 | Text     | Text     | Text     |
 | Text     | Text     | Text     |
 | Text     | Text     | Text     |
