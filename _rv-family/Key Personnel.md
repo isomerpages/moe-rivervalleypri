@@ -28,7 +28,8 @@ description: ""
 |---|---|---|
 | Science | Ms Chen Weixuan | chen_weixuan@schools.gov.sg  |
 | Aesthetics  | Mrs Priscilla Yip | goh_shu_yi_priscilla@schools.gov.sg  |
-| Co-Curricular Activities | Ms Joyce Ng | ng_sok_kian_joyce@schools.gov.sg
+| Co-Curricular Activities | Ms Joyce Ng | ng_sok_kian_joyce@schools.gov.sg |
+| Student Management | Mr Mufsin | abdul_mufsin@schools.gov.sg
 
 <br>
 
