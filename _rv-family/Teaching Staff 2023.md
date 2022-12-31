@@ -87,13 +87,13 @@ description: ""
 | Diligence     | Ms Kay Ee Ee     | kay_ee_ee@schools.gov.sg    |
 |      | Mr Aylwin Tan    | tan_g-sern_aylwin@schools.gov.sg     |
 | Endurance     | Ms Evelyn Ng     | ng_geok_neo_evelyn@schools.gov.sg     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
+|     | Ms Faizah     |      |
+| Friendship    | Ms Desirene Teng     | teng_siew_hong@schools.gov.sg      |
+|      | Mdm Wang Hui    |      |
+| Graciousness     | Ms Joyce Ng     | ng_sok_kian_joyce@schools.gov.sg     |
+|     | Mdm Rajes    | lakshmanan_rajeswari@schools.gov.sg     |
+| Honesty     | Mr Tan Chia Seng     | tan_chia_seng@schools.gov.sg     |
+|     | Ms Aisyah     | irniaisyah_mohamed_ambri@schools.gov.sg     |
 
 
 
