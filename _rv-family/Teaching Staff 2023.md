@@ -4,7 +4,7 @@ permalink: /rv-family/teaching-staff/
 description: ""
 ---
 #### Primary 1 
-<br>
+
 
 | Class | Form Teachers | Email Address |
 | -------- | -------- | -------- |
@@ -23,7 +23,7 @@ description: ""
 |      | Mdm Kavitha    | kasinathan_vadivaloo_kavitha@schools.gov.sg     |
 
 #### Primary 2
-<br>
+
 
 | Class | Form Teachers | Email Address |
 | -------- | -------- | -------- |
@@ -38,7 +38,7 @@ description: ""
 |    | Mr Wan Jiajun     | wan_jiajun@schools.gov.sg     |
 
 #### Primary 3
-<br>
+
 
 | Class | Form Teachers | Email Address |
 | -------- | -------- | -------- |
@@ -56,7 +56,7 @@ description: ""
 |    | Ms Sharon Ho    | ho_jia_hui_sharon@schools.gov.sg     |
 
 #### Primary 4
-<br>
+
 
 | Class | Form Teachers | Email Address |
 | -------- | -------- | -------- |
@@ -70,7 +70,7 @@ description: ""
 | Honesty    | Ms Tay Ruiqi    | tay_ruiqi@schools.gov.sg     |
 
 #### Primary 5
-<br>
+
 
 | Class | Form Teachers | Email Address |
 | -------- | -------- | -------- |
@@ -88,7 +88,7 @@ description: ""
 |     | Ms Aisyah     | irniaisyah_mohamed_ambri@schools.gov.sg     |
 
 #### Primary 6
-<br>
+
 
 | Class | Form Teachers | Email Address |
 | -------- | -------- | -------- |
