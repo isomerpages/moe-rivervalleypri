@@ -4,8 +4,6 @@ permalink: /rv-family/teaching-staff/
 description: ""
 ---
 #### Primary 1
-<br>
-
 | Class | Form Teachers | Email Address |
 | -------- | -------- | -------- |
 | Confidence     | Ms Lau Chin Ling     | lau_chin_ling@schools.gov.sg     |
@@ -21,12 +19,7 @@ description: ""
 |     | Ms Jasmine Woo     | woo_yee_ping_jasmine@schools.gov.sg    |
 | Kindness    | Ms Joy Ang     | ang_soo_en_joy@schools.gov.sg |
 |      | Mdm Kavitha    | kasinathan_vadivaloo_kavitha@schools.gov.sg     |
-
-<br>
-
 #### Primary 2
-<br>
-
 | Class | Form Teachers | Email Address |
 | -------- | -------- | -------- |
 | Confidence    | Ms Ranjini    | ranjinidevi_thanasegaram@schools.gov.sg   |
@@ -38,12 +31,7 @@ description: ""
 | Honesty    | Ms Chandhini     | chandhini_pandey@schools.gov.sg    |
 | Kindness     | Mdm Ida    | idawatee_ahmad@schools.gov.sg      |
 |    | Mr Wan Jiajun     | wan_jiajun@schools.gov.sg     |
-
-<br>
-
 #### Primary 3
-<br>
-
 | Class | Form Teachers | Email Address |
 | -------- | -------- | -------- |
 | Confidence   | Ms Sim Kay Yin     | sim_kay_yin@schools.gov.sg      |
@@ -58,12 +46,7 @@ description: ""
 |     | Ms Sofia     |      |
 | Honesty     | Ms Emily Seow    | seow_pei_suan_emily@schools.gov.sg    |
 |    | Ms Sharon Ho    | ho_jia_hui_sharon@schools.gov.sg     |
-
-<br>
-
 #### Primary 4
-<br>
-
 | Class | Form Teachers | Email Address |
 | -------- | -------- | -------- |
 | Confidence     | Ms Lye Fong Ying     | lye_fong_ying@schools.gov.sg    |
@@ -74,12 +57,7 @@ description: ""
 | Friendship    | Ms Sherlyn Ng    | ng_wee_hua@schools.gov.sg      |
 | Graciousness     | Ms Lynn Teo    | teo_mei_ling_lynn@schools.gov.sg     |
 | Honesty    | Ms Tay Ruiqi    | tay_ruiqi@schools.gov.sg     |
-
-<br>
-
 #### Primary 5
-<br>
-
 | Class | Form Teachers | Email Address |
 | -------- | -------- | -------- |
 | Confidence     | Mr Mufsin    | abdul_mufsin@schools.gov.sg     |
@@ -94,12 +72,7 @@ description: ""
 |     | Mdm Rajes    | lakshmanan_rajeswari@schools.gov.sg     |
 | Honesty     | Mr Tan Chia Seng     | tan_chia_seng@schools.gov.sg     |
 |     | Ms Aisyah     | irniaisyah_mohamed_ambri@schools.gov.sg     |
-
-<br>
-
 #### Primary 6
-<br>
-
 | Class | Form Teachers | Email Address |
 | -------- | -------- | -------- |
 | Confidence    | Mrs Kannan     | thilagarani_kannan@schools.gov.sg     |
@@ -114,5 +87,3 @@ description: ""
 |      | Mr Chopra     | pavanjeev_singh_chopra@schools.gov.sg     |
 | Honesty    | Ms Chung Li Koon    | chung_li_koon@schools.gov.sg     |
 |     | Ms Loh Si Jie   | loh_si_jie@schools.gov.sg    |
-
-<br>
