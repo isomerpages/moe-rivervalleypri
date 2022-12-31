@@ -104,6 +104,3 @@ description: ""
 |      | Mr Chopra     | pavanjeev_singh_chopra@schools.gov.sg     |
 | Honesty    | Ms Chung Li Koon    | chung_li_koon@schools.gov.sg     |
 |     | Ms Loh Si Jie   | loh_si_jie@schools.gov.sg    |
-
-
-last change
