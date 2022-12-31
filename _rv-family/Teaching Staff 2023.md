@@ -95,6 +95,26 @@ description: ""
 | Honesty     | Mr Tan Chia Seng     | tan_chia_seng@schools.gov.sg     |
 |     | Ms Aisyah     | irniaisyah_mohamed_ambri@schools.gov.sg     |
 
+<br>
+
+#### Primary 6
+<br>
+
+| Class | Form Teachers | Email Address |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+
 
 
 
