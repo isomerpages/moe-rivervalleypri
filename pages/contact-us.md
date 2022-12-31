@@ -10,7 +10,7 @@ locations:
       - Singapore 237993
     operating_hours:
       - days: Mon - Fri
-        time: 8.00 am - 5.00 pm
+        time: 7.00 am - 5.30 pm
         description: Closed on Weekend and Public Holidays
     maps_link: ""
     title: Main Office

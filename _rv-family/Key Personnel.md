@@ -15,17 +15,27 @@ description: ""
 
 <br>
 
-| Level / Subject Head  |   |   |
-|---|---|---|
-| Mother Tounge Languages | Ms Loh Si Jie  | loh_si_jie@schools.gov.sg  |
-| Science | Ms Chen Weixuan | chen_weixuan@schools.gov.sg  |
-| Aesthetics  | Mrs Priscilla Yip | goh_shu_yi_priscilla@schools.gov.sg  |
-| Co-Curricular Activities | Ms Joyce Ng | ng_sok_kian_joyce@schools.gov.sg
-
-<br>
-
 | Year Head  |   |   |
 |---|---|---|
 | Primary 3 & Primary 5 | Ms Reginia Loh  | loh_sook_yee_reginia@schools.gov.sg  |
 | Primary 2 & Primary 6 | Mdm Lena Lim  | lena_lim@schools.gov.sg  |
 | Primary 1 & Primary 4 | Mdm Janaki | janaki_retanam@schools.gov.sg
+
+
+<br>
+
+| Level / Subject Head  |   |   |
+|---|---|---|
+| Science | Ms Chen Weixuan | chen_weixuan@schools.gov.sg  |
+| Aesthetics  | Mrs Priscilla Yip | goh_shu_yi_priscilla@schools.gov.sg  |
+| Co-Curricular Activities | Mrs Joyce Tan | ng_sok_kian_joyce@schools.gov.sg |
+| Student Management | Mr Mufsin | abdul_mufsin@schools.gov.sg
+
+<br>
+
+| Lead Teacher and Senior Teachers  |   |   |
+|---|---|---|
+| Lead Teacher (PE) | Ms Sherlyn Ng  | ng_wee_hua@schools.gov.sg  |
+| Senior Teacher (EL) | Mrs Gladys Chung  | ng_wai_heng_gladys@schools.gov.sg  |
+| Senior Teacher (EL) | Mrs Kannan | thilagarani_kannan@schools.gov.sg  |
+| Senior Teacher (CL) | Ms Tan Yi Lee | tan_yi_li@schools.gov.sg
