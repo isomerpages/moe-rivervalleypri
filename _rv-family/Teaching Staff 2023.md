@@ -5,6 +5,7 @@ description: ""
 ---
 #### Primary 1
 <br>
+
 | Class | Form Teachers | Email Address |
 | -------- | -------- | -------- |
 | Confidence     | Ms Lau Chin Ling     | lau_chin_ling@schools.gov.sg     |
@@ -22,6 +23,7 @@ description: ""
 |      | Mdm Kavitha    | kasinathan_vadivaloo_kavitha@schools.gov.sg     |
 #### Primary 2
 <br>
+
 | Class | Form Teachers | Email Address |
 | -------- | -------- | -------- |
 | Confidence    | Ms Ranjini    | ranjinidevi_thanasegaram@schools.gov.sg   |
@@ -35,6 +37,7 @@ description: ""
 |    | Mr Wan Jiajun     | wan_jiajun@schools.gov.sg     |
 #### Primary 3
 <br>
+
 | Class | Form Teachers | Email Address |
 | -------- | -------- | -------- |
 | Confidence   | Ms Sim Kay Yin     | sim_kay_yin@schools.gov.sg      |
@@ -51,6 +54,7 @@ description: ""
 |    | Ms Sharon Ho    | ho_jia_hui_sharon@schools.gov.sg     |
 #### Primary 4
 <br>
+
 | Class | Form Teachers | Email Address |
 | -------- | -------- | -------- |
 | Confidence     | Ms Lye Fong Ying     | lye_fong_ying@schools.gov.sg    |
@@ -63,6 +67,7 @@ description: ""
 | Honesty    | Ms Tay Ruiqi    | tay_ruiqi@schools.gov.sg     |
 #### Primary 5
 <br>
+
 | Class | Form Teachers | Email Address |
 | -------- | -------- | -------- |
 | Confidence     | Mr Mufsin    | abdul_mufsin@schools.gov.sg     |
@@ -79,6 +84,7 @@ description: ""
 |     | Ms Aisyah     | irniaisyah_mohamed_ambri@schools.gov.sg     |
 #### Primary 6
 <br>
+
 | Class | Form Teachers | Email Address |
 | -------- | -------- | -------- |
 | Confidence    | Mrs Kannan     | thilagarani_kannan@schools.gov.sg     |
