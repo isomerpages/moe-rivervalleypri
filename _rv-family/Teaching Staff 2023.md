@@ -3,8 +3,6 @@ title: Teaching Staff 2023
 permalink: /rv-family/teaching-staff/
 description: ""
 ---
-
-
 #### Primary 1
 <br>
 
