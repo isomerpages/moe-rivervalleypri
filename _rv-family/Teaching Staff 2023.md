@@ -83,10 +83,10 @@ description: ""
 | Class | Form Teachers | Email Address |
 | -------- | -------- | -------- |
 | Confidence     | Mr Mufsin    | abdul_mufsin@schools.gov.sg     |
-| Text     | Ms Chen Chueh Ching    | chen_chueh_ching@schools.gov.sg    |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
+|     | Ms Chen Chueh Ching    | chen_chueh_ching@schools.gov.sg    |
+| Diligence     | Ms Kay Ee Ee     | kay_ee_ee@schools.gov.sg    |
+|      | Mr Aylwin Tan    | tan_g-sern_aylwin@schools.gov.sg     |
+| Endurance     | Ms Evelyn Ng     | ng_geok_neo_evelyn@schools.gov.sg     |
 | Text     | Text     | Text     |
 | Text     | Text     | Text     |
 | Text     | Text     | Text     |
