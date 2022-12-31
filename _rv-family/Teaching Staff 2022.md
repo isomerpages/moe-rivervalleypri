@@ -10,9 +10,20 @@ description: ""
 
 | Class | Form Teachers | Email Address |
 | -------- | -------- | -------- |
-| Text     | Text     | Text     |
-
-
+| Confidence     | Ms Lau Chin Ling     | lau_chin_ling@schools.gov.sg     |
+|      | Ms Nadia     | nadia_erlyna_fauzilan@schools.gov.sg     |
+| Diligence     | Ms Lee En Yun     | lee_en_yun@schools.gov.sg    |
+|     | Ms Karen Chin     |  karen_chin_kar_wen@schools.gov.sg    |
+| Endurance     | Ms Jamie Chin     | chin_mee_yen@schools.gov.sg |
+|      | Mrs Ipiter     | Pappathi_Ipiter@schools.gov.sg    |
+| Friendship     | Mrs Gladys Chung     | ng_wai_heng_gladys@schools.gov.sg     |
+|      | Mdm Chang Te Fang     |      |
+| Gracioiusnses     | Ms Jada Woo     | jada_woo@schools.gov.sg     |
+|     | Ms Wang Jiaxin | wang_jiaxin@schools.gov.sg     |
+| Honesty   | Mdm Shabana    | nurjhana_shabana_musa_bharooch@schools.gov.sg     |
+|     | Ms Jasmine Woo     | woo_yee_ping_jasmine@schools.gov.sg    |
+| Kindness    | Ms Joy Ang     | ang_soo_en_joy@schools.gov.sg |
+|      | Mdm Kavitha    | kasinathan_vadivaloo_kavitha@schools.gov.sg     |
 
 
 
