@@ -13,16 +13,11 @@ description: ""
 | School Staff Developer | Mrs Ang-Hsueh Ya Wen | hsueh_ya_wen@schools.gov.sg  |
 | Student Mangement | Ms Chung Li Koon | chung_Li_Koon@schools.gov.sg
 
-<br>
-
 | Year Head  |   |   |
 |---|---|---|
 | Primary 3 & Primary 5 | Ms Reginia Loh  | loh_sook_yee_reginia@schools.gov.sg  |
 | Primary 2 & Primary 6 | Mdm Lena Lim  | lena_lim@schools.gov.sg  |
 | Primary 1 & Primary 4 | Mdm Janaki | janaki_retanam@schools.gov.sg
-
-
-<br>
 
 | Level / Subject Head  |   |   |
 |---|---|---|
@@ -30,8 +25,6 @@ description: ""
 | Aesthetics  | Mrs Priscilla Yip | goh_shu_yi_priscilla@schools.gov.sg  |
 | Co-Curricular Activities | Mrs Joyce Tan | ng_sok_kian_joyce@schools.gov.sg |
 | Student Management | Mr Mufsin | abdul_mufsin@schools.gov.sg
-
-<br>
 
 | Lead Teacher and Senior Teachers  |   |   |
 |---|---|---|
