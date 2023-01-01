@@ -11,7 +11,7 @@ description: ""
 | PE / CCA / Aesthetics | Ms Lynn Teo | teo_mei_ling_lynn@schools.gov.sg |
 | Info-Comm Technology | Ms Cindy Chew | cindy_chew_ai_ping@schools.gov.sg  |
 | School Staff Developer | Mrs Ang-Hsueh Ya Wen | hsueh_ya_wen@schools.gov.sg  |
-| Student Mangement | Ms Chung Li Koon | chung_Li_Koon@schools.gov.sg
+| Student Mangement | Ms Chung Li Koon | chung_li_Koon@schools.gov.sg
 
 | Year Head  |   |   |
 |---|---|---|
