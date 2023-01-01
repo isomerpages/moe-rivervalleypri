@@ -13,7 +13,7 @@ description: ""
 | Diligence     | Ms Lee En Yun     | lee_en_yun@schools.gov.sg    |
 |     | Ms Karen Chin     |  karen_chin_kar_wen@schools.gov.sg    |
 | Endurance     | Ms Jamie Chin     | chin_mee_yen@schools.gov.sg |
-|      | Mrs Ipiter     | Pappathi_Ipiter@schools.gov.sg    |
+|      | Mrs Ipiter     | pappathi_Ipiter@schools.gov.sg    |
 | Friendship     | Mrs Gladys Chung     | ng_wai_heng_gladys@schools.gov.sg     |
 | Gracioiusnses     | Ms Jada Woo     | jada_woo@schools.gov.sg     |
 |     | Ms Wang Jiaxin | wang_jiaxin@schools.gov.sg     |
