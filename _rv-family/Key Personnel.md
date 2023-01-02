@@ -31,4 +31,4 @@ description: ""
 | Lead Teacher (PE) | Ms Sherlyn Ng  | ng_wee_hua@schools.gov.sg  |
 | Senior Teacher (EL) | Mrs Gladys Chung  | ng_wai_heng_gladys@schools.gov.sg  |
 | Senior Teacher (EL) | Mrs Kannan | thilagarani_kannan@schools.gov.sg  |
-| Senior Teacher (CL) | Ms Tan Yee Li | tan_yee_li@@schools.gov.sg 
+| Senior Teacher (CL) | Ms Tan Yee Li | tan_yee_li@schools.gov.sg
