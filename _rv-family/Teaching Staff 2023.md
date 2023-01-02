@@ -13,7 +13,7 @@ description: ""
 | Diligence     | Ms Lee En Yun     | lee_en_yun@schools.gov.sg    |
 |     | Ms Karen Chin     |  karen_chin_kar_wen@schools.gov.sg    |
 | Endurance     | Ms Jamie Chin     | chin_mee_yen@schools.gov.sg |
-|      | Mrs Ipiter     | Pappathi_Ipiter@schools.gov.sg    |
+|      | Mrs Ipiter     | pappathi_Ipiter@schools.gov.sg    |
 | Friendship     | Mrs Gladys Chung     | ng_wai_heng_gladys@schools.gov.sg     |
 | Gracioiusnses     | Ms Jada Woo     | jada_woo@schools.gov.sg     |
 |     | Ms Wang Jiaxin | wang_jiaxin@schools.gov.sg     |
@@ -61,7 +61,7 @@ description: ""
 | Class | Form Teachers | Email Address |
 | -------- | -------- | -------- |
 | Confidence     | Ms Lye Fong Ying     | lye_fong_ying@schools.gov.sg    |
-| Text     | Mrs Ang-Hsueh Ya Wen     | hsueh_ya_wen@schools.gov.sg     |
+|      | Mrs Ang-Hsueh Ya Wen     | hsueh_ya_wen@schools.gov.sg     |
 | Diligence    | Ms Asveeny     | asveeny_sanjeevi@schools.gov.sg     |
 | Endurance    | Mdm Wong Ching Yee    | wong_ching_yee@schools.gov.sg     |
 |      | Mr Tyler Ng    | ng_min_yu_tyler@schools.gov.sg     |

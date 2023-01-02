@@ -11,7 +11,7 @@ description: ""
 | PE / CCA / Aesthetics | Ms Lynn Teo | teo_mei_ling_lynn@schools.gov.sg |
 | Info-Comm Technology | Ms Cindy Chew | cindy_chew_ai_ping@schools.gov.sg  |
 | School Staff Developer | Mrs Ang-Hsueh Ya Wen | hsueh_ya_wen@schools.gov.sg  |
-| Student Mangement | Ms Chung Li Koon | chung_Li_Koon@schools.gov.sg
+| Student Mangement | Ms Chung Li Koon | chung_li_koon@schools.gov.sg
 
 | Year Head  |   |   |
 |---|---|---|
@@ -31,4 +31,4 @@ description: ""
 | Lead Teacher (PE) | Ms Sherlyn Ng  | ng_wee_hua@schools.gov.sg  |
 | Senior Teacher (EL) | Mrs Gladys Chung  | ng_wai_heng_gladys@schools.gov.sg  |
 | Senior Teacher (EL) | Mrs Kannan | thilagarani_kannan@schools.gov.sg  |
-| Senior Teacher (CL) | Ms Tan Yee Li | tan_yee_li@@schools.gov.sg
+| Senior Teacher (CL) | Ms Tan Yee Li | tan_yee_li@schools.gov.sg
