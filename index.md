@@ -10,7 +10,9 @@ sections:
       background: /images/2023 Images/RVPS SD2023.jpg
       key_highlights:
         - title: Announcements
-          description: "Parent Volunteer Scheme "
-          url: /homepage/Registration-for-Parent-Volunteer-Scheme
+          description: Parent Volunteer Scheme
+          url: /homepage/Parent-Volunteer-Scheme
+        - title: Announcement
+          description: Waitlist Application Form 2023
+          url: https://go.gov.sg/rvps-application-2023
 ---
-
