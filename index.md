@@ -12,4 +12,7 @@ sections:
         - title: Announcements
           description: Parent Volunteer Scheme
           url: /homepage/Parent-Volunteer-Scheme
+        - title: Announcement
+          description: Waitlist Application Form 2023
+          url: /homepage/Waitlist-Application-Form-2023
 ---
