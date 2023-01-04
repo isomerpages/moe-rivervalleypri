@@ -10,7 +10,6 @@ sections:
       background: /images/2023 Images/RVPS SD2023.jpg
       key_highlights:
         - title: Announcements
-          description: "Parent Volunteer Scheme "
-          url: /homepage/Registration-for-Parent-Volunteer-Scheme
+          description: Parent Volunteer Scheme
+          url: /homepage/Parent-Volunteer-Scheme
 ---
-
