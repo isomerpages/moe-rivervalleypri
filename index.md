@@ -12,7 +12,7 @@ sections:
         - title: Parent Volunteer Scheme
           description: Registration now open
           url: /homepage/Parent-Volunteer-Scheme
-        - title: Announcement
-          description: Waitlist Application Form 2023
+        - title: Waitlist Application Form 2023
+          description: Click here to apply
           url: https://go.gov.sg/rvps-application-2023
 ---
