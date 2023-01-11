@@ -15,9 +15,9 @@ description: ""
 
 | Year Head  |   |   |
 |---|---|---|
-| Primary 3 & Primary 5 | Ms Reginia Loh  | loh_sook_yee_reginia@schools.gov.sg  |
-| Primary 2 & Primary 6 | Mdm Lena Lim  | lena_lim@schools.gov.sg  |
-| Primary 1 & Primary 4 | Mdm Janaki | janaki_retanam@schools.gov.sg
+| Primary 4 & Primary 6 | Ms Reginia Loh  | loh_sook_yee_reginia@schools.gov.sg  |
+| Primary 1 & Primary 3 | Mdm Lena Lim  | lena_lim@schools.gov.sg  |
+| Primary 2 & Primary 5 | Mdm Janaki | janaki_retanam@schools.gov.sg
 
 | Level / Subject Head  |   |   |
 |---|---|---|
