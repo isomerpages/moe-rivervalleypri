@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/2023 Images/RVPS SD2023.jpg
+      background: /images/Homepage/Homepage.gif
       key_highlights:
         - title: Parent Volunteer Scheme
           description: Registration now open
