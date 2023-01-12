@@ -15,7 +15,7 @@ description: ""
 | Endurance     | Ms Jamie Chin     | chin_mee_yen@schools.gov.sg |
 |      | Mrs Ipiter     | pappathi_Ipiter@schools.gov.sg    |
 | Friendship     | Mrs Gladys Chung     | ng_wai_heng_gladys@schools.gov.sg     |
-| Gracioiusnses     | Ms Jada Woo     | jada_woo@schools.gov.sg     |
+| Graciousness     | Ms Jada Woo     | jada_woo@schools.gov.sg     |
 |     | Ms Wang Jiaxin | wang_jiaxin@schools.gov.sg     |
 | Honesty   | Mdm Shabana    | nurjhana_shabana_musa_bharooch@schools.gov.sg     |
 |     | Ms Jasmine Woo     | woo_yee_ping_jasmine@schools.gov.sg    |
