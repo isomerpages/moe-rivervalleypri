@@ -104,7 +104,7 @@ To provide a **conducive and safe** learning environment within the school, we
 
 This contract can be downloaded here.
 
-#### [RVPS Smart Communication Devices Contract](https://go.gov.sg/rvps-scdc2020)
+#### [RVPS Smart Communication Devices Contract](https://form.gov.sg/63c250adf2bd6c00123d4a21)
 
 
 However, the students would be bound by the following rules on its usage;
