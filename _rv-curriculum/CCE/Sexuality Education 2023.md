@@ -6,6 +6,8 @@ third_nav_title: CCE
 ---
 ### <font color="F8B11C"> MOE SEXUALITY EDUCATION IN SCHOOLS </font>
 
+<p align="justify">
+	
 1. Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
 <br>
 2. The **Goals** of Sexuality Education are:<br>
@@ -43,8 +45,3 @@ b.	Character and Citizenship Education (CCE)<br>
 
 ### PRIMARY 5
 
-
-| <p><center>LESSON TITLE / DURATION</p></center> | <p><center>LESSON OVERVIEW</p></center> | <p><center>TIME PERIOD</p></center>  |
-| -------- | -------- | -------- |
-| <p><center>The Changes in Me</p></center> |<p><center>This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty. </p></center> |     | This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.    | Text     |
-| Text     | Text     | Text     |
