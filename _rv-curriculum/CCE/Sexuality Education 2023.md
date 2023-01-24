@@ -15,17 +15,15 @@ third_nav_title: CCE
 (c)	To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of <u>positive mainstream values and attitudes</u> about sexuality. 
 <br>
 
-
 3.	The **Key Messages** of Sexuality Education are:
 (a)	Love and respect yourself as you love and respect others;<br>
 (b)	Build positive relationships based on love and respect (which are the foundation for strong families);<br>
 (c)	Make responsible decisions for yourself, your family and society; and <br>
 (d)	Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones. <br>
 
-**[You may click here for more information on MOE Sexuality Education](https://go.gov.sg/moe-sexuality-education)**
+##### [You may click here for more information on MOE Sexuality Education](https://go.gov.sg/moe-sexuality-education)
 
 
- 
 **OVERVIEW OF RIVER VALLEY PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2023**
 -
 
