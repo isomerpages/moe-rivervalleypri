@@ -21,5 +21,5 @@ description: ""
 
 ###### [You may click here for more information on MOE Sexuality Education](https://go.gov.sg/moe-sexuality-education)
 
-####  [<font color="F8B11C">Click here overview of River Valley Primary School sexuality education programme for 2023 </font>](https://rivervalleypri.moe.edu.sg/rv-curriculum/CCE/Sexuality-Education-2023/)
+####  [<font color="F8B11C">Click here overview of River Valley Primary School sexuality education programme for 2023 </font>](/rv-curriculum/CCE/Sexuality-Education-2023/)
 <br>
