@@ -13,7 +13,7 @@ sections:
           description: Registration now open
           url: /homepage/Parent-Volunteer-Scheme
         - title: "MOE SEXUALITY EDUCATION "
-          description: Click Here to find out more
+          description: Click here to find out more
           url: /homepage/MOE-Sexuality-Education-in-Schools/
         - title: Waitlist Application Form 2023
           description: Click here to apply
