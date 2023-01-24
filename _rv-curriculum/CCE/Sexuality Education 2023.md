@@ -11,14 +11,14 @@ third_nav_title: CCE
 <br>
 
 
-2. The Goals of Sexuality Education are:<br>
-(a)	To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate knowledge on human sexuality and the consequences of sexual activity;<br>
-(b)	To help students know themselves and build healthy and rewarding relationships through the acquisition of social and emotional skills of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and <br>
-(c)	To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of positive mainstream values and attitudes about sexuality. 
+2. The **Goals** of Sexuality Education are:<br>
+(a)	To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate <u>knowledge</u> on human sexuality and the consequences of sexual activity;<br>
+(b)	To help students know themselves and build healthy and rewarding relationships through the acquisition of <u>social and emotional skills</u> of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and <br>
+(c)	To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of <u>positive mainstream values and attitudes</u> about sexuality. 
 <br>
 
 
-3.	The Key Messages of Sexuality Education are:
+3.	The **Key Messages** of Sexuality Education are:
 (a)	Love and respect yourself as you love and respect others;<br>
 (b)	Build positive relationships based on love and respect (which are the foundation for strong families);<br>
 (c)	Make responsible decisions for yourself, your family and society; and <br>
