@@ -44,9 +44,9 @@ b.	Character and Citizenship Education (CCE)<br>
 	
 ### At River Valley Primary School, the following Sexuality Education lessons will be taught in 2023:
 	
-##### <font color="F8B11C"> 2023 SEXUALITY EDUCATION LESSONS IN CCE 2021 </font>
+##### <center><font color="F8B11C"> 2023 SEXUALITY EDUCATION LESSONS IN CCE 2021 </font></center>
 
-#### Primary 5
+#### <center> Primary 5 </center>
 
 <style>
 table {
