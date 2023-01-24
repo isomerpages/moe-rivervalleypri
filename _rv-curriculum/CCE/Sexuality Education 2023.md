@@ -26,6 +26,7 @@ b.	Character and Citizenship Education (CCE)<br>
 ##### <center><font color="49759A"> 2023 SEXUALITY EDUCATION LESSONS IN CCE 2021 </font></center>
 
 #### <center> Primary 5 </center>
+#### <center> CCE(FTGP) Theme: Growing Years </center>
 
 <style>
 table {
@@ -76,7 +77,7 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 <br> 
 
 #### <center> Primary 6 </center>
-
+#### <center> CCE(FTGP) Theme: Growing Years </center>
 
 
 
