@@ -44,7 +44,7 @@ b.	Character and Citizenship Education (CCE)<br>
 ### PRIMARY 5
 
 
-| LESSON TITLE / DURATION | <p><center>LESSON OVERVIEW</p></center> | TIME PERIOD  |
+| <p><center>LESSON TITLE / DURATION</p></center> | <p><center>LESSON OVERVIEW</p></center> | <p><center>TIME PERIOD</p></center>  |
 | -------- | -------- | -------- |
 | <p><center>The Changes in Me</p></center> |<p><center>This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty. </p></center> |     | This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.    | Text     |
 | Text     | Text     | Text     |
