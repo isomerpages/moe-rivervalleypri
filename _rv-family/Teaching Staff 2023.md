@@ -51,7 +51,7 @@ description: ""
 | Friendship     | Ms Cindy Chew     | chew_ai_ping@schools.gov.sg     |
 |     | Ms Jocelyn     | jocelyn_chua@schools.gov.sg     |
 | Graciousness  | Ms Zakiah    | zakiah_kassim@schools.gov.sg    |
-|     | Ms Sofia     |      |
+|     | Ms Sofia     |  sofia_samri@schools.gov.sg    |
 | Honesty     | Ms Emily Seow    | seow_pei_suan_emily@schools.gov.sg    |
 |    | Ms Sharon Ho    | ho_jia_hui_sharon@schools.gov.sg     |
 
