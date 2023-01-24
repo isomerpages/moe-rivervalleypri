@@ -51,7 +51,7 @@ description: ""
 | Friendship     | Ms Cindy Chew     | chew_ai_ping@schools.gov.sg     |
 |     | Ms Jocelyn     | jocelyn_chua@schools.gov.sg     |
 | Graciousness  | Ms Zakiah    | zakiah_kassim@schools.gov.sg    |
-|     | Ms Sofia     |      |
+|     | Ms Sofia     |  sofia_samri@schools.gov.sg    |
 | Honesty     | Ms Emily Seow    | seow_pei_suan_emily@schools.gov.sg    |
 |    | Ms Sharon Ho    | ho_jia_hui_sharon@schools.gov.sg     |
 
@@ -81,7 +81,6 @@ description: ""
 | Endurance     | Ms Evelyn Ng     | ng_geok_neo_evelyn@schools.gov.sg     |
 |     | Ms Faizah     |   nur_faizah_omar@schools.gov.sg   |
 | Friendship    | Ms Desirene Teng     | teng_siew_hong@schools.gov.sg      |
-|      | Mdm Wang Hui    |      |
 | Graciousness     | Mrs Joyce Tan     | ng_sok_kian_joyce@schools.gov.sg     |
 |     | Mdm Rajes    | lakshmanan_rajeswari@schools.gov.sg     |
 | Honesty     | Mr Tan Chia Seng     | tan_chia_seng@schools.gov.sg     |
