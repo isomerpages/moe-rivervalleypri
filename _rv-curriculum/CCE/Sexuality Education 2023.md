@@ -75,7 +75,7 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 
 <br> 
 
-#### <center> Primary 6 </center>
+### <center> Primary 6 </center>
 #### <center> CCE(FTGP) Theme: Growing Years </center>
 
 
