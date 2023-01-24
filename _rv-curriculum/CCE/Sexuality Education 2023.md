@@ -4,7 +4,7 @@ permalink: /rv-curriculum/CCE/Sexuality-Education-2023/
 description: ""
 third_nav_title: CCE
 ---
-#### <font color="F8B11C"> OVERVIEW OF RIVER VALLEY PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2023 </font>
+### <font color="49759A"> OVERVIEW OF RIVER VALLEY PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2023 </font>
 
 4.	Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click here [https://go.gov.sg/moe-sexuality-education-scope](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.
 <br>
@@ -13,7 +13,7 @@ third_nav_title: CCE
 a.	Science <br>
 b.	Character and Citizenship Education (CCE)<br>
 
-#### <font color="F8B11C"> Sexuality Education Lessons: </font>
+#### <font color="49759A"> Sexuality Education Lessons: </font>
 
 6. &nbsp;The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require guidance so that they can respond with discernment to the sexual messages in the media and other sources.
 <br>
@@ -23,7 +23,7 @@ b.	Character and Citizenship Education (CCE)<br>
 	
 ### At River Valley Primary School, the following Sexuality Education lessons will be taught in 2023:
 	
-##### <center><font color="F8B11C"> 2023 SEXUALITY EDUCATION LESSONS IN CCE 2021 </font></center>
+##### <center><font color="49759A"> 2023 SEXUALITY EDUCATION LESSONS IN CCE 2021 </font></center>
 
 #### <center> Primary 5 </center>
 
