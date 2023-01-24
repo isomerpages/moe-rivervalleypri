@@ -18,13 +18,12 @@ third_nav_title: CCE
 (a)	Love and respect yourself as you love and respect others;<br>
 (b)	Build positive relationships based on love and respect (which are the foundation for strong families);<br>
 (c)	Make responsible decisions for yourself, your family and society; and <br>
-(d)	Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones. <br>
+(d)	Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
 ##### [You may click here for more information on MOE Sexuality Education](https://go.gov.sg/moe-sexuality-education)
 
 
 #### <font color="F8B11C"> OVERVIEW OF RIVER VALLEY PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2023 </font>
-<br>
 
 4.	Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click here [https://go.gov.sg/moe-sexuality-education-scope](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.
 <br>
