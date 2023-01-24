@@ -66,10 +66,9 @@ tr:nth-child(even) {
 
 <table>
   <tbody><tr>
-		<th><center>LESSON TITLE / DURATION</center></th>
+		<th>LESSON TITLE / DURATION</th>
     <th><center>LESSON OVERVIEW</center></th>
-    <th><center>TIME PERIOD
-(e.g. Term 1 Week 2)</center> 
+    <th>TIME PERIOD (e.g. Term 1 Week 2)
 </th>
   </tr>
   <tr>
