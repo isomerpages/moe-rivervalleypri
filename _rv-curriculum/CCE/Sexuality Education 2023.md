@@ -100,8 +100,3 @@ This lesson is conducted separately for boys and girls in different classrooms, 
     <td>Term 3 Week 5</td>
   </tr>
 </tbody></table>
-
-
-
-
-`
