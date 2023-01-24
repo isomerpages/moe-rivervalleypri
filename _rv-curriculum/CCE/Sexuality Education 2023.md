@@ -38,3 +38,13 @@ b.	Character and Citizenship Education (CCE)<br>
 <br>
 
 7.  Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters.
+
+#### 2023 SEXUALITY EDUCATION LESSONS IN CCE 2021 
+
+### PRIMARY 5
+
+
+| LESSON TITLE / DURATION | <p><center>LESSON OVERVIEW</p></center> | TIME PERIOD  |
+| -------- | -------- | -------- |
+| <p><center>The Changes in Me |This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty. </p></center> |     | This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.    | Text     |
+| Text     | Text     | Text     |
