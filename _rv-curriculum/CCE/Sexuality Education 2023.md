@@ -138,5 +138,5 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 #### <font color="49759A"> INFORMATION FOR PARENTS </font>
 
 8.	Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers. 
-9.	Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable here (please upload parents opt-out form found in Annex A and insert a hyperlink for parents to download the form). The completed opt-out form is to be submitted by 03/02/23.
+9.	Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also [downloadable here](/files/2023%20Sexuality%20Ed%20opt%20out%20form%20180123.pdf). The completed opt-out form is to be submitted by 03/02/23.
 10.	Parents can contact the school at 6737 1785 or email us at rvps@moe.edu.sg  for discussion or to seek clarification about the school’s Sexuality Education programme
