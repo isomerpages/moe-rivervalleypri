@@ -105,9 +105,7 @@ tr:nth-child(even) {
   <tbody><tr>
     <th>LESSON TITLE / DURATION</th>
 		<th><center>LESSON OVERVIEW</center></th>
-    <th>TIME PERIOD
-(e.g. Term 1 Week 2)
-</th>
+    <th>TIME PERIOD (e.g. Term 1 Week 2)</th>
   </tr>
   <tr>
     <td>Are We More than Friends? Lesson 1(60 min)</td>
