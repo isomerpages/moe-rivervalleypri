@@ -48,7 +48,7 @@ description: ""
 |      | Mr Matthew Chong    | chong_chi_au_matthew@schools.gov.sg     |
 | Endurance | Mr Ng Kok Leong     | ng_kok_leong@schools.gov.sg     |
 |     | Mdm Amirah     | nur_amirah_abu_hasan@schools.gov.sg     |
-| Friendship     | Ms Cindy Chew     | chew_ai_ping@schools.gov.sg     |
+| Friendship     | Ms Cindy Chew     | cindy_chew_ai_ping@schools.gov.sg     |
 |     | Ms Jocelyn     | jocelyn_chua@schools.gov.sg     |
 | Graciousness  | Ms Zakiah    | zakiah_kassim@schools.gov.sg    |
 |     | Ms Sofia     |  sofia_samri@schools.gov.sg    |
