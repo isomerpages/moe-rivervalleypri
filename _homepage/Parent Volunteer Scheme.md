@@ -3,17 +3,12 @@ title: Parent Volunteer Scheme
 permalink: /homepage/Parent-Volunteer-Scheme/
 description: ""
 ---
-# Parent Volunteer (PV) Program Scheme (Child Born in 2018)
+### Parent Volunteer (PV) Program Scheme (Child Born in 2018)
 
-The registration for Parent Volunteer Scheme for Singapore Citizens / Singapore PR child born in 2018 is now open.<br>
+Thank you for your interest in the Parent Volunteer Scheme at River Valley Primary School (RVPS). <br>
 
-If you are interested, please complete the registration<br>
+We regret to inform that the Application for Parent Volunteer Scheme (child born in 2018) is now closed. <br>
 
-**[https://go.gov.sg/rvps-phase-2bpv](https://go.gov.sg/rvps-phase-2bpv)**
+Due to overwhelming response, we will not be able to accept any more applications as at 10 February 2023, 2359HR. <br>
 
-**Deadline for submission: 2359 hrs, Friday 10 February 2023**<br>
-Late submission will **NOT** be considered.<br>
-
-Only shortlisted applicants will be contacted. The PV selection is NOT on a first-come, first-served basis. We seek your understanding that the school will not be able to share with you the reasons for non-selection. <br>
-
-Note: School may also contact you directly to request for additional supporting documents. 
+Thank you.
