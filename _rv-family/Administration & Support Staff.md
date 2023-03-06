@@ -23,6 +23,7 @@ Mdm Salamah<br>
 Mdm Noraini<br>
 Mdm Bong May Lin<br>
 Mdm Sieng Foong Lian<br>
+Mdm Rabia<br>
 
 ##### Allied Educator (LBS & School Counsellor)
 
