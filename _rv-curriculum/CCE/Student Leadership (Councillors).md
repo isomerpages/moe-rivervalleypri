@@ -4,7 +4,7 @@ permalink: /rv-curriculum/CCE/Student-Leadership-Councillors/
 description: ""
 third_nav_title: CCE
 ---
-In RVPS, every child matters, and we believe that every RVian can be a leader. Thus, Every RVian A Leader programme aims to provide a total education that is value-driven and student-centric, so as to nurture our students to the best of their abilities.
+In RVPS, every child matters, and we believe that every RVian can be a leader. Thus, **Every RVian A Leader** programme aims to provide a total education that is value-driven and student-centric, so as to nurture our students to the best of their abilities.
 
 ![](/images/RV%20Curriculum/Character%20and%20Citizenship%20Ed/Student%20Leadership%20Councillor/q1.jpg)
 
