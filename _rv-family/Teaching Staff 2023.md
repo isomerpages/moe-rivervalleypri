@@ -33,7 +33,7 @@ description: ""
 | Endurance     | Mrs Priscilla Yip     | goh_shu_yi_priscilla@schools.gov.sg     |
 | Friendship    | Ms Lin Chuqing     | lin_chuqing@schools.gov.sg     |
 | Graciousness     | Ms Chan Qiuting    | chan_qiuting@schools.gov.sg      |
-| Honesty    | Ms Chandhini     | chandhini_pandey@schools.gov.sg    |
+| Honesty    | Ms Roshane     | roshane_rajandran@schools.gov.sg    |
 | Kindness     | Mdm Ida    | idawatee_ahmad@schools.gov.sg      |
 |    | Mr Wan Jiajun     | wan_jiajun@schools.gov.sg     |
 
