@@ -33,7 +33,7 @@ description: ""
 | Endurance     | Mrs Priscilla Yip     | goh_shu_yi_priscilla@schools.gov.sg     |
 | Friendship    | Ms Lin Chuqing     | lin_chuqing@schools.gov.sg     |
 | Graciousness     | Ms Chan Qiuting    | chan_qiuting@schools.gov.sg      |
-| Honesty    | Ms Chandhini     | chandhini_pandey@schools.gov.sg    |
+| Honesty    | Ms Roshane     | roshane_rajandran@schools.gov.sg    |
 | Kindness     | Mdm Ida    | idawatee_ahmad@schools.gov.sg      |
 |    | Mr Wan Jiajun     | wan_jiajun@schools.gov.sg     |
 
@@ -61,7 +61,6 @@ description: ""
 | Class | Form Teachers | Email Address |
 | -------- | -------- | -------- |
 | Confidence     | Ms Lye Fong Ying     | lye_fong_ying@schools.gov.sg    |
-|      | Mrs Ang-Hsueh Ya Wen     | hsueh_ya_wen@schools.gov.sg     |
 | Diligence    | Ms Asveeny     | asveeny_sanjeevi@schools.gov.sg     |
 | Endurance    | Mdm Wong Ching Yee    | wong_ching_yee@schools.gov.sg     |
 |      | Mr Tyler Ng    | ng_min_yu_tyler@schools.gov.sg     |
