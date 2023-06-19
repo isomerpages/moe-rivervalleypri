@@ -5,7 +5,7 @@ description: ""
 ---
 |  Head of Department |   |   |
 |---|---|---|
-| Mathematics | Ms Sheila Tay Sock Hwee | kay_ee_ee@schools.gov.sg |
+| Mathematics | Ms Sheila Tay Sock Hwee |  |
 | Mother Tongue Languages | Ms Kay Ee Ee | kay_ee_ee@schools.gov.sg |
 | Science | Mr Ng Kok Leong | ng_kok_leong@schools.gov.sg |
 | PE / CCA / Aesthetics | Ms Lynn Teo | teo_mei_ling_lynn@schools.gov.sg |
