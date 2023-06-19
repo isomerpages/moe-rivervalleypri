@@ -71,7 +71,7 @@ description: ""
 | Friendship    | Ms Sherlyn Ng    | ng_wee_hua@schools.gov.sg      |
 |      | Ms Bernadette Kor    |  bernadette_kor_hong_yin@schools.gov.sg    |
 | Graciousness     | Ms Lynn Teo    | teo_mei_ling_lynn@schools.gov.sg     |
-|      | Ms Emily Siew    | emily_siew@schools.gov.sg     |
+|      | Ms Emily Siew    | siew_may_qi_emily@schools.gov.sg     |
 | Honesty    | Ms Tay Ruiqi    | tay_ruiqi@schools.gov.sg     |
 |      | Ms Chen Weixuan   | chen_weixuan@schools.gov.sg     |
 
@@ -83,11 +83,11 @@ description: ""
 | Confidence     | Mr Mufsin    | abdul_mufsin@schools.gov.sg     |
 |     | Ms Chen Chueh Ching    | chen_chueh_ching@schools.gov.sg    |
 | Diligence     | Ms Kay Ee Ee     | kay_ee_ee@schools.gov.sg    |
-|      | Ms Tan Beiying    | tan_g-sern_aylwin@schools.gov.sg     |
+|      | Ms Tan Beiying    | tan_beiying@schools.gov.sg     |
 | Endurance     | Ms Evelyn Ng     | ng_geok_neo_evelyn@schools.gov.sg     |
-|     | Ms Sheila Tay    | wang_jiaxin@schools.gov.sg     |
+|     | Ms Sheila Tay    |      |
 | Friendship    | Ms Desirene Teng     | teng_siew_hong@schools.gov.sg      |
-|     | Ms Li Wanyu   | wang_jiaxin@schools.gov.sg     |
+|     | Ms Li Wanyu   |      |
 | Graciousness     | Mrs Joyce Tan     | ng_sok_kian_joyce@schools.gov.sg     |
 |     | Mdm Rajes    | lakshmanan_rajeswari@schools.gov.sg     |
 | Honesty     | Mr Tan Chia Seng     | tan_chia_seng@schools.gov.sg     |
