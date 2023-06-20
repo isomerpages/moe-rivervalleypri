@@ -85,7 +85,7 @@ description: ""
 | Diligence     | Ms Kay Ee Ee     | kay_ee_ee@schools.gov.sg    |
 |      | Ms Tan Beiying    | tan_beiying@schools.gov.sg     |
 | Endurance     | Ms Evelyn Ng     | ng_geok_neo_evelyn@schools.gov.sg     |
-|     | Ms Sheila Tay    |   tay_sock_hwee_sheila@schools.gov.sg   |
+|     | Mrs Sheila Chan    |   tay_sock_hwee_sheila@schools.gov.sg   |
 | Friendship    | Ms Desirene Teng     | teng_siew_hong@schools.gov.sg      |
 |     | Ms Li Wanyu   |  Li_Wanyu@schools.gov.sg    |
 | Graciousness     | Mrs Joyce Tan     | ng_sok_kian_joyce@schools.gov.sg     |
