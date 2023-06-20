@@ -65,7 +65,7 @@ description: ""
 | Confidence     | Ms Lye Fong Ying     | lye_fong_ying@schools.gov.sg    |
 |     | Ms Chang Te-Fang    | chang_te_fang@schools.gov.sg     |
 | Diligence    | Ms Asveeny     | asveeny_sanjeevi@schools.gov.sg     |
-|      | Mr Lawrence Lim    |      |
+|      | Mr Lawrence Lim    |   lim_yong_hwee@schools.gov.sg  |
 | Endurance    | Mdm Wong Ching Yee    | wong_ching_yee@schools.gov.sg     |
 |      | Mr Tyler Ng    | ng_min_yu_tyler@schools.gov.sg     |
 | Friendship    | Ms Sherlyn Ng    | ng_wee_hua@schools.gov.sg      |
