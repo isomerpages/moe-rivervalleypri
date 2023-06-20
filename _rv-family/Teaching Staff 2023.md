@@ -15,6 +15,7 @@ description: ""
 | Endurance     | Ms Jamie Chin     | chin_mee_yen@schools.gov.sg |
 |      | Mrs Ipiter     | pappathi_Ipiter@schools.gov.sg    |
 | Friendship     | Mrs Gladys Chung     | ng_wai_heng_gladys@schools.gov.sg     |
+|     | Ms Yeow Xing Mei |      |
 | Graciousness     | Ms Jada Woo     | jada_woo@schools.gov.sg     |
 |     | Ms Wang Jiaxin | wang_jiaxin@schools.gov.sg     |
 | Honesty   | Mdm Shabana    | nurjhana_shabana_musa_bharooch@schools.gov.sg     |
@@ -28,6 +29,7 @@ description: ""
 | Class | Form Teachers | Email Address |
 | -------- | -------- | -------- |
 | Confidence    | Ms Ranjini    | ranjinidevi_thanasegaram@schools.gov.sg   |
+|     | Mr Nathaniel Ng    | ng_jun_ting_Nathaniel@schools.gov.sg     |
 | Diligence     | Mdm Janaki     | janaki_retanam@schools.gov.sg      |
 |      | Mr Lao Li     | lao_li@schools.gov.sg    |
 | Endurance     | Mrs Priscilla Yip     | goh_shu_yi_priscilla@schools.gov.sg     |
@@ -53,7 +55,7 @@ description: ""
 | Graciousness  | Ms Zakiah    | zakiah_kassim@schools.gov.sg    |
 |     | Ms Sofia     |  sofia_samri@schools.gov.sg    |
 | Honesty     | Ms Emily Seow    | seow_pei_suan_emily@schools.gov.sg    |
-|    | Ms Sharon Ho    | ho_jia_hui_sharon@schools.gov.sg     |
+|    | Mrs Ho-Tan Lay Yen    |      |
 
 #### Primary 4
 
@@ -61,12 +63,17 @@ description: ""
 | Class | Form Teachers | Email Address |
 | -------- | -------- | -------- |
 | Confidence     | Ms Lye Fong Ying     | lye_fong_ying@schools.gov.sg    |
+|     | Ms Chang Te-Fang    | chang_te_fang@schools.gov.sg     |
 | Diligence    | Ms Asveeny     | asveeny_sanjeevi@schools.gov.sg     |
+|      | Mr Lawrence Lim    |   lim_yong_hwee@schools.gov.sg  |
 | Endurance    | Mdm Wong Ching Yee    | wong_ching_yee@schools.gov.sg     |
 |      | Mr Tyler Ng    | ng_min_yu_tyler@schools.gov.sg     |
 | Friendship    | Ms Sherlyn Ng    | ng_wee_hua@schools.gov.sg      |
+|      | Ms Bernadette Kor    |  bernadette_kor_hong_yin@schools.gov.sg    |
 | Graciousness     | Ms Lynn Teo    | teo_mei_ling_lynn@schools.gov.sg     |
+|      | Ms Emily Siew    | siew_may_qi_emily@schools.gov.sg     |
 | Honesty    | Ms Tay Ruiqi    | tay_ruiqi@schools.gov.sg     |
+|      | Ms Chen Weixuan   | chen_weixuan@schools.gov.sg     |
 
 #### Primary 5
 
@@ -76,10 +83,11 @@ description: ""
 | Confidence     | Mr Mufsin    | abdul_mufsin@schools.gov.sg     |
 |     | Ms Chen Chueh Ching    | chen_chueh_ching@schools.gov.sg    |
 | Diligence     | Ms Kay Ee Ee     | kay_ee_ee@schools.gov.sg    |
-|      | Mr Aylwin Tan    | tan_g-sern_aylwin@schools.gov.sg     |
+|      | Ms Tan Beiying    | tan_beiying@schools.gov.sg     |
 | Endurance     | Ms Evelyn Ng     | ng_geok_neo_evelyn@schools.gov.sg     |
-|     | Ms Faizah     |   nur_faizah_omar@schools.gov.sg   |
+|     | Ms Sheila Tay    |   tay_sock_hwee_sheila@schools.gov.sg   |
 | Friendship    | Ms Desirene Teng     | teng_siew_hong@schools.gov.sg      |
+|     | Ms Li Wanyu   |  Li_Wanyu@schools.gov.sg    |
 | Graciousness     | Mrs Joyce Tan     | ng_sok_kian_joyce@schools.gov.sg     |
 |     | Mdm Rajes    | lakshmanan_rajeswari@schools.gov.sg     |
 | Honesty     | Mr Tan Chia Seng     | tan_chia_seng@schools.gov.sg     |
@@ -94,8 +102,7 @@ description: ""
 |      | Mdm Huang Xin     | huang_xin@schools.gov.sg     |
 | Diligence     | Ms Tan Jia Ying    | tan_jia_ying_a@schools.gov.sg     |
 |      | Ms Tan Miaw Fen    | tan_miaw_fen@schools.gov.sg     |
-| Endurance    | Ms Vino    | vinothini_rajah@schools.gov.sg     |
-|    | Mdm Teo Huixin     | teo_hui_xin@schools.gov.sg    |
+| Endurance    | Mdm Teo Huixin    | teo_hui_xin@schools.gov.sg     |
 | Friendship     | Mrs Cecilia Huang    | oh_seow_huey_cecilia@schools.gov.sg     |
 |     | Ms Tan Yee Li    | tan_yee_li@schools.gov.sg    |
 | Graciousness     | Ms Reginia Loh    | loh_sook_yee_reginia@schools.gov.sg      |
