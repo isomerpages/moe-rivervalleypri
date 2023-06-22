@@ -21,7 +21,6 @@ description: ""
 | Level / Subject Head  |   |   |
 |---|---|---|
 | Science | Ms Chen Weixuan | chen_weixuan@schools.gov.sg  |
-| School Staff Developer |  |  
 | Aesthetics  | Mrs Priscilla Yip | goh_shu_yi_priscilla@schools.gov.sg  |
 | Co-Curricular Activities | Mrs Joyce Tan | ng_sok_kian_joyce@schools.gov.sg |
 | Student Management | Mr Mufsin | abdul_mufsin@schools.gov.sg
