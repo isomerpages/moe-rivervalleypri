@@ -15,7 +15,7 @@ description: ""
 | Endurance     | Ms Jamie Chin     | chin_mee_yen@schools.gov.sg |
 |      | Mrs Ipiter     | pappathi_Ipiter@schools.gov.sg    |
 | Friendship     | Mrs Gladys Chung     | ng_wai_heng_gladys@schools.gov.sg     |
-|     | Ms Yeow Xing Mei |      |
+|     | Ms Yeow Xing Mei     | Yeow_Xing_Mei@schools.gov.sg     | 
 | Graciousness     | Ms Jada Woo     | jada_woo@schools.gov.sg     |
 |     | Ms Wang Jiaxin | wang_jiaxin@schools.gov.sg     |
 | Honesty   | Mdm Shabana    | nurjhana_shabana_musa_bharooch@schools.gov.sg     |
@@ -55,7 +55,7 @@ description: ""
 | Graciousness  | Ms Zakiah    | zakiah_kassim@schools.gov.sg    |
 |     | Ms Sofia     |  sofia_samri@schools.gov.sg    |
 | Honesty     | Ms Emily Seow    | seow_pei_suan_emily@schools.gov.sg    |
-|    | Mrs Ho-Tan Lay Yen    |      |
+|    | Mrs Ho-Tan Lay Yen    | tan_lay_yen_a@schools.gov.sg     |
 
 #### Primary 4
 
