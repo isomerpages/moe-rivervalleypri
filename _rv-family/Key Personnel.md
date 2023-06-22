@@ -10,6 +10,7 @@ description: ""
 | Science | Mr Ng Kok Leong | ng_kok_leong@schools.gov.sg |
 | PE / CCA / Aesthetics | Ms Lynn Teo | teo_mei_ling_lynn@schools.gov.sg |
 | Info-Comm Technology | Ms Cindy Chew | cindy_chew_ai_ping@schools.gov.sg  |
+| School Staff Developer (Covering) | Ms Chen Weixuan | chen_weixuan@schools.gov.sg  |
 | Student Management | Ms Chung Li Koon | chung_li_koon@schools.gov.sg
 
 | Year Head  |   |   |
@@ -20,7 +21,6 @@ description: ""
 
 | Level / Subject Head  |   |   |
 |---|---|---|
-| Science | Ms Chen Weixuan | chen_weixuan@schools.gov.sg  |
 | Aesthetics  | Mrs Priscilla Yip | goh_shu_yi_priscilla@schools.gov.sg  |
 | Co-Curricular Activities | Mrs Joyce Tan | ng_sok_kian_joyce@schools.gov.sg |
 | Student Management | Mr Mufsin | abdul_mufsin@schools.gov.sg
