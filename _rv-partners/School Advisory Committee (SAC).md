@@ -18,4 +18,5 @@ Dr Gan Wee Hoe – Member <br>
 Ms Asha Hermajani – Member <br>
 Mr Tan Keh Whoo – Member <br>
 Dr Tan Eng Kien – Member <br>
+Dr Huang Wanping – Member <br>
 <br>
