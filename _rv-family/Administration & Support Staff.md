@@ -9,8 +9,6 @@ description: ""
 
 **Administrative Executive** <br><a href="mailto:lee_siew_kim@schools.gov.sg">Mdm May Lee</a><br>
 
-**Operation Manager** <br><a href="mailto:chandramohan_arumugam@schools.gov.sg">Mr Mohan</a><br>
-
 **Management Support Officer**
 <br><a href="mailto:ang_aizhen@schools.gov.sg">Ms Ang Ai Zhen </a><br>
 
@@ -25,12 +23,12 @@ Mdm Bong May Lin<br>
 Mdm Sieng Foong Lian<br>
 Mdm Rabia<br>
 
-##### Allied Educator (LBS & School Counsellor)
+##### Allied Educator (LBS &amp; School Counsellor)
 
-**Learning & Behavioural Support**
+**Learning &amp; Behavioural Support**
 <br><a href="mailto:tang_yan_ting_mandy@schools.gov.sg">Ms Tang Yan Ting Mandy</a><br>
 
-**Learning & Behavioural Support** <br><a href="mailto:cheong_qian_hua@schools.gov.sg">Ms Janice Cheong</a><br>
+**Learning &amp; Behavioural Support** <br><a href="mailto:cheong_qian_hua@schools.gov.sg">Ms Janice Cheong</a><br>
 
 **School Counsellor**<br>
 <a href="mailto:Rvps_Counselling@schools.gov.sg">School Counselling</a><br>
