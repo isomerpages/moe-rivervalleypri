@@ -13,7 +13,7 @@ River Valley Primary School Canteen Advertisement
 
 Application Procedure
 1. Download and complete the application form. You may also request for a hardcopy form from the School’s General Office.
-[Insert Application Form]
+[[Application Form]()]
 
 2. Please enclose the following documents together with the application form:
 * Photocopy of the NRIC (front and back)
