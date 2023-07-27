@@ -16,6 +16,8 @@ description: ""
 
 **ICT Manager** <br><a href="mailto:muhammad_hasif_mohd_hanifah@moe.edu.sg">Mr Hasif</a><br>
 
+**ICT Associate** <br>Ms Hannani<br>
+
 **Operation Support Officer**<br>
 Mdm Salamah<br>
 Mdm Noraini<br>
