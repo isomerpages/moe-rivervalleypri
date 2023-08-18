@@ -7,6 +7,8 @@ description: ""
 
 **Administration Manager** <br><a href="mailto:chen_wanying@schools.gov.sg">Ms Chen Wanying</a><br>
 
+**Administration Manager** <br><a href="mailto:tiong_chiow_yin@schools.gov.sg">Mrs Cherine Chan</a><br>
+
 **Administrative Executive** <br><a href="mailto:lee_siew_kim@schools.gov.sg">Mdm May Lee</a><br>
 
 **Management Support Officer**
