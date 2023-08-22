@@ -15,7 +15,7 @@ sections:
         - title: MOE SEXUALITY EDUCATION
           description: Click here to find out more
           url: /homepage/MOE-Sexuality-Education-in-Schools/
-        - title: Waitlist Application Form 2023
+        - title: Waitlist Application Form
           description: Click here to apply
-          url: https://go.gov.sg/rvps-application-2023
+          url: http://go.gov.sg/2024rvwaitlist
 ---
