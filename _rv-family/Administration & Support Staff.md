@@ -20,7 +20,7 @@ description: ""
 <h2>Executive Administration Service (EAS)</h2>
 <table>
     <tbody><tr>
-        <th>Position</th>
+        <th>Designation</th>
         <th>Name</th>
         <th>Email</th>
     </tr>
@@ -84,7 +84,7 @@ description: ""
 <h2>Allied Educator (LBS &amp; School Counsellor)</h2>
 <table>
     <tbody><tr>
-        <th>Position</th>
+        <th>Designation</th>
         <th>Name</th>
         <th>Email</th>
     </tr>

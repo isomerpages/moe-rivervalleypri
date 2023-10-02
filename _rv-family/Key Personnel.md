@@ -110,9 +110,9 @@ description: ""
 <h2>Lead Teacher and Senior Teachers</h2>
 <table>
     <tbody><tr>
-        <th>Position</th>
-        <th>Name</th>
-        <th>Email</th>
+        <th></th>
+        <th></th>
+        <th></th>
     </tr>
     <tr>
         <td>Lead Teacher (PE)</td>
