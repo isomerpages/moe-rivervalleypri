@@ -3,12 +3,25 @@ title: Administration & Support Staff
 permalink: /rv-family/Administration-Support-Staff/
 description: ""
 ---
-<title>Organization Information</title>
 
 
+
+    <title>Organization Information</title>
+
+
+
+<style>
+    table {
+        border-collapse: collapse;
+    }
+
+    table, th, td {
+        border: none;
+    }
+</style>
 
 <h2>Executive Administration Service (EAS)</h2>
-<table border="1">
+<table>
     <tbody><tr>
         <th>Position</th>
         <th>Name</th>
@@ -72,7 +85,7 @@ description: ""
 </tbody></table>
 
 <h2>Allied Educator (LBS &amp; School Counsellor)</h2>
-<table border="1">
+<table>
     <tbody><tr>
         <th>Position</th>
         <th>Name</th>
@@ -94,3 +107,6 @@ description: ""
         <td><a href="mailto:Rvps_Counselling@schools.gov.sg">Rvps_Counselling@schools.gov.sg</a></td>
     </tr>
 </tbody></table>
+
+
+
