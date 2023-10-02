@@ -9,6 +9,8 @@ description: ""
 
 **Administration Manager** <br><a href="mailto:tiong_chiow_yin@schools.gov.sg">Mrs Cherine Chan</a><br>
 
+**Operations Manager** <br><a href="mailto:Yiow_Chia_Liang@schools.gov.sg">Mr Nicholas Yiow </a><br>
+
 **Administrative Executive** <br><a href="mailto:lee_siew_kim@schools.gov.sg">Mdm May Lee</a><br>
 
 **Management Support Officer**
@@ -18,13 +20,11 @@ description: ""
 
 **ICT Manager** <br><a href="mailto:muhammad_hasif_mohd_hanifah@moe.edu.sg">Mr Hasif</a><br>
 
-**ICT Associate** <br>Ms Hannani<br>
+**ICT Associate** <br><a href="mailto:hannani_khalisahhaq_rosli@moe.edu.sg">Ms Hannani</a><br>
 
 **Operation Support Officer**<br>
-Mdm Salamah<br>
 Mdm Noraini<br>
 Mdm Bong May Lin<br>
-Mdm Sieng Foong Lian<br>
 Mdm Rabia<br>
 
 ##### Allied Educator (LBS &amp; School Counsellor)
