@@ -109,8 +109,11 @@ description: ""
 
 <h2>Lead Teacher and Senior Teachers</h2>
 <table>
-    <tbody>
-    
+    <tbody><tr>
+        <th></th>
+        <th></th>
+        <th></th>
+    </tr>
     <tr>
         <td>Lead Teacher (PE)</td>
         <td>Ms Sherlyn Ng</td>
