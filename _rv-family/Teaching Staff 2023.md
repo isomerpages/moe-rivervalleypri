@@ -3,10 +3,7 @@ title: Teaching Staff 2023
 permalink: /rv-family/teaching-staff/
 description: ""
 ---
-
-
-
-    <style>
+<style>
         table {
             border-collapse: collapse;
         }
@@ -426,6 +423,3 @@ description: ""
         <td><a href="mailto:loh_si_jie@schools.gov.sg">loh_si_jie@schools.gov.sg</a></td>
     </tr>
 </tbody></table>
-
-
-
