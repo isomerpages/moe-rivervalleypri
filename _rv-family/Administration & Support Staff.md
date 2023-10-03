@@ -96,11 +96,15 @@ description: ""
     <tr>
         <td>Learning &amp; Behavioural Support</td>
         <td>Ms Janice Cheong</td>
-        <td><a href="mailto:cheong_qian_hua@schools.gov.sg">cheong_qian_hua@schools.gov.sg</a></td>
+        <td><a href="mailto:cheong_qian_hua@schools.gov.sg">cheong_qian_hua@schools.gov.sg</a></td> </tr>
+    <tr>
+        <td>Mr Edmund Chong</td>
+        <td>School Counsellor</td>
+        <td><a href="mailto:chong_kah_phoon@schools.gov.sg">chong_kah_phoon@schools.gov.sg</a></td>
     </tr>
     <tr>
-        <td>School Counsellor</td>
         <td>School Counselling</td>
+        <td> </td>
         <td><a href="mailto:Rvps_Counselling@schools.gov.sg">Rvps_Counselling@schools.gov.sg</a></td>
     </tr>
 </tbody></table>
