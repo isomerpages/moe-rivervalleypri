@@ -100,7 +100,7 @@ description: ""
 			  <tr>
         <td>SEN Officer</td>
         <td>Ms Jermain Tan</td>
-        <td><a href="mailto:Tan_Hong_Min_Jermaine@schools.gov.sg">tan_hong_min_Jermaine@schools.gov.sg</a></td>
+        <td><a href="mailto:Tan_Hong_Min_Jermaine@schools.gov.sg">tan_hong_min_jermaine@schools.gov.sg</a></td>
     </tr>
     <tr>
         <td>School Counsellor</td>
