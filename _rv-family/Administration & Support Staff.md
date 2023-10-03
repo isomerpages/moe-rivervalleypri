@@ -81,7 +81,7 @@ description: ""
     </tr>
 </tbody></table>
 
-<h2>Allied Educator (LBS &amp; School Counsellor)</h2>
+<h2>Allied Educators</h2>
 <table>
     <tbody><tr>
         <th>Designation</th>
@@ -89,17 +89,22 @@ description: ""
         <th>Email</th>
     </tr>
     <tr>
-        <td>Learning &amp; Behavioural Support</td>
+        <td>SEN Officer</td>
         <td>Ms Tang Yan Ting Mandy</td>
         <td><a href="mailto:tang_yan_ting_mandy@schools.gov.sg">tang_yan_ting_mandy@schools.gov.sg</a></td>
     </tr>
     <tr>
-        <td>Learning &amp; Behavioural Support</td>
+        <td>SEN Officer</td>
         <td>Ms Janice Cheong</td>
         <td><a href="mailto:cheong_qian_hua@schools.gov.sg">cheong_qian_hua@schools.gov.sg</a></td> </tr>
+			  <tr>
+        <td>SEN Officer</td>
+        <td>Ms Jermain Tan</td>
+        <td><a href="mailto:Tan_Hong_Min_Jermaine">Tan_Hong_Min_Jermaine</a></td>
+    </tr>
     <tr>
-        <td>Mr Edmund Chong</td>
         <td>School Counsellor</td>
+        <td>Mr Edmund Chong</td>
         <td><a href="mailto:chong_kah_phoon@schools.gov.sg">chong_kah_phoon@schools.gov.sg</a></td>
     </tr>
     <tr>
