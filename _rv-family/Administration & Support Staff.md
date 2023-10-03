@@ -17,7 +17,7 @@ description: ""
     }
 </style>
 
-<h2>Executive Administration Staff (EAS)</h2>
+<h2>Executive and Administrative Staff</h2>
 <table>
     <tbody><tr>
         <th>Designation</th>
@@ -37,7 +37,7 @@ description: ""
     <tr>
         <td>Operations Manager</td>
         <td>Mr Nicholas Yiow</td>
-        <td><a href="mailto:Yiow_Chia_Liang@schools.gov.sg">Yiow_Chia_Liang@schools.gov.sg</a></td>
+        <td><a href="mailto:Yiow_Chia_Liang@schools.gov.sg">yiow_chia_liang@schools.gov.sg</a></td>
     </tr>
     <tr>
         <td>Administrative Executive</td>
@@ -100,7 +100,7 @@ description: ""
 			  <tr>
         <td>SEN Officer</td>
         <td>Ms Jermain Tan</td>
-        <td><a href="mailto:Tan_Hong_Min_Jermaine">Tan_Hong_Min_Jermaine</a></td>
+        <td><a href="mailto:Tan_Hong_Min_Jermaine@schools.gov.sg">tan_hong_min_jermaine@schools.gov.sg</a></td>
     </tr>
     <tr>
         <td>School Counsellor</td>
