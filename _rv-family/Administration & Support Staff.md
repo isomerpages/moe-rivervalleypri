@@ -17,7 +17,7 @@ description: ""
     }
 </style>
 
-<h2>Executive Administration Staff (EAS)</h2>
+<h2>Executive and Administrative Staff</h2>
 <table>
     <tbody><tr>
         <th>Designation</th>
