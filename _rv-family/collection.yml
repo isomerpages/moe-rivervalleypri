@@ -2,6 +2,7 @@ collections:
   rv-family:
     output: true
     order:
+      - test.md
       - RV Family.md
       - Principal.md
       - Vice Principals.md
