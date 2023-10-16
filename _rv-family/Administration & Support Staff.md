@@ -37,7 +37,7 @@ description: ""
     <tr>
         <td>Operations Manager</td>
         <td>Mr Nicholas Yiow</td>
-        <td><a href="mailto:Yiow_Chia_Liang@schools.gov.sg">yiow_chia_liang@schools.gov.sg</a></td>
+        <td><a href="mailto:Yiow_Chia_Liang@moe.edu.sg">yiow_chia_liang@moe.edu.sg</a></td>
     </tr>
     <tr>
         <td>Administrative Executive</td>
