@@ -58,11 +58,6 @@ description: ""
         <td><a href="mailto:ng_wai_heng_gladys@schools.gov.sg">ng_wai_heng_gladys@schools.gov.sg</a></td>
     </tr>
     <tr>
-        <td></td>
-        <td>Ms Yeow Xing Mei</td>
-        <td><a href="mailto:Yeow_Xing_Mei@schools.gov.sg">Yeow_Xing_Mei@schools.gov.sg</a></td>
-    </tr>
-    <tr>
         <td>Graciousness</td>
         <td>Ms Jada Woo</td>
         <td><a href="mailto:jada_woo@schools.gov.sg">jada_woo@schools.gov.sg</a></td>
