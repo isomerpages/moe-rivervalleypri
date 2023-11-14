@@ -9,6 +9,8 @@ variant: markdown
 Dear Parents<br>
 The Parent Volunteer (PV) Scheme for Singapore Citizen/Singapore Permanent Resident Children born in 2019 is now open.If you are interested, please complete the registration form by Sun, 31 Dec 2023. 
 
+[Parent Volunteer Registration Form](https://go.gov.sg/rvps-phase-2bpv)
+
 Please note that late submission(s) will NOT be considered. The PV selection is NOT on a first-come, first-served basis. <br>
 
 The school will only contact applicants who are shortlisted.  We will not be able to share the reason(s) for any non-selection. <br>
