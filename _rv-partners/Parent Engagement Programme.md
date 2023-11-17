@@ -2,6 +2,7 @@
 title: Parent Engagement Programme
 permalink: /rv-partners/Parent-Engagement-Programme/
 description: ""
+variant: markdown
 ---
 At RV, we believe in fostering strong partnership with our parents to better support the learning and development of our children. As such we have a dedicated **Parents Engagement Programme (aka PEP@RVPS)** with clear defined structures/platforms to guide us in nurturing the partnership. 
 
@@ -34,7 +35,7 @@ The workshops we organized annually for our parents in areas such as Math, Scien
 
 Research has shown that parental involvement in school has many benefits for the child and the parents, besides benefits for the school. As such at  Tier 2, we have parent volunteers (serving through the PSG) who dedicate their time and efforts through their involvement in various school programmes and activities to contribute to the holistic development and well-being of RVians. Some activities that the PSG organises/ are involved include Library Duties, English & MT Storytelling and events such as P6 Graduation Day, Children's Day and Mid-Autumn Festival.
 
-For parents who are wavering if they should volunteer, being actively involved in your child's learning journey at RVPS will certainly allow you to forge a closer bond with your child. The privilege and opportunity to make a difference in the lives of not just your children and also other students in their journey through RVPS is invaluable. Should any parent wishes to join the PSG, you may wish to click on the link attached. [Please register here as a new Parent Volunteer](https://forms.gle/v54phVmTdyo89J8m6).
+For parents who are wavering if they should volunteer, being actively involved in your child's learning journey at RVPS will certainly allow you to forge a closer bond with your child. The privilege and opportunity to make a difference in the lives of not just your children and also other students in their journey through RVPS is invaluable. Should any parent wishes to join the PSG, you may wish to click on the link attached. [Please register here to join PSG](https://forms.gle/v54phVmTdyo89J8m6).
 
 ![](/images/RV%20Partners/Parent%20Engagement%20Programme/photo_6235498026902860393_w.png)
 
