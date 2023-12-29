@@ -32,6 +32,7 @@ We have a total of 17 CCAs for students to choose from. These CCAs fall under&nb
 | -------- | -------- | -------- |
 | Chess (Weiqi) Club 	| Ms Wong Ching Yee 	| [wong_ching_yee@schools.gov.sg ](wong_ching_yee@schools.gov.sg )	|
 | Info-Comm Technology Club 	| Ms Tan Beiying 	| [tan_beiying@schools.gov.sg ](tan_beiying@schools.gov.sg )
+| Visual Arts Club 	| Mrs Kannan 	| [thilagarani_kannan@schools.gov.sg](thilagarani_kannan@schools.gov.sg )	|
 
 <br>
 
@@ -41,7 +42,6 @@ We have a total of 17 CCAs for students to choose from. These CCAs fall under&nb
 | Choir 	| Ms Karen Chin 	| [karen_chin_kar_wen@schools.gov.sg](karen_chin_kar_wen@schools.gov.sg)	|
 | Dance Ensemble 	| Ms Sim Kay Yin 	| [sim_kay_yin@schools.gov.sg](sim_kay_yin@schools.gov.sg) 	|
 | Drama 	| Ms Evelyn Ng 	| [ng_geok_neo_evelyn@schools.gov.sg ](ng_geok_neo_evelyn@schools.gov.sg )	|
-| Visual Arts Club 	| Mrs Kannan 	| [thilagarani_kannan@schools.gov.sg](thilagarani_kannan@schools.gov.sg )	|
 
 <br>
 
