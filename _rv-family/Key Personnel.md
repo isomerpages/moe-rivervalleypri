@@ -2,6 +2,7 @@
 title: Key Personnel
 permalink: /rv-family/Key-Personnel/
 description: ""
+variant: markdown
 ---
 <style>
         table {
@@ -67,17 +68,17 @@ description: ""
         <th>Email</th>
     </tr>
     <tr>
-        <td>Primary 4 &amp; Primary 6</td>
+        <td>Primary 1 &amp; Primary 5</td>
         <td>Ms Reginia Loh</td>
         <td><a href="mailto:loh_sook_yee_reginia@schools.gov.sg">loh_sook_yee_reginia@schools.gov.sg</a></td>
     </tr>
     <tr>
-        <td>Primary 1 &amp; Primary 3</td>
+        <td>Primary 2 &amp; Primary 4</td>
         <td>Mdm Lena Lim</td>
         <td><a href="mailto:lena_lim@schools.gov.sg">lena_lim@schools.gov.sg</a></td>
     </tr>
     <tr>
-        <td>Primary 2 &amp; Primary 5</td>
+        <td>Primary 3 &amp; Primary 6</td>
         <td>Mdm Janaki</td>
         <td><a href="mailto:janaki_retanam@schools.gov.sg">janaki_retanam@schools.gov.sg</a></td>
     </tr>
