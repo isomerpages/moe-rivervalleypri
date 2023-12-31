@@ -81,11 +81,6 @@ variant: markdown
     </tr>
     <tr>
         <td>SEN Officer</td>
-        <td>Ms Tang Yan Ting Mandy</td>
-        <td><a href="mailto:tang_yan_ting_mandy@schools.gov.sg">tang_yan_ting_mandy@schools.gov.sg</a></td>
-    </tr>
-    <tr>
-        <td>SEN Officer</td>
         <td>Ms Janice Cheong</td>
         <td><a href="mailto:cheong_qian_hua@schools.gov.sg">cheong_qian_hua@schools.gov.sg</a></td> </tr>
 			  <tr>
