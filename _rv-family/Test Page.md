@@ -24,12 +24,21 @@ description: ""
     th {
       background-color: #f2f2f2;
     }
+
+    a {
+      text-decoration: none;
+      color: #007bff;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
   </style>
 
 
 
 
-  <h2>Class Information</h2>
+  <h2>Primary 1 Class Information</h2>
 
   <table>
     <tbody><tr>
