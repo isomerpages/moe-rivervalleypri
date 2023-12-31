@@ -85,7 +85,7 @@ variant: markdown
         <td><a href="mailto:cheong_qian_hua@schools.gov.sg">cheong_qian_hua@schools.gov.sg</a></td> </tr>
 			  <tr>
         <td>SEN Officer</td>
-        <td>Ms Jermain Tan</td>
+        <td>Ms Jermaine Tan</td>
         <td><a href="mailto:Tan_Hong_Min_Jermaine@schools.gov.sg">tan_hong_min_jermaine@schools.gov.sg</a></td>
     </tr>
     <tr>
