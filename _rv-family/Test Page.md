@@ -86,3 +86,87 @@ description: ""
 
 
 
+
+
+
+
+
+
+  <style>
+    table {
+      font-family: Arial, sans-serif;
+      border-collapse: collapse;
+      width: 100%;
+    }
+
+    th, td {
+      border: 1px solid #dddddd;
+      text-align: left;
+      padding: 8px;
+    }
+
+    th {
+      background-color: #f2f2f2;
+    }
+
+    a {
+      text-decoration: none;
+      color: #007bff;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+
+
+
+
+  <h2>Primary 2 Class Information</h2>
+
+  <table>
+    <tbody><tr>
+      <th>Class</th>
+      <th>Form Teachers</th>
+      <th>Email Address</th>
+    </tr>
+    <tr>
+      <td>Confidence</td>
+      <td>Ms Nadia<br>Ms Lau Chin Ling</td>
+      <td><a href="mailto:nadia_erlyna_fauzilan@schools.gov.sg">nadia_erlyna_fauzilan@schools.gov.sg</a><br><a href="mailto:lau_chin_ling@schools.gov.sg">lau_chin_ling@schools.gov.sg</a></td>
+    </tr>
+    <tr>
+      <td>Diligence</td>
+      <td>Ms Karen Chin<br>Ms Emily Siew</td>
+      <td><a href="mailto:karen_chin_kar_wen@schools.gov.sg">karen_chin_kar_wen@schools.gov.sg</a><br><a href="mailto:siew_may_qi_emily@schools.gov.sg">siew_may_qi_emily@schools.gov.sg</a></td>
+    </tr>
+    <tr>
+      <td>Endurance</td>
+      <td>Mrs Ipiter<br>Ms Ong See See</td>
+      <td><a href="mailto:pappathi_Ipiter@schools.gov.sg">pappathi_Ipiter@schools.gov.sg</a><br><a href="mailto:ong_see_see@schools.gov.sg">ong_see_see@schools.gov.sg</a></td>
+    </tr>
+    <tr>
+      <td>Friendship</td>
+      <td>Mrs Gladys Chung<br>Mdm Teo Hui Xin</td>
+      <td><a href="mailto:ng_wai_heng_gladys@schools.gov.sg">ng_wai_heng_gladys@schools.gov.sg</a><br><a href="mailto:teo_hui_xin@schools.gov.sg">teo_hui_xin@schools.gov.sg</a></td>
+    </tr>
+    <tr>
+      <td>Graciousness</td>
+      <td>Ms Jada Woo<br>Ms Lee Seow Yian</td>
+      <td><a href="mailto:jada_woo@schools.gov.sg">jada_woo@schools.gov.sg</a><br><a href="mailto:lee_seow_yian@schools.gov.sg">lee_seow_yian@schools.gov.sg</a></td>
+    </tr>
+    <tr>
+      <td>Honesty</td>
+      <td>Mdm Shabana<br>Mr Wan Jiajun</td>
+      <td><a href="mailto:nurjhana_shabana_musa_bharooch@schools.gov.sg">nurjhana_shabana_musa_bharooch@schools.gov.sg</a><br><a href="mailto:wan_jiajun@schools.gov.sg">wan_jiajun@schools.gov.sg</a></td>
+    </tr>
+    <tr>
+      <td>Kindness</td>
+      <td>Ms Joy Ang<br>Ms Zakiah</td>
+      <td><a href="mailto:ang_soo_en_joy@schools.gov.sg">ang_soo_en_joy@schools.gov.sg</a><br><a href="mailto:zakiah_kassim@schools.gov.sg">zakiah_kassim@schools.gov.sg</a></td>
+    </tr>
+  </tbody></table>
+
+
+
+
