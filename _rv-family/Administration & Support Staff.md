@@ -2,6 +2,7 @@
 title: Administration & Support Staff
 permalink: /rv-family/Administration-Support-Staff/
 description: ""
+variant: markdown
 ---
 <title>Organization Information</title>
 
@@ -38,16 +39,6 @@ description: ""
         <td>Operations Manager</td>
         <td>Mr Nicholas Yiow</td>
         <td><a href="mailto:Yiow_Chia_Liang@moe.edu.sg">yiow_chia_liang@moe.edu.sg</a></td>
-    </tr>
-    <tr>
-        <td>Administrative Executive</td>
-        <td>Mdm May Lee</td>
-        <td><a href="mailto:lee_siew_kim@schools.gov.sg">lee_siew_kim@schools.gov.sg</a></td>
-    </tr>
-    <tr>
-        <td>Management Support Officer</td>
-        <td>Ms Ang Ai Zhen</td>
-        <td><a href="mailto:ang_aizhen@schools.gov.sg">ang_aizhen@schools.gov.sg</a></td>
     </tr>
     <tr>
         <td>Management Support Officer</td>
