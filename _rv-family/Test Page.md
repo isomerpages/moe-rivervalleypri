@@ -170,3 +170,107 @@ description: ""
 
 
 
+
+
+
+
+
+
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        th, td {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+
+        a {
+            text-decoration: none;
+            color: blue;
+        }
+    </style>
+
+
+
+
+    <h2>Primary 3 - Class Teachers</h2>
+
+    <table>
+        <tbody><tr>
+            <th>Class</th>
+            <th>Form Teachers</th>
+            <th>Email Address</th>
+        </tr>
+        <tr>
+            <td>Confidence</td>
+            <td>Mr Tyler Ng</td>
+            <td><a href="mailto:ng_min_yu_tyler@schools.gov.sg">ng_min_yu_tyler@schools.gov.sg</a></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Ms Sofia</td>
+            <td><a href="mailto:sofia_samri@schools.gov.sg">sofia_samri@schools.gov.sg</a></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Ms Lye Fong Ying</td>
+            <td><a href="mailto:lye_fong_ying@schools.gov.sg">lye_fong_ying@schools.gov.sg</a></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Ms Ler Shiaw Han</td>
+            <td><a href="mailto:Ler_Shiaw_Han@schools.gov.sg">Ler_Shiaw_Han@schools.gov.sg</a></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Ms Wong Ching Yee</td>
+            <td><a href="mailto:wong_ching_yee@schools.gov.sg">wong_ching_yee@schools.gov.sg</a></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Ms Jeanie</td>
+            <td><!-- No email provided --></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Ms Chan Qiuting</td>
+            <td><a href="mailto:chan_qiuting@schools.gov.sg">chan_qiuting@schools.gov.sg</a></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Mdm Mary Chum</td>
+            <td><a href="mailto:chum_siew_yun_mary@schools.gov.sg">chum_siew_yun_mary@schools.gov.sg</a></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Ms Chen Chueh Ching</td>
+            <td><a href="mailto:chen_chueh_ching@schools.gov.sg">chen_chueh_ching@schools.gov.sg</a></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Mr Matthew Chong</td>
+            <td><a href="mailto:chong_chi_au_matthew@schools.gov.sg">chong_chi_au_matthew@schools.gov.sg</a></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Ms Chen Weixuan</td>
+            <td><a href="mailto:chen_weixuan@schools.gov.sg">chen_weixuan@schools.gov.sg</a></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Mdm Huang Xin</td>
+            <td><a href="mailto:huang_xin@schools.gov.sg">huang_xin@schools.gov.sg</a></td>
+        </tr>
+    </tbody></table>
+
+
+
+
