@@ -7,15 +7,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/2023 Images/RVPS SD2023.jpg
+      background: /images/Web Banner 2024/Welcome.jpg
       key_highlights:
         - title: Parent Volunteer Scheme
           description: Click here to find out more
           url: /homepage/Parent-Volunteer-Scheme
-        - title: MOE SEXUALITY EDUCATION
-          description: Click here to find out more
-          url: /homepage/MOE-Sexuality-Education-in-Schools/
         - title: Waitlist Application Form
           description: Click here to apply
           url: http://go.gov.sg/2024rvwaitlist
+      variant: image
 ---

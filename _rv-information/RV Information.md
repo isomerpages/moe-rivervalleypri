@@ -2,16 +2,6 @@
 title: RV Information
 permalink: /rv-information/RV-Information/
 description: ""
+variant: tiptap
 ---
-|  	|  	|
-|---	|---	|
-| Postal Address 	| 2 River Valley Green, Singapore 237993 	|
-| School Email 	| [rvps@moe.edu.sg ](rvps@moe.edu.sg )	|
-| General Office Operating Hours 	|  0700 Hrs - 1730 Hrs 	|
-| General Office 	| 6737 1785 	|
-| HOD Room 	| 6734 1142 	|
-| Staff Room 	| 6734 2050 / 6235 7190 	|
-| Dental Clinic Opening Days 	| 8909 5948 Tuesday, Wednesday, Friday 	|
-| Fax 	| 6732 1951 	|
-| Student Learning Space (SLS) & Student ICON Password Reset  	|  [Password Reset Request Form](https://form.gov.sg/5da6a91857a4920012781a00) 	|
-| Parents Gateway 	| [Parents Gateway](/rv-partners/Parents-Gateway)	|
+<table><tbody><tr><th rowspan="1" colspan="1"><p></p></th><th rowspan="1" colspan="1"><p></p></th></tr><tr><td rowspan="1" colspan="1"><p>Postal Address</p></td><td rowspan="1" colspan="1"><p>2 River Valley Green, Singapore 237993</p></td></tr><tr><td rowspan="1" colspan="1"><p>School Email</p></td><td rowspan="1" colspan="1"><p><a href="rvps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rvps@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>General Office Operating Hours</p></td><td rowspan="1" colspan="1"><p>0700 Hrs - 1730 Hrs</p></td></tr><tr><td rowspan="1" colspan="1"><p>General Office</p></td><td rowspan="1" colspan="1"><p>6737 1785</p></td></tr><tr><td rowspan="1" colspan="1"><p>Dental Clinic Opening Days</p></td><td rowspan="1" colspan="1"><p>8909 5948 Tuesday, Wednesday, Friday</p></td></tr><tr><td rowspan="1" colspan="1"><p>Fax</p></td><td rowspan="1" colspan="1"><p>6732 1951</p></td></tr><tr><td rowspan="1" colspan="1"><p>Student Learning Space (SLS) &amp; Student ICON Password Reset</p></td><td rowspan="1" colspan="1"><p><a href="https://form.gov.sg/5da6a91857a4920012781a00" rel="noopener noreferrer nofollow" target="_blank">Password Reset Request Form</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Parents Gateway</p></td><td rowspan="1" colspan="1"><p><a href="/rv-partners/Parents-Gateway" rel="noopener noreferrer nofollow" target="_blank">Parents Gateway</a></p></td></tr></tbody></table><p></p>
