@@ -2,11 +2,6 @@
 title: School Curriculum Hours
 permalink: /rv-information/School-Curriculum-Hours/
 description: ""
+variant: tiptap
 ---
-| Levels 	| Days 	| School Hours 	| Recess Break 	| Snack Break 	| Lunch Break 	|
-|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|
-| Pri 1 & 2 	| Mon to Fri 	| 7.30am - 1.30 pm 	| 9.00 am - 9.30 am 	| 11.55 am 	|  	|
-|  Pri 3 & 4 	| Mon to Thurs 	| 7.30 am - 1.30 pm 	|  10.30am- 11.00am 	| 8.55am 	|  	|
-|  	| Fri 	| 7.30 am - 2.30 pm 	|  	|  	| 1.00 pm - 1.30 pm 	|
-|  Pri 5 & 6 	| Mon to Thurs 	| 7.30am - 1.30 pm 	|  10.00 am - 10.30 am 	| 12.25 pm 	|  	|
-|  	| Fri 	| 7.30 am - 2.30 pm 	|  	|  	| 12.30pm - 1.00 pm 	|
+<table><tbody><tr><th rowspan="1" colspan="1"><p>Levels</p></th><th rowspan="1" colspan="1"><p>Days</p></th><th rowspan="1" colspan="1"><p>School Hours</p></th><th rowspan="1" colspan="1"><p>Recess Break</p></th><th rowspan="1" colspan="1"><p>Snack Break</p></th><th rowspan="1" colspan="1"><p>Lunch Break</p></th></tr><tr><td rowspan="1" colspan="1"><p>Pri 1 &amp; 2</p></td><td rowspan="1" colspan="1"><p>Mon to Fri</p></td><td rowspan="1" colspan="1"><p>7.30am - 1.30 pm</p></td><td rowspan="1" colspan="1"><p>11.00 am - 11.30 am</p></td><td rowspan="1" colspan="1"><p>9.00 am</p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Pri 3 &amp; 4</p></td><td rowspan="1" colspan="1"><p>Mon to Thurs</p></td><td rowspan="1" colspan="1"><p>7.30 am - 1.30 pm</p></td><td rowspan="1" colspan="1"><p>12.00pm- 12.30pm</p></td><td rowspan="1" colspan="1"><p>9.00am</p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>Fri</p></td><td rowspan="1" colspan="1"><p>7.30 am - 2.30 pm</p></td><td rowspan="1" colspan="1"><p>10.30 am - 11.00 am</p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>1.00 pm - 1.30 pm</p></td></tr><tr><td rowspan="1" colspan="1"><p>Pri 5 &amp; 6</p></td><td rowspan="1" colspan="1"><p>Mon to Thurs</p></td><td rowspan="1" colspan="1"><p>7.30am - 1.30 pm</p></td><td rowspan="1" colspan="1"><p>11.30 am - 12.00 pm</p></td><td rowspan="1" colspan="1"><p>9.00 pm</p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>Fri</p></td><td rowspan="1" colspan="1"><p>7.30 am - 2.30 pm</p></td><td rowspan="1" colspan="1"><p>10.00 am - 10.30 am</p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>12.30pm - 1.00 pm</p></td></tr></tbody></table><p></p>
