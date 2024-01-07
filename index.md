@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Web Banner 2024/Welcome.jpg
+      background: /images/2023 Images/RVPS SD2023.jpg
       key_highlights:
         - title: Parent Volunteer Scheme
           description: Click here to find out more
