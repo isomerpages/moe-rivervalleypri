@@ -15,5 +15,8 @@ sections:
         - title: Waitlist Application Form
           description: Click here to apply
           url: http://go.gov.sg/2024rvwaitlist
+        - title: Sexuality Education 2024
+          description: Click here to read more
+          url: https://rivervalleypri.moe.edu.sg/rv-curriculum/cce/sexuality-education-2024/
       variant: image
 ---
