@@ -1,0 +1,72 @@
+logo: /images/2023 Images/RVPS Logo.png
+links:
+  - title: About RV
+    url: /about-rv/About-RV
+    sublinks:
+      - title: School Crest
+        url: /about-rv/School-Crest
+      - title: Vision, Mission & Values
+        url: /about-rv/Vision-Mission-Values
+      - title: School Rules & Regulation
+        url: /about-rv/School-Rules-and-Regulations
+      - title: Homework Guidelines
+        url: /about-rv/Homework-Guidelines
+      - title: Student Safety
+        url: /about-rv/Student-Safety/Student-Safety
+  - title: RV Family
+    url: /rv-family/rv-family/
+    sublinks:
+      - title: Principal
+        url: /rv-family/Principal
+      - title: Vice-Principals
+        url: /rv-family/Vice-Principals
+      - title: Key Personnel
+        url: /rv-family/Key-Personnel
+      - title: Teaching Staff
+        url: /rv-family/teaching-staff
+      - title: Administration & Support Staff
+        url: /rv-family/Administration-Support-Staff
+  - title: RV Curriculum
+    url: /rv-curriculum/Curriculum-and-Instruction/English
+    sublinks:
+      - title: Curriculum & Instruction
+        url: /rv-curriculum/Curriculum-and-Instruction/English
+      - title: Character & Citizenship Ed
+        url: /rv-curriculum/CCE/Student-Well-Being
+      - title: Co-Curricular Activities
+        url: /rv-curriculum/CCA-And-PAL/Co-Curricular-Activities-CCA
+  - title: RV Partners
+    url: /rv-partners/Partnerships-in-RVPS
+    sublinks:
+      - title: School Advisory Committee
+        url: /rv-partners/School-Advisory-Committee-SAC
+      - title: Parent Engagement Programme
+        url: /rv-partners/Parent-Engagement-Programme
+      - title: Community Partner Programme
+        url: /rv-partners/Community-Partnerships-Programme
+      - title: Parents Gateway
+        url: /rv-partners/Parents-Gateway
+  - title: RV Information
+    url: /rv-information/RV-Information
+    sublinks:
+      - title: School Curriculum Hours
+        url: /rv-information/School-Curriculum-Hours
+      - title: Directions to School
+        url: /rv-information/Directions-to-School
+      - title: Vendor Information
+        url: /rv-information/Vendor-Information
+      - title: School Canteen
+        url: /rv-information/school-canteen/
+      - title: Student Learning Space
+        url: /rv-information/Student-Learning-Space
+  - title: RV Student
+    url: /rv-student/RV-Student
+    sublinks:
+      - title: RV Photo
+        url: https://photos.app.goo.gl/RusZoWtb9inmKxDi8
+      - title: Student Learning Space (SLS)
+        url: https://vle.learning.moe.edu.sg/login
+      - title: Student iCON
+        url: https://workspace.google.com/dashboard
+      - title: RV Library
+        url: https://schoolibrary.moe.edu.sg/rivervalleypri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME
