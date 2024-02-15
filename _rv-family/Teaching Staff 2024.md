@@ -493,7 +493,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Honest</p>
+<p>Honesty</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chen Weixuan</p>
