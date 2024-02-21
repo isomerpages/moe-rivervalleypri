@@ -182,7 +182,7 @@ variant: tiptap
 <p>TRANSIT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Idawatee</p>
+<p>Mdm Ida</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:idawatee_ahmad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">idawatee_ahmad@schools.gov.sg</a>
