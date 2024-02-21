@@ -182,10 +182,11 @@ variant: tiptap
 <p>TRANSIT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Idawatee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:idawatee_ahmad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">idawatee_ahmad@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -193,10 +194,11 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Janice Cheong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:cheong_qian_hua@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheong_qian_hua@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
