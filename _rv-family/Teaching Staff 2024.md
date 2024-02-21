@@ -177,6 +177,30 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TRANSIT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ida</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:idawatee_ahmad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">idawatee_ahmad@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Janice Cheong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:cheong_qian_hua@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheong_qian_hua@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3><strong>Primary 2</strong></h3>
