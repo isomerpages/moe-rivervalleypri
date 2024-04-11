@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/2023 Images/RVPS SD2023.jpg
+      background: /images/Homepage/school_website2.gif
       key_highlights:
         - title: Parent Volunteer Scheme
           description: Click here to find out more
