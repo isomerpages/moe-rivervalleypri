@@ -86,7 +86,8 @@ variant: tiptap
 <p>Ms Patricia Lee Ru Ying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Patricia_Lee_Ru_Ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Patricia_Lee_Ru_Ying@schools.gov.sg</a> 
+</p>
 </td>
 </tr>
 <tr>
