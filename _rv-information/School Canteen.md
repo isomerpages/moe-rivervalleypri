@@ -20,13 +20,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Japanese Food Stall</p>
+<p>Chinese Rice Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31 August 2023</p>
+<p>14 May 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Halal / Non-halal stalls are acceptable.</p>
+<p>Non-halal</p>
 </td>
 </tr>
 <tr>
@@ -34,7 +34,7 @@ variant: tiptap
 <p>Malay Noodles Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31 August 2023</p>
+<p>14 May 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Halal</p>
