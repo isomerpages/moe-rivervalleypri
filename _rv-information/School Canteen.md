@@ -43,17 +43,20 @@ variant: tiptap
 </tbody>
 </table>
 <p>Application Procedure</p>
-<p>1. Download and complete the application form. You may also request for
-a hardcopy form from the School’s General Office.</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Download and complete the application form. You may also request for a
+hardcopy form from the School’s General Office.</p>
 <blockquote>
 <p><a href="/files/school%20canteen%20application%20form.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>
 </p>
 </blockquote>
-<ol start="2" data-tight="true" class="tight">
+</li>
 <li>
 <p>Please enclose the following documents together with the application form:</p>
 </li>
 </ol>
+<blockquote>
 <ul data-tight="true" class="tight">
 <li>
 <p>Photocopy of the NRIC (front and back)</p>
@@ -66,12 +69,14 @@ a hardcopy form from the School’s General Office.</p>
 etc</p>
 </li>
 </ul>
+</blockquote>
 <ol start="3" data-tight="true" class="tight">
 <li>
 <p>Submit the completed application form and documents by closing date via
 email OR to the School's General Office.</p>
 </li>
 </ol>
+<blockquote>
 <ul data-tight="true" class="tight">
 <li>
 <p>Address: 2 River Valley Green, Singapore 237993</p>
@@ -86,22 +91,19 @@ email OR to the School's General Office.</p>
 <p>Contact Person: Mdm Chen Wanying</p>
 </li>
 </ul>
+</blockquote>
+<p></p>
 <p>How to get here?</p>
-<ul data-tight="true" class="tight">
-<li>
 <p>Nearest MRT: Alight at Great World MRT (Thomson-East Coast Line) Use exit
 1 Head east on River Valley Green</p>
-</li>
-<li>
 <p>Bus number: 32, 54, 139, 195 (River Valley Road) 5, 16, 175, 195, 75,
 970 (Kim Seng Road)</p>
-</li>
-</ul>
+<p></p>
 <p>Join us at River Valley Primary School if you fulfill the following requirements:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Completed food hygiene course and familiar with HPB’s Healthy Meals in
-Schools Programme (HMSP) guidelines. (see <a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">link</a>).</p>
+Schools Programme (HMSP) guidelines. (see link).</p>
 </li>
 <li>
 <p>Able to provide good service, and healthy/nutritious food at reasonable
