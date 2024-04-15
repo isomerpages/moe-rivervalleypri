@@ -58,20 +58,38 @@ hardcopy form from the School’s General Office.</p>
 <p>Please enclose the following documents together with the application form:</p>
 </li>
 </ol>
+<ul data-tight="true" class="tight">
+<li>
 <p>Photocopy of the NRIC (front and back)</p>
+</li>
+<li>
 <p>List of proposed menu and pricing for all items</p>
+</li>
+<li>
 <p>Photocopy of relevant certificates such as Basic Food Hygiene Course,
 etc</p>
+</li>
+</ul>
 <ol start="3" data-tight="true" class="tight">
 <li>
 <p>Submit the completed application form and documents by closing date via
 email OR to the School's General Office.</p>
 </li>
 </ol>
+<ul data-tight="true" class="tight">
+<li>
 <p>Address: 2 River Valley Green, Singapore 237993</p>
+</li>
+<li>
 <p>Contact No: 6737 1785</p>
+</li>
+<li>
 <p>Email: rvps@moe.edu.sg</p>
+</li>
+<li>
 <p>Contact Person: Mdm Chen Wanying</p>
+</li>
+</ul>
 <p></p>
 <p>How to get here?</p>
 <p>Nearest MRT: Alight at Great World MRT (Thomson-East Coast Line) Use exit
