@@ -47,16 +47,17 @@ variant: tiptap
 <li>
 <p>Download and complete the application form. You may also request for a
 hardcopy form from the School’s General Office.</p>
+<p></p>
 <blockquote>
 <p><a href="/files/school canteen application form.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>
 </p>
 </blockquote>
+<p></p>
 </li>
 <li>
 <p>Please enclose the following documents together with the application form:</p>
 </li>
 </ol>
-<blockquote>
 <ul data-tight="true" class="tight">
 <li>
 <p>Photocopy of the NRIC (front and back)</p>
@@ -69,14 +70,12 @@ hardcopy form from the School’s General Office.</p>
 etc</p>
 </li>
 </ul>
-</blockquote>
 <ol start="3" data-tight="true" class="tight">
 <li>
 <p>Submit the completed application form and documents by closing date via
 email OR to the School's General Office.</p>
 </li>
 </ol>
-<blockquote>
 <ul data-tight="true" class="tight">
 <li>
 <p>Address: 2 River Valley Green, Singapore 237993</p>
@@ -91,7 +90,6 @@ email OR to the School's General Office.</p>
 <p>Contact Person: Mdm Chen Wanying</p>
 </li>
 </ul>
-</blockquote>
 <p></p>
 <p>How to get here?</p>
 <p>Nearest MRT: Alight at Great World MRT (Thomson-East Coast Line) Use exit
@@ -103,7 +101,7 @@ email OR to the School's General Office.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Completed food hygiene course and familiar with HPB’s Healthy Meals in
-Schools Programme (HMSP) guidelines. (see link).</p>
+Schools Programme (HMSP) guidelines. <a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>.</p>
 </li>
 <li>
 <p>Able to provide good service, and healthy/nutritious food at reasonable
