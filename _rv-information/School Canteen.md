@@ -48,7 +48,7 @@ variant: tiptap
 <p>Download and complete the application form. You may also request for a
 hardcopy form from the School’s General Office.</p>
 <blockquote>
-<p><a href="/files/school%20canteen%20application%20form.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>
+<p><a href="/files/school canteen application form.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>
 </p>
 </blockquote>
 </li>
