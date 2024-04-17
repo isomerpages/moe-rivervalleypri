@@ -2,7 +2,5 @@
 title: RV Family
 permalink: /rv-family/rv-family/
 description: ""
+variant: markdown
 ---
-
-
-![](/images/2023%20Images/RVPS%20Staff%20Photo.jpg)
