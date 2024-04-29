@@ -32,13 +32,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Administration Manager</p>
+<p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Cherine Chan</p>
+<p>Mr Eric Woo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tiong_chiow_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tiong_chiow_yin@schools.gov.sg</a>
+<p><a href="mailto:woo_yeong_sang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">woo_yeong_sang@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -47,10 +47,10 @@ variant: tiptap
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Eric Woo</p>
+<p>Mr Chong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:woo_yeong_sang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">woo_yeong_sang@schools.gov.sg</a>
+<p><a href="mailto:Chong_Kwek_Fah_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Chong_Kwek_Fah_A@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -86,7 +86,7 @@ variant: tiptap
 <p>Ms Patricia Lee Ru Ying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Patricia_Lee_Ru_Ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Patricia_Lee_Ru_Ying@schools.gov.sg</a> 
+<p><a href="mailto:Patricia_Lee_Ru_Ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Patricia_Lee_Ru_Ying@schools.gov.sg</a>
 </p>
 </td>
 </tr>
