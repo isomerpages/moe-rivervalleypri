@@ -56,6 +56,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Operations Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Chong_Kwek_Fah_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Chong_Kwek_Fah_A@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Management Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -86,7 +98,7 @@ variant: tiptap
 <p>Ms Patricia Lee Ru Ying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Patricia_Lee_Ru_Ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Patricia_Lee_Ru_Ying@schools.gov.sg</a> 
+<p><a href="mailto:Patricia_Lee_Ru_Ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Patricia_Lee_Ru_Ying@schools.gov.sg</a>
 </p>
 </td>
 </tr>
