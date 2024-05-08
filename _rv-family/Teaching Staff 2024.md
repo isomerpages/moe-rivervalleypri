@@ -5,7 +5,12 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Primary 1</strong></h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -204,7 +209,12 @@ variant: tiptap
 </tbody>
 </table>
 <h3><strong>Primary 2</strong></h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -379,7 +389,12 @@ variant: tiptap
 </tbody>
 </table>
 <h3><strong>Primary 3</strong></h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -508,18 +523,6 @@ variant: tiptap
 <p>Honesty</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chen Weixuan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chen_weixuan@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Huang Xin</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -530,7 +533,12 @@ variant: tiptap
 </tbody>
 </table>
 <h3><strong>Primary 4</strong></h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -693,7 +701,12 @@ variant: tiptap
 </tbody>
 </table>
 <h3><strong>Primary 5</strong></h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -844,7 +857,12 @@ variant: tiptap
 </tbody>
 </table>
 <h3><strong>Primary 6</strong></h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
