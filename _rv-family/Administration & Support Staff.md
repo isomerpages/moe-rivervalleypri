@@ -5,7 +5,12 @@ description: ""
 variant: tiptap
 ---
 <h2>Executive and Administrative Staff</h2>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -150,7 +155,12 @@ variant: tiptap
 </tbody>
 </table>
 <h2>Allied Educators</h2>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -184,6 +194,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Tan_Hong_Min_Jermaine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hong_min_jermaine@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SEN Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Cheryl Teng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Teng_Li_Ting_Cheryl@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teng_li_ting_Cheryl@schools.gov.sg</a>
 </p>
 </td>
 </tr>
