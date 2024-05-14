@@ -205,7 +205,7 @@ variant: tiptap
 <p>Ms Cheryl Teng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Teng_Li_Ting_Cheryl@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Teng_Li_Ting_Cheryl@schools.gov.sg</a> 
+<p><a href="mailto:Teng_Li_Ting_Cheryl@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teng_li_ting_Cheryl@schools.gov.sg</a>
 </p>
 </td>
 </tr>
