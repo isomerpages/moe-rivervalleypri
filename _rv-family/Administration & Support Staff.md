@@ -61,6 +61,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Administrative Executive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Jessie Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Jessie_Lee_Siok_Bee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Jessie_Lee_Siok_Bee@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Management Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
