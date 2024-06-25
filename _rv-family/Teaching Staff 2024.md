@@ -295,10 +295,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Low Wei Ting</p>
+<p>Ms Loh Wei Ting</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:low_wei_ting@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_wei_ting@schools.gov.sg</a>
+<p><a href="mailto:low_wei_ting@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loh_Wei_Ting_A@schools.gov.sg</a>
 </p>
 </td>
 </tr>
