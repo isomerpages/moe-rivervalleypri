@@ -85,8 +85,6 @@ P2</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/RV%20Curriculum/Curriculum%20and%20Instructions/PE,%20Arts%20and%20Music/Aesthetics%20department/photo_6235498026902859832_w.png">
 </div>
 <h4>Our Visual Art Lessons</h4>
-<p><strong>Our Visual Arts Lessons</strong>
-</p>
 <p><strong>i) Drawing as a tool</strong>
 </p>
 <p>Drawing is used as a tool to express ideas and imagination. Our RVians
@@ -97,55 +95,67 @@ art.</p>
 <p>Students engage in a variety of art forms such as painting, paper collage,
 sculpture, printmaking and digital art. They actively contribute by showcasing
 their creations through displays of artworks around the school.</p>
-<p>ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Art Appreciation</strong>
+<p><strong>ii) Art Appreciation</strong>
 </p>
 <p>Our RVians are enriched with an appreciation of local art and heritage
 and those of international masters and contemporary artists during lessons.
 Our Primary 4 RVians learn about how local artists use artworks as visual
 diaries to understand Singapore’s history and heritage helps sharpen their
 visual inquiry skills.</p>
-<p></p>
-<p><strong>Dynamic Learning Experiences</strong>
-</p>
-<p><strong>i)&nbsp;&nbsp;&nbsp; Singapore Youth Festival</strong>
+<h4><strong>Dynamic Learning Experiences</strong></h4>
+<p><strong>i) Singapore Youth Festival</strong>
 </p>
 <p>In the biannual art exhibition, our RVians explore ideas based on a given
 theme. They exercise their creativity, make responsible decisions and collaborate
 in teams through the process of artmaking.</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In 2023, our Primary 3, 4
-and 5 team of students were awarded the Certificate of Recognition for
-their artworks. Their work was showcased at the Stamford Arts Centre.</p>
-<p>&nbsp;<strong>Art Competitions</strong>
+<p><strong>ii) Art Competitions</strong>
 </p>
 <p>Art Competitions are organized for our students. Students participate
 in competitions organised by local organisations in the community such
 as SOTA and the local museums.</p>
-<p><strong>iii. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Community Art Projects</strong>
+<p><strong>iii) Community Art Projects</strong>
 </p>
 <p>Our students are involved in community art projects to support the local
 efforts for different causes such as promoting care for the environment.&nbsp;</p>
-<p><strong>&nbsp;</strong>
-</p>
 <hr>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/RV%20Curriculum/Curriculum%20and%20Instructions/PE,%20Arts%20and%20Music/Aesthetics%20department/photo_6235498026902859834_w.png">
 </div>
 <h3>Our Music Lesson</h3>
 <hr>
+<p><strong>i) Recess Performances</strong>
+</p>
+<p>The recess performance is an informal avenue where our RVians can showcase
+their musical talents to their peers. Through such platforms, our student
+performers will be able to harness their instrumental skills and build
+confidence. Student audience will also pick up performance etiquette and
+music appreciation.</p>
+<p><strong>i) Event Weeks</strong>
+</p>
+<p>Aside from various music experiences in the classroom, our RVians are
+also encouraged to showcase their talents during school events such as
+Teachers’ Day, National Day, and for the P6 students; during their Graduation
+Day.</p>
+<p><strong>ii) P2 Theatre Experience</strong>
+</p>
+<p>To enhance learning through the appreciation and understanding of theatre,
+the Primary 2 students have the opportunity to attend a theatre experience
+with Esplanade.</p>
 <h3>Signature Programme</h3>
 <hr>
-<p><strong>The</strong>&nbsp;<strong>aRtsVenture week</strong>&nbsp;is a
-signature programme where RVians develop a passion for learning and appreciation
-of the arts by expressing themselves through various art and music making
-activities.</p>
-<p>Some key highlights include:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Recess Booths and Performances</p>
-</li>
-<li>
-<p>Assembly Programmes</p>
-</li>
-</ul>
+<p><strong>A.&nbsp;&nbsp;&nbsp; Art &amp; Music Showcase for P6 Graduation</strong>
+</p>
+<p>P6 RVians reflect on their school journey by creating personalized artworks
+and composing music that mirrors their experiences. Their creations are
+showcased during the graduation ceremony, where they share them with peers,
+teachers, and families as they transition to the next phase in their educational
+journey. This celebrates their growth and achievements over the past six
+years!</p>
+<p><strong>B.&nbsp;&nbsp;&nbsp; RV-AMPowered! Carnival</strong>
+</p>
+<p>The RV-AMPowered is a signature programme which seeks to celebrate the
+passion in the learning of Art, Music and PE. Our RVians had the opportunity
+to take part in exciting carnival games and collaborative music and craft
+activities during recess. Our RVians have also put up songs related to
+the theme and watch performances by their peers through a concert.</p>
 <p></p>
