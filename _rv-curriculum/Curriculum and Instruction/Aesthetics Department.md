@@ -8,7 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/RV%20Curriculum/Curriculum%20and%20Instructions/PE,%20Arts%20and%20Music/Aesthetics%20department/photo_6235498026902859828_w.png">
 </div>
-<h4><strong><u>Key Programmes &amp; Pedagogical Approaches</u></strong></h4>
+<h3><strong><u>Key Programmes &amp; Pedagogical Approaches</u></strong></h3>
 <p>The school adopts the E3 approach to ensure that our arts programme provides
 structured and diverse arts experiences for all RVians.</p>
 <table style="minWidth: 75px">
@@ -117,6 +117,7 @@ as SOTA and the local museums.</p>
 </p>
 <p>Our students are involved in community art projects to support the local
 efforts for different causes such as promoting care for the environment.&nbsp;</p>
+<p></p>
 <hr>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/RV%20Curriculum/Curriculum%20and%20Instructions/PE,%20Arts%20and%20Music/Aesthetics%20department/photo_6235498026902859834_w.png">
