@@ -5,7 +5,12 @@ description: ""
 variant: tiptap
 ---
 <p>River Valley Primary School Canteen Advertisement</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -20,21 +25,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinese Rice Stall</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>14 May 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Non-halal</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Malay Noodles Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>14 May 2024</p>
+<p>31 July 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Halal</p>
