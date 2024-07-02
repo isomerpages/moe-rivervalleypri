@@ -298,7 +298,7 @@ variant: tiptap
 <p>Ms Loh Wei Ting</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:low_wei_ting_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loh_Wei_Ting_A@schools.gov.sg</a>
+<p><a href="mailto:loh_wei_ting_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loh_Wei_Ting_A@schools.gov.sg</a>
 </p>
 </td>
 </tr>
