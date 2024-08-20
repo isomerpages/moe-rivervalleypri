@@ -37,6 +37,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Administration Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Kamaljeet Kaur</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Kamaljeet_Kaur@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Kamaljeet_Kaur@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
