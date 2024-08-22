@@ -300,7 +300,7 @@ Below is a listing of the CCAs and the Teachers-in-charge.
 <p>Ms Nadia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="pavanjeev_singh_chopra@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pavanjeev_singh_chopra@schools.gov.sg</a>
+<p><a href="mailto:nadia_erlyna_fauzilan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nadia_erlyna_fauzilan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
