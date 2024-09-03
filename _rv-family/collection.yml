@@ -2,7 +2,6 @@ collections:
   rv-family:
     output: true
     order:
-      - Example Title Test.md
       - RV Family.md
       - Principal.md
       - Vice Principals.md
