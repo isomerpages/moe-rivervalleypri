@@ -2,6 +2,7 @@ collections:
   rv-family:
     output: true
     order:
+      - Pair Chat x Isomer Demo.md
       - RV Family.md
       - Principal.md
       - Vice Principals.md
