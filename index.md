@@ -19,16 +19,4 @@ sections:
           description: Click here to read more
           url: https://rivervalleypri.moe.edu.sg/rv-curriculum/cce/sexuality-education-2024/
       variant: image
-  - announcements:
-      title: Announcements
-      id: announcements
-      announcement_items:
-        - title: "Notice: Temporary Phone Disruption"
-          date: 04 November 2024
-          announcement: On 4 November 2024, from 2:00 PM to 5:00 PM, our phone lines may
-            be temporarily unavailable due to work related to the General Office
-            renovation. For assistance during this time, please contact us via
-            email rvps@moe.edu.sg. Thank you for your understanding.
-          link_text: ""
-          link_url: ""
 ---
