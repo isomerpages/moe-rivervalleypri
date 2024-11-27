@@ -166,8 +166,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Ong Eng Teck</strong>
-<br><a href="mailto:kamaljeet_kaur@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_eng_teck</a>
-<a href="mailto:ong_eng_teck@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@schools.gov.sg</a>
+<br><a href="mailto:ong_eng_teck@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_eng_teck@schools.gov.sg</a>
 </p>
 </td>
 </tr>
