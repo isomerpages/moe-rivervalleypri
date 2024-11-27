@@ -25,7 +25,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Chen Wanying</strong>
-<br><a href="mailto:jacqueline_loh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_wanying@schools.gov.sg</a>
+<br><a href="mailto:chen_wanying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_wanying@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -35,8 +35,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Kaur</strong>
-<br><a href="mailto:kamaljeet_kaur@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kamaljeet_kaur</a>
-<a href="mailto:jacqueline_loh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@schools.gov.sg</a>
+<br><a href="mailto:kamaljeet_kaur@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kamaljeet_kaur@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -166,8 +165,9 @@ variant: tiptap
 <p>Lead SEN Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ong Eng Teck</p>
-<p><a href="mailto:ong_eng_teck@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_eng_teck@schools.gov.sg</a>
+<p><strong>Mr Ong Eng Teck</strong>
+<br><a href="mailto:kamaljeet_kaur@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_eng_teck</a>
+<a href="mailto:ong_eng_teck@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -176,8 +176,8 @@ variant: tiptap
 <p>SEN Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Janice Cheong</p>
-<p><a href="mailto:cheong_qian_hua@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheong_qian_hua@schools.gov.sg</a>
+<p><strong>Ms Janice Cheong</strong>
+<br><a href="mailto:cheong_qian_hua@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheong_qian_hua@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -186,8 +186,8 @@ variant: tiptap
 <p>SEN Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jermaine Tan</p>
-<p><a href="mailto:Tan_Hong_Min_Jermaine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hong_min_jermaine@schools.gov.sg</a>
+<p><strong>Ms Jermaine Tan</strong>
+<br><a href="mailto:tan_hong_min_jermaine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hong_min_jermaine@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -196,8 +196,8 @@ variant: tiptap
 <p>SEN Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Cheryl Teng</p>
-<p><a href="mailto:Teng_Li_Ting_Cheryl@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teng_li_ting_cheryl@schools.gov.sg</a>
+<p><strong>Ms Cheryl Teng</strong>
+<br><a href="mailto:teng_li_ting_cheryl@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teng_li_ting_cheryl@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -206,8 +206,8 @@ variant: tiptap
 <p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Edmund Chong</p>
-<p><a href="mailto:chong_kah_phoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chong_kah_phoon@schools.gov.sg</a>
+<p><strong>Mr Ong Eng Teck</strong>
+<br><a href="mailto:chong_kah_phoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chong_kah_phoon@schools.gov.sg</a>
 </p>
 </td>
 </tr>
