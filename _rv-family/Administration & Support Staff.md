@@ -28,7 +28,9 @@ variant: tiptap
 <p>Administration Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chen Wanying</p>
+<p><strong>Ms Chen Wanying</strong>
+<br><a href="mailto:jacqueline_loh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_wanying@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chen_wanying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_wanying@schools.gov.sg</a>
