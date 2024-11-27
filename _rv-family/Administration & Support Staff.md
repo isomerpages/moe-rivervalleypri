@@ -147,9 +147,8 @@ variant: tiptap
 </tbody>
 </table>
 <h2>Allied Educators</h2>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -161,9 +160,6 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Name</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Email</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -171,8 +167,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ong Eng Teck</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:ong_eng_teck@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_eng_teck@schools.gov.sg</a>
 </p>
 </td>
@@ -183,8 +177,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Janice Cheong</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:cheong_qian_hua@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheong_qian_hua@schools.gov.sg</a>
 </p>
 </td>
@@ -195,8 +187,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Jermaine Tan</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:Tan_Hong_Min_Jermaine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hong_min_jermaine@schools.gov.sg</a>
 </p>
 </td>
@@ -207,8 +197,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Cheryl Teng</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:Teng_Li_Ting_Cheryl@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teng_li_ting_cheryl@schools.gov.sg</a>
 </p>
 </td>
@@ -219,8 +207,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Edmund Chong</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:chong_kah_phoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chong_kah_phoon@schools.gov.sg</a>
 </p>
 </td>
@@ -228,9 +214,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>School Counselling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Rvps_Counselling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Rvps_Counselling@schools.gov.sg</a>
