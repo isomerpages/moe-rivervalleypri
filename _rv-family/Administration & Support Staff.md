@@ -57,8 +57,8 @@ variant: tiptap
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Chen Wanying</strong>
-<br><a href="mailto:jacqueline_loh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_wanying@schools.gov.sg</a>
+<p><strong>Mr Eric Woo</strong>
+<br><a href="mailto:woo_yeong_sang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">woo_yeong_sang@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -71,8 +71,8 @@ variant: tiptap
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Chen Wanying</strong>
-<br><a href="mailto:jacqueline_loh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_wanying@schools.gov.sg</a>
+<p><strong>Mr Chong</strong>
+<br><a href="mailto:chong_kwek_fah_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chong_kwek_fah@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -85,8 +85,8 @@ variant: tiptap
 <p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Chen Wanying</strong>
-<br><a href="mailto:jacqueline_loh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_wanying@schools.gov.sg</a>
+<p><strong>Mdm Jessie Lee</strong>
+<br><a href="mailto:jessie_lee_siok_bee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jessie_lee_siok_bee@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -99,8 +99,8 @@ variant: tiptap
 <p>Management Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Chen Wanying</strong>
-<br><a href="mailto:jacqueline_loh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_wanying@schools.gov.sg</a>
+<p><strong>Mdm Theresa Woo</strong>
+<br><a href="mailto:theresa_woo_wai_mun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">theresa_woo_wai_mun@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -113,8 +113,8 @@ variant: tiptap
 <p>Management Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Chen Wanying</strong>
-<br><a href="mailto:jacqueline_loh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_wanying@schools.gov.sg</a>
+<p><strong>Ms Tan Siew Huang</strong>
+<br><a href="mailto:tan_siew_huang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_siew_huang@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -127,8 +127,8 @@ variant: tiptap
 <p>Management Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Chen Wanying</strong>
-<br><a href="mailto:jacqueline_loh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_wanying@schools.gov.sg</a>
+<p><strong>Ms Patricia Lee</strong>
+<br><a href="mailto:jacqueline_loh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">patricia_lee_ru_ying@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -141,8 +141,8 @@ variant: tiptap
 <p>ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Chen Wanying</strong>
-<br><a href="mailto:jacqueline_loh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_wanying@schools.gov.sg</a>
+<p><strong>Mr Hasif</strong>
+<br><a href="mailto:jacqueline_loh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_hasif_mohd_hanifah@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -155,8 +155,8 @@ variant: tiptap
 <p>ICT Associate</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Chen Wanying</strong>
-<br><a href="mailto:jacqueline_loh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_wanying@schools.gov.sg</a>
+<p><strong>Ms Hannani</strong>
+<br><a href="mailto:jacqueline_loh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hannani_khalisahhaq_rosli@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
