@@ -47,7 +47,7 @@ links:
       - title: Parents Gateway
         url: /rv-partners/Parents-Gateway
   - title: RV Information
-    url: /rv-information/RV-Information
+    url: /rv-information
     sublinks:
       - title: School Curriculum Hours
         url: /rv-information/School-Curriculum-Hours
