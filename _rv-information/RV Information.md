@@ -103,7 +103,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Student Learning Space (SLS) &amp; Student ICON Password Reset</p>
+<p>Student Account Matters</p>
 </td>
 <td rowspan="1" colspan="2">
 <p><a href="https://form.gov.sg/5da6a91857a4920012781a00" rel="noopener noreferrer nofollow" target="_blank">Password Reset Request Form</a>
