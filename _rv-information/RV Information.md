@@ -26,6 +26,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>General Office Number</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>6737 1785</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>School Email</p>
 </td>
 <td rowspan="1" colspan="2">
@@ -73,14 +81,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>General Office Number</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>6737 1785</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Dental Clinic Opening Days</p>
 </td>
 <td rowspan="1" colspan="2">
@@ -110,6 +110,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="2">
 <p><a href="/rv-partners/Parents-Gateway" rel="noopener noreferrer nofollow" target="_blank">Parents Gateway</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Counselling Matters</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><a href="mailto:Rvps_Counselling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Rvps_Counselling@schools.gov.sg</a>
 </p>
 </td>
 </tr>
