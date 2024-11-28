@@ -2,9 +2,13 @@
 title: RV Information
 permalink: /rv-information/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -36,10 +40,10 @@ variant: markdown
 <p>General Office Operating Hours*&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>**School Term**
-0700 hrs – 1730 hrs
-**Vacation Term**
-0800 hrs – 1700 hrs</p>
+<p>School Term</p>
+<p>0700 hrs – 1730 hrs</p>
+<p>Vacation Term</p>
+<p>0800 hrs – 1700 hrs</p>
 </td>
 </tr>
 <tr>
@@ -47,8 +51,10 @@ variant: markdown
 <p>Collection Counter Operating Hours*&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>0900 hrs – 1500 hrs (School Term)</p>
-<p>0900 hrs – 1300 hrs (School Term Holiday)</p>
+<p>School Term</p>
+<p>0900 hrs – 1500 hrs</p>
+<p>Vacation Term</p>
+<p>0900 hrs – 1300 hrs</p>
 </td>
 </tr>
 <tr>
@@ -62,17 +68,10 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <p>Dental Clinic Opening Days</p>
+<p>Tuesday, Wednesday, Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8909 5948 Tuesday, Wednesday, Friday</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Fax</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6732 1951</p>
+<p>8909 5948</p>
 </td>
 </tr>
 <tr>
