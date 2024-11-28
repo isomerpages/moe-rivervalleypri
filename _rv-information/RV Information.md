@@ -12,7 +12,9 @@ variant: markdown
 </colgroup>
 <tbody>
 <tr>
-
+<th style="background-color: lightgrey; border: 1px solid black;" rowspan="1" colspan="3">
+<p></p>
+</th>
 </tr>
 <tr>
 <td style="border: 1px solid black;" rowspan="1" colspan="1">
