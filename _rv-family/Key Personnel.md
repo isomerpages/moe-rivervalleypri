@@ -49,18 +49,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ng Kok Leong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ng_kok_leong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_kok_leong@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>PE / CCA / Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -68,18 +56,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:teo_mei_ling_lynn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_mei_ling_lynn@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Info-Comm Technology</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Cindy Chew</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:cindy_chew_ai_ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cindy_chew_ai_ping@schools.gov.sg</a>
 </p>
 </td>
 </tr>
