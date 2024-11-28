@@ -2,7 +2,7 @@
 title: RV Information
 permalink: /rv-information/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <table style="minWidth: 75px">
 <colgroup>
@@ -73,17 +73,14 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>General Office</p>
+<p>General Office Number</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>6737 1785</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Dental Clinic Opening Days</p>
 </td>
 <td rowspan="1" colspan="2">
@@ -91,6 +88,9 @@ variant: markdown
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Dental Clinic Number</p>
+</td>
 <td rowspan="1" colspan="2">
 <p>8909 5948</p>
 </td>
