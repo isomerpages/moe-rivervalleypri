@@ -36,8 +36,10 @@ variant: markdown
 <p>General Office Operating Hours*&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>0700 hrs – 1730 hrs (School Term)</p>
-<p>0800 hrs – 1700 hrs (School Term Holiday)</p>
+<p>**School Term**
+0700 hrs – 1730 hrs
+**Vacation Term**
+0800 hrs – 1700 hrs</p>
 </td>
 </tr>
 <tr>
