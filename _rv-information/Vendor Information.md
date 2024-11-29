@@ -17,8 +17,8 @@ variant: markdown
         <h4>ACE@Work Student Care Pte Ltd</h4>
         <p><strong>Operating Hours:</strong></p>
         <ul>
-          <li>1.00 pm - 7.00 pm (School Day)</li>
-          <li>7.30 am - 7.00 pm (School Term Holiday)</li>
+          <li>1.00 pm - 7.00 pm (School Term)</li>
+          <li>7.30 am - 7.00 pm (Vacation Term)</li>
           <li>Closed on Saturday, Sunday, and Public Holidays</li>
         </ul>
       </td>
