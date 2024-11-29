@@ -15,7 +15,7 @@ Similar to the LEAPS Approach used by the secondary schools, we adopt it into de
 
 <h3>Programme for Active Learning (PAL)</h3>
 
-<p>Our Primary 1 and Primary 2 students are enrolled in the&nbsp;**Programme for Active Learning (PAL)**. Please <a href="#">Click here</a> for more information on our PAL program.</p>
+<p>Our Primary 1 and Primary 2 students are enrolled in the&nbsp;**Programme for Active Learning (PAL)**. Please <a href="https://rivervalleypri.moe.edu.sg/programme-active-learning">Click here</a> for more information on our PAL program.</p>
 
 <h3>CCA for Primary 3 to 6</h3>
 
