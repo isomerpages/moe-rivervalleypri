@@ -4,7 +4,7 @@ permalink: /aes-seno/
 description: ""
 variant: markdown
 ---
-<h3>School Staff</h3>
+<h3>Executive and Administrative Staff</h3>
 
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
   <thead>
