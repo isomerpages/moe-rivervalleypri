@@ -9,7 +9,7 @@ variant: markdown
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
   <thead>
     <tr style="background-color: lightgrey;">
-      <th style="border: 1px solid black; padding: 10px;">Role</th>
+      <th style="border: 1px solid black; padding: 10px;">Appointment</th>
       <th style="border: 1px solid black; padding: 10px;">Name</th>
       <th style="border: 1px solid black; padding: 10px;">Email</th>
     </tr>
@@ -88,7 +88,7 @@ variant: markdown
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
   <thead>
     <tr style="background-color: lightgrey;">
-      <th style="border: 1px solid black; padding: 10px;">Role</th>
+      <th style="border: 1px solid black; padding: 10px;">Appointment</th>
       <th style="border: 1px solid black; padding: 10px;">Name</th>
       <th style="border: 1px solid black; padding: 10px;">Email</th>
     </tr>
