@@ -4,17 +4,22 @@ permalink: /vice-principals/
 description: ""
 variant: markdown
 ---
-<h3>School Administration</h3>
+<h3>Our School Leaders</h3>
 
 <table style="width: 100%; border-collapse: collapse;">
   <thead>
     <tr style="background-color: lightgrey;">
-      <th style="border: 1px solid black; padding: 10px;">Role</th>
+      <th style="border: 1px solid black; padding: 10px;">Appointment</th>
       <th style="border: 1px solid black; padding: 10px;">Name</th>
       <th style="border: 1px solid black; padding: 10px;">Email</th>
     </tr>
   </thead>
   <tbody>
+		    <tr>
+      <td style="border: 1px solid black; padding: 10px;">Principal</td>
+      <td style="border: 1px solid black; padding: 10px;">Mrs Jennifer Pang</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:pang_chee_chyn@schools.gov.sg">pang_chee_chyn@schools.gov.sg</a></td>
+    </tr>
     <tr>
       <td style="border: 1px solid black; padding: 10px;">Vice Principal (Academic)</td>
       <td style="border: 1px solid black; padding: 10px;">Mrs Jacqueline Hiew</td>
