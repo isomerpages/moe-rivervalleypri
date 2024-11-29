@@ -4,7 +4,7 @@ permalink: /vendors/
 description: ""
 variant: markdown
 ---
-<h3>School Services</h3>
+<h3>Our Vendors</h3>
 
 <table style="width: 100%; border-collapse: collapse;">
   <tbody>
