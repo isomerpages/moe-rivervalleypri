@@ -6,8 +6,7 @@ variant: markdown
 ---
 <h2>Our Key Personnel</h2>
 
- 1 
-    <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
+<table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
   <thead>
     <tr style="background-color: lightgrey;">
       <th style="border: 1px solid black; padding: 10px;">Role</th>
@@ -16,7 +15,8 @@ variant: markdown
       <th style="border: 1px solid black; padding: 10px;">Email</th>
     </tr>
   </thead>
-  <tbody><tr>
+  <tbody>  
+    <tr>
       <td style="border: 1px solid black; padding: 10px; vertical-align: top;" rowspan="6">Head of Department</td>
       <td style="border: 1px solid black; padding: 10px;">English Language</td>
       <td style="border: 1px solid black; padding: 10px;">Ms Andrea Yap</td>
