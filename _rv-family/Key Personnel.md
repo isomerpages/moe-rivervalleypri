@@ -117,6 +117,18 @@ variant: markdown
       <td style="border: 1px solid black; padding: 10px;">Mr Fabian Koh</td>
       <td style="border: 1px solid black; padding: 10px;"><a href="mailto:koh_zong_cheng_fabian@schools.gov.sg">koh_zong_cheng_fabian@schools.gov.sg</a></td>
     </tr>
+		  <tr>
+      <td style="border: 1px solid black; padding: 10px;">Assistant Year Head</td>
+      <td style="border: 1px solid black; padding: 10px;">Ms Chan Qiuting</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:chan_qiuting@schools.gov.sg">	
+chan_qiuting@schools.gov.sg</a></td>
+    </tr>
+		  <tr>
+      <td style="border: 1px solid black; padding: 10px;">Assistant Year Head</td>
+      <td style="border: 1px solid black; padding: 10px;">Ms Nadia Erlyna</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:nadia_erlyna_fauzilan@schools.gov.sg">	
+nadia_erlyna_fauzilan@schools.gov.sg</a></td>
+    </tr>
   </tbody>
 </table>
 
