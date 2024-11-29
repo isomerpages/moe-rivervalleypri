@@ -68,7 +68,7 @@ variant: markdown
 <p>School Term</p>
 </td>
 <td style="border: 1px solid black;" rowspan="1" colspan="1">
-<p>Vacation Term</p>
+<p>School Holiday Term</p>
 </td>
 </tr>
 <tr>
