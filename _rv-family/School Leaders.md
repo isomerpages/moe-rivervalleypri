@@ -4,7 +4,7 @@ permalink: /school-leaders/
 description: ""
 variant: markdown
 ---
-<h3>Our School Leaders</h3>
+<h3>School Leaders</h3>
 
 <table style="width: 100%; border-collapse: collapse;">
   <thead>
