@@ -5,407 +5,137 @@ description: ""
 third_nav_title: CCA And PAL
 variant: markdown
 ---
-<p>In line with our four student-focused strategic objectives, RVPS works
-towards providing quality Co-Curricular Activities (CCA) programmes for
-our students. We believe that CCA is an important component of a child’s
-education.&nbsp;
-<br>
-</p>
-<p>We believe in the importance of values education through CCA. Our teachers
-work collaboratively with our partners to deliver lessons with the infusion
-of the Character &amp; Citizenship Education learning outcomes into our
-CCA unit plans. We offer a wide range of CCAs to cater to the different
-interests of our students.
-<br>
-</p>
-<p>Similar to the LEAPS Approach used by the secondary schools, we adopt
-it into development plan for our students to ensure the aspects on&nbsp;<strong>Leadership, Enrichment, Achievement, Participation and Service-Learning&nbsp;are incorporated in our CCA programmes</strong>.&nbsp;
-<br>
-</p>
-<p>Our Primary 1 and Primary 2 students are enrolled in the&nbsp;<strong>Programme for Active Learning (PAL)</strong>.&nbsp;Please&nbsp;click
-here&nbsp;for more information on our PAL programme. To ensure that every
-student is involved in a CCA, RVPS has incorporated CCA as part of curriculum
-time.
-<br>
-</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Primary 1 &amp; 2 PAL</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Fridays, 7.30 - 9:00am</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Primary 3 - 6 CCA</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Fridays, 7.30 -9:00am</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<ul data-tight="true" class="tight">
-<li>
-<p>Extra trainings for school team members are held on Monday afternoons,
-2:00 - 4:00pm.
-<br>
-</p>
-</li>
+<h2>Co-Curricular Activities (CCA) at RVPS</h2>
+
+<p>In line with our four student-focused strategic objectives, RVPS works towards providing quality Co-Curricular Activities (CCA) programmes for our students. We believe that CCA is an important component of a child’s education. </p>
+
+<p>We believe in the importance of values education through CCA. Our teachers work collaboratively with our partners to deliver lessons with the infusion of the Character &amp; Citizenship Education learning outcomes into our CCA unit plans. We offer a wide range of CCAs to cater to the different interests of our students.</p>
+
+Similar to the LEAPS Approach used by the secondary schools, we adopt it into development plan for our students to ensure the aspects on&nbsp;**Leadership, Enrichment, Achievement, Participation and Service-Learning&nbsp;are incorporated in our CCA programmes**.
+
+<h3>Programme for Active Learning (PAL)</h3>
+
+<p>Our Primary 1 and Primary 2 students are enrolled in the&nbsp;**Programme for Active Learning (PAL)**. Please <a href="#">Click here</a> for more information on our PAL program.</p>
+
+<h3>CCA for Primary 3 to 6</h3>
+
+<p>To ensure every student is involved in a CCA, we have incorporated it into curriculum time.  Primary 3 to 6 students can choose from a diverse range of 17 CCAs, categorized under:</p>
+
+<ul>
+  <li>Clubs &amp; Societies</li>
+  <li>Sports &amp; Games</li>
+  <li>Performing Arts</li>
+  <li>Uniformed Groups</li>
 </ul>
-<h4>CCA</h4>
-<hr>
-<p>We have a total of 17 CCAs for students to choose from. These CCAs fall
-under&nbsp;<strong>Clubs &amp; Societies, Sports &amp; Games, Performing Arts and Uniformed Groups</strong>.
-Below is a listing of the CCAs and the Teachers-in-charge.
-<br>
-</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>Clubs &amp; Societies</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Teacher-in-Charge</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Email</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Chess (Weiqi) Club</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Wong Ching Yee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="wong_ching_yee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_ching_yee@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Info-Comm Technology Club</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ong Wen Kai</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="tan_beiying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_wen_kai@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Visual Arts Club</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Kannan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="thilagarani_kannan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">thilagarani_kannan@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-</tbody>
+
+<p>CCA sessions are held on Fridays from 7:30 to 9:00 am. Extra trainings for school team members are held on Monday afternoons from 2:00 to 4:00 pm.</p>
+
+<h3>Teachers-in-Charge</h3>
+
+<table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
+  <thead>
+    <tr style="background-color: lightgrey;">
+      <th style="border: 1px solid black; padding: 10px;">CCA Category</th>
+      <th style="border: 1px solid black; padding: 10px;">CCA</th>
+      <th style="border: 1px solid black; padding: 10px;">Teacher-in-Charge</th>
+      <th style="border: 1px solid black; padding: 10px;">Email</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid black; padding: 10px; vertical-align: top;" rowspan="3">Clubs &amp; Societies</td>
+      <td style="border: 1px solid black; padding: 10px;">Chess (Weiqi) Club</td>
+      <td style="border: 1px solid black; padding: 10px;">Ms Wong Ching Yee</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:wong_ching_yee@schools.gov.sg">wong_ching_yee@schools.gov.sg</a></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 10px;">Info-Comm Technology Club</td>
+      <td style="border: 1px solid black; padding: 10px;">Mr Ong Wen Kai</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:ong_wen_kai@schools.gov.sg">ong_wen_kai@schools.gov.sg</a></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 10px;">Visual Arts Club</td>
+      <td style="border: 1px solid black; padding: 10px;">Mrs Kannan</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:thilagarani_kannan@schools.gov.sg">thilagarani_kannan@schools.gov.sg</a></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 10px; vertical-align: top;" rowspan="4">Performing Arts</td>
+      <td style="border: 1px solid black; padding: 10px;">Concert Band</td>
+      <td style="border: 1px solid black; padding: 10px;">Ms Chen Chueh Ching</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:chen_chueh_ching@schools.gov.sg">chen_chueh_ching@schools.gov.sg</a></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 10px;">Choir</td>
+      <td style="border: 1px solid black; padding: 10px;">Ms Karen Chin</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:karen_chin_kar_wen@schools.gov.sg">karen_chin_kar_wen@schools.gov.sg</a></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 10px;">Dance Ensemble</td>
+      <td style="border: 1px solid black; padding: 10px;">Ms Sim Kay Yin</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:sim_kay_yin@schools.gov.sg">sim_kay_yin@schools.gov.sg</a></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 10px;">Drama</td>
+      <td style="border: 1px solid black; padding: 10px;">Ms Evelyn Ng</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:ng_geok_neo_evelyn@schools.gov.sg">ng_geok_neo_evelyn@schools.gov.sg</a></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 10px; vertical-align: top;" rowspan="7">Sports &amp; Games</td>
+      <td style="border: 1px solid black; padding: 10px;">Badminton (Boys only)</td>
+      <td style="border: 1px solid black; padding: 10px;">Ms Tay Ruiqi</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:tay_ruiqi@schools.gov.sg">tay_ruiqi@schools.gov.sg</a></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 10px;">Basketball (Boys only)</td>
+      <td style="border: 1px solid black; padding: 10px;">Mr Mufsin</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:abdul_mufsin@schools.gov.sg">abdul_mufsin@schools.gov.sg</a></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 10px;">Floorball (Boys only)</td>
+      <td style="border: 1px solid black; padding: 10px;">Ms Ranjini</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:ranjinidevi_thanasegaram@schools.gov.sg">ranjinidevi_thanasegaram@schools.gov.sg</a></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 10px;">Football (Boys only)</td>
+      <td style="border: 1px solid black; padding: 10px;">Ms Nadia</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:nadia_erlyna_fauzilan@schools.gov.sg">nadia_erlyna_fauzilan@schools.gov.sg</a></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 10px;">Netball (Girls only)</td>
+      <td style="border: 1px solid black; padding: 10px;">Mdm Teo Hui Xin</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:teo_hui_xin@schools.gov.sg">teo_hui_xin@schools.gov.sg</a></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 10px;">Volleyball (Girls only)</td>
+      <td style="border: 1px solid black; padding: 10px;">Mr Lao Li</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:lao_li@schools.gov.sg">lao_li@schools.gov.sg</a></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 10px;">Wushu</td>
+      <td style="border: 1px solid black; padding: 10px;">Ms Huang Xin</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:huang_xin@schools.gov.sg">huang_xin@schools.gov.sg</a></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 10px; vertical-align: top;" rowspan="3">Uniformed Groups</td>
+      <td style="border: 1px solid black; padding: 10px;">Brownies (Girls only)</td>
+      <td style="border: 1px solid black; padding: 10px;">Ms Tan Yee Li</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:tan_yee_li@schools.gov.sg">tan_yee_li@schools.gov.sg</a></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 10px;">Red Cross Society of Singapore</td>
+      <td style="border: 1px solid black; padding: 10px;">Ms Lin Chuqing</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:lin_chuqing@schools.gov.sg">lin_chuqing@schools.gov.sg</a></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 10px;">Scouts (Boys only)</td>
+      <td style="border: 1px solid black; padding: 10px;">Ms Roshane</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:roshane_rajandran@schools.gov.sg">roshane_rajandran@schools.gov.sg</a></td>
+    </tr>
+  </tbody>
 </table>
-<p>
-<br>
-</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>Performing Arts</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Teacher-in-Charge</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Email</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Concert Band</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Chen Chueh Ching</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="chen_chueh_ching@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_chueh_ching@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Choir</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Karen Chin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="karen_chin_kar_wen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">karen_chin_kar_wen@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Dance Ensemble</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Sim Kay Yin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="sim_kay_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sim_kay_yin@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Drama</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Evelyn Ng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="ng_geok_neo_evelyn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_geok_neo_evelyn@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
-<br>
-</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>Sports &amp; Games</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Teacher-in-Charge</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Email</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Badminton (Boys only)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Tay Ruiqi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="tay_ruiqi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tay_ruiqi@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Basketball (Boys only)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Mufsin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="abdul_mufsin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">abdul_mufsin@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Floorball (Boys only)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Ranjini</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="ranjinidevi_thanasegaram@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ranjinidevi_thanasegaram@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Football (Boys only)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Nadia</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nadia_erlyna_fauzilan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nadia_erlyna_fauzilan@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Netball (Girls only)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Teo Hui Xin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="teo_hui_xin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_hui_xin@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Volleyball (Girls only)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Lao Li</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="lao_li@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lao_li@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Wushu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Huang Xin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="huang_xin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">huang_xin@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
-<br>
-</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>Uniformed Groups</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Teacher-in-Charge</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Email</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Brownies (Girls only)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Tan Yee Li</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="tan_yee_li@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yee_li@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Red Cross Society of Singapore</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Lin Chuqing</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="lin_chuqing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lin_chuqing@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Scouts (Boys only)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Roshane</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="roshane_rajandran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">roshane_rajandran@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
-<br>All our Primary 3 to Primary 6 students are involved in a CCA and they
-are strongly encouraged to stay and excel in&nbsp;the CCA for the four
-years. At the end of Primary 6, students will be given a CCA Certificate
-to mark their graduation.</p>
-<p>Please visit the respective CCA pages for more information on the CCAs
-offered in RVPS and their activities.</p>
+
+<h3>CCA Commitment and Recognition</h3>
+
+<p>All Primary 3 to 6 students are expected to participate actively in their chosen CCA for four years.  At the end of Primary 6, students receive a CCA Certificate to acknowledge their commitment and achievements.</p>
+
+<p>For more detailed information on individual CCAs and their activities, please visit the respective CCA pages.</p>
