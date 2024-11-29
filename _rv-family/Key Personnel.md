@@ -25,6 +25,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Andrea Yap</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -71,6 +82,17 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Staff Developer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Spencer Khoo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <h2>Year Head</h2>
@@ -94,7 +116,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Primary 1 &amp; Primary 5</p>
+<p>Primary 2 &amp; Primary 6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Reginia Loh</p>
@@ -106,7 +128,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Primary 2 &amp; Primary 4</p>
+<p>Primary 3 &amp; Primary 5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lena Lim</p>
@@ -118,7 +140,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Primary 3 &amp; Primary 6</p>
+<p>Primary 1 &amp; Primary 4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Janaki</p>
@@ -151,6 +173,39 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Jia Ying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Serene Neo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Asveeny</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -171,6 +226,17 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:abdul_mufsin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">abdul_mufsin@schools.gov.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CCA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Fabian Koh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
