@@ -2,6 +2,7 @@
 title: About RV
 permalink: /about-rv/About-RV/
 description: ""
+variant: markdown
 ---
 ### School History
 --------------
@@ -18,4 +19,4 @@ River Valley Primary School was established in 1985 when three primary schools, 
 
 It moved to its current site at River Valley Green in March 2004. Mayor Heng Chee How officially opened the campus on 7th April 2005.
 
-Click [here](https://www.rivervalleypri.moe.edu.sg/about-rv/Vision-Mission-Values/) to read more about our School's Vision, Mission and Core Values.
+Click [here](https://rivervalleypri.moe.edu.sg/vision-mission-values/) to read more about our School's Vision, Mission and Core Values.
