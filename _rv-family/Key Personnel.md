@@ -6,18 +6,17 @@ variant: markdown
 ---
 <h2>Our Key Personnel</h2>
 
+<h3>Heads of Department</h3>
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
   <thead>
     <tr style="background-color: lightgrey;">
-      <th style="border: 1px solid black; padding: 10px;">Role</th>
-      <th style="border: 1px solid black; padding: 10px;">Area of Responsibility</th>
+      <th style="border: 1px solid black; padding: 10px;">Appointment</th>
       <th style="border: 1px solid black; padding: 10px;">Name</th>
       <th style="border: 1px solid black; padding: 10px;">Email</th>
     </tr>
   </thead>
-  <tbody>  
+  <tbody>
     <tr>
-      <td style="border: 1px solid black; padding: 10px; vertical-align: top;" rowspan="6">Head of Department</td>
       <td style="border: 1px solid black; padding: 10px;">English Language</td>
       <td style="border: 1px solid black; padding: 10px;">Ms Andrea Yap</td>
       <td style="border: 1px solid black; padding: 10px;">-</td>
@@ -47,8 +46,20 @@ variant: markdown
       <td style="border: 1px solid black; padding: 10px;">Mr Spencer Khoo</td>
       <td style="border: 1px solid black; padding: 10px;">-</td>
     </tr>
+  </tbody>
+</table>
+
+<h3>Year Heads</h3>
+<table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
+  <thead>
+    <tr style="background-color: lightgrey;">
+      <th style="border: 1px solid black; padding: 10px;">Appointment</th>
+      <th style="border: 1px solid black; padding: 10px;">Name</th>
+      <th style="border: 1px solid black; padding: 10px;">Email</th>
+    </tr>
+  </thead>
+  <tbody>
     <tr>
-      <td style="border: 1px solid black; padding: 10px; vertical-align: top;" rowspan="3">Year Head</td>
       <td style="border: 1px solid black; padding: 10px;">Primary 2 &amp; Primary 6</td>
       <td style="border: 1px solid black; padding: 10px;">Ms Reginia Loh</td>
       <td style="border: 1px solid black; padding: 10px;"><a href="mailto:loh_sook_yee_reginia@schools.gov.sg">loh_sook_yee_reginia@schools.gov.sg</a></td>
@@ -63,8 +74,20 @@ variant: markdown
       <td style="border: 1px solid black; padding: 10px;">Mdm Janaki</td>
       <td style="border: 1px solid black; padding: 10px;"><a href="mailto:janaki_retanam@schools.gov.sg">janaki_retanam@schools.gov.sg</a></td>
     </tr>
+  </tbody>
+</table>
+
+<h3>Level / Subject Heads</h3>
+<table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
+  <thead>
+    <tr style="background-color: lightgrey;">
+      <th style="border: 1px solid black; padding: 10px;">Appointment</th>
+      <th style="border: 1px solid black; padding: 10px;">Name</th>
+      <th style="border: 1px solid black; padding: 10px;">Email</th>
+    </tr>
+  </thead>
+  <tbody>
     <tr>
-      <td style="border: 1px solid black; padding: 10px; vertical-align: top;" rowspan="6">Level / Subject Head</td>
       <td style="border: 1px solid black; padding: 10px;">English Language</td>
       <td style="border: 1px solid black; padding: 10px;">Ms Tan Jia Ying</td>
       <td style="border: 1px solid black; padding: 10px;"><a href="mailto:tan_jia_ying_a@schools.gov.sg">tan_jia_ying_a@schools.gov.sg</a></td>
@@ -94,8 +117,20 @@ variant: markdown
       <td style="border: 1px solid black; padding: 10px;">Mr Fabian Koh</td>
       <td style="border: 1px solid black; padding: 10px;"><a href="mailto:koh_zong_cheng_fabian@schools.gov.sg">koh_zong_cheng_fabian@schools.gov.sg</a></td>
     </tr>
+  </tbody>
+</table>
+
+<h3>Lead Teachers / Senior Teachers</h3>
+<table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
+  <thead>
+    <tr style="background-color: lightgrey;">
+      <th style="border: 1px solid black; padding: 10px;">Appointment</th>
+      <th style="border: 1px solid black; padding: 10px;">Name</th>
+      <th style="border: 1px solid black; padding: 10px;">Email</th>
+    </tr>
+  </thead>
+  <tbody>
     <tr>
-      <td style="border: 1px solid black; padding: 10px; vertical-align: top;" rowspan="4">Lead Teacher / Senior Teacher</td>
       <td style="border: 1px solid black; padding: 10px;">Lead Teacher (PE)</td>
       <td style="border: 1px solid black; padding: 10px;">Ms Sherlyn Ng</td>
       <td style="border: 1px solid black; padding: 10px;"><a href="mailto:ng_wee_hua@schools.gov.sg">ng_wee_hua@schools.gov.sg</a></td>
