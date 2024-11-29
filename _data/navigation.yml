@@ -4,9 +4,9 @@ links:
     url: /about-rv/About-RV
     sublinks:
       - title: School Crest
-        url: /about-rv/School-Crest
+        url: /school-crest/
       - title: Vision, Mission & Values
-        url: /about-rv/Vision-Mission-Values
+        url: /vision-mission-values/
       - title: School Rules & Regulation
         url: /about-rv/School-Rules-and-Regulations
       - title: Homework Guidelines
@@ -16,16 +16,16 @@ links:
   - title: RV Family
     url: /rv-family/rv-family/
     sublinks:
-      - title: Principal
-        url: /rv-family/Principal
-      - title: Vice-Principals
-        url: /rv-family/Vice-Principals
+      - title: Principal's Message
+        url: /principal/
+      - title: School Leaders
+        url: /school-leaders/
       - title: Key Personnel
-        url: /rv-family/Key-Personnel
+        url: /key-personnel/
       - title: Teaching Staff
-        url: /rv-family/teaching-staff
+        url: /teaching-staff/
       - title: Administration & Support Staff
-        url: /rv-family/Administration-Support-Staff
+        url: /support-staff/
   - title: RV Curriculum
     url: /rv-curriculum/Curriculum-and-Instruction/English
     sublinks:
@@ -34,7 +34,7 @@ links:
       - title: Character & Citizenship Ed
         url: /rv-curriculum/CCE/Student-Well-Being
       - title: Co-Curricular Activities
-        url: /rv-curriculum/CCA-And-PAL/Co-Curricular-Activities-CCA
+        url: /rvps-cca
   - title: RV Partners
     url: /rv-partners/Partnerships-in-RVPS
     sublinks:
@@ -47,20 +47,20 @@ links:
       - title: Parents Gateway
         url: /rv-partners/Parents-Gateway
   - title: RV Information
-    url: /rv-information/RV-Information
+    url: /informations
     sublinks:
       - title: School Curriculum Hours
-        url: /rv-information/School-Curriculum-Hours
+        url: /school-hours
       - title: Directions to School
-        url: /rv-information/Directions-to-School
-      - title: Vendor Information
-        url: /rv-information/Vendor-Information
+        url: /directions
       - title: School Canteen
-        url: /rv-information/school-canteen/
+        url: /school-canteen/
+      - title: Vendor Information
+        url: /vendors
       - title: Student Learning Space
-        url: /rv-information/Student-Learning-Space
+        url: /sls
   - title: RV Student
-    url: /rv-student/RV-Student
+    url: .
     sublinks:
       - title: RV Photo
         url: https://photos.app.goo.gl/RusZoWtb9inmKxDi8

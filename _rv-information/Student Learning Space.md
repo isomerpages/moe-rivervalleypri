@@ -1,6 +1,6 @@
 ---
 title: Student Learning Space
-permalink: /rv-information/Student-Learning-Space/
+permalink: /sls/
 description: ""
 variant: tiptap
 ---

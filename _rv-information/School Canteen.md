@@ -1,6 +1,6 @@
 ---
 title: School Canteen
-permalink: /rv-information/school-canteen/
+permalink: /school-canteen/
 description: ""
 variant: tiptap
 ---

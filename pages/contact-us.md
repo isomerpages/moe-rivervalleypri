@@ -8,16 +8,14 @@ locations:
       - River Valley Primary School
       - 2 River Valley Green
       - Singapore 237993
-    operating_hours:
-      - days: Mon - Fri
-        time: 7.00 am - 5.30 pm
-        description: Closed on Weekend and Public Holidays
+    operating_hours: []
     maps_link: ""
-    title: Main Office
+    title: General Office
 contacts:
   - content:
       - phone: +65 6737 1785
       - email: rvps@moe.edu.sg
       - other: ""
     title: General Enquiries & Feedback
+feedback: ""
 ---

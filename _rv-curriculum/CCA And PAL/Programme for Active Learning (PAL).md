@@ -1,8 +1,9 @@
 ---
 title: Programme for Active Learning (PAL)
-permalink: /rv-curriculum/CCA-And-PAL/Programme-for-Active-Learning-PAL/
+permalink: /programme-active-learning/
 description: ""
 third_nav_title: CCA And PAL
+variant: markdown
 ---
 In 2009, the Primary Education Review and Implementation (PERI) committee gave their recommendations to raise the quality of primary education. A key aim of the recommendation was to achieve greater balance between the acquisition of knowledge and the development of skills and values to better prepare our children to thrive in a fast-changing and globalised future.
 
