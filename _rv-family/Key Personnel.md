@@ -132,7 +132,7 @@ nadia_erlyna_fauzilan@schools.gov.sg</a></td>
   </tbody>
 </table>
 
-<h3>Lead Teachers / Senior Teachers</h3>
+<h3>Lead / Senior Teachers</h3>
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
   <thead>
     <tr style="background-color: lightgrey;">
