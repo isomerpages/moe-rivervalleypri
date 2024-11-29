@@ -136,6 +136,6 @@ Similar to the LEAPS Approach used by the secondary schools, we adopt it into de
 
 <h3>CCA Commitment and Recognition</h3>
 
-<p>All Primary 3 to 6 students are expected to participate actively in their chosen CCA for four years.  At the end of Primary 6, students receive a CCA Certificate to acknowledge their commitment and achievements.</p>
+<p>All our Primary 3 to Primary 6 students are involved in a CCA and they are strongly encouraged to stay and excel in&nbsp;the CCA for the four years. At the end of Primary 6, students will be given a CCA Certificate to mark their graduation.</p>
 
 <p>For more detailed information on individual CCAs and their activities, please visit the respective CCA pages.</p>
