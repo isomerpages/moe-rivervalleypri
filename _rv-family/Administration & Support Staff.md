@@ -4,221 +4,125 @@ permalink: /aes-seno/
 description: ""
 variant: markdown
 ---
-<h2>Executive and Administrative Staff</h2>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Designation</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Administration Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Chen Wanying</strong>
-<br><a href="mailto:chen_wanying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_wanying@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Administration Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Kaur</strong>
-<br><a href="mailto:kamaljeet_kaur@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kamaljeet_kaur@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Operations Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Eric Woo</strong>
-<br><a href="mailto:woo_yeong_sang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">woo_yeong_sang@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Operations Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Chong</strong>
-<br><a href="mailto:chong_kwek_fah_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chong_kwek_fah_a@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Administrative Executive</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm Jessie Lee</strong>
-<br><a href="mailto:jessie_lee_siok_bee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jessie_lee_siok_bee@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Management Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm Theresa Woo</strong>
-<br><a href="mailto:theresa_woo_wai_mun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">theresa_woo_wai_mun@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Management Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Tan Siew Huang</strong>
-<br><a href="mailto:tan_siew_huang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_siew_huang@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Management Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Patricia Lee</strong>
-<br><a href="mailto:Patricia_Lee_Ru_Ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">patricia_lee_ru_ying@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ICT Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Hasif</strong>
-<br><a href="mailto:muhammad_hasif_mohd_hanifah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_hasif_mohd_hanifah@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ICT Associate</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Hannani</strong>
-<br><a href="mailto:hannani_khalisahhaq_rosli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hannani_khalisahhaq_rosli@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Operation Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Bong May Lin</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Operation Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Noraini</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Operation Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Rabia</p>
-</td>
-</tr>
-</tbody>
+<h3>School Staff</h3>
+
+<table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
+  <thead>
+    <tr style="background-color: lightgrey;">
+      <th style="border: 1px solid black; padding: 10px;">Role</th>
+      <th style="border: 1px solid black; padding: 10px;">Name</th>
+      <th style="border: 1px solid black; padding: 10px;">Email</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid black; padding: 10px;">Administration Manager</td>
+      <td style="border: 1px solid black; padding: 10px;">Ms Chen Wanying</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:chen_wanying@schools.gov.sg">chen_wanying@schools.gov.sg</a></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 10px;">Administration Manager</td>
+      <td style="border: 1px solid black; padding: 10px;">Ms Kaur</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:kamaljeet_kaur@schools.gov.sg">kamaljeet_kaur@schools.gov.sg</a></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 10px;">Operations Manager</td>
+      <td style="border: 1px solid black; padding: 10px;">Mr Eric Woo</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:woo_yeong_sang@schools.gov.sg">woo_yeong_sang@schools.gov.sg</a></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 10px;">Operations Manager</td>
+      <td style="border: 1px solid black; padding: 10px;">Mr Chong</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:chong_kwek_fah_a@schools.gov.sg">chong_kwek_fah_a@schools.gov.sg</a></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 10px;">Administrative Executive</td>
+      <td style="border: 1px solid black; padding: 10px;">Mdm Jessie Lee</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:jessie_lee_siok_bee@schools.gov.sg">jessie_lee_siok_bee@schools.gov.sg</a></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 10px;">Management Support Officer</td>
+      <td style="border: 1px solid black; padding: 10px;">Mdm Theresa Woo</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:theresa_woo_wai_mun@schools.gov.sg">theresa_woo_wai_mun@schools.gov.sg</a></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 10px;">Management Support Officer</td>
+      <td style="border: 1px solid black; padding: 10px;">Ms Tan Siew Huang</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:tan_siew_huang@schools.gov.sg">tan_siew_huang@schools.gov.sg</a></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 10px;">Management Support Officer</td>
+      <td style="border: 1px solid black; padding: 10px;">Ms Patricia Lee</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:Patricia_Lee_Ru_Ying@schools.gov.sg">patricia_lee_ru_ying@schools.gov.sg</a></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 10px;">ICT Manager</td>
+      <td style="border: 1px solid black; padding: 10px;">Mr Hasif</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:muhammad_hasif_mohd_hanifah@moe.edu.sg">muhammad_hasif_mohd_hanifah@moe.edu.sg</a></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 10px;">ICT Associate</td>
+      <td style="border: 1px solid black; padding: 10px;">Ms Hannani</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:hannani_khalisahhaq_rosli@moe.edu.sg">hannani_khalisahhaq_rosli@moe.edu.sg</a></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 10px;">Operation Support Officer</td>
+      <td style="border: 1px solid black; padding: 10px;">Mdm Bong May Lin</td>
+      <td style="border: 1px solid black; padding: 10px;">-</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 10px;">Operation Support Officer</td>
+      <td style="border: 1px solid black; padding: 10px;">Mdm Noraini</td>
+      <td style="border: 1px solid black; padding: 10px;">-</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 10px;">Operation Support Officer</td>
+      <td style="border: 1px solid black; padding: 10px;">Mdm Rabia</td>
+      <td style="border: 1px solid black; padding: 10px;">-</td>
+    </tr>
+  </tbody>
 </table>
-<h2>Allied Educators</h2>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Designation</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Lead SEN Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Ong Eng Teck</strong>
-<br><a href="mailto:ong_eng_teck@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_eng_teck@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SEN Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Janice Cheong</strong>
-<br><a href="mailto:cheong_qian_hua@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheong_qian_hua@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SEN Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Jermaine Tan</strong>
-<br><a href="mailto:tan_hong_min_jermaine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hong_min_jermaine@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SEN Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Cheryl Teng</strong>
-<br><a href="mailto:teng_li_ting_cheryl@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teng_li_ting_cheryl@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>School Counsellor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Ong Eng Teck</strong>
-<br><a href="mailto:chong_kah_phoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chong_kah_phoon@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>School Counselling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Rvps_Counselling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Rvps_Counselling@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-</tbody>
+
+<h3>Allied Educators</h3>
+
+<table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
+  <thead>
+    <tr style="background-color: lightgrey;">
+      <th style="border: 1px solid black; padding: 10px;">Role</th>
+      <th style="border: 1px solid black; padding: 10px;">Name</th>
+      <th style="border: 1px solid black; padding: 10px;">Email</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid black; padding: 10px;">Lead SEN Officer</td>
+      <td style="border: 1px solid black; padding: 10px;">Mr Ong Eng Teck</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:ong_eng_teck@schools.gov.sg">ong_eng_teck@schools.gov.sg</a></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 10px;">SEN Officer</td>
+      <td style="border: 1px solid black; padding: 10px;">Ms Janice Cheong</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:cheong_qian_hua@schools.gov.sg">cheong_qian_hua@schools.gov.sg</a></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 10px;">SEN Officer</td>
+      <td style="border: 1px solid black; padding: 10px;">Ms Jermaine Tan</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:tan_hong_min_jermaine@schools.gov.sg">tan_hong_min_jermaine@schools.gov.sg</a></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 10px;">SEN Officer</td>
+      <td style="border: 1px solid black; padding: 10px;">Ms Cheryl Teng</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:teng_li_ting_cheryl@schools.gov.sg">teng_li_ting_cheryl@schools.gov.sg</a></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 10px;">School Counsellor</td>
+      <td style="border: 1px solid black; padding: 10px;">Mr Ong Eng Teck</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:chong_kah_phoon@schools.gov.sg">chong_kah_phoon@schools.gov.sg</a></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 10px;">School Counselling</td>
+      <td style="border: 1px solid black; padding: 10px;">-</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:Rvps_Counselling@schools.gov.sg">Rvps_Counselling@schools.gov.sg</a></td>
+    </tr>
+  </tbody>
 </table>
-<p></p>
