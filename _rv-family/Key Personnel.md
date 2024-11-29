@@ -67,17 +67,17 @@ variant: markdown
       <td style="border: 1px solid black; padding: 10px; vertical-align: top;" rowspan="6">Level / Subject Head</td>
       <td style="border: 1px solid black; padding: 10px;">English Language</td>
       <td style="border: 1px solid black; padding: 10px;">Ms Tan Jia Ying</td>
-      <td style="border: 1px solid black; padding: 10px;">-</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:tan_jia_ying_a@schools.gov.sg">tan_jia_ying_a@schools.gov.sg</a></td>
     </tr>
     <tr>
       <td style="border: 1px solid black; padding: 10px;">Mathematics</td>
       <td style="border: 1px solid black; padding: 10px;">Ms Serene Neo</td>
-      <td style="border: 1px solid black; padding: 10px;">-</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:neo_xiao_ling_serene@schools.gov.sg">neo_xiao_ling_serene@schools.gov.sg</a></td>
     </tr>
     <tr>
       <td style="border: 1px solid black; padding: 10px;">Science</td>
       <td style="border: 1px solid black; padding: 10px;">Ms Asveeny</td>
-      <td style="border: 1px solid black; padding: 10px;">-</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:asveeny_sanjeevi@schools.gov.sg">asveeny_sanjeevi@schools.gov.sg</a></td>
     </tr>
     <tr>
       <td style="border: 1px solid black; padding: 10px;">Aesthetics</td>
@@ -92,7 +92,7 @@ variant: markdown
     <tr>
       <td style="border: 1px solid black; padding: 10px;">Co-Curricular Activities</td>
       <td style="border: 1px solid black; padding: 10px;">Mr Fabian Koh</td>
-      <td style="border: 1px solid black; padding: 10px;">-</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:koh_zong_cheng_fabian@schools.gov.sg">koh_zong_cheng_fabian@schools.gov.sg</a></td>
     </tr>
     <tr>
       <td style="border: 1px solid black; padding: 10px; vertical-align: top;" rowspan="4">Lead Teacher / Senior Teacher</td>
