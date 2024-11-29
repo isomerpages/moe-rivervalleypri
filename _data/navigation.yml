@@ -51,12 +51,12 @@ links:
         url: /rv-information/School-Curriculum-Hours
       - title: Directions to School
         url: /directions
+      - title: School Canteen
+        url: /school-canteen/
       - title: Vendor Information
         url: /vendors
       - title: Student Learning Space
         url: /sls
-      - title: School Canteen
-        url: /school-canteen/
   - title: RV Student
     url: .
     sublinks:
