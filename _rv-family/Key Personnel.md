@@ -4,7 +4,7 @@ permalink: /key-personnel/
 description: ""
 variant: markdown
 ---
-<h3>Heads of Department</h3>
+<h3>Head of Department</h3>
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
   <thead>
     <tr style="background-color: lightgrey;">
