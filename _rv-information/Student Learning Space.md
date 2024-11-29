@@ -1,0 +1,7 @@
+---
+title: Student Learning Space
+permalink: /sls/
+description: ""
+variant: tiptap
+---
+<h4><strong>School Operating Hours</strong></h4><p>During school operating hours, students should contact the&nbsp;<strong>School-based Helpline</strong>&nbsp;for SLS queries including all SLS access matters such as password reset and unlocking of accounts, as well as queries about lesson assignments.</p><blockquote><p><strong>School-based Helpline: 6737 1785</strong></p><p><strong>Mondays - Fridays: 8:00 am - 4:00 pm</strong></p></blockquote><p><a href="https://go.gov.sg/rvps-sls-reset-request" rel="noopener noreferrer nofollow" target="_blank">Password Reset Click Here</a></p><h4><strong>Non-School Operating Hours</strong></h4><p>Students can only&nbsp;contact the&nbsp;<strong>SLS Helpdesk</strong>&nbsp;outside the school operating hours.</p><blockquote><p><strong>SLS Helpdesk: 6702 6513</strong></p><p><strong>Mondays - Fridays: 4:00 pm - 9:00 pm</strong></p><p><strong>Saturdays: 9:00 am -&nbsp;9:00 pm</strong></p><p><strong>*Closed on Sundays &amp; Public Holidays</strong></p></blockquote><p>Alternatively, students can email the SLS Helpdesk at&nbsp;<a href="mailto:helpdesk@sls.ufinity.com" rel="noopener noreferrer nofollow" target="_blank">helpdesk@sls.ufinity.com</a>. When emailing the SLS Helpdesk, they should include their full name, name of school and form class.</p>
