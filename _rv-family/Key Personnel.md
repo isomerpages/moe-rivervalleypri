@@ -147,20 +147,25 @@ nadia_erlyna_fauzilan@schools.gov.sg</a></td>
       <td style="border: 1px solid black; padding: 10px;">Ms Sherlyn Ng</td>
       <td style="border: 1px solid black; padding: 10px;"><a href="mailto:ng_wee_hua@schools.gov.sg">ng_wee_hua@schools.gov.sg</a></td>
     </tr>
+		    <tr>
+      <td style="border: 1px solid black; padding: 10px;">Senior Teacher (EL)</td>
+      <td style="border: 1px solid black; padding: 10px;">Mrs Kannan</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:thilagarani_kannan@schools.gov.sg">thilagarani_kannan@schools.gov.sg</a></td>
+    </tr>
     <tr>
       <td style="border: 1px solid black; padding: 10px;">Senior Teacher (EL)</td>
       <td style="border: 1px solid black; padding: 10px;">Mrs Gladys Chung</td>
       <td style="border: 1px solid black; padding: 10px;"><a href="mailto:ng_wai_heng_gladys@schools.gov.sg">ng_wai_heng_gladys@schools.gov.sg</a></td>
     </tr>
     <tr>
-      <td style="border: 1px solid black; padding: 10px;">Senior Teacher (EL)</td>
-      <td style="border: 1px solid black; padding: 10px;">Mrs Kannan</td>
-      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:thilagarani_kannan@schools.gov.sg">thilagarani_kannan@schools.gov.sg</a></td>
-    </tr>
-    <tr>
       <td style="border: 1px solid black; padding: 10px;">Senior Teacher (CL)</td>
       <td style="border: 1px solid black; padding: 10px;">Ms Tan Yee Li</td>
       <td style="border: 1px solid black; padding: 10px;"><a href="mailto:tan_yee_li@schools.gov.sg">tan_yee_li@schools.gov.sg</a></td>
+    </tr>
+		    <tr>
+      <td style="border: 1px solid black; padding: 10px;">Senior Teacher (ML)</td>
+      <td style="border: 1px solid black; padding: 10px;">Mr Saddiq</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:mohamed_saddiq_b_mohamed@schools.gov.sg">mohamed_saddiq_b_mohamed@schools.gov.sg</a></td>
     </tr>
   </tbody>
 </table>
