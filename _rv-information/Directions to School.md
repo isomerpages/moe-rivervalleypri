@@ -1,7 +1,0 @@
----
-title: Directions to School
-permalink: /direction-to-school/
-description: ""
-variant: markdown
----
-<h4><a href="https://goo.gl/maps/MC9HhRPRbTCHbiuG9" rel="noopener noreferrer nofollow" target="_blank">River Valley Primary School, Google Map</a></h4><p><strong>By MRT</strong>: Alight at&nbsp;Great World MRT (Thomson-East Coast Line) Use&nbsp;exit 1 Head&nbsp;east&nbsp;on&nbsp;River Valley Green <br></p><p><strong>By Bus:<br>Bus service to River Valley Road</strong> : SBS Transit: 32, 54, 139, 195</p><p><strong>Bus service to Kim Seng Road</strong> : SBS Transit: 5, 16, 175, 195 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>SMRT: 75,&nbsp;970 <br></p><p><strong>By Car: Route 1</strong> CTE Exit 4 (Orchard Road)&nbsp;<br>After exit, turn right to Kramat Road&nbsp; &nbsp;&nbsp;<br>Turn left to Koek Road&nbsp;<br>Go straight down to Killiney Road and subsequently River Valley Close<br>Turn right to River Valley Green</p><p></p><p><strong>Route 2</strong>&nbsp;CTE Exit 1B (Outram Road/Tiong Bahru Road)&nbsp; &nbsp; &nbsp;&nbsp;<br>After exit, go straight along Chin Swee Road<br>Turn left to Havelock Road<br>Turn right to Saiboo Road<br>Go straight along Martin Road and River Valley Close&nbsp; &nbsp;&nbsp;<br>Turn left to River Valley Green</p>
