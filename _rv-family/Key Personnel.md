@@ -4,310 +4,116 @@ permalink: /key-personnel/
 description: ""
 variant: markdown
 ---
-<h2>Head of Department</h2>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Department</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Email</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>English Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Andrea Yap</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Sheila Chan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tay_sock_hwee_sheila@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tay_sock_hwee_sheila@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mother Tongue Languages</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Kay Ee Ee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:kay_ee_ee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kay_ee_ee@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>PE / CCA / Aesthetics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Lynn Teo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:teo_mei_ling_lynn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_mei_ling_lynn@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Student Management</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Chung Li Koon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chung_li_koon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chung_li_koon@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>School Staff Developer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Spencer Khoo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
+<h2>Our Key Personnel</h2>
+
+ 1 
+    <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
+  <thead>
+    <tr style="background-color: lightgrey;">
+      <th style="border: 1px solid black; padding: 10px;">Role</th>
+      <th style="border: 1px solid black; padding: 10px;">Area of Responsibility</th>
+      <th style="border: 1px solid black; padding: 10px;">Name</th>
+      <th style="border: 1px solid black; padding: 10px;">Email</th>
+    </tr>
+  </thead>
+  <tbody><tr>
+      <td style="border: 1px solid black; padding: 10px; vertical-align: top;" rowspan="6">Head of Department</td>
+      <td style="border: 1px solid black; padding: 10px;">English Language</td>
+      <td style="border: 1px solid black; padding: 10px;">Ms Andrea Yap</td>
+      <td style="border: 1px solid black; padding: 10px;">-</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 10px;">Mathematics</td>
+      <td style="border: 1px solid black; padding: 10px;">Mrs Sheila Chan</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:tay_sock_hwee_sheila@schools.gov.sg">tay_sock_hwee_sheila@schools.gov.sg</a></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 10px;">Mother Tongue Languages</td>
+      <td style="border: 1px solid black; padding: 10px;">Ms Kay Ee Ee</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:kay_ee_ee@schools.gov.sg">kay_ee_ee@schools.gov.sg</a></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 10px;">PE / CCA / Aesthetics</td>
+      <td style="border: 1px solid black; padding: 10px;">Ms Lynn Teo</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:teo_mei_ling_lynn@schools.gov.sg">teo_mei_ling_lynn@schools.gov.sg</a></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 10px;">Student Management</td>
+      <td style="border: 1px solid black; padding: 10px;">Ms Chung Li Koon</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:chung_li_koon@schools.gov.sg">chung_li_koon@schools.gov.sg</a></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 10px;">School Staff Developer</td>
+      <td style="border: 1px solid black; padding: 10px;">Mr Spencer Khoo</td>
+      <td style="border: 1px solid black; padding: 10px;">-</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 10px; vertical-align: top;" rowspan="3">Year Head</td>
+      <td style="border: 1px solid black; padding: 10px;">Primary 2 &amp; Primary 6</td>
+      <td style="border: 1px solid black; padding: 10px;">Ms Reginia Loh</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:loh_sook_yee_reginia@schools.gov.sg">loh_sook_yee_reginia@schools.gov.sg</a></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 10px;">Primary 3 &amp; Primary 5</td>
+      <td style="border: 1px solid black; padding: 10px;">Mdm Lena Lim</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:lena_lim@schools.gov.sg">lena_lim@schools.gov.sg</a></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 10px;">Primary 1 &amp; Primary 4</td>
+      <td style="border: 1px solid black; padding: 10px;">Mdm Janaki</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:janaki_retanam@schools.gov.sg">janaki_retanam@schools.gov.sg</a></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 10px; vertical-align: top;" rowspan="6">Level / Subject Head</td>
+      <td style="border: 1px solid black; padding: 10px;">English Language</td>
+      <td style="border: 1px solid black; padding: 10px;">Ms Tan Jia Ying</td>
+      <td style="border: 1px solid black; padding: 10px;">-</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 10px;">Mathematics</td>
+      <td style="border: 1px solid black; padding: 10px;">Ms Serene Neo</td>
+      <td style="border: 1px solid black; padding: 10px;">-</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 10px;">Science</td>
+      <td style="border: 1px solid black; padding: 10px;">Ms Asveeny</td>
+      <td style="border: 1px solid black; padding: 10px;">-</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 10px;">Aesthetics</td>
+      <td style="border: 1px solid black; padding: 10px;">Mrs Priscilla Yip</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:goh_shu_yi_priscilla@schools.gov.sg">goh_shu_yi_priscilla@schools.gov.sg</a></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 10px;">Student Management</td>
+      <td style="border: 1px solid black; padding: 10px;">Mr Mufsin</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:abdul_mufsin@schools.gov.sg">abdul_mufsin@schools.gov.sg</a></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 10px;">Co-Curricular Activities</td>
+      <td style="border: 1px solid black; padding: 10px;">Mr Fabian Koh</td>
+      <td style="border: 1px solid black; padding: 10px;">-</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 10px; vertical-align: top;" rowspan="4">Lead Teacher / Senior Teacher</td>
+      <td style="border: 1px solid black; padding: 10px;">Lead Teacher (PE)</td>
+      <td style="border: 1px solid black; padding: 10px;">Ms Sherlyn Ng</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:ng_wee_hua@schools.gov.sg">ng_wee_hua@schools.gov.sg</a></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 10px;">Senior Teacher (EL)</td>
+      <td style="border: 1px solid black; padding: 10px;">Mrs Gladys Chung</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:ng_wai_heng_gladys@schools.gov.sg">ng_wai_heng_gladys@schools.gov.sg</a></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 10px;">Senior Teacher (EL)</td>
+      <td style="border: 1px solid black; padding: 10px;">Mrs Kannan</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:thilagarani_kannan@schools.gov.sg">thilagarani_kannan@schools.gov.sg</a></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 10px;">Senior Teacher (CL)</td>
+      <td style="border: 1px solid black; padding: 10px;">Ms Tan Yee Li</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:tan_yee_li@schools.gov.sg">tan_yee_li@schools.gov.sg</a></td>
+    </tr>
+  </tbody>
 </table>
-<h2>Year Head</h2>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Year</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Email</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Primary 2 &amp; Primary 6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Reginia Loh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:loh_sook_yee_reginia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loh_sook_yee_reginia@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Primary 3 &amp; Primary 5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Lena Lim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lena_lim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lena_lim@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Primary 1 &amp; Primary 4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Janaki</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:janaki_retanam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">janaki_retanam@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h2>Level / Subject Head</h2>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Level/Subject</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Email</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>English Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Tan Jia Ying</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Serene Neo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Asveeny</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Aesthetics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Priscilla Yip</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:goh_shu_yi_priscilla@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_shu_yi_priscilla@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Student Management</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Mufsin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:abdul_mufsin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">abdul_mufsin@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Co Curricular Activities</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Fabian Koh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<h2>Lead Teacher and Senior Teachers</h2>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Lead Teacher (PE)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Sherlyn Ng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ng_wee_hua@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_wee_hua@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher (EL)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Gladys Chung</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ng_wai_heng_gladys@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_wai_heng_gladys@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher (EL)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Kannan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:thilagarani_kannan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">thilagarani_kannan@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher (CL)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Tan Yee Li</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_yee_li@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yee_li@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
