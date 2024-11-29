@@ -6,10 +6,6 @@ variant: markdown
 ---
 <img style="width:30%;height:50%" src="/images/About%20RV/RVPS%20Logo.png">
 
-
-
-
-
   <title>Vision, Mission and Values</title>
   <style>
     body {
