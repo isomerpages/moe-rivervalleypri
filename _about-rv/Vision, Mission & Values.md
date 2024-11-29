@@ -86,5 +86,3 @@ variant: markdown
   <li>Live with Compassion – We seek to understand and care, extending our hands to others in need. </li>
   <li>Learn with Excellence – We inspire learning, seek continuous improvement and bring out the best in everyone.</li>
 </ol>
-
-
