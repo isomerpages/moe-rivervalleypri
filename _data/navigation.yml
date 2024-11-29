@@ -53,10 +53,10 @@ links:
         url: /directions
       - title: Vendor Information
         url: /vendors
-      - title: School Canteen
-        url: /school-canteen/
       - title: Student Learning Space
         url: /sls
+      - title: School Canteen
+        url: /school-canteen/
   - title: RV Student
     url: .
     sublinks:
