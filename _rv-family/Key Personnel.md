@@ -230,7 +230,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CCA</p>
+<p>Co Curricular Activities</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Fabian Koh</p>
