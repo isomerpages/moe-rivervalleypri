@@ -10,7 +10,7 @@ locations:
       - Singapore 237993
     operating_hours: []
     maps_link: ""
-    title: Main Office
+    title: General Office
 contacts:
   - content:
       - phone: +65 6737 1785
