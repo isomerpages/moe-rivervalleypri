@@ -45,18 +45,18 @@ links:
       - title: Parents Gateway
         url: /rv-partners/Parents-Gateway
   - title: RV Information
-    url: /rv-information
+    url: /informations
     sublinks:
       - title: School Curriculum Hours
         url: /rv-information/School-Curriculum-Hours
       - title: Directions to School
-        url: /rvps-directions
+        url: /directions
       - title: Vendor Information
-        url: /rv-information/Vendor-Information
+        url: /vendors
       - title: School Canteen
-        url: /rv-information/school-canteen/
+        url: /school-canteen/
       - title: Student Learning Space
-        url: /rv-information/Student-Learning-Space
+        url: /sls
   - title: RV Student
     url: .
     sublinks:
