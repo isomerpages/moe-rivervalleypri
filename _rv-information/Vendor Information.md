@@ -18,7 +18,7 @@ variant: markdown
         <p><strong>Operating Hours:</strong></p>
         <ul>
           <li>1.00 pm - 7.00 pm (School Term)</li>
-          <li>7.30 am - 7.00 pm (Vacation Term)</li>
+          <li>7.30 am - 7.00 pm (School Holiday Term)</li>
           <li>Closed on Saturday, Sunday, and Public Holidays</li>
         </ul>
       </td>
