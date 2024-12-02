@@ -4,7 +4,7 @@ permalink: /vision-mission-values/
 description: ""
 variant: markdown
 ---
- <title>Vision, Mission and Values</title>
+<title>Vision, Mission and Values</title>
   <style>
     body {
       font-family: sans-serif;
@@ -26,10 +26,10 @@ variant: markdown
 
 
 <h2>Our Mission</h2>
-<p>To Nurture our students to be Future-Ready by providing a Total Education in RVPS</p>
+<p>To nurture our students to be Future-Ready by providing a Total Education in RVPS</p>
 
 <h2>Our Vision</h2>
-<p>Empowered Thinkers, Transformational Leaders</p>
+<p>Empowered Thinkers; Transformational Leaders</p>
 
 <h2>Our Core Values</h2>
 <ul>
@@ -46,7 +46,7 @@ variant: markdown
 <ul>
   <li>Strategic Thrust 1 – Nurturing Thinkers and Leaders</li>
   <li>Strategic Thrust 2 – Growing Staff Excellence</li>
-  <li>Strategic Thrust 3 – Strengthening Purposeful Partnership</li>
+  <li>Strategic Thrust 3 – Strengthening Purposeful Partnerships</li>
 </ul>
 
 <h2>Vision, Mission and Values Explained</h2>
@@ -64,7 +64,7 @@ variant: markdown
 
 <h3>Vision</h3>
 <h4>Empowered Thinkers; Transformational Leaders</h4>
-<p>RVians are equipped with critical thinking, adaptability, and a growth mindset. They confidently navigate challenges, distinguish fact from falsehood, and make informed decisions independently. They possess understanding of their strengths and weaknesses, viewing mistakes as opportunities for growth. Their leadership is not confined to titles; they actively engage in their communities, fostering positive change. They embrace diversity, motivate others, and communicate effectively, fostering collaboration and advocating for meaningful causes. Anchored in values, they exhibit resilience, take responsibility for their actions, and inspire innovation to build better communities..</p>
+<p>RVians are equipped with critical thinking, adaptability, and a growth mindset. They confidently navigate challenges, distinguish fact from falsehood, and make informed decisions independently. They possess understanding of their strengths and weaknesses, viewing mistakes as opportunities for growth. Their leadership is not confined to titles; they actively engage in their communities, fostering positive change. They embrace diversity, motivate others, and communicate effectively, fostering collaboration and advocating for meaningful causes. Anchored in values, they exhibit resilience, take responsibility for their actions, and inspire innovation to build better communities.</p>
 
 <h3>Mission</h3>
 <h4>To Nurture our students to be Future-Ready by providing a Total Education in RVPS</h4>
