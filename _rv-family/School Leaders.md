@@ -27,7 +27,7 @@ variant: markdown
     </tr>
     <tr>
       <td style="border: 1px solid black; padding: 10px;">Vice Principal (Academic)</td>
-      <td style="border: 1px solid black; padding: 10px;">Mrs Nurrashidah Abdul Rashid</td>
+      <td style="border: 1px solid black; padding: 10px;">Mdm Nur Rashidah</td>
       <td style="border: 1px solid black; padding: 10px;"><a href="mailto:Nurrashidah_Abdul_Rashid@schools.gov.sg">nurrashidah_abdul_rashid@schools.gov.sg</a></td>
     </tr>
     <tr>

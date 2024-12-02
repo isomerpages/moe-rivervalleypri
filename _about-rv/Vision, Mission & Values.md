@@ -46,11 +46,9 @@ variant: markdown
 
 <h2>Strategic Thrusts</h2>
 <ul>
-  <li>Enhancing Curriculum</li>
-  <li>Enriching Character</li>
-  <li>Empowering Staff</li>
-  <li>Engaging Partnerships</li>
-  <li>Enhancing Administration</li>
+  <li>Strategic Thrust 1 – Nurturing Thinkers and Leaders</li>
+  <li>Strategic Thrust 2 – Growing Staff Excellence</li>
+  <li>Strategic Thrust 3 – Strengthening Purposeful Partnership</li>
 </ul>
 
 <h2>Vision, Mission and Values Explained</h2>
@@ -67,8 +65,8 @@ variant: markdown
 <hr>
 
 <h3>Vision</h3>
-<h4>Inspiring Learners, Edifying Leaders</h4>
-<p>Our vision of “Inspiring Learners, Edifying Leaders” describes a school that inspires and edifies the lives of our staff and students. Inspiring Learners have the passion for continuous learning, seek better ways of doing things and become committed members of our school as a learning organization. Edifying Leaders have the confidence and leadership qualities to inspire and enrich the lives of others. Our staff is inspired to edify the lives of colleagues and students by co-creating our school as a great place to work, learn and play. We are committed to imbue our staff and students with this spirit of inspiring and edifying for us to contribute to the progress of our school and nation.</p>
+<h4>Empowered Thinkers; Transformational Leaders</h4>
+<p>RVians are equipped with critical thinking, adaptability, and a growth mindset. They confidently navigate challenges, distinguish fact from falsehood, and make informed decisions independently. They possess understanding of their strengths and weaknesses, viewing mistakes as opportunities for growth. Their leadership is not confined to titles; they actively engage in their communities, fostering positive change. They embrace diversity, motivate others, and communicate effectively, fostering collaboration and advocating for meaningful causes. Anchored in values, they exhibit resilience, take responsibility for their actions, and inspire innovation to build better communities..</p>
 
 <h3>Mission</h3>
 <h4>To Nurture our students to be Future-Ready by providing a Total Education in RVPS</h4>
