@@ -4,10 +4,7 @@ permalink: /rules-and-regulations/
 description: ""
 variant: markdown
 ---
-
-
-
-  <title>School Rules and Regulations</title>
+<title>School Rules and Regulations</title>
   <style>
     body {
       font-family: sans-serif;
@@ -169,5 +166,3 @@ variant: markdown
   <li>Students should practice proper toilet habits such as flushing the toilet and washing their hands properly with soap and water after use.</li>
   <li>Littering is an offence. There will be consequences for littering.</li>
 </ol>
-
-
