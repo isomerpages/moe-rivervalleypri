@@ -1,7 +1,8 @@
 ---
 title: School Rules & Regulations
-permalink: /about-rv/School-Rules-and-Regulations/
+permalink: /rules-and-regulations/
 description: ""
+variant: markdown
 ---
 ##### **1.**    ATTENDANCE AND PUNCTUALITY
 
