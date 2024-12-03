@@ -4,8 +4,6 @@ permalink: /homework-guidelines/
 description: ""
 variant: markdown
 ---
-Assist the same prompt for this webpage
-
 #### Introduction
 
 In River Valley Primary School, we believe that homework is an integral part of our students’ learning. Homework, when used appropriately, can reinforce students’ learning, provide feedback on their progress and cultivate a healthy disposition towards continual learning. 
