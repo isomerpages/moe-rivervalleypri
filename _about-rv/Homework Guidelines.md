@@ -4,127 +4,158 @@ permalink: /homework-guidelines/
 description: ""
 variant: markdown
 ---
-<title>Homework Policy</title>
-  <style>
-    body {
-      font-family: sans-serif;
-      line-height: 1.6;
-    }
+Assist the same prompt for this webpage
 
-    h2, h3, h4 {
-      color: #333;
-    }
+#### Introduction
 
-    h2 {
-      margin-bottom: 0.5em;
-    }
+In River Valley Primary School, we believe that homework is an integral part of our students’ learning. Homework, when used appropriately, can reinforce students’ learning, provide feedback on their progress and cultivate a healthy disposition towards continual learning. 
 
-    strong {
-      font-weight: bold;
-    }
+#### Definition of Homework
 
-    ul, ol {
-      margin-left: 2em;
-    }
-  </style>
+Homework refers to any learning activity that students are required by the school to complete outside of curriculum time.  This includes assignments and projects but not revision of school work or studying for tests and examinations.
+
+ 
+
+#### Objectives of Homework
+
+Effective use of homework can:
+
+(a)  reinforce learning and deepen understanding of lessons taught;
+
+(b)  allow students to regularly practise, and apply skills and concepts taught;
+
+(c)  develop good study skills and habits; and
+
+(d)  encourage greater ownership and responsibility for independent learning.
+
+   
+
+**Judicious use of homework allows teachers to:**
+
+(a)  consolidate learning that has taken place in class;
+
+(b)  check for students’ understanding and progress, so as to provide timely feedback, intervention and support; and
+
+(c)   review effectiveness of lesson.
+
+   
+
+**Homework also provides parents with:**
+
+(a)   timely information on the learning progress of their child; and
+
+(b)   opportunities to be involved in the child’s learning.
+
+#### General Considerations when setting Homework
+
+**Quantity of Homework**  
+
+For holistic development of the students, we believe that they need a balanced life with adequate time for family bonding, social activities, personal interests and rest. We understand that there is a point of diminishing returns to giving more homework and homework overload can have detrimental effects on learning.  Thus when we are assigning homework, we take into consideration the following:
+
+(a)  age-appropriateness;
+
+(b)  competing demands on students’ time (e.g. CCA, competitions, enrichment classes, tests, examinations);
+
+(c)  appropriate differentiation to suit the needs and ability of the students.
+
+(d)  timing such as school holidays as well as public holidays.
+
+**Quality of Homework**  
+
+We believe that homework given should be well designed to bring about the intended learning outcomes. It should:
+
+(a)  be purposeful and encourage critical thinking;
+
+(b)  be related to class teaching and learning;
+
+(c)  be explicit and clearly defined so that students clearly understand what is required of them;
+
+(d)  be within the students’ capabilities and developmental readiness;
+
+(e)  involve the use of material resources that are known to be readily available to students; and
+
+(f)   be differentiated, where possible, to meet the different needs and abilities of students.
+
+  
+
+**Feedback for Homework**  
+
+We believe that the quality of homework is only as good as the quality of feedback and interventions given by teachers. Homework should thus be properly checked, with timely feedback, interventions and support given. 
+
+#### Roles & Responsibilities of Stakeholders
 
 
 
-<h2>Homework Policy</h2>
+We believe that our teachers, students and parents all play an important role in ensuring that homework serves its intended purposes.  
 
-<h3>Introduction</h3>
-<p>At River Valley Primary School, homework is an integral part of our students’ learning. When used appropriately, it reinforces learning, provides feedback, and cultivates a love for continual learning.</p>
+  
 
-<h3>Definition of Homework</h3>
-<p>Homework refers to any learning activity assigned by the school to be completed outside of curriculum time. This includes assignments and projects, but excludes revision and studying for tests.</p>
+**Teachers should :**
 
-<h3>Objectives of Homework</h3>
-<p>Effective homework can:</p>
-<ul>
-  <li>Reinforce learning and deepen understanding.</li>
-  <li>Provide regular practice and application of skills.</li>
-  <li>Develop good study habits.</li>
-  <li>Encourage independent learning.</li>
-</ul>
 
-<p>Judicious homework allows teachers to:</p>
-<ul>
-  <li>Consolidate classroom learning.</li>
-  <li>Check for understanding and provide feedback.</li>
-  <li>Review lesson effectiveness.</li>
-</ul>
 
-<p>Homework also provides parents with:</p>
-<ul>
-  <li>Timely information on their child's progress.</li>
-  <li>Opportunities to be involved in their child's learning.</li>
-</ul>
+(a)  design appropriate and meaningful homework;
 
-<h3>General Considerations</h3>
+(b)  set realistic deadlines for submission of homework;
 
-<h4>Quantity of Homework</h4>
-<p>We believe in a balanced life for students. Homework is assigned considering:</p>
-<ul>
-  <li>Age-appropriateness.</li>
-  <li>Competing demands on students' time (CCA, etc.).</li>
-  <li>Differentiation for individual needs.</li>
-  <li>Timing (holidays, etc.).</li>
-</ul>
+(c)  establish and communicate clear expectations to students on the purpose and procedure of homework;
 
-<h4>Quality of Homework</h4>
-<p>Well-designed homework should:</p>
-<ul>
-  <li>Be purposeful and encourage critical thinking.</li>
-  <li>Relate to class learning.</li>
-  <li>Be clear and well-defined.</li>
-  <li>Be within students' capabilities.</li>
-  <li>Use readily available resources.</li>
-  <li>Be differentiated, where possible.</li>
-</ul>
+(d)  coordinate with other teachers of the class on the frequency and quantity of homework to be given;
 
-<h4>Feedback for Homework</h4>
-<p>Homework should be checked with timely feedback, interventions, and support provided.</p>
+(e)  assess homework and provide timely feedback to students;
 
-<h3>Roles &amp; Responsibilities</h3>
+(f)   provide timely intervention and support to students; and
 
-<h4>Teachers</h4>
-<ul>
-  <li>Design meaningful homework.</li>
-  <li>Set realistic deadlines.</li>
-  <li>Communicate clear expectations.</li>
-  <li>Coordinate with other teachers.</li>
-  <li>Assess and provide feedback.</li>
-  <li>Provide intervention and support.</li>
-  <li>Engage parents on homework matters.</li>
-</ul>
+(g)  engage parents on homework matters and provide them with information pertaining to students’ learning progress.
 
-<h4>Students</h4>
-<ul>
-  <li>Understand the purpose of homework.</li>
-  <li>Keep track of instructions and deadlines.</li>
-  <li>Manage time effectively.</li>
-  <li>Give their best effort.</li>
-  <li>Review teacher feedback.</li>
-</ul>
+   
 
-<h4>Parents</h4>
-<ul>
-  <li>Create a conducive home learning environment.</li>
-  <li>Supervise and support their child's learning.</li>
-  <li>Reinforce good study habits.</li>
-  <li>Help prioritize time among activities.</li>
-  <li>Partner with teachers to support their child.</li>
-</ul>
+**Students should:**
 
-<h3>Monitoring and Coordination</h3>
-<p>Mechanisms are in place to monitor and coordinate homework, including:</p>
-<ul>
-  <li>Homework corner on whiteboard.</li>
-  <li>Use of student handbook.</li>
-  <li>Coordination among teachers.</li>
-  <li>Feedback from teachers and students.</li>
-  <li>Feedback channels for parents.</li>
-</ul>
+(a)   understand the purpose of homework and what is expected of them;
 
-<h3>Conclusion</h3>
-<p>We value parental partnership in supporting our students to become “Empowered Thinkers; Transformational Leaders”.</p>
+(b)   keep track of homework instructions and deadlines;
+
+(c)   manage time well to ensure that homework is completed and submitted on time;
+
+(d)   give his/her best effort in completing homework; and
+
+(e)   review feedback from teachers on homework submitted.
+
+  
+
+**Parents should:**
+
+(a)  create a home environment conducive for studying and completion of homework;
+
+(b)  supervise and provide support for child’s learning;
+
+(c)   reinforce good study habits and attitudes;
+
+(d)  be mindful of the stresses arising from too many out-of-school activities, and help their children prioritise their time among these activities; and
+
+(e)   work in partnership with teachers to support child’s learning and development.
+
+#### Mechanisms to monitor and coordinate homework load
+
+
+
+The school has put in place simple, effective and visible mechanisms to monitor and coordinate homework across subjects. It includes the following:
+
+
+
+(a)  Homework corner on whiteboard for teachers to coordinate the amount of homework across subjects;
+
+(b)  Use of student handbook to record homework;
+
+(c)  Coordination among level teachers and heads of department on  frequency/dates of tests and projects;
+
+(d)  Elicit feedback from our teachers and students;
+
+(e)  Feedback channel via email, phone calls, meet the parents’ session etc to teachers to raise concerns on homework.
+
+#### Conclusion
+
+
+
+We will continue to seek the partnership of our parents to provide the necessary support for our students to be developed as  “Empowered Thinkers; Transformational Leaders”.
