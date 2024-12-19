@@ -39,6 +39,11 @@ variant: markdown
       <td style="border: 1px solid black; padding: 10px;">Ms Chung Li Koon</td>
       <td style="border: 1px solid black; padding: 10px;"><a href="mailto:chung_li_koon@schools.gov.sg">chung_li_koon@schools.gov.sg</a></td>
     </tr>
+		<tr>
+      <td style="border: 1px solid black; padding: 10px;">Character and Citizenship Education</td>
+      <td style="border: 1px solid black; padding: 10px;">Mdm Celina Leng</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:leng_sok_wah_celina@schools.gov.sg">leng_sok_wah_celina@schools.gov.sg</a></td>
+    </tr>
     <tr>
       <td style="border: 1px solid black; padding: 10px;">School Staff Developer</td>
       <td style="border: 1px solid black; padding: 10px;">Mr Spencer Khoo</td>
