@@ -6,9 +6,10 @@ description: ""
 ---
 
 
+
     
     
-    <title></title>
+    <title>Class Information</title>
     <style>
         table {
             width: 100%;
@@ -34,7 +35,7 @@ description: ""
     </style>
 
 
-    <h1>Primary 1</h1>
+    <h1>Class and Form Teacher Information</h1>
     <table>
         <thead>
             <tr>
