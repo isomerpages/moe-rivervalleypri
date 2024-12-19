@@ -4,10 +4,7 @@ permalink: /teaching-staff/
 variant: markdown
 description: ""
 ---
-
-
-
-  <title>Class Form Teachers</title>
+<title>Class Form Teachers</title>
   <style>
     table {
       border-collapse: collapse;
@@ -106,7 +103,7 @@ description: ""
 
 
 
-<h2>Class Form Teachers</h2>
+<h2>Primary 2</h2>
 
 <table>
   <tbody><tr>
@@ -150,5 +147,3 @@ description: ""
     <td><a href="mailto:lee_seow_yian@schools.gov.sg">Ms Lee Seow Yian</a></td>
   </tr>
 </tbody></table>
-
-
