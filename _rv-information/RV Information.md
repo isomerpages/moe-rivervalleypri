@@ -49,7 +49,7 @@ variant: markdown
 <p>School Term</p>
 </td>
 <td style="border: 1px solid black;" rowspan="1" colspan="1">
-<p>School Holiday Term</p>
+<p>School Holiday </p>
 </td>
 </tr>
 <tr>
@@ -68,7 +68,7 @@ variant: markdown
 <p>School Term</p>
 </td>
 <td style="border: 1px solid black;" rowspan="1" colspan="1">
-<p>School Holiday Term</p>
+<p>School Holiday </p>
 </td>
 </tr>
 <tr>
