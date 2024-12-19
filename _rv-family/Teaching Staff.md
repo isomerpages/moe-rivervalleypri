@@ -7,8 +7,6 @@ description: ""
 
 
 
-    
-    
     <title>Class Information</title>
     <style>
         table {
