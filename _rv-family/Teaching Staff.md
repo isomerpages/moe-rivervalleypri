@@ -28,58 +28,42 @@ description: ""
   <tbody><tr>
     <th>Class</th>
     <th>Form Teacher 1</th>
-    <th>Email Address</th>
     <th>Form Teacher 2</th>
-    <th>Email Address</th>
   </tr>
   <tr>
     <td>Confidence</td>
-    <td>Mdm Jolene Seah</td>
-    <td>seah_shi_hui_jolene@schools.gov.sg</td>
-    <td>Ms Aisyah</td>
-    <td>irniaisyah_mohamed_ambri@schools.gov.sg</td>
+    <td><a href="mailto:seah_shi_hui_jolene@schools.gov.sg">Mdm Jolene Seah</a></td>
+    <td><a href="mailto:irniaisyah_mohamed_ambri@schools.gov.sg">Ms Aisyah</a></td>
   </tr>
   <tr>
     <td>Diligence</td>
-    <td>Mr Lao Li</td>
-    <td>lao_li@schools.gov.sg</td>
-    <td>Ms Bernadette Kor</td>
-    <td>Kor_Hong_Yin_Bernadette@schools.gov.sg</td>
+    <td><a href="mailto:lao_li@schools.gov.sg">Mr Lao Li</a></td>
+    <td><a href="mailto:Kor_Hong_Yin_Bernadette@schools.gov.sg">Ms Bernadette Kor</a></td>
   </tr>
   <tr>
     <td>Endurance</td>
-    <td>Mdm Kavitha</td>
-    <td>kasinathan_vadivaloo_kavitha@schools.gov.sg</td>
-    <td>Mdm Gladys Soh</td>
-    <td>soh_kang_hwee_gladys@schools.gov.sg</td>
+    <td><a href="mailto:kasinathan_vadivaloo_kavitha@schools.gov.sg">Mdm Kavitha</a></td>
+    <td><a href="mailto:soh_kang_hwee_gladys@schools.gov.sg">Mdm Gladys Soh</a></td>
   </tr>
   <tr>
     <td>Friendship</td>
-    <td>Mr Tyler Ng</td>
-    <td>ng_min_yu_tyler@schools.gov.sg</td>
-    <td>Ms Angeles Kee</td>
-    <td>kee_angeles@schools.gov.sg</td>
+    <td><a href="mailto:ng_min_yu_tyler@schools.gov.sg">Mr Tyler Ng</a></td>
+    <td><a href="mailto:kee_angeles@schools.gov.sg">Ms Angeles Kee</a></td>
   </tr>
   <tr>
     <td>Graciousness</td>
-    <td>Ms Zakiah </td>
-    <td>zakiah_kassim@schools.gov.sg</td>
-    <td>Mdm Ler Shiaw Han</td>
-    <td>Ler_Shiaw_Han@schools.gov.sg</td>
+    <td><a href="mailto:zakiah_kassim@schools.gov.sg">Ms Zakiah</a></td>
+    <td><a href="mailto:Ler_Shiaw_Han@schools.gov.sg">Mdm Ler Shiaw Han</a></td>
   </tr>
   <tr>
     <td>Honesty</td>
-    <td>Mdm Shabana</td>
-    <td>nurjhana_shabana_musa_bharooch@schools.gov.sg</td>
-    <td>Mr Nathaniel Ng</td>
-    <td>ng_jun_ting_Nathaniel@schools.gov.sg</td>
+    <td><a href="mailto:nurjhana_shabana_musa_bharooch@schools.gov.sg">Mdm Shabana</a></td>
+    <td><a href="mailto:ng_jun_ting_Nathaniel@schools.gov.sg">Mr Nathaniel Ng</a></td>
   </tr>
   <tr>
     <td>Kindness</td>
-    <td>Mdm Idawatee </td>
-    <td>idawatee_ahmad@schools.gov.sg</td>
-    <td>Mdm Bai Yimeng</td>
-    <td>bai_yimeng@schools.gov.sg</td>
+    <td><a href="mailto:idawatee_ahmad@schools.gov.sg">Mdm Idawatee</a></td>
+    <td><a href="mailto:bai_yimeng@schools.gov.sg">Mdm Bai Yimeng</a></td>
   </tr>
 </tbody></table>
 
