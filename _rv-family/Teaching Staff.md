@@ -4,24 +4,25 @@ permalink: /teaching-staff/
 variant: markdown
 description: ""
 ---
-<title>Class Form Teachers</title>
+
+
+
   <style>
     table {
       border-collapse: collapse;
       width: 100%;
-      font-family: sans-serif; /* Use a clean font */
+      font-family: sans-serif;
     }
     th, td {
-      border: 1px solid #ddd; /* Use a lighter border color */
-      padding: 12px; /* Increase padding for better readability */
+      border: 1px solid #ddd;
+      padding: 12px;
       text-align: left;
     }
     th {
-      background-color: #f2f2f2; /* Add a subtle background color to the header */
+      background-color: #f2f2f2;
       font-weight: bold;
     }
     h2 {
-      text-align: center; /* Center the heading */
       margin-bottom: 20px; /* Add spacing below the heading */
     }
   </style>
@@ -33,8 +34,7 @@ description: ""
 <table>
   <tbody><tr>
     <th>Class</th>
-    <th>Form Teacher 1</th>
-    <th>Form Teacher 2</th>
+    <th colspan="2">Form Teachers</th>
   </tr>
   <tr>
     <td>Confidence</td>
@@ -75,6 +75,9 @@ description: ""
 
 
 
+
+
+
   <title>Class Form Teachers</title>
   <style>
     table {
@@ -92,7 +95,6 @@ description: ""
       font-weight: bold;
     }
     h2 {
-      text-align: center;
       margin-bottom: 20px;
     }
   </style>
@@ -104,8 +106,7 @@ description: ""
 <table>
   <tbody><tr>
     <th>Class</th>
-    <th>Form Teacher 1</th>
-    <th>Form Teacher 2</th>
+    <th colspan="2">Form Teachers</th>
   </tr>
   <tr>
     <td>Confidence</td>
@@ -143,3 +144,5 @@ description: ""
     <td><a href="mailto:lee_seow_yian@schools.gov.sg">Ms Lee Seow Yian</a></td>
   </tr>
 </tbody></table>
+
+
