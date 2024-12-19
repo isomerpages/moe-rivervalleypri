@@ -2,9 +2,9 @@ collections:
   rv-family:
     output: true
     order:
-      - Teaching Staff.md
       - RV Family.md
       - Principal's Message.md
       - School Leaders.md
       - Key Personnel.md
+      - Teaching Staff.md
       - Administration & Support Staff.md
