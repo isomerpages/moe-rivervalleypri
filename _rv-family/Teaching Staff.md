@@ -4,29 +4,6 @@ permalink: /teaching-staff/
 variant: markdown
 description: ""
 ---
-<title>Class Form Teachers</title>
-  <style>
-    table {
-      border-collapse: collapse;
-      width: 100%;
-      font-family: sans-serif;
-    }
-    th, td {
-      border: 1px solid #ddd;
-      padding: 12px;
-      text-align: left;
-    }
-    th {
-      background-color: #f2f2f2;
-      font-weight: bold;
-    }
-    h2 {
-      margin-bottom: 20px;
-    }
-  </style>
-
-
-
 <h2>Primary 1 </h2>
 
 <table>
