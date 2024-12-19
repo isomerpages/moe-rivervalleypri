@@ -4,7 +4,6 @@ permalink: /teaching-staff/
 variant: markdown
 description: ""
 ---
-```
 
 
 
@@ -125,5 +124,3 @@ description: ""
     </table>
 
 
-
-```
