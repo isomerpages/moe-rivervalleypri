@@ -115,12 +115,12 @@ description: ""
   <tr>
     <td>Diligence</td>
     <td><a href="mailto:roshane_rajandran@schools.gov.sg">Ms Roshane</a></td>
-    <td>PGDE CL</td>
+    <td></td>
   </tr>
   <tr>
     <td>Endurance</td>
     <td><a href="mailto:ranjinidevi_thanasegaram@schools.gov.sg">Ms Ranjinidevi</a></td>
-    <td>Ms Wang Jiaxin</td>
+    <td></td>
   </tr>
   <tr>
     <td>Friendship</td>
