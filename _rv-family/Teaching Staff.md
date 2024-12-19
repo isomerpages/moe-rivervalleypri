@@ -4,10 +4,7 @@ permalink: /teaching-staff/
 variant: markdown
 description: ""
 ---
-
-
-
-  <title>Class Form Teachers</title>
+<title>Class Form Teachers</title>
   <style>
     table {
       border-collapse: collapse;
@@ -635,5 +632,3 @@ description: ""
     </td>
   </tr>
 </tbody></table>
-
-
