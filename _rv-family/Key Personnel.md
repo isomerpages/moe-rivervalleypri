@@ -115,6 +115,11 @@ variant: markdown
       <td style="border: 1px solid black; padding: 10px;">Mr Mufsin</td>
       <td style="border: 1px solid black; padding: 10px;"><a href="mailto:abdul_mufsin@schools.gov.sg">abdul_mufsin@schools.gov.sg</a></td>
     </tr>
+		   <tr>
+      <td style="border: 1px solid black; padding: 10px;">Character and Citizenship Education</td>
+      <td style="border: 1px solid black; padding: 10px;">Ms Joy Ang</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:ang_soo_en_joy@schools.gov.sg">ang_soo_en_joy@schools.gov.sg</a></td>
+    </tr>
     <tr>
       <td style="border: 1px solid black; padding: 10px;">Co-Curricular Activities</td>
       <td style="border: 1px solid black; padding: 10px;">Mr Fabian Koh</td>
