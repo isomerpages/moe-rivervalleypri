@@ -17,7 +17,7 @@ variant: markdown
     <tr>
       <td style="border: 1px solid black; padding: 10px;">English Language</td>
       <td style="border: 1px solid black; padding: 10px;">Ms Andrea Yap</td>
-      <td style="border: 1px solid black; padding: 10px;">-</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:Yap_Ying_Hui_Andrea@schools.gov.sg">Yap_Ying_Hui_Andrea@schools.gov.sg</a></td>
     </tr>
     <tr>
       <td style="border: 1px solid black; padding: 10px;">Mathematics</td>
@@ -47,7 +47,7 @@ variant: markdown
     <tr>
       <td style="border: 1px solid black; padding: 10px;">School Staff Developer</td>
       <td style="border: 1px solid black; padding: 10px;">Mr Spencer Khoo</td>
-      <td style="border: 1px solid black; padding: 10px;">-</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:Spencer_Khoo@schools.gov.sg">Spencer_Khoo@schools.gov.sg</a></td>
     </tr>
   </tbody>
 </table>
