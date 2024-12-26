@@ -261,7 +261,8 @@ description: ""
   <tr>
     <td>Diligence</td>
     <td>
-      Mr Spencer Khoo
+      Mr Spencer Khoo <br>
+			<a href="mailto:Spencer_Khoo@schools.gov.sg">Spencer_Khoo@schools.gov.sg</a>
     </td>
     <td>
       Mdm Chang Te Fang<br>
