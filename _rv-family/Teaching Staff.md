@@ -261,7 +261,8 @@ description: ""
   <tr>
     <td>Diligence</td>
     <td>
-      Mr Spencer Khoo
+      Mr Spencer Khoo <br>
+			<a href="mailto:Spencer_Khoo@schools.gov.sg">Spencer_Khoo@schools.gov.sg</a>
     </td>
     <td>
       Mdm Chang Te Fang<br>
@@ -490,7 +491,8 @@ description: ""
   <tr>
     <td>Endurance</td>
     <td>
-      Ms Andrea Yap
+      Ms Andrea Yap<br>
+			<a href="mailto:Yap_Ying_Hui_Andrea@schools.gov.sg">Yap_Ying_Hui_Andrea@schools.gov.sg</a>
     </td>
     <td>
       Mr Joseph Yuan<br>
