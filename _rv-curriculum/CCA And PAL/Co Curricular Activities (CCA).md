@@ -55,8 +55,8 @@ Similar to the LEAPS Approach used by the secondary schools, we adopt it into de
     </tr>
     <tr>
       <td style="border: 1px solid black; padding: 10px;">Visual Arts Club</td>
-      <td style="border: 1px solid black; padding: 10px;">Mrs Kannan</td>
-      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:thilagarani_kannan@schools.gov.sg">thilagarani_kannan@schools.gov.sg</a></td>
+      <td style="border: 1px solid black; padding: 10px;">Ms Angeles Kee</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:kee_angeles@schools.gov.sg">kee_angeles@schools.gov.sg</a></td>
     </tr>
     <tr>
       <td style="border: 1px solid black; padding: 10px; vertical-align: top;" rowspan="4">Performing Arts</td>
@@ -97,8 +97,8 @@ Similar to the LEAPS Approach used by the secondary schools, we adopt it into de
     </tr>
     <tr>
       <td style="border: 1px solid black; padding: 10px;">Football (Boys only)</td>
-      <td style="border: 1px solid black; padding: 10px;">Ms Nadia</td>
-      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:nadia_erlyna_fauzilan@schools.gov.sg">nadia_erlyna_fauzilan@schools.gov.sg</a></td>
+      <td style="border: 1px solid black; padding: 10px;">Mr Chopra</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:pavanjeev_singh_chopra@schools.gov.sg">pavanjeev_singh_chopra@schools.gov.sg</a></td>
     </tr>
     <tr>
       <td style="border: 1px solid black; padding: 10px;">Netball (Girls only)</td>
@@ -123,8 +123,8 @@ Similar to the LEAPS Approach used by the secondary schools, we adopt it into de
     </tr>
     <tr>
       <td style="border: 1px solid black; padding: 10px;">Red Cross Society of Singapore</td>
-      <td style="border: 1px solid black; padding: 10px;">Ms Lin Chuqing</td>
-      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:lin_chuqing@schools.gov.sg">lin_chuqing@schools.gov.sg</a></td>
+      <td style="border: 1px solid black; padding: 10px;">Ms Jada Woo</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:jada_woo@schools.gov.sg">jada_woo@schools.gov.sg</a></td>
     </tr>
     <tr>
       <td style="border: 1px solid black; padding: 10px;">Scouts (Boys only)</td>
