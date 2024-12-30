@@ -50,22 +50,23 @@ description: ""
       Mr Tyler Ng<br>
       <a href="mailto:ng_min_yu_tyler@schools.gov.sg">ng_min_yu_tyler@schools.gov.sg</a>
     </td>
-    <td>
-      Ms Angeles Kee<br>
-      <a href="mailto:kee_angeles@schools.gov.sg">kee_angeles@schools.gov.sg</a>
+		    <td>
+      Mdm Ler Shiaw Han<br>
+      <a href="mailto:Ler_Shiaw_Han@schools.gov.sg">Ler_Shiaw_Han@schools.gov.sg</a>
     </td>
-  </tr>
-  <tr>
+   
+  </tr><tr>
     <td>Graciousness</td>
     <td>
       Ms Zakiah<br>
       <a href="mailto:zakiah_kassim@schools.gov.sg">zakiah_kassim@schools.gov.sg</a>
     </td>
-    <td>
-      Mdm Ler Shiaw Han<br>
-      <a href="mailto:Ler_Shiaw_Han@schools.gov.sg">Ler_Shiaw_Han@schools.gov.sg</a>
+ <td>
+      Ms Angeles Kee<br>
+      <a href="mailto:kee_angeles@schools.gov.sg">kee_angeles@schools.gov.sg</a>
     </td>
   </tr>
+  
   <tr>
     <td>Honesty</td>
     <td>
@@ -169,7 +170,7 @@ description: ""
       <a href="mailto:loh_sook_yee_reginia@schools.gov.sg">loh_sook_yee_reginia@schools.gov.sg</a>
     </td>
     <td>
-      Mr Saddiq<br>
+      Mr Mohamed Saddiq<br>
       <a href="mailto:mohamed_saddiq_b_mohamed@schools.gov.sg">mohamed_saddiq_b_mohamed@schools.gov.sg</a>
     </td>
   </tr>
@@ -363,8 +364,9 @@ description: ""
       Mdm Janaki<br>
       <a href="mailto:janaki_retanam@schools.gov.sg">janaki_retanam@schools.gov.sg</a>
     </td>
-    <td>
-      -
+ <td>
+      Ms Loh Wei Ting<br>
+      <a href="mailto:loh_Wei_Ting_A@schools.gov.sg">loh_Wei_Ting_A@schools.gov.sg</a>
     </td>
   </tr>
   <tr>
@@ -374,15 +376,14 @@ description: ""
       <a href="mailto:ong_wen_kai@schools.gov.sg">ong_wen_kai@schools.gov.sg</a>
     </td>
     <td>
-      Mrs Kannan<br>
-      <a href="mailto:thilagarani_kannan@schools.gov.sg">thilagarani_kannan@schools.gov.sg</a>
+ -
     </td>
   </tr>
   <tr>
     <td>Endurance</td>
-    <td>
-      Mrs Ho-Tan Lay Yen<br>
-      <a href="mailto:tan_lay_yen_a@schools.gov.sg">tan_lay_yen_a@schools.gov.sg</a>
+		    <td>
+      Ms Kay Ee Ee<br>
+      <a href="mailto:kay_ee_ee@schools.gov.sg">kay_ee_ee@schools.gov.sg</a>
     </td>
     <td>
       Ms Jeanie Quek<br>
@@ -391,9 +392,9 @@ description: ""
   </tr>
   <tr>
     <td>Friendship</td>
-    <td>
-      Ms Kay Ee Ee<br>
-      <a href="mailto:kay_ee_ee@schools.gov.sg">kay_ee_ee@schools.gov.sg</a>
+   <td>
+      Mrs Ho-Tan Lay Yen<br>
+      <a href="mailto:tan_lay_yen_a@schools.gov.sg">tan_lay_yen_a@schools.gov.sg</a>
     </td>
     <td>
       Mdm Mary Chum<br>
@@ -407,8 +408,7 @@ description: ""
       <a href="mailto:ng_geok_neo_evelyn@schools.gov.sg">ng_geok_neo_evelyn@schools.gov.sg</a>
     </td>
     <td>
-      Ms Loh Wei Ting<br>
-      <a href="mailto:loh_Wei_Ting_A@schools.gov.sg">loh_Wei_Ting_A@schools.gov.sg</a>
+   -
     </td>
   </tr>
   <tr>
