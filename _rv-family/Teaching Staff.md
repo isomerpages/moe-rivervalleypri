@@ -30,7 +30,7 @@ description: ""
     </td>
     <td>
       Ms Bernadette Kor<br>
-      <a href="mailto:Kor_Hong_Yin_Bernadette@schools.gov.sg">Kor_Hong_Yin_Bernadette@schools.gov.sg</a>
+      <a href="mailto:bernadette_kor_hong_yin@schools.gov.sg@schools.gov.sg">bernadette_kor_hong_yin@schools.gov.sg@schools.gov.sg</a>
     </td>
   </tr>
   <tr>
