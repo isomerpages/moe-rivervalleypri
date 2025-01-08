@@ -136,8 +136,12 @@ to relay urgent messages via the General Office staff. At the same time,
 we recognize the need for parents/guardians to contact their child/ward
 on urgent matters during dismissal or after school hours. In cases where
 the need is genuine, we allow the students to bring their smart devices
-upon signing the smart communication device contract. This contract can
-be accessed via QR Code on the school website.</p>
+upon signing the smart communication device contract.</p>
+<p></p>
+<blockquote>
+<p><strong><a href="https://form.gov.sg/63c250adf2bd6c00123d4a21" rel="noopener nofollow" target="_blank">Click here for RVPS Smart Communication Devices Contract</a></strong>
+</p>
+</blockquote>
 <p>&nbsp;</p>
 <p>^Exclude non-telecommunication devices, e.g. POSB Smart Buddy Watch, which
 allows contactless payment in school.</p>
