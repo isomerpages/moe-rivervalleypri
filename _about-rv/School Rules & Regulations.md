@@ -142,10 +142,10 @@ upon signing the smart communication device contract.</p>
 <p><strong><a href="https://form.gov.sg/63c250adf2bd6c00123d4a21" rel="noopener nofollow" target="_blank">Click here for RVPS Smart Communication Devices Contract</a></strong>
 </p>
 </blockquote>
-<p>&nbsp;</p>
+<p></p>
 <p>^Exclude non-telecommunication devices, e.g. POSB Smart Buddy Watch, which
 allows contactless payment in school.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>The students would be bound by the following rules on its usage:</p>
 <p>6.1&nbsp;&nbsp; Smart communication devices should not be seen, heard
 or used during school hours, including recess, CCA and after-school programmes
