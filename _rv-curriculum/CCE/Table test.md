@@ -5,16 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: CCE
 ---
-<p><strong>At River Valley Primary School, the following Sexuality Education lessons will be taught in 2025:</strong>
-</p>
-<p>&nbsp;</p>
 <p></p>
-<p><strong>2025 Sexuality Education Lessons in CCE</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Primary 5</strong>
-</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -106,85 +97,4 @@ and how to seek help for themselves and their friends.</p>
 </table>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong><br></strong>
-</p>
 <p></p>
-<p><strong>2025 Sexuality Education Lessons in CCE</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Primary 6</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>CCE(FTGP) THEME</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>LESSON TITLE / DURATION</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Lesson Overview</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>TIME PERIOD</strong>
-</p>
-<p><strong>(e.g. Term 1 Week 2)</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>Growing Years</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Are We More than Friends?</p>
-<p>Lesson 1</p>
-<p>(60 min)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>In this lesson, students will learn to distinguish between the characteristics
-of love and infatuation, and identify the strong emotions that may arise
-from experiencing the feelings of infatuation. They will recognise that
-experiencing feelings of infatuation is part of growing up and becoming
-infatuated with someone does not mean that they should be involved in a
-romantic relationship. Instead, they should focus on building strong and
-healthy friendships with their circles of friends.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 1 Week 8</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Are We More than Friends?</p>
-<p>Lesson 2</p>
-<p>(60 min)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>In this lesson, students will learn healthy ways to manage the emotions
-arising from infatuation and recognise the importance of respecting the
-boundaries of any relationship. They will also recognise the negative impact
-of teasing their peers who may be experiencing the feelings of infatuation
-and learn to behave maturely towards each other.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 2 Week 9</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong><br></strong>
-</p>
