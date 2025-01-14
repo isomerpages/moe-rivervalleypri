@@ -41,13 +41,13 @@ ones.</p>
 <p>You may <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">Click Here</a> for
 more information on MOE Sexuality Education.</p>
 <p></p>
-<h4><strong>OVERVIEW OF RIVER VALLEY PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2024</strong></h4>
-<p>4. Sexuality Education is delivered in a holistic manner through the school
-curriculum. The content for Sexuality Education is grouped into five main
-themes: Human Development, Interpersonal Relationships, Sexual Health,
-Sexual Behaviour, and, Culture, Society and Law. You may <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">Click Here</a> for
+<h4><strong>OVERVIEW OF RIVER VALLEY PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025</strong></h4>
+<p><strong>4.	</strong>Sexuality Education is delivered in a holistic manner
+through the school curriculum. The content for Sexuality Education is grouped
+into five main themes: Human Development, Interpersonal Relationships,
+Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may
+click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">Click Here</a> for
 more information on the scope of Sexuality Education in the school curriculum.</p>
-<p></p>
 <p>5. The subjects that incorporate topics on sexuality include:</p>
 <p>a. Science</p>
 <p>b. Character and Citizenship Education (CCE)</p>
@@ -72,6 +72,7 @@ growing years. They learn to build healthy and rewarding relationships
 with others, including those with members of the opposite sex. Students
 are also guided to make wise, informed and responsible decisions to keep
 themselves safe from sexuality-related risks.</p>
+<p></p>
 <p></p>
 <h4><strong>2024 Sexuality Education Lessons in CCE 2021</strong></h4>
 <h3><strong>Primary 5</strong></h3>
