@@ -3,7 +3,7 @@ title: Sexuality Education 2024
 permalink: /rv-curriculum/cce/sexuality-education-2024/
 description: ""
 third_nav_title: CCE
-variant: markdown
+variant: tiptap
 ---
 <h4><strong>MOE SEXUALITY EDUCATION IN SCHOOLS</strong></h4>
 <p></p>
@@ -42,7 +42,7 @@ ones.</p>
 more information on MOE Sexuality Education.</p>
 <p></p>
 <h4><strong>OVERVIEW OF RIVER VALLEY PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025</strong></h4>
-<p><strong>4.	</strong>Sexuality Education is delivered in a holistic manner
+<p><strong>4. </strong>Sexuality Education is delivered in a holistic manner
 through the school curriculum. The content for Sexuality Education is grouped
 into five main themes: Human Development, Interpersonal Relationships,
 Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may
@@ -72,10 +72,16 @@ growing years. They learn to build healthy and rewarding relationships
 with others, including those with members of the opposite sex. Students
 are also guided to make wise, informed and responsible decisions to keep
 themselves safe from sexuality-related risks.</p>
+<p><strong>At River Valley Primary School, the following Sexuality Education lessons will be taught in 2025:</strong>
+</p>
+<p>&nbsp;</p>
 <p></p>
-<p></p>
-<h4><strong>2024 Sexuality Education Lessons in CCE 2021</strong></h4>
-<h3><strong>Primary 5</strong></h3>
+<p><strong>2025 Sexuality Education Lessons in CCE</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Primary 5</strong>
+</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -122,7 +128,7 @@ affected, even when one’s body is experiencing changes due to puberty.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 10</p>
+<p>Term 1 Week 9</p>
 </td>
 </tr>
 <tr>
@@ -142,7 +148,7 @@ own responses when they encounter pornography by applying the strategy <strong>�
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 3</p>
+<p>Term 2 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -160,13 +166,22 @@ and how to seek help for themselves and their friends.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 5</p>
+<p>Term 2 Week 7</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong><br></strong>
+</p>
 <p></p>
-<h3><strong>Primary 6</strong></h3>
+<p><strong>2025 Sexuality Education Lessons in CCE</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Primary 6</strong>
+</p>
 <p><strong>&nbsp;</strong>
 </p>
 <table style="minWidth: 100px">
@@ -216,7 +231,7 @@ romantic relationship. Instead, they should focus on building strong and
 healthy friendships with their circles of friends.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 9</p>
+<p>Term 1 Week 8</p>
 </td>
 </tr>
 <tr>
@@ -233,11 +248,13 @@ of teasing their peers who may be experiencing the feelings of infatuation
 and learn to behave maturely towards each other.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 10</p>
+<p>Term 2 Week 9</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p><strong><br></strong>
+</p>
 <p><strong><br>INFORMATION FOR PARENTS</strong>
 </p>
 <p>8. Parents may opt their children out of Sexuality Education lessons,
