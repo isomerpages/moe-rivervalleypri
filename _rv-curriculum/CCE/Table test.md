@@ -92,10 +92,10 @@ and/or supplementary Sexuality Education programmes by MOE-approved external
 providers.</p>
 <p>9. Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form will be communicated
-to parents at the start of the year and is also downloadable here (please
-upload parents opt-out form found in Annex A and insert a hyperlink for
-parents to download the form). Alternatively, you may also complete the
-Opt-out Form at The completed opt-out form is to be submitted by 03/02/2025.</p>
+to parents at the start of the year. <a href="https://go.gov.sg/opt-out-rvps-2025" rel="noopener nofollow" target="_blank">Click here for the Opt-out Form.</a> The
+completed opt-out form is to be submitted by <strong>03/02/2025</strong>
+</p>
+<p></p>
 <p>10. Parents can contact the school at 6737 1785 or email us at <a href="mailto:rvps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rvps@moe.edu.sg</a> for
 discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
