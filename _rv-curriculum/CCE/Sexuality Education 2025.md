@@ -6,7 +6,6 @@ third_nav_title: CCE
 variant: markdown
 ---
 <h4><strong>MOE SEXUALITY EDUCATION IN SCHOOLS</strong></h4>
-<p></p>
 <p>1. Sexuality Education (SEd) in schools aims to enable students to understand
 the physiological, social and emotional changes they experience as they
 mature, develop healthy and rewarding relationships with others, including
@@ -27,7 +26,6 @@ sexuality matters.</p>
 others by having positive mainstream values and attitudes about sexuality
 that are premised on the family as the basic unit of society.</p>
 <p></p>
-<p></p>
 <p>3. The Key Messages of Sexuality Education are:</p>
 <p>(a) Love and respect yourself as you love and respect others;</p>
 <p>(b) Build positive relationships based on love and respect (which are
@@ -41,7 +39,7 @@ ones.</p>
 <p>You may <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">Click Here</a> for
 more information on MOE Sexuality Education.</p>
 <p></p>
-<h4><strong>OVERVIEW OF RIVER VALLEY PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025</strong></h4>
+<h3><strong>OVERVIEW OF RIVER VALLEY PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025</strong></h3>
 <p><strong>4. </strong>Sexuality Education is delivered in a holistic manner
 through the school curriculum. The content for Sexuality Education is grouped
 into five main themes: Human Development, Interpersonal Relationships,
@@ -72,137 +70,180 @@ growing years. They learn to build healthy and rewarding relationships
 with others, including those with members of the opposite sex. Students
 are also guided to make wise, informed and responsible decisions to keep
 themselves safe from sexuality-related risks.</p>
+<p><strong>At River Valley Primary School, the following Sexuality Education lessons will be taught in 2025:</strong>
+</p>
+<p></p>
+<h4><strong>2025 Sexuality Education Lessons in CCE</strong></h4>
+<h3><strong>Primary 5</strong></h3>
+<p></p>
 
+<p></p>
+<table style="min-width: 100px; border-collapse: collapse; width: 100%;">
+  <colgroup>
+    <col>
+    <col>
+    <col>
+    <col>
+  </colgroup>
+  <thead>
+    <tr style="border: 1px solid #000; background-color: #f2f2f2;">
+      <th style="border: 1px solid #000; padding: 8px;">CCE(FTGP) THEME</th>
+      <th style="border: 1px solid #000; padding: 8px;">LESSON TITLE / DURATION</th>
+      <th style="border: 1px solid #000; padding: 8px;">Lesson OVERVIEW</th>
+      <th style="border: 1px solid #000; padding: 8px;">TIME PERIOD (e.g. Term 1 Week 2)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="border: 1px solid #000;">
+      <td rowspan="3" style="border: 1px solid #000; padding: 8px;">Growing Years</td>
+      <td style="border: 1px solid #000; padding: 8px;">
+        <p>The Changes in Me</p>
+        <p>(60 min)</p>
+      </td>
+      <td style="border: 1px solid #000; padding: 8px;">
+        <p>
+          This lesson focuses on helping students identify the emotions and
+          stress caused by physical changes during puberty. Students will
+          learn to describe healthy ways to manage their negative feelings
+          during this time. They will also learn to recognize that one’s
+          identity need not be negatively affected, even when one’s body is
+          experiencing changes due to puberty.
+        </p>
+        <p>
+          <em>
+            This lesson is conducted separately for boys and girls in
+            different classrooms, so that the students will feel more
+            comfortable during the discussions.
+          </em>
+        </p>
+      </td>
+      <td style="border: 1px solid #000; padding: 8px;">Term 1 Week 9</td>
+    </tr>
+    <tr style="border: 1px solid #000;">
+      <td style="border: 1px solid #000; padding: 8px;">
+        <p>Did You Know?</p>
+        <p>(60 min)</p>
+      </td>
+      <td style="border: 1px solid #000; padding: 8px;">
+        <p>
+          This lesson focuses on helping students know what pornography is
+          and how it can affect themselves and others. Students will learn
+          about the dangers of being exposed to sexually explicit materials
+          and reject the viewing and/or reading of pornographic materials.
+          They will learn to evaluate their own responses when they
+          encounter pornography by applying the strategy
+          <strong>‘Stop-Think-Do’.</strong>
+        </p>
+        <p>
+          <em>
+            This lesson is conducted separately for boys and girls in
+            different classrooms, so that the students will feel more
+            comfortable during the discussions.
+          </em>
+        </p>
+      </td>
+      <td style="border: 1px solid #000; padding: 8px;">Term 2 Week 5</td>
+    </tr>
+    <tr style="border: 1px solid #000;">
+      <td style="border: 1px solid #000; padding: 8px;">
+        <p>Keeping Myself Safe</p>
+        <p>(60 min)</p>
+      </td>
+      <td style="border: 1px solid #000; padding: 8px;">
+        <p>
+          In this lesson, students will learn about sexual abuse, how it can
+          happen during online and offline interactions, and the impact of
+          such abuse on victims. They also learn how to take precautionary
+          measures to be safe and how to seek help for themselves and their
+          friends.
+        </p>
+        <p>
+          <em>
+            This lesson is conducted separately for boys and girls in
+            different classrooms, so that the students will feel more
+            comfortable during the discussions.
+          </em>
+        </p>
+      </td>
+      <td style="border: 1px solid #000; padding: 8px;">Term 2 Week 7</td>
+    </tr>
+  </tbody>
+</table>
+<p></p>
 
+<p></p>
+<h3><strong>Primary 6</strong></h3>
+<p></p>
+<p></p>
+<table style="min-width: 100px; border-collapse: collapse; width: 100%;">
+  <colgroup>
+    <col>
+    <col>
+    <col>
+    <col>
+  </colgroup>
+  <thead>
+    <tr style="border: 1px solid #000; background-color: #f2f2f2;">
+      <th style="border: 1px solid #000; padding: 8px;">CCE(FTGP) THEME</th>
+      <th style="border: 1px solid #000; padding: 8px;">LESSON TITLE / DURATION</th>
+      <th style="border: 1px solid #000; padding: 8px;">LESSON OVERVIEW</th>
+      <th style="border: 1px solid #000; padding: 8px;">TIME PERIOD<br>(e.g. Term 1 Week 2)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="border: 1px solid #000;">
+      <td rowspan="2" style="border: 1px solid #000; padding: 8px;">Growing Years</td>
+      <td style="border: 1px solid #000; padding: 8px;">
+        <p>Are We More than Friends?</p>
+        <p>Lesson 1 (60 min)</p>
+      </td>
+      <td style="border: 1px solid #000; padding: 8px;">
+        <p>
+          In this lesson, students will learn to distinguish between the
+          characteristics of love and infatuation, and identify the strong
+          emotions that may arise from experiencing the feelings of
+          infatuation. They will recognise that experiencing feelings of
+          infatuation is part of growing up and becoming infatuated with
+          someone does not mean that they should be involved in a romantic
+          relationship. Instead, they should focus on building strong and
+          healthy friendships with their circles of friends.
+        </p>
+      </td>
+      <td style="border: 1px solid #000; padding: 8px;">Term 1 Week 8</td>
+    </tr>
+    <tr style="border: 1px solid #000;">
+      <td style="border: 1px solid #000; padding: 8px;">
+        <p>Are We More than Friends?</p>
+        <p>Lesson 2 (60 min)</p>
+      </td>
+      <td style="border: 1px solid #000; padding: 8px;">
+        <p>
+          In this lesson, students will learn healthy ways to manage the
+          emotions arising from infatuation and recognise the importance of
+          respecting the boundaries of any relationship. They will also
+          recognise the negative impact of teasing their peers who may be
+          experiencing the feelings of infatuation and learn to behave
+          maturely towards each other.
+        </p>
+      </td>
+      <td style="border: 1px solid #000; padding: 8px;">Term 2 Week 9</td>
+    </tr>
+  </tbody>
+</table>
+<p></p>
 
-
-    <title>2025 Sexuality Education Lessons</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-        }
-        h1, h2 {
-            text-align: center;
-            color: #333;
-        }
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            margin: 20px 0;
-        }
-        table th, table td {
-            border: 1px solid #ddd;
-            padding: 10px;
-            text-align: left;
-            vertical-align: top;
-        }
-        table th {
-            background-color: #f4f4f4;
-        }
-        table tr:nth-child(even) {
-            background-color: #f9f9f9;
-        }
-        .note {
-            font-style: italic;
-            color: #555;
-        }
-    </style>
-
-
-    <h1>River Valley Primary School</h1>
-    <h2>2025 Sexuality Education Lessons in CCE</h2>
-
-    <h2>Primary 5</h2>
-    <table>
-        <thead>
-            <tr>
-                <th>CCE(FTGP) Theme</th>
-                <th>Lesson Title / Duration</th>
-                <th>Lesson Overview</th>
-                <th>Time Period</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>Growing Years</td>
-                <td>The Changes in Me<br>(60 min)</td>
-                <td>
-                    This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe healthy ways to manage their negative feelings during this time. They will also learn to recognize that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty.
-                    <p class="note">This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</p>
-                </td>
-                <td>Term 1 Week 9</td>
-            </tr>
-            <tr>
-                <td>Growing Years</td>
-                <td>Did You Know?<br>(60 min)</td>
-                <td>
-                    This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of such materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy <strong>‘Stop-Think-Do’.</strong>
-                    <p class="note">This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</p>
-                </td>
-                <td>Term 2 Week 5</td>
-            </tr>
-            <tr>
-                <td>Growing Years</td>
-                <td>Keeping Myself Safe<br>(60 min)</td>
-                <td>
-                    In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions, and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.
-                    <p class="note">This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</p>
-                </td>
-                <td>Term 2 Week 7</td>
-            </tr>
-        </tbody>
-    </table>
-
-    <h2>Primary 6</h2>
-    <table>
-        <thead>
-            <tr>
-                <th>CCE(FTGP) Theme</th>
-                <th>Lesson Title / Duration</th>
-                <th>Lesson Overview</th>
-                <th>Time Period</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>Growing Years</td>
-                <td>Are We More than Friends?<br>Lesson 1<br>(60 min)</td>
-                <td>
-                    In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognize that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.
-                </td>
-                <td>Term 1 Week 8</td>
-            </tr>
-            <tr>
-                <td>Growing Years</td>
-                <td>Are We More than Friends?<br>Lesson 2<br>(60 min)</td>
-                <td>
-                    In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognize the importance of respecting the boundaries of any relationship. They will also recognize the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.
-                </td>
-                <td>Term 2 Week 9</td>
-            </tr>
-        </tbody>
-    </table>
-
-
-
-
-
-
-
-
-
+<p></p>
 <p><strong><br>INFORMATION FOR PARENTS</strong>
 </p>
-
 <p>8. Parents may opt their children out of Sexuality Education lessons,
 and/or supplementary Sexuality Education programmes by MOE-approved external
 providers.</p>
 <p>9. Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form will be communicated
-to parents at the start of the year and is also downloadable here <a href="/files/2024_Sexuality_Ed_opt_out_form_12012024.pdf" rel="noopener noreferrer nofollow" target="_blank">file</a>.
-The completed opt-out form is to be submitted by 02/02/2024.</p>
+to parents at the start of the year. <a href="https://go.gov.sg/opt-out-rvps-2025" rel="noopener nofollow" target="_blank">Click here for the Opt-out Form.</a> The
+completed opt-out form is to be submitted by <strong>03/02/2025</strong>
+</p>
+<p></p>
 <p>10. Parents can contact the school at 6737 1785 or email us at <a href="mailto:rvps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rvps@moe.edu.sg</a> for
 discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
