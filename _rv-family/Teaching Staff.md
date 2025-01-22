@@ -393,12 +393,12 @@ description: ""
   <tr>
     <td>Friendship</td>
    <td>
-      Mrs Ho-Tan Lay Yen<br>
+      Ms Tan Lay Yen<br>
       <a href="mailto:tan_lay_yen_a@schools.gov.sg">tan_lay_yen_a@schools.gov.sg</a>
     </td>
     <td>
-      Mdm Mary Chum<br>
-      <a href="mailto:chum_siew_yun_mary@schools.gov.sg">chum_siew_yun_mary@schools.gov.sg</a>
+      Ms Rashawna<br>
+      <a href="mailto:Rashawna_Harminder_Singh@schools.gov.sg">Rashawna_Harminder_Singh@schools.gov.sg</a>
     </td>
   </tr>
   <tr>
@@ -513,14 +513,12 @@ description: ""
   <tr>
     <td>Graciousness</td>
     <td>
-      Mr Dheelip Kumar<br>
-      <a href="mailto:dheelip_kumar_mohana_dass@schools.gov.sg">dheelip_kumar_mohana_dass@schools.gov.sg</a>
-    </td>
-    <td>
       Mrs Sheila Chan<br>
       <a href="mailto:tay_sock_hwee_sheila@schools.gov.sg">tay_sock_hwee_sheila@schools.gov.sg</a>
     </td>
-  </tr>
+    <td>
+      -
+  </td></tr>
   <tr>
     <td>Honesty</td>
     <td>
