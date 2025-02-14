@@ -66,7 +66,7 @@ variant: markdown
 </tr>
 <tr>
 <td style="border: 1px solid black;" rowspan="1" colspan="1"><p>Application for Leave of Absence (LOA)</p></td>
-<td style="border: 1px solid black;" rowspan="1" colspan="2"><p><a href="#" rel="noopener noreferrer nofollow" target="_blank"></a><a href="https://go.gov.sg/rvps-loa" rel="noopener noreferrer nofollow" target="_blank">Application Form</a></p></td>
+<td style="border: 1px solid black;" rowspan="1" colspan="2"><p><a href="https://go.gov.sg/rvps-loa" rel="noopener noreferrer nofollow" target="_blank">Application Form</a></p></td>
 </tr>
 </tbody>
 </table>
