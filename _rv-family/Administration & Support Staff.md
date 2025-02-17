@@ -47,11 +47,6 @@ variant: markdown
     </tr>
     <tr>
       <td style="border: 1px solid black; padding: 10px;">Management Support Officer</td>
-      <td style="border: 1px solid black; padding: 10px;">Ms Tan Siew Huang</td>
-      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:tan_siew_huang@schools.gov.sg">tan_siew_huang@schools.gov.sg</a></td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid black; padding: 10px;">Management Support Officer</td>
       <td style="border: 1px solid black; padding: 10px;">Ms Patricia Lee</td>
       <td style="border: 1px solid black; padding: 10px;"><a href="mailto:Patricia_Lee_Ru_Ying@schools.gov.sg">patricia_lee_ru_ying@schools.gov.sg</a></td>
     </tr>
@@ -78,6 +73,11 @@ variant: markdown
     <tr>
       <td style="border: 1px solid black; padding: 10px;">Operation Support Officer</td>
       <td style="border: 1px solid black; padding: 10px;">Mdm Rabia</td>
+      <td style="border: 1px solid black; padding: 10px;">-</td>
+    </tr>
+		    <tr>
+      <td style="border: 1px solid black; padding: 10px;">Operation Support Officer</td>
+      <td style="border: 1px solid black; padding: 10px;">Mdm Sow Siew Koh</td>
       <td style="border: 1px solid black; padding: 10px;">-</td>
     </tr>
   </tbody>
