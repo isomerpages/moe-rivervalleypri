@@ -4,8 +4,7 @@ permalink: /about-rv/About-RV/
 description: ""
 variant: tiptap
 ---
-<h3>School History</h3>
-<hr>
+<h3></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About%20RV/history_school.jpg">
 </div>
