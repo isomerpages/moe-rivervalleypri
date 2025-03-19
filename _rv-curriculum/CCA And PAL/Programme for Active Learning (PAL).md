@@ -15,6 +15,9 @@ Domains (Social Awareness and Relationship Management, Responsible Decision
 Making, Self-Awareness and Self-Management) in authentic, collaborative
 and engaging lessons.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/PAL_2025.png">
+</div>
 <p>PAL provides opportunities for students to discover new interests, develop
 character and enables them to develop social-emotional competencies through
 the 5 learning domains of cognitive, moral, social, aesthetics and physical.
@@ -31,14 +34,8 @@ learning experience with the class.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="3">
 <p>Primary 1</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
 </th>
 </tr>
 <tr>
@@ -53,14 +50,9 @@ learning experience with the class.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Primary 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="3">
+<p><strong>Primary 2</strong>
+</p>
 </td>
 </tr>
 <tr>
