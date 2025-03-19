@@ -105,157 +105,104 @@ description: ""
   </tbody>
 </table>
 
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-  <title>Class Form Teachers</title>
-  <style>
-    table {
-      border-collapse: collapse;
-      width: 100%;
-      font-family: sans-serif;
-    }
-    th, td {
-      border: 1px solid #ddd;
-      padding: 12px;
-      text-align: left;
-    }
-    th {
-      background-color: #f2f2f2;
-      font-weight: bold;
-    }
-    h2 {
-      margin-bottom: 20px;
-    }
-  </style>
-
-
-
 <h2>Primary 2</h2>
 
 <table>
-  <tbody><tr>
-    <th>Class</th>
-    <th colspan="2">Form Teachers</th>
-  </tr>
-  <tr>
-    <td>Confidence</td>
-    <td>
-      Ms Jamie Chin<br>
-      <a href="mailto:chin_mee_yen@schools.gov.sg">chin_mee_yen@schools.gov.sg</a>
-    </td>
-    <td>
-      Mr Wan Jiajun<br>
-      <a href="mailto:wan_jiajun@schools.gov.sg">wan_jiajun@schools.gov.sg</a>
-    </td>
-  </tr>
-  <tr>
-    <td>Diligence</td>
-    <td>
-      Ms Roshane<br>
-      <a href="mailto:roshane_rajandran@schools.gov.sg">roshane_rajandran@schools.gov.sg</a>
-    </td>
-    <td>
-      -
-    </td>
-  </tr>
-  <tr>
-    <td>Endurance</td>
-    <td>
-      Ms Ranjinidevi<br>
-      <a href="mailto:ranjinidevi_thanasegaram@schools.gov.sg">ranjinidevi_thanasegaram@schools.gov.sg</a>
-    </td>
-    <td>
-      -
-    </td>
-  </tr>
-  <tr>
-    <td>Friendship</td>
-    <td>
-      Ms Reginia Loh<br>
-      <a href="mailto:loh_sook_yee_reginia@schools.gov.sg">loh_sook_yee_reginia@schools.gov.sg</a>
-    </td>
-    <td>
-      Mr Mohamed Saddiq<br>
-      <a href="mailto:mohamed_saddiq_b_mohamed@schools.gov.sg">mohamed_saddiq_b_mohamed@schools.gov.sg</a>
-    </td>
-  </tr>
-  <tr>
-    <td>Graciousness</td>
-    <td>
-      Mrs Priscilla Yip<br>
-      <a href="mailto:goh_shu_yi_priscilla@schools.gov.sg">goh_shu_yi_priscilla@schools.gov.sg</a>
-    </td>
-    <td>
-      Ms Tan Pin Ru<br>
-      <a href="mailto:tan_pin_ru_a@schools.gov.sg">tan_pin_ru_a@schools.gov.sg</a>
-    </td>
-  </tr>
-  <tr>
-    <td>Honesty</td>
-    <td>
-      Ms Lau Chin Ling<br>
-      <a href="mailto:lau_chin_ling@schools.gov.sg">lau_chin_ling@schools.gov.sg</a>
-    </td>
-    <td>
-      Mdm Teo Hui Xin<br>
-      <a href="mailto:teo_hui_xin@schools.gov.sg">teo_hui_xin@schools.gov.sg</a>
-    </td>
-  </tr>
-  <tr>
-    <td>Kindness</td>
-    <td>
-      Ms Asveeny<br>
-      <a href="mailto:asveeny_sanjeevi@schools.gov.sg">asveeny_sanjeevi@schools.gov.sg</a>
-    </td>
-    <td>
-      Ms Lee Seow Yian<br>
-      <a href="mailto:lee_seow_yian@schools.gov.sg">lee_seow_yian@schools.gov.sg</a>
-    </td>
-  </tr>
-</tbody></table>
+  <tbody>
+    <tr>
+      <th>Class</th>
+      <th colspan="3">Form Teachers</th>
+    </tr>
+    <tr>
+      <td>Confidence</td>
+      <td>
+        Ms Jamie Chin<br>
+        <a href="mailto:chin_mee_yen@schools.gov.sg">chin_mee_yen@schools.gov.sg</a>
+      </td>
+      <td>
+        Mr Wan Jiajun<br>
+        <a href="mailto:wan_jiajun@schools.gov.sg">wan_jiajun@schools.gov.sg</a>
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Diligence</td>
+      <td>
+        Ms Roshane<br>
+        <a href="mailto:roshane_rajandran@schools.gov.sg">roshane_rajandran@schools.gov.sg</a>
+      </td>
+      <td>
+        Ms Xu Lifen<br>
+        <a href="mailto:xu_lifen@schools.gov.sg">xu_lifen@schools.gov.sg</a>
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Endurance</td>
+      <td>
+        Ms Ranjinidevi<br>
+        <a href="mailto:ranjinidevi_thanasegaram@schools.gov.sg">ranjinidevi_thanasegaram@schools.gov.sg</a>
+      </td>
+      <td>-</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Friendship</td>
+      <td>
+        Ms Reginia Loh<br>
+        <a href="mailto:loh_sook_yee_reginia@schools.gov.sg">loh_sook_yee_reginia@schools.gov.sg</a>
+      </td>
+      <td>
+        Mr Mohamed Saddiq<br>
+        <a href="mailto:mohamed_saddiq_b_mohamed@schools.gov.sg">mohamed_saddiq_b_mohamed@schools.gov.sg</a>
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Graciousness</td>
+      <td>
+        Mrs Priscilla Yip<br>
+        <a href="mailto:goh_shu_yi_priscilla@schools.gov.sg">goh_shu_yi_priscilla@schools.gov.sg</a>
+      </td>
+      <td>
+        Ms Tan Pin Ru<br>
+        <a href="mailto:tan_pin_ru_a@schools.gov.sg">tan_pin_ru_a@schools.gov.sg</a>
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Honesty</td>
+      <td>
+        Ms Lau Chin Ling<br>
+        <a href="mailto:lau_chin_ling@schools.gov.sg">lau_chin_ling@schools.gov.sg</a>
+      </td>
+      <td>
+        Mdm Teo Hui Xin<br>
+        <a href="mailto:teo_hui_xin@schools.gov.sg">teo_hui_xin@schools.gov.sg</a>
+      </td>
+      <td>
+        Ms Chong Ai Ling<br>
+        <a href="mailto:chong_ai_ling_a@schools.gov.sg">chong_ai_ling_a@schools.gov.sg</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Kindness</td>
+      <td>
+        Ms Asveeny<br>
+        <a href="mailto:asveeny_sanjeevi@schools.gov.sg">asveeny_sanjeevi@schools.gov.sg</a>
+      </td>
+      <td>
+        Ms Lee Seow Yian<br>
+        <a href="mailto:lee_seow_yian@schools.gov.sg">lee_seow_yian@schools.gov.sg</a>
+      </td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
 
 
 
-
-
-
-
-
-
-  <title>Class Form Teachers</title>
-  <style>
-    table {
-      border-collapse: collapse;
-      width: 100%;
-      font-family: sans-serif;
-    }
-    th, td {
-      border: 1px solid #ddd;
-      padding: 12px;
-      text-align: left;
-    }
-    th {
-      background-color: #f2f2f2;
-      font-weight: bold;
-    }
-    h2 {
-      margin-bottom: 20px;
-    }
-  </style>
 
 
 
