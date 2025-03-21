@@ -21,13 +21,9 @@ variant: markdown
 
 <h4>Caring for School - Appreciating the Guardians of RV</h4>
 
-<p>In conjunction with Labour Day, students embark on projects such as Inviting Classrooms, Welcoming Library, Sparkling Canteen, Care Advocates, Supportive Squad, and Trash Busters to experience firsthand how our Guardians of RV carry out their duties in maintaining the safety and cleanliness of RVPS.</p>
+<p>In conjunction with Labour Day, students embark on projects such as Inviting Classrooms, Welcoming Library, Sparkling Canteen, Care Advocates, Supportive Squad, and Trash Busters to experience firsthand how our Guardians of RV carry out their duties in maintaining the safety and cleanliness of RVPS. Guardians of RV include all staff (e.g., security guards, cleaners, operations support officers, librarian, ICT staff, teachers, and office staff) in RVPS.</p>
 
-<p>Guardians of RV include all staff (e.g., security guards, cleaners, operations support officers, librarian, ICT staff, teachers, and office staff) in RVPS.</p>
-
-<p>This initiative allows RVians to experience what the Guardians of RV do daily, fostering appreciation for their hard work and dedication.</p>
-
-<p>Through this project, students learn the importance of gratitude and empathy for those who contribute to their well-being, while also becoming active contributors in maintaining a clean and safe school environment.</p>
+<p>This initiative allows RVians to experience what the Guardians of RV do daily, fostering appreciation for their hard work and dedication. Through this project, students learn the importance of gratitude and empathy for those who contribute to their well-being, while also becoming active contributors in maintaining a clean and safe school environment.</p>
 
 
 <div style="margin-top: 30px;"></div>
