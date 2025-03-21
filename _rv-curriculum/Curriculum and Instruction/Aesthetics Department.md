@@ -105,7 +105,7 @@ those of international masters and contemporary artists</p>
 their creative processes, and take pride in their artistic growth</p>
 </li>
 </ul>
-<h4><strong>A. Our Visual Arts Lessons</strong></h4>
+<h4>A. Our Visual Arts Lessons</h4>
 <p><strong>i) Drawing as a creative tool</strong>
 </p>
 <p>Drawing serves as a powerful tool for expressing ideas and imagination.
@@ -126,7 +126,7 @@ their understanding of Singapore’s history and heritage while honing their
 visual inquiry skills.</p>
 <p></p>
 <p></p>
-<h4><strong>B. Art Showcase: Exhibitions, Competitions &amp; Community Projects</strong></h4>
+<h4>B. Art Showcase: Exhibitions, Competitions &amp; Community Projects</h4>
 <p>Our RVians have numerous opportunities to showcase their artistic talents
 through exhibitions, competitions, and community projects.</p>
 <ul data-tight="true" class="tight">
@@ -182,21 +182,24 @@ and creativity.</p>
 </li>
 </ul>
 <p></p>
-<h4><strong>A. Our Music Lessons</strong></h4>
+<h4>A. Our Music Lessons</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Engaging Music learning through the Orff approach – </strong>This
 approach encourages our RVians to learn through play, movement, and collaboration.
 Students actively engage in:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp; <strong>Singing and Ensemble Performance</strong> –
-Developing musicality and teamwork through group singing and instrumental
-performances.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp; <strong>Expressive Movement</strong> – Responding
-to music through movement, fostering rhythm awareness and creativity.</p>
+</li>
+<li>
+<p><strong>Singing and Ensemble Performance</strong> – Developing musicality
+and teamwork through group singing and instrumental performances.</p>
+</li>
+<li>
+<p><strong>Expressive Movement</strong> – Responding to music through movement,
+fostering rhythm awareness and creativity.</p>
+<p></p>
 </li>
 </ul>
-<p><strong>B.&nbsp;&nbsp; Music Showcase: Recess Performances, Event week performances, P2 Theatre Experience</strong>
-</p>
+<h4>B.&nbsp;&nbsp; Music Showcase: Recess Performances, Event week performances, P2 Theatre Experience</h4>
 <p><strong>i)&nbsp;Recess Performances: A stage for musical expression - </strong>Recess
 performances provide an informal platform for our RVians to showcase their
 musical talents to their peers, building confidence and instrumental skills
