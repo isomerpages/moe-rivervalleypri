@@ -212,7 +212,28 @@ and gaining exposure to the wider art community.</p>
 <p><strong>Community Art Projects - </strong>Through collaborative projects,
 our students use art to support meaningful causes, such as environmental
 awareness, fostering a sense of responsibility and social impact.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 C and I/Aesthetics/Art14_2025.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 C and I/Aesthetics/Art12_2025.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 </li>
 </ul>
 <h3><strong><u>Music</u></strong></h3>
