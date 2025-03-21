@@ -5,7 +5,6 @@ description: ""
 third_nav_title: CCE
 variant: markdown
 ---
-
 <h2>Every RVian a Leader (ERaL)</h2>
 
 <p>Is leadership something we are born with, or is it a skill we develop? At RVPS, we believe that every student has the potential to lead. Leadership is no longer reserved for a select few—it is about equipping every RVian with the mindset, skills, and values to make a positive impact.</p>
