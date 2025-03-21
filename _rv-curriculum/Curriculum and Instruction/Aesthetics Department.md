@@ -5,86 +5,75 @@ description: ""
 third_nav_title: Curriculum and Instruction
 variant: markdown
 ---
-<p>At River Valley Primary School, we believe that a well-rounded Aesthetics
-education plays a vital role in nurturing creativity and self-expression
-in every child.</p>
-<p>The Aesthetics curriculum is an integral part of our holistic approach
-to learning, enriching students' experiences and fostering a lifelong appreciation
-for the arts. Through our Aesthetics Education, every RVian will:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Develop a deep appreciation and love for the arts</p>
-</li>
-<li>
-<p>Discover and nurture their artistic interests and talents</p>
-</li>
-<li>
-<p>Express themselves creatively through various artistic forms</p>
-</li>
+<p>At River Valley Primary School, we believe that a well-rounded Aesthetics education plays a vital role in nurturing creativity and self-expression in every child.</p>
+
+<p>The Aesthetics curriculum is an integral part of our holistic approach to learning, enriching students' experiences and fostering a lifelong appreciation for the arts. Through our Aesthetics Education, every RVian will:</p>
+
+<ul>
+  <li>Develop a deep appreciation and love for the arts</li>
+  <li>Discover and nurture their artistic interests and talents</li>
+  <li>Express themselves creatively through various artistic forms</li>
 </ul>
-<p>By engaging in meaningful artistic experiences, our students gain confidence,
-imagination, and a broader perspective of the world around them.</p>
+
+<p>By engaging in meaningful artistic experiences, our students gain confidence, imagination, and a broader perspective of the world around them.</p>
+
 <h2><strong>Key Programmes</strong></h2>
-<p>The school adopts the E3 approach to ensure that our arts programme provides
-structured and diverse arts experiences for all RVians.</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Arts Exposure</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Arts Experience</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Arts Excellence</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Students appreciate the arts and acquire the knowledge and specific skills progressively through the six years</strong>
-</p>
-<p>▪&nbsp;&nbsp;A progressive Visual Art and Music Curriculum to develop
-the artistic and musical child</p>
-<p>▪&nbsp;&nbsp;Art Exposure to a variety of art forms such as painting,
-sculpture, ceramics, printmaking and digital art.</p>
-<p>▪&nbsp;&nbsp;Core Drawing Experiences</p>
-<p>▪&nbsp;&nbsp;Art Appreciation of a range of artworks by Singapore and
-international masters / contemporary artists as well as student artists
-from our schools</p>
-<p>▪&nbsp;&nbsp;Music Exposure to Orff instruments, Ukulele</p>
-<p>▪&nbsp;&nbsp;Use of ICT to enhance teaching and learning</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Students discover more about the arts beyond the classroom, which will deepen and enhance their learning. This experience complements the arts instructional programmes.</strong>
-</p>
-<p>▪&nbsp;&nbsp;&nbsp;&nbsp;Assembly Programmes</p>
-<p>▪&nbsp;&nbsp;&nbsp;&nbsp;P2 Theatre Experience</p>
-<p>▪&nbsp;&nbsp;&nbsp;&nbsp;P4 Museum Based Learning</p>
-<p>▪&nbsp;&nbsp;&nbsp;&nbsp;RV-AMPowered (an Art-Music-PE Carnival)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Students participate at class level, school-based or public platforms to deepen their knowledge and skills in pursuit of their interests</strong>
-</p>
-<p>▪&nbsp;&nbsp;Exhibition in Curriculum</p>
-<p>▪&nbsp;&nbsp;Recess Performances</p>
-<p>▪&nbsp;&nbsp;RV Celebrates! A Performing Arts showcase for P1 and P2</p>
-<p>▪&nbsp;&nbsp;P6 Art and Music Graduation Showcase</p>
-<p>▪&nbsp;&nbsp;SYF Visual and Performing Arts</p>
-<p>▪&nbsp;&nbsp;Internal / External showcases, concerts and exhibitions</p>
-<p>▪&nbsp;&nbsp;Community Art Projects</p>
-</td>
-</tr>
-</tbody>
+
+<p>The school adopts the E3 approach to ensure that our arts programme provides structured and diverse arts experiences for all RVians.</p>
+
+<table style="border-collapse: collapse; width: 100%; border: 1px solid #ccc;">
+  <colgroup>
+    <col>
+    <col>
+    <col>
+  </colgroup>
+  <thead>
+    <tr style="background-color: #e0f0ff; text-align: center;">
+      <th style="border: 1px solid #ccc; padding: 10px;"><strong>Arts Exposure</strong></th>
+      <th style="border: 1px solid #ccc; padding: 10px;"><strong>Arts Experience</strong></th>
+      <th style="border: 1px solid #ccc; padding: 10px;"><strong>Arts Excellence</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid #ccc; vertical-align: top; padding: 10px;">
+        <p><strong>Students appreciate the arts and acquire the knowledge and specific skills progressively through the six years</strong></p>
+        <ul>
+          <li>A progressive Visual Art and Music Curriculum to develop the artistic and musical child</li>
+          <li>Art Exposure to a variety of art forms such as painting, sculpture, ceramics, printmaking, and digital art.</li>
+          <li>Core Drawing Experiences</li>
+          <li>Art Appreciation of a range of artworks by Singapore and international masters/contemporary artists as well as student artists from our schools</li>
+          <li>Music Exposure to Orff instruments, Ukulele</li>
+          <li>Use of ICT to enhance teaching and learning</li>
+        </ul>
+      </td>
+      <td style="border: 1px solid #ccc; vertical-align: top; padding: 10px;">
+        <p><strong>Students discover more about the arts beyond the classroom, which will deepen and enhance their learning. This experience complements the arts instructional programmes.</strong></p>
+        <ul>
+          <li>Assembly Programmes</li>
+          <li>P2 Theatre Experience</li>
+          <li>P4 Museum Based Learning</li>
+          <li>RV-AMPowered (an Art-Music-PE Carnival)</li>
+        </ul>
+      </td>
+      <td style="border: 1px solid #ccc; vertical-align: top; padding: 10px;">
+        <p><strong>Students participate at class level, school-based or public platforms to deepen their knowledge and skills in pursuit of their interests</strong></p>
+        <ul>
+          <li>Exhibition in Curriculum</li>
+          <li>Recess Performances</li>
+          <li>RV Celebrates! A Performing Arts showcase for P1 and P2</li>
+          <li>P6 Art and Music Graduation Showcase</li>
+          <li>SYF Visual and Performing Arts</li>
+          <li>Internal / External showcases, concerts, and exhibitions</li>
+          <li>Community Art Projects</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
 </table>
+
+
+
 <h3><strong><u>Visual Arts</u></strong></h3>
 <p>The Visual Arts curriculum focuses on the artistic development of each
 child to foster creativity, critical thinking, and self-expression. Through
