@@ -111,12 +111,57 @@ their creative processes, and take pride in their artistic growth</p>
 <p>Drawing serves as a powerful tool for expressing ideas and imagination.
 Our RVians explore various artistic processes, including doodling, sketching,
 and digital art, to bring their creativity to life.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 C and I/Aesthetics/Art1_2025.jpg">
+</div>
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 C and I/Aesthetics/Art3_2025.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p><strong>ii) Art Exposure</strong>
 </p>
 <p>Students experience a wide range of art forms, such as painting, paper
 collage, sculpture, printmaking, and digital art. They take pride in their
 creations and contribute to the school’s artistic environment by showcasing
 their works through exhibitions and displays.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 C and I/Aesthetics/Art5_2025.jpg">
+</div>
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 C and I/Aesthetics/Art9_2025.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p><strong>iii) Cultivating Art Appreciation</strong>
 </p>
 <p>Our RVians develop an appreciation for both local and global art, including
@@ -124,7 +169,28 @@ the works of renowned masters and contemporary artists. In Primary 4, students
 explore how local artists use their artworks as visual diaries, deepening
 their understanding of Singapore’s history and heritage while honing their
 visual inquiry skills.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 C and I/Aesthetics/Art11_2025.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 C and I/Aesthetics/Art10_2025.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p></p>
 <h4>B. Art Showcase: Exhibitions, Competitions &amp; Community Projects</h4>
 <p>Our RVians have numerous opportunities to showcase their artistic talents
