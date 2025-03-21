@@ -3,38 +3,61 @@ title: Student Leadership (Masses)
 permalink: /rv-curriculum/CCE/Student-Leadership-Masses/
 description: ""
 third_nav_title: CCE
+variant: markdown
 ---
-  
-In RVPS, every child matters, and we believe that every RVian can be a leader. In line with the school motto of “Inspiring Learners, Edifying Leaders”, the **Every RVian a Leader (ERaL)** programme aims to provide the platform for our students to apply and showcase their leadership qualities.
 
-![](/images/RV%20Curriculum/Character%20and%20Citizenship%20Ed/Student%20Leadership%20(Masses)/SL1.png)
+<h2>Every RVian a Leader (ERaL)</h2>
 
-Through this programme, every student will be able to learn and grow as an effective leader, through adopting **7 Habits** and displaying the **4 Leadership Qualities (LQs)** of Communication, Collaboration, Care and Responsibility.
+<p>Is leadership something we are born with, or is it a skill we develop? At RVPS, we believe that every student has the potential to lead. Leadership is no longer reserved for a select few—it is about equipping every RVian with the mindset, skills, and values to make a positive impact.</p>
 
-The 7 habits are gradually introduced in the students’ 6 years in RV to allow deep learning and effective application. They will learn the concepts of these habits and link knowledge to application through scenario-based questions, group discussions, sharing of ideas/ views during the termly trainings. Trainings will be progressive from application to self, others then community.
 
-These leadership qualities will be developed through the **4Es** approach, namely **Equip, Enrich, Empower** **and Explore.**
+<h3>Our Leadership Philosophy</h3>
+<p>At the heart of our approach are three key beliefs:</p>
+<ul>
+  <li>Every RVian can be developed as a leader.</li>
+  <li>Every RVian should be developed as a leader.</li>
+  <li>Leadership development must be intentional.</li>
+</ul>
 
-#### Equip
+<p>Our goal is to shape transformational leaders who:</p>
+<ul>
+  <li>Understand that leadership is about influence, not position.</li>
+  <li>Are anchored in values and take responsibility for their actions.</li>
+  <li>Inspire and collaborate with others toward a shared vision.</li>
+  <li>Contribute meaningfully to their communities.</li>
+</ul>
 
-The school has adopted the Leader in Me leadership model to support the students in becoming effective leaders. With the ERaL programme, students will be given ample opportunities to learn and grow by exploring the different roles in class in the span of their 6 years in RVPS. This is done through rotating the different leadership roles in class for P1 and P2 students, while the P3 – P6 students will go through termly ERaL trainings. During the trainings, students get to learn more about their leadership roles and discover how the 7 Habits can help them to showcase their leadership qualities.
+<p>To bring this vision to life, we focus on the <strong>4Es of Leadership Development</strong>: Equip, Enrich, Empower, and Explore.</p>
 
-![](/images/RV%20Curriculum/Character%20and%20Citizenship%20Ed/Student%20Leadership%20(Masses)/q1.png)
 
-#### Enrich
+<h3>The 4Es of Leadership Development</h3>
 
-Under the ERaL programme, students will also be given ample opportunities to learn and grow by exploring the different roles in class in the span of their 6 years in RVPS. Termly trainings are conducted by teachers to cater to the learning needs of the different groups of students undertaking different leadership roles in class. The training sessions aim to enrich their learning experiences by providing students strong support from their teachers.
 
-![](/images/RV%20Curriculum/Character%20and%20Citizenship%20Ed/Student%20Leadership%20(Masses)/q2.png)
+<h4>Equip: Building a Strong Foundation</h4>
+<p>RVians engage in progressive leadership lessons covering essential topics such as school values, growth mindset, and the 7 Habits of Highly Effective People. These interactive sessions incorporate group discussions, role-playing, and hands-on activities, ensuring leadership concepts are internalized over six years.</p>
 
-#### Explore
 
-The student handbook is used for students to reflect and explore ways in which they can better themselves as leaders in the school. During the training sessions, teachers will guide students in their goal setting monitoring of progress and reflections. Students are encouraged to explore the different ways they can stretch themselves and contribute as a leader.
+<h4>Enrich: Learning Through Action</h4>
+<p>Leadership comes to life through class-based and school-based roles, such as Class Chairpersons, Peer Support Leaders, Student Councillors, and CCA Leaders. These roles provide real-world opportunities for students to apply leadership skills, collaborate with peers, and take on responsibilities that extend beyond their classrooms.</p>
 
-![](/images/RV%20Curriculum/Character%20and%20Citizenship%20Ed/Student%20Leadership%20(Masses)/q3.jpg)
 
-#### Empower
+<h4>Empower: Stepping Up with Autonomy</h4>
+<p>As students progress, they gain increasing autonomy:</p>
+<ul>
+  <li><strong>Student-run activities:</strong> With teacher guidance, RVians manage events and daily operations.</li>
+  <li><strong>Student-led projects:</strong> Students take ownership, directing projects with minimal supervision.</li>
+  <li><strong>Student-initiated initiatives:</strong> Students drive their own ideas from conception to execution, demonstrating true leadership and innovation.</li>
+</ul>
 
-In the leadership training of the student masses, all students are empowered to take charge of their assigned duties/school events for the year. Hence, the different community of students will work among themselves to discuss and plan the best way to achieve the different tasks dutifully. Together with reflections and termly monitoring, we hope that all students will go through a leadership journey of personal reflections and growth.
 
-![](/images/RV%20Curriculum/Character%20and%20Citizenship%20Ed/Student%20Leadership%20(Masses)/q4.jpg)
+<h4>Explore: Growing Through Reflection</h4>
+<p>Leadership is a journey of continuous learning. At RVPS, we foster growth through:</p>
+<ul>
+  <li><strong>Goal Setting &amp; Reviews</strong> – Encouraging students to set and track leadership goals.</li>
+  <li><strong>Self-Assessment Checklists</strong> – Helping RVians evaluate their leadership progress.</li>
+  <li><strong>Reflection Exercises</strong> – Enabling students to learn from experiences.</li>
+  <li><strong>Student Awards</strong> – Recognizing outstanding leadership contributions.</li>
+</ul>
+
+
+<p>At RVPS, leadership is not just a title—it’s a way of thinking and acting. By developing confident, responsible, and compassionate leaders, we empower RVians to create positive change in their school and beyond.</p>
