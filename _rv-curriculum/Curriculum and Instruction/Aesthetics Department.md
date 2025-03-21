@@ -130,3 +130,27 @@ explore how local artists use their artworks as visual diaries, deepening
 their understanding of Singapore’s history and heritage while honing their
 visual inquiry skills.</p>
 <p></p>
+<p><strong>B.&nbsp;&nbsp; Art Showcase: Exhibitions, Competitions &amp; Community Projects</strong>
+</p>
+<p>Our RVians have numerous opportunities to showcase their artistic talents
+through exhibitions, competitions, and community projects.</p>
+<p><strong>i)&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Singapore Youth Festival - </strong>In
+this biannual art exhibition, students explore themed ideas, exercise creativity,
+and collaborate through the art-making process. In 2023, our Primary 3,
+4, and 5 team received the <strong>Certificate of Recognition</strong>,
+with their work exhibited at Stamford Arts Centre, while our Primary 2
+team earned a <strong>Certificate of Participation</strong>.</p>
+<p></p>
+<p><strong>ii. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Art Competitions - </strong>Students
+take part in various competitions organized by institutions such as SOTA
+and local museums, challenging themselves and gaining exposure to the wider
+art community.</p>
+<p><strong>iii. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Community Art Projects - </strong>Through
+collaborative projects, our students use art to support meaningful causes,
+such as environmental awareness, fostering a sense of responsibility and
+social impact.</p>
+<p></p>
+<p><strong><u>Music</u></strong>
+<br>
+</p>
+<p></p>
