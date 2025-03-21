@@ -16,7 +16,7 @@ Making, Self-Awareness and Self-Management) in authentic, collaborative
 and engaging lessons.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/PAL_2025.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 PAL/PAL_2025.png">
 </div>
 <p>PAL provides opportunities for students to discover new interests, develop
 character and enables them to develop social-emotional competencies through
@@ -24,7 +24,6 @@ the 5 learning domains of cognitive, moral, social, aesthetics and physical.
 Each module runs weekly for 7-9 lessons depending on the school’s calendar.
 At the end of each lesson, students will share their reflection on their
 learning experience with the class.</p>
-<p></p>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -64,6 +63,45 @@ learning experience with the class.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Visual Arts</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Going in and out the window" src="/images/2025 PAL/1_Going_in_and_out_the_window.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Theatrical Harmony" src="/images/2025 PAL/9_Theatrical_Harmony.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
