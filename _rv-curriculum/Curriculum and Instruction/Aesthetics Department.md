@@ -283,7 +283,28 @@ and teamwork through group singing and instrumental performances.</p>
 <li>
 <p><strong>Expressive Movement</strong> – Responding to music through movement,
 fostering rhythm awareness and creativity.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 C and I/Aesthetics/Music5_2025.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 C and I/Aesthetics/Music4_2025.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 </li>
 </ul>
 <h4>B.&nbsp;&nbsp; Music Showcase: Recess Performances, Event week performances, P2 Theatre Experience</h4>
@@ -299,7 +320,28 @@ performance.</p>
 their appreciation for the performing arts by attending a theatre experience
 at Esplanade, enriching their understanding of culture and values through
 drama and music.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 C and I/Aesthetics/Music9_2025.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 C and I/Aesthetics/Music7_2025.png">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <h3><strong><u>Signature Programmes</u></strong></h3>
 <p>Our signature programmes provide meaningful opportunities for students
 to showcase their artistic and musical talents while celebrating their
@@ -310,11 +352,54 @@ school experiences by creating personalized artworks and composing music
 that captures their memories. Their creations are proudly displayed during
 the graduation ceremony, allowing them to share their growth and achievements
 with peers, teachers, and families.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 C and I/Aesthetics/Music_Art5_2025.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 C and I/Aesthetics/Music_Art2_2025.png">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p><strong>B.&nbsp;&nbsp;&nbsp;&nbsp; RV-AMPowered! Carnival </strong>– This
 vibrant celebration of Art, Music, and PE engages students in exciting
 games, collaborative craft and music activities and live performances.
 Through interactive experiences during recess, RVians build friendship
 and immerse themselves in creative expression, teamwork, and school spirit,
 making the arts a memorable and meaningful part of our students’ journey.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 C and I/Aesthetics/Music_Art1_2025.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 C and I/Aesthetics/Music_Art7_2025.png">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p></p>
