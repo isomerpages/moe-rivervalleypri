@@ -79,7 +79,7 @@ learning experience with the class.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="Through the looking glass of friendship" src="/images/2025 PAL/7_Through_the_looking_glass_of_friendship.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="Through the looking glass of friendship" src="/images/2025 PAL/7_Through_the_looking_glass_of_friendship.jpg">
 </div>
 <p></p>
 </th>
@@ -93,9 +93,15 @@ learning experience with the class.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Navigating Together" src="/images/2025 PAL/8_Navigating_together.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="Presenting our Character Puppets" src="/images/2025 PAL/5_Presenting_our_Character_Puppets.jpg">
+</div>
 </td>
 </tr>
 <tr>
