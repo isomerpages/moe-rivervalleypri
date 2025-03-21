@@ -32,7 +32,8 @@ the joy in learning,</p>
 <p>Guided by the 3H (Head, Heart, Hand), the school’s VIA programme is part
 of a holistic education with a range of activities planned and implemented
 focusing on the following:</p>
-<p>Caring for School - Appreciating the Guardians of RV</p>
+<p></p>
+<h4>Caring for School - Appreciating the Guardians of RV</h4>
 <p>In conjunction with Labour Day, students embark on projects such as Inviting
 Classrooms, Welcoming Library, Sparkling Canteen, Care Advocates, Supportive
 Squad and Trash Busters to have a hands on experience of how our Guardians
@@ -49,6 +50,38 @@ empathy of the efforts put in by the people who has contributed to the
 betterment of their lives as well as be an active contributor to the school
 to keep it clean and safe.</p>
 <p>&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>Level VIA</h4>
 <p>Our level VIA is scaffolded to allow students to apply social and emotional
 competency skills as well as values learnt so that they can be an active
