@@ -151,6 +151,74 @@ such as environmental awareness, fostering a sense of responsibility and
 social impact.</p>
 <p></p>
 <p><strong><u>Music</u></strong>
+</p>
+<p></p>
+<p>Our Music curriculum is designed to nurture students’ appreciation and
+understanding of music through active participation in listening, creating,
+and performing. By engaging in meaningful musical experiences, students
+develop confidence, creativity, and a deeper connection to music. Through
+our curriculum, students:</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Explore &amp; Connect</strong> –
+Discover musical ideas, interact with various instruments, and experience
+a diverse repertoire from both local and global cultures.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Build Confidence &amp; Musicianship</strong> –
+Develop essential musical skills, appreciation, and a sense of achievement
+through performance opportunities.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Expand Musical Awareness</strong> –
+Learn about different genres, styles, and socio-cultural influences, enabling
+them to make informed musical choices.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Reflect &amp; Respond</strong> –
+Evaluate their own musical works and thoughtfully engage with the performances
+of musicians and peers.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; By immersing students in the
+world of music, we aim to inspire a lifelong appreciation for the arts
+and empower them to express themselves with confidence and creativity.</p>
+<p></p>
+<p><strong>A. Our Music Lessons</strong>
+</p>
+<p><strong>i) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Engaging Music learning through the Orff approach – </strong>This
+approach encourages our RVians to learn through play, movement, and collaboration.
+Students actively engage in:</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; <strong>Singing and Ensemble Performance</strong> –
+Developing musicality and teamwork through group singing and instrumental
+performances.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; <strong>Expressive Movement</strong> – Responding
+to music through movement, fostering rhythm awareness and creativity.
 <br>
 </p>
+<p><strong>B.&nbsp;&nbsp; Music Showcase: Recess Performances, Event week performances, P2 Theatre Experience</strong>
+</p>
+<p><strong>i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Recess Performances: A stage for musical expression - </strong>Recess
+performances provide an informal platform for our RVians to showcase their
+musical talents to their peers, building confidence and instrumental skills
+while fostering music appreciation among the audience.</p>
+<p><strong>i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Event Week Performances </strong>–
+Students take center stage during school events such as Teachers’ Day,
+National Day, and Graduation Day (for Primary 6), celebrating important
+milestones through music and performance.</p>
+<p>&nbsp;</p>
+<p><strong>ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P2 Theatre Experience </strong>–
+Primary 2 students deepen their appreciation for the performing arts by
+attending a theatre experience at Esplanade, enriching their understanding
+of culture and values through drama and music.</p>
+<p>&nbsp;</p>
+<p><strong><u>Signature Programmes</u></strong>
+</p>
+<p>Our signature programmes provide meaningful opportunities for students
+to showcase their artistic and musical talents while celebrating their
+learning journey.</p>
+<p>A.&nbsp;&nbsp;&nbsp;&nbsp; <strong>Art &amp; Music Showcase for P6 Graduation </strong>–
+As they prepare for their next chapter, our P6 RVians reflect on their
+school experiences by creating personalized artworks and composing music
+that captures their memories. Their creations are proudly displayed during
+the graduation ceremony, allowing them to share their growth and achievements
+with peers, teachers, and families.</p>
+<p>&nbsp;</p>
+<p><strong>B.&nbsp;&nbsp;&nbsp;&nbsp; RV-AMPowered! Carnival </strong>– This
+vibrant celebration of Art, Music, and PE engages students in exciting
+games, collaborative craft and music activities and live performances.
+Through interactive experiences during recess, RVians build friendship
+and immerse themselves in creative expression, teamwork, and school spirit,
+making the arts a memorable and meaningful part of our students’ journey.</p>
+<p></p>
 <p></p>
