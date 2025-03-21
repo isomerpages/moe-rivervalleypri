@@ -59,25 +59,20 @@ to keep it clean and safe.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students assisting in emptying the trash" src="/images/2025 CCE/VIA/Gratitude_VIA_1.png">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students assisting in cleaning the library" src="/images/2025 CCE/VIA/Gratitude_VIA_5.jpg">
+</div>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>Students assisting in emptying the trash and cleaning the canteen.</p>
 </td>
 </tr>
 </tbody>
@@ -94,6 +89,42 @@ made a difference to include HCA Hospice, Chinatown Active Ageing Centre
 and Singapore Association for Mental Health (SAMH) and National Environment
 Agency (NEA).</p>
 <p>&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 CCE/VIA/Level_VIA_2.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 CCE/VIA/Level_VIA_1.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 CCE/VIA/Level_VIA_3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 CCE/VIA/Level_VIA_4.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>CCA-Initiated VIA</h4>
 <p>The CCA-Initiated VIA provides a platform to develop CCA members into
 active contributors, who through their interest and talents are able to
@@ -105,3 +136,51 @@ to society.</p>
 <p>CCAs take into account community group’s needs so that they can improve
 or brighten the lives of the community group as well as achieve the aim
 of VIA, ensuring a right fit between both CCA and community.</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 CCE/VIA/CCA_VIA_1.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Concert Band and Choir CCAs put up a concert for elderly from Chinatown
+Active Aging Centre (CAAC) in the RVPS canteen</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 CCE/VIA/CCA_VIA_3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 CCE/VIA/CCA_VIA_2.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Basketball CCA keeping the environment clean by picking up litter along
+Kim Seng Park</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Scouts CCA plan and facilitate game booths during Mid Autumn Festival
+Celebration for P1s in RVPS</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
