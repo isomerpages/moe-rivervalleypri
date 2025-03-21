@@ -16,7 +16,7 @@ Making, Self-Awareness and Self-Management) in authentic, collaborative
 and engaging lessons.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 PAL/PAL_2025.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025 PAL/PAL_2025.png">
 </div>
 <p>PAL provides opportunities for students to discover new interests, develop
 character and enables them to develop social-emotional competencies through
@@ -68,6 +68,8 @@ learning experience with the class.</p>
 </tbody>
 </table>
 <p></p>
+<p></p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -76,24 +78,24 @@ learning experience with the class.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="Through the looking glass of friendship" src="/images/2025 PAL/7_Through_the_looking_glass_of_friendship.jpg">
+</div>
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 52%;" height="auto" width="100%" alt="Theatrical Harmony" src="/images/2025 PAL/9_Theatrical_Harmony.jpg">
+</div>
 <p></p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Going in and out the window" src="/images/2025 PAL/1_Going_in_and_out_the_window.jpg">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Theatrical Harmony" src="/images/2025 PAL/9_Theatrical_Harmony.jpg">
-</div>
 </td>
 </tr>
 <tr>
@@ -106,4 +108,6 @@ learning experience with the class.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
 <p></p>
