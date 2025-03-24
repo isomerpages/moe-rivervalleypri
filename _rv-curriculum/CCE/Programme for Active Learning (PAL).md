@@ -2,7 +2,7 @@
 title: Programme for Active Learning (PAL)
 permalink: /programme-active-learning/
 description: ""
-third_nav_title: CCA And PAL
+third_nav_title: CCE
 variant: markdown
 ---
 <p>PAL @ RVPS is a 2-year programme that has been integrated as part of the

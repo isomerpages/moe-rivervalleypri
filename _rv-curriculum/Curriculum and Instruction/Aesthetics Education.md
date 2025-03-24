@@ -1,5 +1,5 @@
 ---
-title: Aesthetics Department
+title: Aesthetics Education
 permalink: /rv-curriculum/curriculum-and-instruction/aesthetics-department/
 description: ""
 third_nav_title: Curriculum and Instruction
