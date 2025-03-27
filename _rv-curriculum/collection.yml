@@ -2,6 +2,7 @@ collections:
   rv-curriculum:
     output: true
     order:
+      - Talent Development Programme/Special Programmes.md
       - Talent Development Programme/.keep
       - Curriculum and Instruction/.keep
       - Curriculum and Instruction/English.md
