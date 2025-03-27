@@ -2,6 +2,8 @@ collections:
   rv-curriculum:
     output: true
     order:
+      - Talent Development Programme/English Language.md
+      - Talent Development Programme/.keep
       - Curriculum and Instruction/.keep
       - Curriculum and Instruction/English.md
       - Curriculum and Instruction/Mother Tongue.md
@@ -20,6 +22,7 @@ collections:
       - CCE/Modular Programme.md
       - CCE/The P1 – P3 DiZiGui Programme.md
       - CCE/Programme for Active Learning (PAL).md
+      - CCA And PAL/.keep
       - CCA And PAL/Co Curricular Activities (CCA).md
       - CCA And PAL/Art and Craft.md
       - CCA And PAL/Badminton.md
@@ -38,4 +41,4 @@ collections:
       - CCA And PAL/Scouts.md
       - CCA And PAL/Volleyball.md
       - CCA And PAL/Wushu.md
-      - CCA And PAL/.keep
+      - Applied Learning Programme.md
