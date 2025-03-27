@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Talent Development Programme
 ---
-<h3>English Language Talent Development Programme (EL TDP)</h3>
+<h3><strong>English Language Talent Development Programme (EL TDP)</strong></h3>
 <p>At River Valley Primary School (RVPS), the English Language Talent Development
 Programme (EL TDP) aims to nurture students into confident and empathetic
 communicators in both writing and speech. Through this programme, students
@@ -14,7 +14,7 @@ but are also empowered to use language effectively and meaningfully.</p>
 <p>Beyond honing their communication skills, we envision our students using
 their voices to advocate for change and make a positive impact on their
 community.</p>
-<p>Exploring Language Through Literature</p>
+<h4><strong>Exploring Language Through Literature</strong></h4>
 <p>In Primary 4, students delve into the world of literary texts, such as
 poetry, to explore deeper themes and ideas. Through discussions and debates,
 they engage in critical thinking and develop their ability to articulate
@@ -23,7 +23,7 @@ perspectives with clarity.</p>
 writing, experimenting with forms such as shape poetry. They also get the
 opportunity to share their crafted pieces with their peers, building confidence
 in expressing their ideas to an audience.</p>
-<p>Advocating for a Cause</p>
+<h4><strong>Advocating for a Cause</strong></h4>
 <p>In Primary 5, students take their language skills beyond the classroom
 by selecting a cause they are passionate about and working towards making
 a difference in their community. Through this meaningful endeavour, they
@@ -32,7 +32,7 @@ their chosen cause.</p>
 <p>This hands-on experience allows students to see the real-world impact
 of purposeful and responsible communication, reinforcing the idea that
 age is not a barrier to making a difference.</p>
-<p>Empowering Voices for a Better Tomorrow</p>
+<h4><strong>Empowering Voices for a Better Tomorrow</strong></h4>
 <p>Through the EL TDP, we hope for RVians to develop the skills, confidence,
 and empathy needed to use language as a powerful tool for change. By equipping
 them with opportunities to think critically, express creatively, and advocate
