@@ -42,7 +42,7 @@ description: ""
     <tr>
       <td>Endurance</td>
       <td>
-        Mdm Kavitha<br>
+        Mrs Rajan<br>
         <a href="mailto:kasinathan_vadivaloo_kavitha@schools.gov.sg">kasinathan_vadivaloo_kavitha@schools.gov.sg</a>
       </td>
       <td>
@@ -153,7 +153,7 @@ description: ""
         <a href="mailto:loh_sook_yee_reginia@schools.gov.sg">loh_sook_yee_reginia@schools.gov.sg</a>
       </td>
       <td>
-        Mr Mohamed Saddiq<br>
+        Mr Mohamed<br>
         <a href="mailto:mohamed_saddiq_b_mohamed@schools.gov.sg">mohamed_saddiq_b_mohamed@schools.gov.sg</a>
       </td>
       <td></td>
@@ -173,7 +173,7 @@ description: ""
     <tr>
       <td>Honesty</td>
       <td>
-        Ms Lau Chin Ling<br>
+        Mrs Chua Chin Ling<br>
         <a href="mailto:lau_chin_ling@schools.gov.sg">lau_chin_ling@schools.gov.sg</a>
       </td>
       <td>
@@ -181,7 +181,7 @@ description: ""
         <a href="mailto:teo_hui_xin@schools.gov.sg">teo_hui_xin@schools.gov.sg</a>
       </td>
       <td>
-        Ms Chong Ai Ling<br>
+        Mdm Chong Ailing<br>
         <a href="mailto:chong_ai_ling_a@schools.gov.sg">chong_ai_ling_a@schools.gov.sg</a>
       </td>
     </tr>
@@ -324,7 +324,7 @@ description: ""
     <tr>
       <td>Friendship</td>
       <td>
-        Ms Tan Lay Yen<br>
+        Mrs Ho-Tan Lay Yen<br>
         <a href="mailto:tan_lay_yen_a@schools.gov.sg">tan_lay_yen_a@schools.gov.sg</a>
       </td>
       <td>
@@ -407,7 +407,7 @@ description: ""
     <tr>
       <td>Friendship</td>
       <td>
-        Mdm Lena Lim<br>
+        Ms Lena Lim<br>
         <a href="mailto:lena_lim@schools.gov.sg">lena_lim@schools.gov.sg</a>
       </td>
       <td>
