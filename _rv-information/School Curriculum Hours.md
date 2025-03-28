@@ -10,7 +10,7 @@ variant: markdown
 <tr>
 <th style="background-color: lightgrey; border: 1px solid black;" rowspan="1" colspan="1"><p>Days</p></th>
 <th style="background-color: lightgrey; border: 1px solid black;" rowspan="1" colspan="1"><p>School Hours</p></th>
-<th style="background-color: lightgrey; border: 1px solid black;" rowspan="1" colspan="1"><p>Recess</p></th>
+<th style="background-color: lightgrey; border: 1px solid black;" rowspan="1" colspan="1"><p>Lunch</p></th>
 </tr>
 <tr>
 <td style="border: 1px solid black;" rowspan="1" colspan="1"><p>Monday - Friday</p></td>
@@ -33,8 +33,8 @@ variant: markdown
 <tr>
 <td style="border: 1px solid black;" rowspan="1" colspan="1"><p>Monday - Thursday</p></td>
 <td style="border: 1px solid black;" rowspan="1" colspan="1"><p>7.30 am - 1.30 pm</p></td>
-<td style="border: 1px solid black;" rowspan="1" colspan="1"><p>12.00 pm- 12.30pm</p></td>
 <td style="border: 1px solid black;" rowspan="1" colspan="1"><p></p></td>
+<td style="border: 1px solid black;" rowspan="1" colspan="1"><p>12.00 pm- 12.30pm</p></td>
 </tr>
 <tr>
 <td style="border: 1px solid black;" rowspan="1" colspan="1"><p>Friday</p></td>
@@ -57,8 +57,8 @@ variant: markdown
 <tr>
 <td style="border: 1px solid black;" rowspan="1" colspan="1"><p>Monday - Thursday</p></td>
 <td style="border: 1px solid black;" rowspan="1" colspan="1"><p>7.30 am - 1.30 pm</p></td>
-<td style="border: 1px solid black;" rowspan="1" colspan="1"><p>11.30 am - 12.00 pm</p></td>
 <td style="border: 1px solid black;" rowspan="1" colspan="1"><p></p></td>
+<td style="border: 1px solid black;" rowspan="1" colspan="1"><p>11.30 am - 12.00 pm</p></td>
 </tr>
 <tr>
 <td style="border: 1px solid black;" rowspan="1" colspan="1"><p>Friday</p></td>
