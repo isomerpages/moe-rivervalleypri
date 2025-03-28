@@ -2,8 +2,6 @@ collections:
   rv-curriculum:
     output: true
     order:
-      - Talent Development Programme/English Language.md
-      - Talent Development Programme/.keep
       - Curriculum and Instruction/.keep
       - Curriculum and Instruction/English.md
       - Curriculum and Instruction/Mother Tongue.md
@@ -41,4 +39,6 @@ collections:
       - CCA And PAL/Scouts.md
       - CCA And PAL/Volleyball.md
       - CCA And PAL/Wushu.md
+      - Talent Development Programme/.keep
+      - Talent Development Programme/English Language.md
       - Applied Learning Programme.md
