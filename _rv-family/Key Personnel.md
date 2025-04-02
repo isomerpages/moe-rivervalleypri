@@ -97,7 +97,7 @@ variant: markdown
     </tr>
     <tr>
       <td style="border: 1px solid black; padding: 10px;">Mathematics</td>
-      <td style="border: 1px solid black; padding: 10px;">Ms Serene Neo</td>
+      <td style="border: 1px solid black; padding: 10px;">Mrs Serene Lee</td>
       <td style="border: 1px solid black; padding: 10px;"><a href="mailto:neo_xiao_ling_serene@schools.gov.sg">neo_xiao_ling_serene@schools.gov.sg</a></td>
     </tr>
     <tr>
