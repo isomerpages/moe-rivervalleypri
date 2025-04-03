@@ -35,7 +35,7 @@ variant: markdown
       <td style="border: 1px solid black; padding: 10px;"><a href="mailto:teo_mei_ling_lynn@schools.gov.sg">teo_mei_ling_lynn@schools.gov.sg</a></td>
     </tr>
     <tr>
-      <td style="border: 1px solid black; padding: 10px;">Student Management &amp; Student Learership</td>
+      <td style="border: 1px solid black; padding: 10px;">Student Management &amp; Student Leadership</td>
       <td style="border: 1px solid black; padding: 10px;">Ms Chung Li Koon</td>
       <td style="border: 1px solid black; padding: 10px;"><a href="mailto:chung_li_koon@schools.gov.sg">chung_li_koon@schools.gov.sg</a></td>
     </tr>
@@ -111,7 +111,7 @@ variant: markdown
       <td style="border: 1px solid black; padding: 10px;"><a href="mailto:goh_shu_yi_priscilla@schools.gov.sg">goh_shu_yi_priscilla@schools.gov.sg</a></td>
     </tr>
     <tr>
-      <td style="border: 1px solid black; padding: 10px;">Student Management &amp; Student Learership</td>
+      <td style="border: 1px solid black; padding: 10px;">Student Management &amp; Student Leadership</td>
       <td style="border: 1px solid black; padding: 10px;">Mr Mufsin</td>
       <td style="border: 1px solid black; padding: 10px;"><a href="mailto:abdul_mufsin@schools.gov.sg">abdul_mufsin@schools.gov.sg</a></td>
     </tr>
