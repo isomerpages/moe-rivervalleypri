@@ -2,7 +2,7 @@
 title: Co Curricular Activities (CCA)
 permalink: /rvps-cca/
 description: ""
-third_nav_title: CCA And PAL
+third_nav_title: CCA
 variant: markdown
 ---
 <h2>Co-Curricular Activities (CCA) at RVPS</h2>

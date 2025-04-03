@@ -5,25 +5,20 @@ description: ""
 third_nav_title: CCE
 variant: markdown
 ---
-<p>The Values in Action (VIA) programme seeks to nurture socially responsible citizens who play an active role in contributing meaningfully to the community by learning and applying values, knowledge, and skills to make a difference. VIA is designed to encourage student ownership and initiative. As part of VIA, students reflect on their experiences, the values they have put into practice, and how they can continue to contribute meaningfully.</p>
+<p>Our Values In Action (VIA) programme is one of the key student development experiences that place great emphasis on the importance of community engagement and responsibility. Our progressive VIA plan is intentionally designed as we believe that when our students exercise greater ownership over their VIA activities, they are more likely to find value in their contributions to make a positive difference in their community and nation.</p>
 
-<p>The school’s VIA Framework seeks to provide a spectrum of learning experiences to improve how our students and staff work and learn in school by:</p>
+<p>This spectrum of learning experiences takes our students on a journey as they form their identities, clarify their values and develop social emotional competencies. When they know who they are and how they can play their part, students form relationship with the people around them in a meaningful and respectful manner.  When students apply what they learnt, they make responsible choices and become informed and concerned citizens of good character. </p>
 
-<ul data-tight="true" class="tight">
-    <li>Equipping them with the values, knowledge, and skills,</li>
-    <li>Enriching their lives by keeping them curious to find and sustain the joy in learning,</li>
-    <li>Exploring issues pertaining to school and the community, and</li>
-    <li>Empowering them to contribute to the community meaningfully.</li>
-</ul>
-
-<p>Guided by the 3H (Head, Heart, Hand), the school’s VIA programme is part of a holistic education with a range of activities planned and implemented focusing on the following:</p>
-
+<p>Guided by the 3H (Head, Heart, Hand) approach, the school’s VIA programme is part of a holistic education with a range of activities planned and implemented focusing on the following:</p>
 
 <h4>Caring for School - Appreciating the Guardians of RV</h4>
 
-<p>In conjunction with Labour Day, students embark on projects such as Inviting Classrooms, Welcoming Library, Sparkling Canteen, Care Advocates, Supportive Squad, and Trash Busters to experience firsthand how our Guardians of RV carry out their duties in maintaining the safety and cleanliness of RVPS. Guardians of RV include all staff (e.g., security guards, cleaners, operations support officers, librarian, ICT staff, teachers, and office staff) in RVPS.</p>
+<p>In conjunction with Labour Day, students embark on projects such as Inviting Classrooms, Welcoming Library, Sparkling Canteen, Care Advocates, Supportive Squad and Trash Busters to have a hands-on experience of how our Guardians of RV have carried out their duties of monitoring the safety and cleanliness to keep RVPS a safe and conducive environment.</p>
 
-<p>This initiative allows RVians to experience what the Guardians of RV do daily, fostering appreciation for their hard work and dedication. Through this project, students learn the importance of gratitude and empathy for those who contribute to their well-being, while also becoming active contributors in maintaining a clean and safe school environment.</p>
+<p>Guardians of RV includes all staff (e.g. security guards, cleaners, operations support officers, librarian, ICT staff, teachers and office staff) in RVPS.</p>
+
+<p>This helps our RVians to personally experience what the Guardians of RV have been doing on a daily basis and better appreciate the efforts and hard work put in by our Guardians of RV.
+Through this project, students learnt the importance of gratitude and empathy of the efforts put in by the people who has contributed to the betterment of their lives as well as be an active contributor to the school to keep it clean and safe. </p>
 
 
 <div style="margin-top: 30px;"></div>
@@ -54,9 +49,9 @@ variant: markdown
 
 <h4>Level VIA</h4>
 
-<p>Our level VIA is scaffolded to allow students to apply social and emotional competency skills, as well as values learned, so that they can be active contributors—starting from self, family, and school, gradually expanding to society, the nation, and beyond.</p>
+<p>Our level VIA is scaffolded to allow students to apply social emotional competencies as well as values learnt so that they can be an active contributor starting from self, family, school and gradually to the society, nation and beyond.</p>
 
-<p>Some of our partner organisations where students have contributed include HCA Hospice, Chinatown Active Ageing Centre (CAAC), Farrer Road Residents’ Committee, Henderson-Dawson Town Council, Singapore Association for Mental Health (SAMH), and the National Environment Agency (NEA).</p>
+<p>Our students have contributed and made a difference to some of the organizations such as HCA Hospice, Chinatown Active Ageing Centre (CAAC), Farrer Road Residents’ Committee, Henderson-Dawson Town Council and Singapore Association for Mental Health (SAMH) and National Environment Agency (NEA).</p>
 
 
 <div style="margin-top: 30px;"></div>
@@ -94,7 +89,9 @@ variant: markdown
 
 <h4>CCA-Initiated VIA</h4>
 
-<p>The CCA-Initiated VIA provides a platform for CCA members to become active contributors, using their interests and talents to promote social integration and friendships between diverse community groups. CCAs are encouraged to conduct VIA activities using the skills they acquire in CCA, enabling them to apply their learning to give back to society. CCAs also consider the needs of community groups to improve their lives, ensuring a meaningful and mutually beneficial partnership.</p>
+<p>The CCA-Initiated VIA provides a platform to develop CCA members into active contributors, who through their interest and talents are able to contribute meaningfully to the community to promote social integration and friendships between diverse community groups.</p>
+
+<p>CCAs are encouraged to conduct the VIA activities using the acquired skills from CCA to enable students to apply their learning to contribute back to society. CCAs take into account community group’s needs so that they can improve or brighten the lives of the community group as well as achieve the aims of VIA, ensuring a right fit between both CCA and community. </p>
 
 
 <div style="margin-top: 30px;"></div>

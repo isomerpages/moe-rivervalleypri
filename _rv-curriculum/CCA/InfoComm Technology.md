@@ -2,7 +2,7 @@
 title: InfoComm Technology
 permalink: /rv-curriculum/CCA-And-PAL/Infocomm-Technology/
 description: ""
-third_nav_title: CCA And PAL
+third_nav_title: CCA
 ---
 The Info Comm Technology Club focuses on developing an appreciation and understanding of the uses of the different technological tools for the purposes of communications. Students learn the skills of photography and coding in their stint.   
 

@@ -2,7 +2,7 @@
 title: Scouts
 permalink: /rv-curriculum/CCA-And-PAL/Scouts/
 description: ""
-third_nav_title: CCA And PAL
+third_nav_title: CCA
 ---
 River Valley Raven Cub Scouts is a CCA which provides a platform to self-development and self-discovery. We aim to create a close-knitted group environment which prepares boys to face and solve problems through courage, teamwork and creativity by providing boys with training programmes, outings and camps.
 

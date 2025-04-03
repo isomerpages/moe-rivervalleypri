@@ -2,7 +2,7 @@
 title: Badminton
 permalink: /rv-curriculum/CCA-And-PAL/Badminton/
 description: ""
-third_nav_title: CCA And PAL
+third_nav_title: CCA
 ---
 A great sport for fitness, badminton is well known for its popularity all over the world. It is a great choice of for students who love racket sports. 
 

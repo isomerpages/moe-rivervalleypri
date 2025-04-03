@@ -2,9 +2,8 @@
 title: Art and Craft
 permalink: /rv-curriculum/CCA-And-PAL/Art-and-Craft/
 description: ""
-third_nav_title: CCA And PAL
+third_nav_title: CCA
 ---
-  
 “There are painters who transform the sun to a yellow spot, but there are others who with the help of their art and their intelligence, transform a yellow spot into sun” ― Pablo Picasso
 
 In RV Art Club, we are not trying to create little artists like Picasso but to encourage our students to use their creativity to transform their thoughts into artworks, just like Picasso did.

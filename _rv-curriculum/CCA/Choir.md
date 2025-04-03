@@ -2,7 +2,7 @@
 title: Choir
 permalink: /rv-curriculum/CCA-And-PAL/Choir/
 description: ""
-third_nav_title: CCA And PAL
+third_nav_title: CCA
 ---
 The River Valley Primary School Choir was established in 1993 with a mission to develop students in their passion for singing and love for performing. Each student is not just trained vocally and musically but is developed holistically through the opportunities given to exercise qualities like confidence and teamwork. To develop leadership and good values, our Primary 5 and 6 choristers are given opportunities to mentor their Primary 3 and 4 juniors in their singing techniques and learning of choral pieces.
 

@@ -2,9 +2,9 @@
 title: Red Cross Youth
 permalink: /rv-curriculum/CCA-And-PAL/Red-Cross-Youth/
 description: ""
-third_nav_title: CCA And PAL
+third_nav_title: CCA
 ---
-### Boys & Girls
+### Boys &amp; Girls
 <figure>
 
 <img src="/images/RV%20Curriculum/CCA%20and%20PAL/Red%20Cross%20Youth/RC%20Youth.png">
@@ -23,4 +23,3 @@ A true Red Cross member lives up to the Red Cross Youth motto of “Humanity in 
 ![](/images/RV%20Curriculum/CCA%20and%20PAL/Red%20Cross%20Youth/q1.jpg)
 
 ![](/images/RV%20Curriculum/CCA%20and%20PAL/Red%20Cross%20Youth/q2.jpg)
-

@@ -2,7 +2,7 @@
 title: Drama
 permalink: /rv-curriculum/CCA-And-PAL/Drama/
 description: ""
-third_nav_title: CCA And PAL
+third_nav_title: CCA
 variant: markdown
 ---
 2023 has been a busy year for RV Drama Club.

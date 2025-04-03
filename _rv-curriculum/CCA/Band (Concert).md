@@ -2,7 +2,7 @@
 title: Band (Concert)
 permalink: /rv-curriculum/CCA-And-PAL/Band-Concert/
 description: ""
-third_nav_title: CCA And PAL
+third_nav_title: CCA
 ---
 ![](/images/RV%20Curriculum/CCA%20and%20PAL/Band%20(Concert)/photo_6235498026902860004_w.png)
 

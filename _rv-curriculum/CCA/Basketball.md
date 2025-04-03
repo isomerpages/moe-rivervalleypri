@@ -2,9 +2,8 @@
 title: Basketball
 permalink: /rv-curriculum/CCA-And-PAL/Basketball/
 description: ""
-third_nav_title: CCA And PAL
+third_nav_title: CCA
 ---
-  
 The RVPS Basketball CCA comprises of the Recreation Team, School Team and Competitive Team.
 
 All players undergo an initial phase of training on Fridays during curriculum time - Recreation Team. Fundamental skills such as dribbling, passing and shooting are taught and honed during this period of time. This is to provide players with a strong foundation for more advanced skills.

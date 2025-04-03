@@ -2,7 +2,7 @@
 title: Football
 permalink: /rv-curriculum/CCA-And-PAL/Football/
 description: ""
-third_nav_title: CCA And PAL
+third_nav_title: CCA
 ---
 Football is undoubtedly the world’s most popular sport. Walk around the streets and you’ll see many dressed in a Liverpool, Barcelona or Real Madrid jersey. Look around during our Chinese New Year or National Day celebrations where a large number of RVians are in their RED Liverpool, Bayern Munich or Manchester United jerseys. Such is the passion for the Beautiful Game so let’s be part of it!
 

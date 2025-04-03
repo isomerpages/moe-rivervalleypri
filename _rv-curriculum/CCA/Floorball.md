@@ -2,7 +2,7 @@
 title: Floorball
 permalink: /rv-curriculum/CCA-And-PAL/Floorball/
 description: ""
-third_nav_title: CCA And PAL
+third_nav_title: CCA
 ---
 Floorball is an exciting indoor sport that blends elements of ice hockey and other team sports such as football and basketball. A floorball game can be played with 5 outfield players as well as a goalkeeper for each team. During a game each team can have up to 20 players. It is an easy to pick up sport as all that is needed is a floorball stick and a ball.
 

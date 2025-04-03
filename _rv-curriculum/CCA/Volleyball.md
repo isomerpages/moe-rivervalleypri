@@ -2,7 +2,7 @@
 title: Volleyball
 permalink: /rv-curriculum/CCA-And-PAL/Volleyball/
 description: ""
-third_nav_title: CCA And PAL
+third_nav_title: CCA
 ---
 Volleyball was formed in RV in 2004 and is one of the most popular sports CCAs in the school, with more than 100 members at its peak of popularity.
 
