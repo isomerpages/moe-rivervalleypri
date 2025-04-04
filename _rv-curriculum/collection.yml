@@ -2,7 +2,6 @@ collections:
   rv-curriculum:
     output: true
     order:
-      - Learning for Life Programme.md
       - Curriculum and Instruction/.keep
       - Curriculum and Instruction/English.md
       - Curriculum and Instruction/Mother Tongue.md
@@ -41,6 +40,7 @@ collections:
       - CCA/Volleyball.md
       - CCA/Wushu.md
       - Applied Learning Programme.md
+      - Learning for Life Programme.md
       - Talent Development Programme/.keep
       - Talent Development Programme/English Language.md
       - Talent Development Programme/Mathematics.md
