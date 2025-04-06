@@ -5,6 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Talent Development Programme
 ---
+<h3><strong>Mathematics Talent Development Programme (Math TDP)</strong></h3>
+<p></p>
 <p>At River Valley Primary School (RVPS), the Mathematics Talent Development
 is based on the Excellence 2000 (E2K) Mathematics Programme for Primary
 4 and 5 students.</p>
