@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/school_website2.gif
+      background: /images/Banner_40th_Anniversary__Term_2___1200_x_630_px_.png
       key_highlights:
         - title: Parent Volunteer Scheme
           description: Click here to find out more
