@@ -13,7 +13,7 @@ is based on the Excellence 2000 (E2K) Mathematics Programme for Primary
 <p>Through an inquiry approach, students can work independently or collaborate
 with their peers and engage in mathematical tasks such as puzzles and games
 that were designed for the workshop.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Objectives of the programme includes helping students to:</p>
 <p>Develop the habits, attitudes and dispositions mathematicians possess.</p>
 <p>Gain important 21st-century competencies such as critical thinking, invention
