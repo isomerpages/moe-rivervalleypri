@@ -15,9 +15,17 @@ with their peers and engage in mathematical tasks such as puzzles and games
 that were designed for the workshop.</p>
 <p></p>
 <p>Objectives of the programme includes helping students to:</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Develop the habits, attitudes and dispositions mathematicians possess.</p>
+</li>
+<li>
 <p>Gain important 21st-century competencies such as critical thinking, invention
 thinking and effective communication skills.</p>
+</li>
+<li>
 <p>Cultivate and enhance a deeper interest in learning mathematics beyond
 the curriculum.</p>
+</li>
+</ul>
 <p></p>
