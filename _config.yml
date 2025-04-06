@@ -3,7 +3,7 @@ url: https://rivervalleypri.moe.edu.sg
 favicon: /images/2023 Images/RVPS Logo.png
 colors:
   primary-color: "#000080"
-  secondary-color: "#ffd700"
+  secondary-color: "#ffbf00"
   media-colors:
     - title: media-color-one
       color: "#49759a"
