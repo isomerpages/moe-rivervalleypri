@@ -25,7 +25,8 @@ the Contents are owned by, licensed to or controlled by River Valley Primary
 School.</p>
 <p></p>
 <h4>Privacy Policy</h4>
-<p>5. Click here to review this Web Site Privacy Statement.</p>
+<p>5. <a href="https://www.rivervalleypri.moe.edu.sg/privacy/" rel="noopener nofollow" target="_blank">Click here</a> to
+review this Web Site Privacy Statement.</p>
 <p></p>
 <h4>Restrictions on Use of Materials</h4>
 <p>6. Except as otherwise provided, the Contents of this Web Site shall not
