@@ -2,8 +2,8 @@ title: River Valley Primary School
 url: https://rivervalleypri.moe.edu.sg
 favicon: /images/2023 Images/RVPS Logo.png
 colors:
-  primary-color: "#ffd700"
-  secondary-color: "#000080"
+  primary-color: "#000080"
+  secondary-color: "#ffd700"
   media-colors:
     - title: media-color-one
       color: "#49759a"
