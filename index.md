@@ -18,5 +18,8 @@ sections:
         - title: Sexuality Education 2025
           description: Click here to read more
           url: /rv-curriculum/cce/sexuality-education-2025/
+        - title: RVPS Open House
+          description: Key Highlight description
+          url: https://river-valley-pri.my.canva.site/website-poster-40th-anniversary-term-2
       variant: image
 ---
