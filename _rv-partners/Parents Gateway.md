@@ -20,6 +20,42 @@ on school’s programme and activities.</p>
 Store or Huawei AppGallery) and ensure the app developer is “Ministry of
 Education (Singapore)”.</p>
 <p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Andriod OS</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Apple iOS</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>HarmonyOS</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://play.google.com/store/apps/details?id=com.moe.pgp&amp;pli=1" rel="noopener nofollow" target="_blank">Google Play Store</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://apps.apple.com/sg/app/parents-gateway/id1267198708" rel="noopener nofollow" target="_blank">Apple Store</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://appgallery.huawei.com/app/C101325885" rel="noopener nofollow" target="_blank">Huawei App Gallery</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p>2.&nbsp;<strong>Login with Singpass</strong>
 </p>
 <p>If you have issues signing in with Singpass, you may visit the <a href="https://www.singpass.gov.sg/main/" rel="noopener nofollow" target="_blank">Singpass Website</a> or
