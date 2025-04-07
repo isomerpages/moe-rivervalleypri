@@ -13,36 +13,24 @@ on school’s programme and activities.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/PCM5o8jAncc"></iframe>
 </div>
+<h3><strong>Onboarding Parents Gateway</strong></h3>
+<p>1.&nbsp;<strong>Download the App</strong>
+</p>
+<p>Please download directly from the official app stores (Google Play, App
+Store or Huawei AppGallery) and ensure the app developer is “Ministry of
+Education (Singapore)”.</p>
 <p></p>
-<h4><strong>FAQs for your information:</strong>&nbsp;</h4>
-<p><strong>What is Parents Gateway?</strong>
+<p>2.&nbsp;<strong>Login with Singpass</strong>
 </p>
-<p>Parents Gateway is a mobile app that connects parents and schools on key
-administrative matters, allowing schools to send updates on programmes
-and activities to parents, and for parents to perform administrative functions
-such as providing consent for their children to participate in school activities.</p>
-<p>It aims to aggregate parent-teacher communications securely on a centralised
-digital platform. It is integrated with existing MOE records systems, so
-updates will be reflected in Parents Gateway in real-time.</p>
-<p><strong>What functions are available in Parents Gateway?</strong>
+<p>If you have issues signing in with Singpass, you may visit the <a href="https://www.singpass.gov.sg/main/" rel="noopener nofollow" target="_blank">Singpass Website</a> or
+contact their helpdesk at +65 6335 3533.</p>
+<p></p>
+<p>3.&nbsp;<strong>Complete your Onboarding</strong>
 </p>
-<p>Parents can view&nbsp;<strong>school announcements</strong>,&nbsp;<strong>consent forms</strong>&nbsp;and&nbsp;<strong>travel declaration</strong>&nbsp;using
-the app. Parents who wish to receive reminders on upcoming events, there
-is an “Add to Calendar” feature. Upon selection, the event would be synced
-with your phone calendar. New features will be added in future.</p>
-<p><strong>Who can access Parents Gateway?</strong>
-</p>
-<p>Access to Parents Gateway is granted to parents and legal guardians of
-students studying in MOE schools in Singapore. You will need your SingPass
-to access Parents Gateway.</p>
-<p><strong>Can I access Parents Gateway on the computer?</strong>
-</p>
-<p>Parents Gateway is currently only available as a mobile application.</p>
-<p><strong>What if I am unable to use Parents Gateway?</strong>
-</p>
-<p>We will continue to issue hard-copy letters and consent forms to parents
-and legal guardians who are unable to use Parents Gateway.</p>
+<p>Retrieve your child’s details and verify the information to proceed</p>
+<p></p>
 <blockquote>
-<h4><a href="https://pg.moe.edu.sg/faq" rel="noopener noreferrer nofollow" target="_blank">For more FAQ click here</a></h4>
+<p><strong><a href="https://ask.gov.sg/parentsgateway" rel="noopener nofollow" target="_blank">For more FAQ click here</a></strong>
+</p>
 </blockquote>
 <p></p>
