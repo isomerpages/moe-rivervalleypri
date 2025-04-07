@@ -4,7 +4,6 @@ permalink: /rv-partners/parents-gateway/
 description: ""
 variant: markdown
 ---
-
 <h3><strong>Parents Gateway</strong></h3>
 <p>Parents Gateway (PG) is an initiative by MOE to enable parents to interact with schools more conveniently on administrative and financial matters. Parents will also be able to use this mobile application to stay updated on school’s programme and activities.</p>
 
