@@ -37,6 +37,8 @@ links:
         url: /rvps-cca
       - title: Applied Learning Programme
         url: /applied-learning-programme
+      - title: Learning for Life Programme
+        url: /learning-for-life-programme/
       - title: Special Programme
         url: /special-programmes/
   - title: RV Partners
@@ -57,8 +59,6 @@ links:
         url: /school-hours
       - title: Directions to School
         url: /directions
-      - title: School Canteen
-        url: /school-canteen/
       - title: Vendor Information
         url: /vendors
       - title: Student Learning Space

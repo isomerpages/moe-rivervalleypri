@@ -4,10 +4,8 @@ permalink: /privacy/
 variant: tiptap
 description: ""
 ---
-<p><strong>PRIVACY STATEMENT</strong>
-</p>
-<p><strong>RIVER VALLEY PRIMARY SCHOOL PRIVACY STATEMENT</strong>
-</p>
+<h3><strong>RIVER VALLEY PRIMARY SCHOOL PRIVACY STATEMENT</strong></h3>
+<p></p>
 <p>1.&nbsp; This is a RIVER VALLEY PRIMARY SCHOOL website. Thank you for
 examining our privacy statement.</p>
 <p></p>
@@ -36,5 +34,4 @@ of personal data are secured with appropriate security technologies.</p>
 protection and privacy practices may differ from ours. We are not responsible
 for the content and privacy practices of these other websites and encourage
 you to consult the privacy notices of those sites.</p>
-<p>&nbsp;</p>
 <p>&nbsp;</p>
