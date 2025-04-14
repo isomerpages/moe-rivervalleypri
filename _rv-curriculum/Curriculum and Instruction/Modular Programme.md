@@ -50,6 +50,10 @@ from P1 to move on and advance from ScratchJr to Scratch3.0.</p>
 <p>This structured approach prepares students for the Code for Fun and AI
 for Fun programme in Primary 5 and 6, ensuring they are ready for a digitally-driven
 world.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 C and I/Modular Programme/Students_working_on_Scratch_Programme_.jpg">
+</div>
 <h4><strong>EFS &amp; 7 Habits: Developing Life Skills for Success</strong></h4>
 <p>EFS are mental processes that help students plan, focus, remember instructions,
 and manage multiple tasks effectively. Often described as the brain’s “air
