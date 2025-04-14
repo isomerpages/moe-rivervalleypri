@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Curriculum and Instruction
 variant: tiptap
 ---
-<h3><strong>Modular Programme (MP): Building Future-Ready Learners </strong></h3>
+<h3><strong>Modular Programme (MP): Building Future-Ready Learners</strong></h3>
 <p>At River Valley Primary School, our Modular Programme (MP) is designed
 to equip students with essential 21st-century competencies, preparing them
 for an evolving and technology-driven future. The programme focuses on
@@ -15,7 +15,7 @@ engaging and structured learning experiences, students develop digital
 literacy, life skills, and leadership qualities that empower them to thrive
 in today’s world.</p>
 <p></p>
-<h4><strong>ICT MP: Building Digital Competencies </strong></h4>
+<h4><strong>ICT MP: Building Digital Competencies</strong></h4>
 <p>The ICT MP nurtures foundational IT skills while fostering critical thinking
 and problem-solving abilities. Aligned with the Digital Learning and Teaching
 Skills (DLTS) framework, the programme covers:</p>
@@ -33,7 +33,7 @@ behaviour and awareness of how to protect oneself in the online space.</p>
 through fun, age-appropriate platforms.</p>
 </li>
 </ul>
-<h4>Progression of Learning </h4>
+<h4>Progression of Learning</h4>
 <p>The ICT programme offers Primary 1 and 2 students the key digital skills
 needed for future coding experiences.</p>
 <ul data-tight="true" class="tight">
@@ -50,7 +50,7 @@ from P1 to move on and advance from ScratchJr to Scratch3.0.</p>
 <p>This structured approach prepares students for the Code for Fun and AI
 for Fun programme in Primary 5 and 6, ensuring they are ready for a digitally-driven
 world.</p>
-<h4><strong>EFS &amp; 7 Habits: Developing Life Skills for Success </strong></h4>
+<h4><strong>EFS &amp; 7 Habits: Developing Life Skills for Success</strong></h4>
 <p>EFS are mental processes that help students plan, focus, remember instructions,
 and manage multiple tasks effectively. Often described as the brain’s “air
 traffic control system”, these skills are crucial for academic success
@@ -60,7 +60,7 @@ cultivating positive habits and self-leadership from an early age. The
 focus areas for each level include:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Primary 1: Private Victory (Self-Leadership &amp; Independence) </strong>
+<p><strong>Primary 1: Private Victory (Self-Leadership &amp; Independence)</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
