@@ -93,7 +93,7 @@ Synergise, and Sharpen the Saw.</p>
 <p>Through engaging activities and reflections, students cultivate resilience,
 self-awareness, and interpersonal skills that support their academic and
 personal growth.</p>
-<h4>Shaping Future-Ready Learners</h4>
+<h3><strong>Shaping Future-Ready Learners</strong></h3>
 <p>At RVPS, the MP is more than just a curriculum – it’s a pathway to becoming
 future-ready learners. By integrating digital skills, executive functioning,
 and leadership principles, we empower students to think critically, act
