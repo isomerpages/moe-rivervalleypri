@@ -2,7 +2,6 @@ collections:
   rv-curriculum:
     output: true
     order:
-      - Curriculum and Instruction/Modular Programme.md
       - Curriculum and Instruction/.keep
       - Curriculum and Instruction/English.md
       - Curriculum and Instruction/Mother Tongue.md
@@ -11,6 +10,7 @@ collections:
       - Curriculum and Instruction/Physical Education.md
       - Curriculum and Instruction/Aesthetics Education.md
       - Curriculum and Instruction/InfoComm Technology.md
+      - Curriculum and Instruction/Modular Programme.md
       - CCE/.keep
       - CCE/Student Well Being.md
       - CCE/Sexuality Education 2025.md
