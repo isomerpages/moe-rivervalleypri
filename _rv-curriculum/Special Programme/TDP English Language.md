@@ -1,9 +1,9 @@
 ---
-title: English Language
-permalink: /special-programmes/
+title: TDP English Language
+permalink: /tdp-english/
 variant: tiptap
 description: ""
-third_nav_title: Talent Development Programme
+third_nav_title: Special Programme
 ---
 <h3><strong>English Language Talent Development Programme (EL TDP)</strong></h3>
 <p>At River Valley Primary School (RVPS), the English Language Talent Development
