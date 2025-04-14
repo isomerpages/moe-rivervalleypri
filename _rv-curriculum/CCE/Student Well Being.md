@@ -89,22 +89,6 @@ for the safe and responsible online use.</p>
   <img style="width: 90%; max-width: 800px; height: auto;" alt="The Surfer Six" src="/images/About%20RV/Cyberwellness/SF1.png">
 </div>
 
-<h3><strong>Cyber Wellness</strong></h3>
-<p>Students learn the three principles: ‘Respect for Self and Others’, ‘Safe and Responsible Use’ and ‘Positive Peer Influence’ to guide their decision-making and anchor their well-being in the cyber world. Through Cyber Wellness programme in the school, students are reminded to:</p>
-
-<div style="text-align: center; margin: 20px 0;">
-  <img style="width: 90%; max-width: 800px; height: auto;" alt="Cyber Wellness Banner" src="/images/About%20RV/Cyberwellness/CW%201.jpg">
-</div>
-
-<h4>The Surfer Six</h4>
-<p>The Surfer Six are heroes who impart their wisdom of Cyber Wellness to RVians. With the knowledge, RVians learn to respect self and others, be responsible users, keep safe and also be a positive influence in the cyber world.</p>
-
-<div style="text-align: center; margin: 20px 0;">
-  <img style="width: 90%; max-width: 800px; height: auto;" alt="Surfer Six Group" src="/images/About%20RV/Cyberwellness/SF1.png">
-</div>
-
-
-
 
 <table style="width: 100%; table-layout: fixed; margin-bottom: 30px;">
   <tbody><tr>
