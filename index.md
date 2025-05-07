@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/school_website2.gif
+      background: /images/School_banner.png
       key_highlights:
         - title: Parent Volunteer Scheme
           description: Click here to find out more
