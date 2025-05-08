@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Curriculum and Instruction
 variant: tiptap
 ---
-<h2>Physical Education </h2>
+<h2>Physical Education</h2>
 <p>At River Valley Primary School, Physical Education (PE) is more than just
 exercise and games — it is about nurturing healthy, confident, and resilient
 learners.</p>
@@ -67,7 +67,7 @@ and respect for others.</p>
 <p>Students are encouraged to find joy in movement and understand the importance
 of staying active for life.</p>
 <p></p>
-<h3>Key Features of Our RVPS PE Programme</h3>
+<h3><strong>Key Features of Our RVPS PE Programme</strong></h3>
 <h4>1. Growth Mindset Development</h4>
 <p>We teach students that <strong>effort and perseverance matter more than winning</strong>.</p>
 <p>Students are encouraged to celebrate small improvements, learn from mistakes,
