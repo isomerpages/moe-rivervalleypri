@@ -54,7 +54,7 @@ variant: markdown
 </tr>
 <tr>
 <td style="border: 1px solid black;" rowspan="1" colspan="1"><p>Student Account Matters</p></td>
-<td style="border: 1px solid black;" rowspan="1" colspan="2"><p><a href="https://form.gov.sg/5da6a91857a4920012781a00" rel="noopener noreferrer nofollow" target="_blank">Password Reset Request Form</a></p></td>
+<td style="border: 1px solid black;" rowspan="1" colspan="2"><p><a href="https://go.gov.sg/rvps-reset-request" rel="noopener noreferrer nofollow" target="_blank">Password Reset Request Form</a></p></td>
 </tr>
 <tr>
 <td style="border: 1px solid black;" rowspan="1" colspan="1"><p>Parents Gateway</p></td>
