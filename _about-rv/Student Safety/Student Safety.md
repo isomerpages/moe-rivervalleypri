@@ -60,6 +60,11 @@ and ask for assistance.</p>
 </ol>
 <p>By following these simple steps, students can help ensure a safe and smooth
 experience when taking public buses.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Safety/Safety_on_Public_Bus.png">
+</div>
 <h4>4. Other road safety precautions</h4>
 <p>For the safety of our students, no vehicles are allowed to park or wait
 in our school carpark when parents send or fetch their children. This is
