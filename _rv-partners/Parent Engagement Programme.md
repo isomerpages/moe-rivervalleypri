@@ -6,6 +6,7 @@ variant: tiptap
 ---
 <h2>Growing Together: Parent Engagement at RVPS</h2>
 <p>"When parents and educators work hand in hand, every child soars higher."</p>
+<p></p>
 <h4>Our Partnership Approach</h4>
 <p>At River Valley Primary School, we believe that meaningful parent engagement
 creates a powerful support system for our children's growth. Through our
@@ -29,7 +30,7 @@ journey.</p>
 </li>
 </ul>
 <p></p>
-<h3>Join Our Learning Community</h3>
+<h3><strong>Join Our Learning Community</strong></h3>
 <h4>Parent Education Series</h4>
 <p>Throughout the year, we offer specially curated workshops and briefings
 to help you support your child's learning:</p>
