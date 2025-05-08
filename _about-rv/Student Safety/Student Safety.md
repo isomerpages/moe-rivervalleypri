@@ -3,77 +3,149 @@ title: Student Safety
 permalink: /about-rv/Student-Safety/Student-Safety/
 description: ""
 third_nav_title: Student Safety
+variant: tiptap
 ---
-Safety of our students is of paramount importance to us at RVPS. We have continuously emphasized the importance of good safety guidelines and practices to our students. Through school programmes such as Fire/ Emergency Evacuation exercises, learning journeys to the Road safety Park, talks by School Leaders and assembly sharing by the Singapore Road Safety Council and SBS Transit, our students are taught how to keep themselves safe at all times.
-
-![](/images/About%20RV/photo_6235784303653007519_w.png)
-
-#### (A) Safety on the road
-
-  
-
-Students are constantly reminded to practise good personal road safety. They are told not to jay walk but to use footpaths and designated traffic crossings. Using of the Kerb drills skills taught at assemblies whenever they are using the roads are strongly encouraged. Additionally, they are not to cross at road bends or between stationary vehicles. Instead they are to cross from areas where they have full view of the traffic. This is to reinforce the importance of looking out for on-coming vehicles when crossing the road.
-
-**(B) Safety on the school bus**  
-
-To ensure safety of our students, parents/guardians of students using the school bus are requested to ensure that the students obey the instructions of the driver and bus attendant. Students must be respectful to the bus driver and bus attendant, and be cooperative at all times. \*Refer to student handbook 2020. Page 17-18 for more details.
-
-#### (C) Safety on public buses
-
-
-While waiting to board public buses, students have been advised to observe the following: 
-
-(i) Stand on the sidewalk or away from the roadway.  
-(ii) Wait for the bus to come to a complete stop before boarding or alighting from it.  
-(iii) Not to push or shove and to use the handrail and steps  
-(iv) If any article drops or rolls near or under the bus, not to go after it. Go to the door of the bus and ask the bus-driver for help
-
-#### (D) Other road safety precautions
-
-
-For the safety of our students, no vehicles are allowed to be driven into the school foyer when parents send and fetch their children. This is done to keep other students who are crossing the small road within the school safe. The only exception is when it rains. Parents are allowed to drive into the school to pick up their children at the foyer. We seek the cooperation of all parents who drive to school to follow traffic rules and regulations and practice road safety and courtesy for the safety of all our students and staff. Please refer to the additional letters on
-
-**[Addtional Demerit Points to be awarded against Errant Drivers in School Zones.pdf](/files/About%20RV/Additional%20Demerit%20Points%20to%20be%20awarded%20against%20Errant%20Drivers%20in%20School%20Zones.pdf)**  
-
-  
-
-The school is under phase 2 of the rollout for 40km/h flashing lights. This new "40km/h When Light Flash" traffic sign is implemented to alert motorist to reduce their travelling speed to 40 km/h and drive carefully when they enter at Enhanced School Zone (ESZ).
-
-1.  The "40km/h When Light Flash" sign compromise:  
-    
-2.  "Children Ahead, School Zone" sign  
-    
-3.  "40km/h" speed limit sign  
-    
-4.  "When Lights Flash" sign with an attached pair of flashing amber lights
-    
-
-The sign will be located at the start of the ESZ along your school frontages.
-
-  
-
-#### (E) Safety during PE
-
-  
-
-All students are expected to participate in the physical education programme organised by the school. However, students who have pre-existing medical conditions certified by qualified doctors will be exempted from such physical activities. In addition, students do not feel well during P.E. lessons are also exempted. For such students, they must inform their PE teacher immediately. Students with asthmatic conditions are to have their prescribed reliever medicine in their bags at all times.
-
-#### (F) Safety during outdoor activities – Lightning Warning System
-
-  
-
-There are a total of three lightning risk alert lamps in the school. They are located at the Parade Square, School Field and Basketball Court. Once the lightning risk alert lamps are in operation, all outdoor activities are to stop immediately and all personnel and students are to go under shelter until the lightning risk is cancelled.
-
-  
-
-#### (G) Other safety measures to keep students safe in RVPS
-
-  
-
-(i) To ensure the safety of all students and staff, all visitors to the school are required to sign in at the Security Post and get a Visitor’s Pass if you are to come into the school compound during school hours to meet with the school staff. Unauthorized personnel will be asked to leave the school premises. Parents who are fetching their children are requested to wait only at the foyer and sheltered areas at Gates 3 and 4 and not go beyond these areas. Parents are only allow to come into the school foyer, 15 minutes before dismissal time. 
-
-(ii) To ensure students’ safety in school, students are not permitted to leave the school premises before dismissal time without the accompaniment of a related adult. Before a student can leave the school prematurely, proper documentation must be done at the school’s General Office. Given that school has the expectations that all students should remain in school throughout the day for the programmes which have been planned for them, no student will be allowed to leave the school premises without authorised approval from the school.
-
-  
-
-As we continue to impress upon our students the importance of personal safety and how they could take better care of themselves, parents’ and guardians’ partnership and support in this endeavour is very essential. We therefore seek the co-operation of all our parents and guardians to work closely with us through observing the safety measures put in place by the school and the Land Transport Authority (LTA) when outside the school’s premises.
+<p>At River Valley Primary School, the safety and well-being of our students
+are of the utmost importance. We are committed to cultivating a strong
+safety culture by consistently reinforcing the importance of safety guidelines
+and responsible practices. Our students take part in a range of programmes
+designed to build their awareness and preparedness, including Fire and
+Emergency Evacuation drills, learning journeys to the Road Safety Park
+and informative talks. We also partner with external organisations such
+as the Singapore Road Safety Council and SBS Transit, who conduct engaging
+assembly sessions to educate our students on road and public transport
+safety. Through these efforts, our students are empowered with the knowledge
+and skills to keep themselves and others safe in various situations.</p>
+<p>&nbsp;</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Safety on the road</p>
+<p>Students are regularly reminded to practise good personal road safety
+both within and outside of school. They are taught to avoid jaywalking
+and to always use footpaths and designated pedestrian crossings. During
+assembly sessions, students are introduced to essential road safety skills,
+such as the Kerb Drill, and are encouraged to apply these practices whenever
+they are near or crossing roads.</p>
+<p>They are also advised not to cross at road bends or between stationary
+vehicles, where visibility is limited. Instead, they are guided to choose
+safe crossing points where they have a clear view of oncoming traffic.
+These reminders serve to reinforce the importance of staying alert and
+making safe choices as pedestrians.</p>
+<p></p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Safety on school bus</p>
+<p>To ensure the safety and well-being of our students during their commute,
+we seek the support of parents and guardians in reinforcing good behaviour
+on the school bus. Students are expected to listen to and follow the instructions
+given by the bus driver and bus attendant. It is important that they show
+respect, remain seated and cooperate fully to help maintain a safe and
+pleasant journey for everyone on board.</p>
+<p>&nbsp;</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Safety on public bus</p>
+<p>We emphasise the importance of safe behaviour while using public transport.
+Students are regularly reminded to follow these important safety guidelines
+when waiting for and boarding public buses:</p>
+<p>Stand safely – Always wait on the sidewalk or a safe area away from the
+road.</p>
+<p>Board responsibly – Only approach the bus after it has come to a complete
+stop. Wait patiently for others to alight before boarding.</p>
+<p>Stay calm and use handrails – Avoid pushing or shoving. Use the handrails
+and steps carefully when getting on or off the bus.</p>
+<p>Seek help if needed – If any item is dropped near or under the bus, do
+not attempt to retrieve it on your own. Instead, inform the bus driver
+and ask for assistance.</p>
+<p>By following these simple steps, students can help ensure a safe and smooth
+experience when taking public buses.</p>
+<p></p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Other road safety precautions</p>
+<p>For the safety of our students, no vehicles are allowed to park or wait
+in our school carpark when parents send or fetch their children. This is
+done to keep other students who are crossing the small road&nbsp;within
+the school safe. This is due to space constraints, and children moving
+within</p>
+<p>the premises. The nearest public carparks can be found along Martin Place,</p>
+<p>Killiney Road and at Zion Food Centre.</p>
+<p>When it rains, parents are allowed to drive into the school to&nbsp;pick
+up their children at the foyer. We seek the cooperation of all parents
+who drive to school to follow traffic&nbsp;rules and regulations and practice
+road safety and courtesy for the safety of all our students and staff.</p>
+<p>At River Valley Primary School, the safety of our students is our top
+priority. To ensure a safe environment for all, vehicles are not allowed
+to park or wait in the school carpark during drop-off and pick-up times.
+This measure helps protect students who are crossing the internal road
+and moving around the school grounds, especially given our limited space.</p>
+<p>Parents who drive are encouraged to use the nearest public carparks located
+at Martin Place, Killiney Road and Zion Food Centre.</p>
+<p>During wet weather, parents may drive into the school compound to pick
+up their children at the foyer. We kindly seek the cooperation of all parents
+to observe traffic rules, practise road safety and courtesy and follow
+the directions of staff on duty. Your support helps us ensure a safe and
+orderly environment for all students and staff.</p>
+<p></p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Safety during PE</p>
+<p>All students are expected to actively participate in the P.E lesson as
+part of their holistic development at RVPS. However, students with pre-existing
+medical conditions certified by a qualified doctor will be exempted from
+physical activities. In addition, if a student feels unwell during a P.E.
+lesson, they should inform their P.E. teacher immediately and will be excused
+from the activity. For students with asthmatic conditions, it is essential
+that they carry their prescribed reliever medication in their bags at all
+times. All students are expected to follow the instructions of their P.E.
+teachers to ensure a safe and supportive environment for physical activity</p>
+<p></p>
+<p></p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Safety during outdoor activities
+– Lightning Warning System &nbsp;</p>
+<p>To ensure the safety of all students and staff, River Valley Primary School
+has installed three lightning risk alert lamps at key outdoor locations
+within the school:</p>
+<p>Parade Square</p>
+<p>School Field</p>
+<p>Basketball Court</p>
+<p>When the lightning risk alert lamps are activated, all outdoor activities
+must stop immediately. All students and staff are to seek shelter and remain
+indoors until the alert is lifted and it is safe to resume activities.
+This system is part of our ongoing efforts to maintain a safe school environment
+during inclement weather.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Other safety measures to
+keep students safe in RVPS</p>
+<p>At River Valley Primary School, the safety and security of our students
+and staff remain our top priority. We seek the cooperation of all parents
+and visitors in observing the following safety protocols:</p>
+<p>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Visitor Entry Procedures</p>
+<p>To maintain a safe environment during school hours:</p>
+<p>All visitors are required to sign in at the Security Post and obtain a
+Visitor’s Pass before entering the school premises to meet with school
+staff.</p>
+<p>Unauthorized visitors will be asked to leave the premises immediately.</p>
+<p>Parents fetching their children should wait only at the foyer or at the
+sheltered areas near Gates 3 and 4.</p>
+<p>Entry into the school foyer is only permitted 15 minutes before dismissal
+time. We kindly ask that parents do not proceed beyond these designated
+waiting areas.</p>
+<p></p>
+<p>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Early Student Dismissal Procedures</p>
+<p>To ensure student safety:</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are not allowed to
+leave the school premises before official dismissal time unless accompanied
+by a parent or a related adult.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In such cases, proper documentation
+must be completed at the General Office.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As a rule, students are expected
+to remain in school for the full day to participate in all planned learning
+experiences and programmes.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No student will be released
+early without prior authorisation and approval from the school.</p>
+<p></p>
+<p>c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Partnering for Student Safety</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As we continue to instill
+the importance of personal safety in our students, we value the strong
+partnership we share with our parents and guardians. Your continued support
+in reinforcing safety practices both within and outside school grounds
+is crucial.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We urge all parents to adhere
+to the safety measures implemented by the school and the Land Transport
+Authority (LTA), especially during drop-off and pick-up times. Together,
+we can create a safe and secure environment for all our students.</p>
