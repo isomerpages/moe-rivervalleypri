@@ -2,9 +2,9 @@ collections:
   about-rv:
     output: true
     order:
-      - Student Safety.md
       - About RV.md
       - School Crest.md
       - Vision, Mission & Values.md
       - School Rules & Regulations.md
       - Homework Guidelines.md
+      - Student Safety.md
