@@ -1,9 +1,8 @@
 ---
 title: Student Safety
-permalink: /about-rv/Student-Safety/Student-Safety/
-description: ""
-third_nav_title: Student Safety
+permalink: /student-safety/
 variant: tiptap
+description: ""
 ---
 <p>At River Valley Primary School, the safety and well-being of our students
 are of the utmost importance. We are committed to cultivating a strong
