@@ -24,6 +24,10 @@ culture.</p>
 </li>
 </ul>
 <h4>Mother Tongue Language Curriculum Framework</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025 MTL/MTL_Framework.png">
+</div>
 <p>The 2024 Primary MTL Curriculum framework describes our aim for MTL Learners
 to experience the joy of learning MTL that will help them to be confident
 users through three curricular goals:</p>
