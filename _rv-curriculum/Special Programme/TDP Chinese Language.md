@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Special Programme
 ---
-<h3>Chinese Talent Development Programme (TDP)</h3>
+<h3><strong>Chinese Talent Development Programme (TDP)</strong></h3>
 <p>The Chinese Talent Development Programme (TDP) aims to heighten RVians’
 interest in the Chinese Language by providing enriching out-of-classroom
 experiences that build confidence and interest in language use. Anchored
