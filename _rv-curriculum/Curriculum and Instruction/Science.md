@@ -3,50 +3,89 @@ title: Science
 permalink: /rv-curriculum/Curriculum-and-Instruction/Science/
 description: ""
 third_nav_title: Curriculum and Instruction
+variant: tiptap
 ---
-**Inquiry-based Learning (IBL) Approach**
-
-Science teachers in River Valley Primary School use an Inquiry-based Learning approach to help students learn Science.  Every RVian learn Science in fun and interesting ways, and is curious and inquisitive about things around them.  In an IBL Science class in RVPS, Science teachers aim to **Equip** all RVians with Knowledge, Skills and Values through student exploration, discussions, and collaborating via hands-on activities.
-
-Besides developing and applying their cognitive understanding, RVians are also **Empowered** to actualize the school values of Respect (how they should listen when their friend is explaining), Integrity (having the moral courage to speak up when their peers are not doing the right thing), Compassion (care for the environment and biodiversity by using recycled materials in their science lessons) and Excellence (being passionate and taking ownership of their learning).
-
-**Powered By Discovery programme**
-
-The Powered By Discovery programme helps to nurture students’ passion for learning in Science and promote critical thinking. Students worked collaboratively on a Science inquiry project. Through research, students deepened knowledge in a topic of interest. They then worked together to justify their reasoning and create a product. Platforms are provided for students to showcase their learning and product. This promotes ownership and co-creation of learning in Science. 
-
-Here is some feedback from our students:
-
-![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Science/Science%202021%20-%201.png)
-
-Demonstrations are teacher-centric and promote scaffolding when students acquire Science concepts and can lead to student experimentation.  Experimentation - students doing hands-on activities, **Enrich**es students by providing them with opportunities to observe Science phenomena with the use of Science apparatus.
-
-### P6 Science Booster
-------------------
-
-To motivate the P6 students in their learning, the students were given the autonomy to choose the areas which they needed more help and support from Science teachers. 
-
-A strategy that students learn is the skill of note-taking in Science language to help with self revision and team learning.  Students learn to create mindmaps, design concept maps and make visually-colourful annotations to help them retain scientific knowledge.
-
-![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Science/pic2.png)
-
-Students also make linkages between concepts so that they make connections across the various topics.  Their works of the students are also displayed to encourage their peers learn from one another. 
-
-Feedback from the students have been positive as they enjoyed making their learning meaningful and sharing their notes with their peers.
-
-![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Science/pic1.png)
-
-### Modular Programme
------------------
-
-The P1 and 2 Science Modular Programme aims to Empower our P1 and P2 students to be curious and be keen observers about the world around them.
-
-In this programme, the students will be doing basic investigative work to explore Science phenomena. 
-
-They will also discuss and collaborate with their friends and co-create knowledge with their peers and their teachers.
-
-By inculcating a Joy of Learning Science at an early age, the students will be imbued with the relevant values and dispositions. 
-
-These become a strong foundation for our students when they learn Science from Primary 3.
-
-![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Science/pic3.png)
-![](/images/RV%20Curriculum/Curriculum%20and%20Instructions/Science/pic4.png)
+<h3>Department Vision</h3>
+<p>We nurture curious, self-regulated learners who think critically, communicate
+confidently, and apply scientific inquiry to explore the world and solve
+real-world problems.</p>
+<h3>Our curricular approach</h3>
+<p>We empower every student to explore, understand, and contribute meaningfully
+to the world through Science. Students learn Science based on five key
+themes that reflect real-world phenomena. These themes—Diversity, Cycles,
+Systems, Energy, and Interactions—span both life and physical sciences,
+offering a strong foundation for deeper learning. Our goal is to nurture
+every RVian to be curious, confident, and collaborative— equipped with
+the knowledge, skills, and values to explore the world like young scientists.</p>
+<h4>Inquiry-based Learning</h4>
+<p>Science is taught using an Inquiry-Based Learning (IBL) approach. Students
+learn through hands-on activities, discussions, and exploration, making
+Science fun, engaging, and meaningful. Using a spiral approach, key concepts
+and skills are revisited at deeper levels over time, supporting students’
+thinking and long-term understanding. Guided by essential questions, students
+make connections across topics and develop critical thinking skills.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/2025 Science/Science_2025_Inquiry_based_2.png">
+</div>
+<h3><strong>Talent Development Programmes</strong></h3>
+<h4>P5 E2K Science</h4>
+<p>Our E2K Science Programme for Primary 5 students is designed to ignite
+curiosity and inspire deeper scientific thinking through an inquiry-based
+learning approach. This enrichment programme provides opportunities for
+students to actively engage in hands-on investigations and explore advanced
+science concepts beyond the classroom curriculum. Through collaborative
+exploration and problem-solving, students develop essential 21st-century
+competencies such as critical and inventive thinking, as well as effective
+communication skills. Participation is by invitation, extended to students
+who demonstrate a strong aptitude and interest in Science. Selected students
+attend weekly 1.5-hour sessions over the course of 8 to 10 weeks.</p>
+<h4>P4 STEM (Math and Science)</h4>
+<p>Through a series of hands-on, student-led initiatives, our students apply
+Design Thinking to transform school green spaces into vibrant, sustainable
+environments. From crafting upcycled art installations and designing eco-friendly
+structures to curating themed gardens and developing educational eco-trails,
+students blend creativity with environmental consciousness. Workshops with
+industry experts, collaboration with artists and scientists, and real-world
+challenges empower them to innovate with purpose. Participation in this
+after school programme is by invitation and offered to students who demonstrate
+strong aptitude and interest in Mathematics and Science.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2025 Science/Science_2025_P4_STEM.png">
+</div>
+<h3><strong>Every RVian a Leader</strong></h3>
+<h4>Science and Environment Advocates (SEAs)</h4>
+<p>As part of our commitment to nurturing confident and responsible leaders,
+our Every RVian a Leader programme empowers students to develop and refine
+their leadership skills through hands-on, meaningful experiences. Our SEAs
+work towards completing their Leadership Passports by taking on a variety
+of environmental and science-related responsibilities. These include presenting
+on science topics they are passionate about—encouraging curiosity, public
+speaking, and peer learning. They take ownership of maintaining their class’
+Bloobox recycling system, promoting sustainability and environmental stewardship
+to their peers.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/2025 Science/Science_2025_ERaL.jpg">
+</div>
+<h4><strong>E.C.O. Spark Lab (Upcycling Makerspace)</strong></h4>
+<p>At River Valley Primary School, the E.C.O. Spark Lab is more than just
+a creative corner—it's a testament to student voice, sustainability, and
+innovation in action. The makerspace was born out of a student-initiated
+project in 2024, sparked by the idea of transforming old school uniforms
+into useful items. With strong student advocacy, support from school leaders,
+and a partnership with The Circular Classroom, a dedicated space was created
+to support sustainable design and hands-on learning. Today, the E.C.O.
+Spark Lab is actively used for student-led upcycling projects and is integrated
+into the Science and Art curriculum—where students explore materials, environmental
+impact, and creative reuse. During recess, the space also hosts a vibrant
+student program where learners use recycled materials to design creative
+solutions to real-world sustainability challenges, applying critical, adaptive,
+and inventive thinking skills. It serves as a hub for innovation, community
+engagement, and a growing culture of sustainability across the school.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/2025 Science/Science_2025_Makerspace.jpg">
+</div>
+<p></p>
