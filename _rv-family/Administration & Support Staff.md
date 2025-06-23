@@ -37,8 +37,8 @@ variant: markdown
     </tr>
     <tr>
       <td style="border: 1px solid black; padding: 10px;">Administrative Executive</td>
-      <td style="border: 1px solid black; padding: 10px;">Mdm Jessie Lee</td>
-      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:jessie_lee_siok_bee@schools.gov.sg">jessie_lee_siok_bee@schools.gov.sg</a></td>
+      <td style="border: 1px solid black; padding: 10px;">Ms Peh Yin Chian</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:peh_yin_chian@schools.gov.sg">peh_yin_chian@schools.gov.sg</a></td>
     </tr>
     <tr>
       <td style="border: 1px solid black; padding: 10px;">Management Support Officer</td>
