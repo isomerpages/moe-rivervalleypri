@@ -115,6 +115,11 @@ variant: markdown
       <td style="border: 1px solid black; padding: 10px;">Ms Joy Ang</td>
       <td style="border: 1px solid black; padding: 10px;"><a href="mailto:ang_soo_en_joy@schools.gov.sg">ang_soo_en_joy@schools.gov.sg</a></td>
     </tr>
+		 <tr>
+      <td style="border: 1px solid black; padding: 10px;">Student Wellbeing</td>
+      <td style="border: 1px solid black; padding: 10px;">Ms Bernadette Kor</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:bernadette_kor_hong_yin@schools.gov.sg">bernadette_kor_hong_yin@schools.gov.sg</a></td>
+    </tr>
     <tr>
       <td style="border: 1px solid black; padding: 10px;">Co-Curricular Activities</td>
       <td style="border: 1px solid black; padding: 10px;">Mr Fabian Koh</td>
