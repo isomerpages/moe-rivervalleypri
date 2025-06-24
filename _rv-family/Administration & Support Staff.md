@@ -100,7 +100,7 @@ variant: markdown
       <td style="border: 1px solid black; padding: 10px;"><a href="mailto:ong_eng_teck@schools.gov.sg">ong_eng_teck@schools.gov.sg</a></td>
     </tr>
     <tr>
-      <td style="border: 1px solid black; padding: 10px;">SEN Officer</td>
+      <td style="border: 1px solid black; padding: 10px;">Senior SEN Officer</td>
       <td style="border: 1px solid black; padding: 10px;">Ms Janice Cheong</td>
       <td style="border: 1px solid black; padding: 10px;"><a href="mailto:cheong_qian_hua@schools.gov.sg">cheong_qian_hua@schools.gov.sg</a></td>
     </tr>
