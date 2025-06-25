@@ -183,12 +183,12 @@ description: ""
         <a href="mailto:lau_chin_ling@schools.gov.sg">lau_chin_ling@schools.gov.sg</a>
       </td>
       <td>
-        Mdm Teo Hui Xin<br>
-        <a href="mailto:teo_hui_xin@schools.gov.sg">teo_hui_xin@schools.gov.sg</a>
-      </td>
-      <td>
         Mdm Chong Ailing<br>
         <a href="mailto:chong_ai_ling_a@schools.gov.sg">chong_ai_ling_a@schools.gov.sg</a>
+      </td>
+			<td>
+        Ms Hong Yilin<br>
+        <a href="mailto:hong_yilin@gov.sg">hong_yilin@schools.gov.sg</a>
       </td>
     </tr>
     <tr>
