@@ -47,7 +47,7 @@ description: ""
       </td>
       <td>
         Ms Gu Xiaomei<br>
-        <a href="mailto:-">-</a>
+        <a href="mailto:gu_xiaomei@schools.gov.sg">gu_xiaomei@schools.gov.sg</a>
       </td>
       <td></td>
     </tr>
@@ -173,7 +173,7 @@ description: ""
       </td>
      <td>
         Ms Alice Tan<br>
-        <a href="mailto:-">-</a>
+        <a href="mailto:tan_li_choo_alice@schools.gov.sg">tan_li_choo_alice@schools.gov.sg</a>
       </td>
     </tr>
     <tr>
@@ -428,7 +428,7 @@ description: ""
         <a href="mailto:tay_sock_hwee_sheila@schools.gov.sg">tay_sock_hwee_sheila@schools.gov.sg</a>
       </td>
       <td>
-        Mr Eunice Chua<br>
+        Ms Eunice Chua<br>
         <a href="mailto:-@schools.gov.sg">-</a>
       </td>
 			<td>
