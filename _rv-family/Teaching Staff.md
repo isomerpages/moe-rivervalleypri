@@ -428,8 +428,12 @@ description: ""
         <a href="mailto:tay_sock_hwee_sheila@schools.gov.sg">tay_sock_hwee_sheila@schools.gov.sg</a>
       </td>
       <td>
-        Mr Tan Chia Seng<br>
-        <a href="mailto:tan_chia_seng@schools.gov.sg">tan_chia_seng@schools.gov.sg</a>
+        Mr Eunice Chua<br>
+        <a href="mailto:-@schools.gov.sg">-</a>
+      </td>
+			<td>
+        Mdm Chia Fung Fung<br>
+        <a href="mailto:chia_fung_fung@schools.gov.sg">chia_fung_fung@schools.gov.sg</a>
       </td>
     </tr>
     <tr>
