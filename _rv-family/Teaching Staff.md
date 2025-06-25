@@ -310,8 +310,8 @@ description: ""
         <a href="mailto:ong_wen_kai@schools.gov.sg">ong_wen_kai@schools.gov.sg</a>
       </td>
       <td>
-        Mdm Rosalind Chua<br>
-        <a href="mailto:Rosalind_Chua_Suan_Cheng_A@schools.gov.sg">Rosalind_Chua_Suan_Cheng_A@schools.gov.sg</a>
+        Mr Dheelip<br>
+        <a href="mailto:dheelip_kumar@schools.gov.sg">dheelip_kumar@schools.gov.sg</a>
       </td>
       <td></td>
     </tr>
