@@ -46,8 +46,8 @@ description: ""
         <a href="mailto:kasinathan_vadivaloo_kavitha@schools.gov.sg">kasinathan_vadivaloo_kavitha@schools.gov.sg</a>
       </td>
       <td>
-        Miss Gladys Soh<br>
-        <a href="mailto:soh_kang_hwee_gladys@schools.gov.sg">soh_kang_hwee_gladys@schools.gov.sg</a>
+        Ms Gu Xiaomei<br>
+        <a href="mailto:gu_xiaomei@schools.gov.sg">gu_xiaomei@schools.gov.sg</a>
       </td>
       <td></td>
     </tr>
@@ -97,8 +97,8 @@ description: ""
         <a href="mailto:idawatee_ahmad@schools.gov.sg">idawatee_ahmad@schools.gov.sg</a>
       </td>
       <td>
-        Mdm Bai Yimeng<br>
-        <a href="mailto:bai_yimeng@schools.gov.sg">bai_yimeng@schools.gov.sg</a>
+        Ms Lin Chuqing<br>
+        <a href="mailto:lin_chuqing.gov.sg">lin_chuqing@schools.gov.sg</a>
       </td>
       <td></td>
     </tr>
@@ -123,7 +123,10 @@ description: ""
         Mr Wan Jiajun<br>
         <a href="mailto:wan_jiajun@schools.gov.sg">wan_jiajun@schools.gov.sg</a>
       </td>
-      <td></td>
+			   <td>
+        Ms Lau<br>
+        <a href="mailto:lau_chet_ying@schools.gov.sg">lau_chet_ying@schools.gov.sg</a>
+      </td>
     </tr>
     <tr>
       <td>Diligence</td>
