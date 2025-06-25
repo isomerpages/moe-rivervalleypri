@@ -46,8 +46,8 @@ description: ""
         <a href="mailto:kasinathan_vadivaloo_kavitha@schools.gov.sg">kasinathan_vadivaloo_kavitha@schools.gov.sg</a>
       </td>
       <td>
-        Miss Gladys Soh<br>
-        <a href="mailto:soh_kang_hwee_gladys@schools.gov.sg">soh_kang_hwee_gladys@schools.gov.sg</a>
+        Ms Gu Xiaomei<br>
+        <a href="mailto:-">-</a>
       </td>
       <td></td>
     </tr>
@@ -97,8 +97,8 @@ description: ""
         <a href="mailto:idawatee_ahmad@schools.gov.sg">idawatee_ahmad@schools.gov.sg</a>
       </td>
       <td>
-        Mdm Bai Yimeng<br>
-        <a href="mailto:bai_yimeng@schools.gov.sg">bai_yimeng@schools.gov.sg</a>
+        Ms Lin Chuqing<br>
+        <a href="mailto:lin_chuqing.gov.sg">lin_chuqing@schools.gov.sg</a>
       </td>
       <td></td>
     </tr>
@@ -123,7 +123,10 @@ description: ""
         Mr Wan Jiajun<br>
         <a href="mailto:wan_jiajun@schools.gov.sg">wan_jiajun@schools.gov.sg</a>
       </td>
-      <td></td>
+			   <td>
+        Ms Meng Shiu<br>
+        <a href="mailto:tsai_menghsiu@schools.gov.sg">tsai_menghsiu@schools.gov.sg</a>
+      </td>
     </tr>
     <tr>
       <td>Diligence</td>
@@ -149,8 +152,8 @@ description: ""
     <tr>
       <td>Friendship</td>
       <td>
-        Ms Reginia Loh<br>
-        <a href="mailto:loh_sook_yee_reginia@schools.gov.sg">loh_sook_yee_reginia@schools.gov.sg</a>
+        Ms Emily Siew<br>
+        <a href="mailto:siew_may_qi_emily@schools.gov.sg">siew_may_qi_emily@schools.gov.sg</a>
       </td>
       <td>
         Mr Mohamed<br>
@@ -165,10 +168,13 @@ description: ""
         <a href="mailto:goh_shu_yi_priscilla@schools.gov.sg">goh_shu_yi_priscilla@schools.gov.sg</a>
       </td>
       <td>
-        Ms Tan Pin Ru<br>
-        <a href="mailto:tan_pin_ru_a@schools.gov.sg">tan_pin_ru_a@schools.gov.sg</a>
+        Ms Cheong<br>
+        <a href="mailto:grace_cheong_poh_wai@schools.gov.sg">grace_cheong_poh_wai@schools.gov.sg</a>
       </td>
-      <td></td>
+     <td>
+        Ms Alice Tan<br>
+        <a href="mailto:-">-</a>
+      </td>
     </tr>
     <tr>
       <td>Honesty</td>
@@ -177,12 +183,12 @@ description: ""
         <a href="mailto:lau_chin_ling@schools.gov.sg">lau_chin_ling@schools.gov.sg</a>
       </td>
       <td>
-        Mdm Teo Hui Xin<br>
-        <a href="mailto:teo_hui_xin@schools.gov.sg">teo_hui_xin@schools.gov.sg</a>
-      </td>
-      <td>
         Mdm Chong Ailing<br>
         <a href="mailto:chong_ai_ling_a@schools.gov.sg">chong_ai_ling_a@schools.gov.sg</a>
+      </td>
+			<td>
+        Ms Hong Yilin<br>
+        <a href="mailto:hong_yilin@gov.sg">hong_yilin@schools.gov.sg</a>
       </td>
     </tr>
     <tr>
@@ -304,8 +310,8 @@ description: ""
         <a href="mailto:ong_wen_kai@schools.gov.sg">ong_wen_kai@schools.gov.sg</a>
       </td>
       <td>
-        Mdm Rosalind Chua<br>
-        <a href="mailto:Rosalind_Chua_Suan_Cheng_A@schools.gov.sg">Rosalind_Chua_Suan_Cheng_A@schools.gov.sg</a>
+        Mr Dheelip<br>
+        <a href="mailto:dheelip_kumar@schools.gov.sg">dheelip_kumar@schools.gov.sg</a>
       </td>
       <td></td>
     </tr>
@@ -422,8 +428,12 @@ description: ""
         <a href="mailto:tay_sock_hwee_sheila@schools.gov.sg">tay_sock_hwee_sheila@schools.gov.sg</a>
       </td>
       <td>
-        Mr Tan Chia Seng<br>
-        <a href="mailto:tan_chia_seng@schools.gov.sg">tan_chia_seng@schools.gov.sg</a>
+        Mr Eunice Chua<br>
+        <a href="mailto:-@schools.gov.sg">-</a>
+      </td>
+			<td>
+        Mdm Chia Fung Fung<br>
+        <a href="mailto:chia_fung_fung@schools.gov.sg">chia_fung_fung@schools.gov.sg</a>
       </td>
     </tr>
     <tr>
