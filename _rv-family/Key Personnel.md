@@ -20,11 +20,6 @@ variant: markdown
       <td style="border: 1px solid black; padding: 10px;"><a href="mailto:Yap_Ying_Hui_Andrea@schools.gov.sg">Yap_Ying_Hui_Andrea@schools.gov.sg</a></td>
     </tr>
     <tr>
-      <td style="border: 1px solid black; padding: 10px;">Mathematics</td>
-      <td style="border: 1px solid black; padding: 10px;">Mrs Sheila Chan</td>
-      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:tay_sock_hwee_sheila@schools.gov.sg">tay_sock_hwee_sheila@schools.gov.sg</a></td>
-    </tr>
-    <tr>
       <td style="border: 1px solid black; padding: 10px;">Mother Tongue Languages</td>
       <td style="border: 1px solid black; padding: 10px;">Ms Kay Ee Ee</td>
       <td style="border: 1px solid black; padding: 10px;"><a href="mailto:kay_ee_ee@schools.gov.sg">kay_ee_ee@schools.gov.sg</a></td>
@@ -33,6 +28,11 @@ variant: markdown
       <td style="border: 1px solid black; padding: 10px;">PE / CCA / Aesthetics</td>
       <td style="border: 1px solid black; padding: 10px;">Ms Lynn Teo</td>
       <td style="border: 1px solid black; padding: 10px;"><a href="mailto:teo_mei_ling_lynn@schools.gov.sg">teo_mei_ling_lynn@schools.gov.sg</a></td>
+    </tr>
+		    <tr>
+      <td style="border: 1px solid black; padding: 10px;">Infocomm Technology (ICT)</td>
+      <td style="border: 1px solid black; padding: 10px;">Mrs Sheila Chan</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:tay_sock_hwee_sheila@schools.gov.sg">tay_sock_hwee_sheila@schools.gov.sg</a></td>
     </tr>
     <tr>
       <td style="border: 1px solid black; padding: 10px;">Student Management &amp; Student Leadership</td>
@@ -62,11 +62,6 @@ variant: markdown
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td style="border: 1px solid black; padding: 10px;">Primary 2 &amp; Primary 6</td>
-      <td style="border: 1px solid black; padding: 10px;">Ms Reginia Loh</td>
-      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:loh_sook_yee_reginia@schools.gov.sg">loh_sook_yee_reginia@schools.gov.sg</a></td>
-    </tr>
     <tr>
       <td style="border: 1px solid black; padding: 10px;">Primary 3 &amp; Primary 5</td>
       <td style="border: 1px solid black; padding: 10px;">Ms Lena Lim</td>
@@ -119,6 +114,11 @@ variant: markdown
       <td style="border: 1px solid black; padding: 10px;">Character and Citizenship Education</td>
       <td style="border: 1px solid black; padding: 10px;">Ms Joy Ang</td>
       <td style="border: 1px solid black; padding: 10px;"><a href="mailto:ang_soo_en_joy@schools.gov.sg">ang_soo_en_joy@schools.gov.sg</a></td>
+    </tr>
+		 <tr>
+      <td style="border: 1px solid black; padding: 10px;">Student Wellbeing</td>
+      <td style="border: 1px solid black; padding: 10px;">Ms Bernadette Kor</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:bernadette_kor_hong_yin@schools.gov.sg">bernadette_kor_hong_yin@schools.gov.sg</a></td>
     </tr>
     <tr>
       <td style="border: 1px solid black; padding: 10px;">Co-Curricular Activities</td>
