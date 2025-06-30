@@ -49,7 +49,10 @@ description: ""
         Ms Gu Xiaomei<br>
         <a href="mailto:gu_xiaomei@schools.gov.sg">gu_xiaomei@schools.gov.sg</a>
       </td>
-      <td></td>
+      <td>
+        Ms Hong Yilin<br>
+        <a href="mailto:hong_yilin@gov.sg">hong_yilin@schools.gov.sg</a>
+      </td>
     </tr>
     <tr>
       <td>Friendship</td>
@@ -185,10 +188,6 @@ description: ""
       <td>
         Mdm Chong Ailing<br>
         <a href="mailto:chong_ai_ling_a@schools.gov.sg">chong_ai_ling_a@schools.gov.sg</a>
-      </td>
-			<td>
-        Ms Hong Yilin<br>
-        <a href="mailto:hong_yilin@gov.sg">hong_yilin@schools.gov.sg</a>
       </td>
     </tr>
     <tr>
