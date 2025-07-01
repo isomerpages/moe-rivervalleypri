@@ -43,7 +43,7 @@ Similar to the LEAPS Approach used by the secondary schools, we adopt it into de
   </thead>
   <tbody>
     <tr>
-      <td style="border: 1px solid black; padding: 10px; vertical-align: top;" rowspan="3">Clubs &amp; Societies</td>
+      <td style="border: 1px solid black; padding: 10px; vertical-align: top;" rowspan="2">Clubs &amp; Societies</td>
       <td style="border: 1px solid black; padding: 10px;">Chess (Weiqi) Club</td>
       <td style="border: 1px solid black; padding: 10px;">Ms Wong Ching Yee</td>
       <td style="border: 1px solid black; padding: 10px;"><a href="mailto:wong_ching_yee@schools.gov.sg">wong_ching_yee@schools.gov.sg</a></td>
@@ -54,12 +54,7 @@ Similar to the LEAPS Approach used by the secondary schools, we adopt it into de
       <td style="border: 1px solid black; padding: 10px;"><a href="mailto:ong_wen_kai@schools.gov.sg">ong_wen_kai@schools.gov.sg</a></td>
     </tr>
     <tr>
-      <td style="border: 1px solid black; padding: 10px;">Visual Arts Club</td>
-      <td style="border: 1px solid black; padding: 10px;">Ms Angeles Kee</td>
-      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:kee_angeles@schools.gov.sg">kee_angeles@schools.gov.sg</a></td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid black; padding: 10px; vertical-align: top;" rowspan="4">Performing Arts</td>
+      <td style="border: 1px solid black; padding: 10px; vertical-align: top;" rowspan="5">Performing Arts</td>
       <td style="border: 1px solid black; padding: 10px;">Concert Band</td>
       <td style="border: 1px solid black; padding: 10px;">Ms Chen Chueh Ching</td>
       <td style="border: 1px solid black; padding: 10px;"><a href="mailto:chen_chueh_ching@schools.gov.sg">chen_chueh_ching@schools.gov.sg</a></td>
@@ -78,6 +73,11 @@ Similar to the LEAPS Approach used by the secondary schools, we adopt it into de
       <td style="border: 1px solid black; padding: 10px;">Drama</td>
       <td style="border: 1px solid black; padding: 10px;">Ms Evelyn Ng</td>
       <td style="border: 1px solid black; padding: 10px;"><a href="mailto:ng_geok_neo_evelyn@schools.gov.sg">ng_geok_neo_evelyn@schools.gov.sg</a></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 10px;">Visual Arts Club</td>
+      <td style="border: 1px solid black; padding: 10px;">Ms Angeles Kee</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:kee_angeles@schools.gov.sg">kee_angeles@schools.gov.sg</a></td>
     </tr>
     <tr>
       <td style="border: 1px solid black; padding: 10px; vertical-align: top;" rowspan="7">Sports &amp; Games</td>
@@ -102,8 +102,8 @@ Similar to the LEAPS Approach used by the secondary schools, we adopt it into de
     </tr>
     <tr>
       <td style="border: 1px solid black; padding: 10px;">Netball (Girls only)</td>
-      <td style="border: 1px solid black; padding: 10px;">Mdm Teo Hui Xin</td>
-      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:teo_hui_xin@schools.gov.sg">teo_hui_xin@schools.gov.sg</a></td>
+      <td style="border: 1px solid black; padding: 10px;">Mrs Cecilia Huang</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:oh_seow_huey_cecilia@schools.gov.sg">oh_seow_huey_cecilia@schools.gov.sg</a></td>
     </tr>
     <tr>
       <td style="border: 1px solid black; padding: 10px;">Volleyball (Girls only)</td>
@@ -133,6 +133,8 @@ Similar to the LEAPS Approach used by the secondary schools, we adopt it into de
     </tr>
   </tbody>
 </table>
+
+
 
 <h3>CCA Commitment and Recognition</h3>
 
