@@ -56,11 +56,6 @@ variant: markdown
       <td style="border: 1px solid black; padding: 10px;"><a href="mailto:muhammad_hasif_mohd_hanifah@moe.edu.sg">muhammad_hasif_mohd_hanifah@moe.edu.sg</a></td>
     </tr>
     <tr>
-      <td style="border: 1px solid black; padding: 10px;">ICT Associate</td>
-      <td style="border: 1px solid black; padding: 10px;">Ms Hannani</td>
-      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:hannani_khalisahhaq_rosli@moe.edu.sg">hannani_khalisahhaq_rosli@moe.edu.sg</a></td>
-    </tr>
-    <tr>
       <td style="border: 1px solid black; padding: 10px;">Operation Support Officer</td>
       <td style="border: 1px solid black; padding: 10px;">Mdm Bong May Lin</td>
       <td style="border: 1px solid black; padding: 10px;">-</td>
