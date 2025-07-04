@@ -44,12 +44,7 @@ description: ""
       <td>
         Mrs Rajan<br>
         <a href="mailto:kasinathan_vadivaloo_kavitha@schools.gov.sg">kasinathan_vadivaloo_kavitha@schools.gov.sg</a>
-      </td>
-      <td>
-        Ms Gu Xiaomei<br>
-        <a href="mailto:gu_xiaomei@schools.gov.sg">gu_xiaomei@schools.gov.sg</a>
-      </td>
-      <td>
+      </td><td>
         Ms Hong Yilin<br>
         <a href="mailto:hong_yilin@gov.sg">hong_yilin@schools.gov.sg</a>
       </td>
@@ -397,6 +392,11 @@ description: ""
         Ms Karen Chin<br>
         <a href="mailto:karen_chin_kar_wen@schools.gov.sg">karen_chin_kar_wen@schools.gov.sg</a>
       </td>
+			      
+      <td>
+        Ms Gu Xiaomei<br>
+        <a href="mailto:gu_xiaomei@schools.gov.sg">gu_xiaomei@schools.gov.sg</a>
+      </td>
     </tr>
     <tr>
       <td>Endurance</td>
@@ -428,7 +428,7 @@ description: ""
       </td>
       <td>
         Ms Eunice Chua<br>
-        <a href="mailto:-@schools.gov.sg">-</a>
+        <a href="mailto:Eunice_Chua_Hwee_Kee@schools.gov.sg">Eunice_Chua_Hwee_Kee@schools.gov.sg</a>
       </td>
 			<td>
         Mdm Chia Fung Fung<br>
