@@ -369,7 +369,7 @@ description: ""
   <tbody>
     <tr>
       <th>Class</th>
-      <th colspan="2">Form Teachers</th>
+      <th colspan="3">Form Teachers</th>
     </tr>
     <tr>
       <td>Confidence</td>
@@ -381,6 +381,7 @@ description: ""
         Ms Tay Ruiqi<br>
         <a href="mailto:tay_ruiqi@schools.gov.sg">tay_ruiqi@schools.gov.sg</a>
       </td>
+      <td></td>
     </tr>
     <tr>
       <td>Diligence</td>
@@ -392,7 +393,6 @@ description: ""
         Ms Karen Chin<br>
         <a href="mailto:karen_chin_kar_wen@schools.gov.sg">karen_chin_kar_wen@schools.gov.sg</a>
       </td>
-			      
       <td>
         Ms Gu Xiaomei<br>
         <a href="mailto:gu_xiaomei@schools.gov.sg">gu_xiaomei@schools.gov.sg</a>
@@ -408,6 +408,7 @@ description: ""
         Mr Joseph Yuan<br>
         <a href="mailto:joseph_yuan_weijie@schools.gov.sg">joseph_yuan_weijie@schools.gov.sg</a>
       </td>
+      <td></td>
     </tr>
     <tr>
       <td>Friendship</td>
@@ -419,6 +420,7 @@ description: ""
         Ms Sherlyn Ng<br>
         <a href="mailto:ng_wee_hua@schools.gov.sg">ng_wee_hua@schools.gov.sg</a>
       </td>
+      <td></td>
     </tr>
     <tr>
       <td>Graciousness</td>
@@ -430,7 +432,7 @@ description: ""
         Ms Eunice Chua<br>
         <a href="mailto:Eunice_Chua_Hwee_Kee@schools.gov.sg">Eunice_Chua_Hwee_Kee@schools.gov.sg</a>
       </td>
-			<td>
+      <td>
         Mdm Chia Fung Fung<br>
         <a href="mailto:chia_fung_fung@schools.gov.sg">chia_fung_fung@schools.gov.sg</a>
       </td>
@@ -445,9 +447,11 @@ description: ""
         Ms Emily Seow<br>
         <a href="mailto:seow_pei_suan_emily@schools.gov.sg">seow_pei_suan_emily@schools.gov.sg</a>
       </td>
+      <td></td>
     </tr>
   </tbody>
 </table>
+
 
 <h2>Primary 6</h2>
 
