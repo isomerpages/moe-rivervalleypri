@@ -328,10 +328,6 @@ description: ""
         <a href="mailto:tan_lay_yen_a@schools.gov.sg">tan_lay_yen_a@schools.gov.sg</a>
       </td>
       <td>
-        Ms Rashawna<br>
-        <a href="mailto:Rashawna_Harminder_Singh@schools.gov.sg">Rashawna_Harminder_Singh@schools.gov.sg</a>
-      </td>
-      <td>
         Mdm Mary Chum<br>
         <a href="mailto:chum_siew_yun_mary@schools.gov.sg">chum_siew_yun_mary@schools.gov.sg</a>
       </td>
@@ -343,7 +339,7 @@ description: ""
         <a href="mailto:ng_geok_neo_evelyn@schools.gov.sg">ng_geok_neo_evelyn@schools.gov.sg</a>
       </td>
       <td>
-        Mdm Meenakumar<br>
+        Mdm Meenakumari<br>
             <a href="mailto:Muthurajamurthy_Meenakumari@schools.gov.sg">Muthurajamurthy_Meenakumari@schools.gov.sg</a>
       </td>
       <td></td>
