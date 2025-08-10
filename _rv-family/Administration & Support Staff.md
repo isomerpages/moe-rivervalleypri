@@ -111,8 +111,8 @@ variant: markdown
     </tr>
     <tr>
       <td style="border: 1px solid black; padding: 10px;">School Counsellor</td>
-      <td style="border: 1px solid black; padding: 10px;">Mr Edmund Chong</td>
-      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:chong_kah_phoon@schools.gov.sg">chong_kah_phoon@schools.gov.sg</a></td>
+      <td style="border: 1px solid black; padding: 10px;">Mdm Lynn</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:loo_shook_ling_a">loo_shook_ling_a@schools.gov.sg</a></td>
     </tr>
     <tr>
       <td style="border: 1px solid black; padding: 10px;">School Counselling</td>
