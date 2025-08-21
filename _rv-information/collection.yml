@@ -2,9 +2,9 @@ collections:
   rv-information:
     output: true
     order:
-      - School Bus.md
       - RV Information.md
       - School Curriculum Hours.md
       - Directions to School.md
       - Vendor Information.md
+      - School Bus.md
       - Student Learning Space.md
