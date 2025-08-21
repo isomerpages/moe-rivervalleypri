@@ -31,14 +31,15 @@ procedure below.</p>
 </p>
 </li>
 <li>
-<p>Submit the completed form by the closing date of 2 September 2025 to the
-School General Office</p>
+<p>Submit the completed form and required documents in a sealed envelope
+to the school General Office by 1pm on 2 September 2025. (<a href="https://www.rivervalleypri.moe.edu.sg/informations/" rel="noopener nofollow" target="_blank">Please note General Office Opening Hours</a>)</p>
 </li>
 </ul>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Address: River Valley Primary School, 2 River Valley Green (237993)</p>
+<p>Address: River Valley Primary School, 2 River Valley Green, Singapore
+237993</p>
 </li>
 <li>
 <p>Contact Number: 6737 1785</p>
@@ -72,7 +73,8 @@ on River Valley Green</p>
 </li>
 </ul>
 <p></p>
-<p>By Car: Route 1 CTE Exit 4 (Orchard Road)</p>
+<p>By Car:</p>
+<p>Route 1 CTE Exit 4 (Orchard Road)</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>After exit, turn right to Kramat Road</p>
