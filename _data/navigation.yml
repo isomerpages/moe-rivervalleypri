@@ -61,6 +61,8 @@ links:
         url: /directions
       - title: Vendor Information
         url: /vendors
+      - title: School Bus
+        url: /school-bus
       - title: Student Learning Space
         url: /sls
   - title: RV Student
