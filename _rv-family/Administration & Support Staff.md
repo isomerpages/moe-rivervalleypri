@@ -109,6 +109,11 @@ variant: markdown
       <td style="border: 1px solid black; padding: 10px;">Ms Cheryl Teng</td>
       <td style="border: 1px solid black; padding: 10px;"><a href="mailto:teng_li_ting_cheryl@schools.gov.sg">teng_li_ting_cheryl@schools.gov.sg</a></td>
     </tr>
+		    <tr>
+      <td style="border: 1px solid black; padding: 10px;">School Counsellor</td>
+      <td style="border: 1px solid black; padding: 10px;">Ms Nur'atika</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:Nuratika_ZainalAbidin@schools.gov.sg">Nuratika_ZainalAbidin@schools.gov.sg</a></td>
+    </tr>
     <tr>
       <td style="border: 1px solid black; padding: 10px;">School Counsellor</td>
       <td style="border: 1px solid black; padding: 10px;">Mdm Lynn</td>
