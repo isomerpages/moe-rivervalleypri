@@ -169,10 +169,6 @@ description: ""
         Ms Cheong<br>
         <a href="mailto:grace_cheong_poh_wai@schools.gov.sg">grace_cheong_poh_wai@schools.gov.sg</a>
       </td>
-     <td>
-        Ms Alice Tan<br>
-        <a href="mailto:tan_li_choo_alice@schools.gov.sg">tan_li_choo_alice@schools.gov.sg</a>
-      </td>
     </tr>
     <tr>
       <td>Honesty</td>

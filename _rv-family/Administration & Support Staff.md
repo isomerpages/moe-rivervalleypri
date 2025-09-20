@@ -36,11 +36,6 @@ variant: markdown
       <td style="border: 1px solid black; padding: 10px;"><a href="mailto:chong_kwek_fah_a@schools.gov.sg">chong_kwek_fah_a@schools.gov.sg</a></td>
     </tr>
     <tr>
-      <td style="border: 1px solid black; padding: 10px;">Administrative Executive</td>
-      <td style="border: 1px solid black; padding: 10px;">Ms Peh Yin Chian</td>
-      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:peh_yin_chian@schools.gov.sg">peh_yin_chian@schools.gov.sg</a></td>
-    </tr>
-    <tr>
       <td style="border: 1px solid black; padding: 10px;">Management Support Officer</td>
       <td style="border: 1px solid black; padding: 10px;">Mdm Theresa Woo</td>
       <td style="border: 1px solid black; padding: 10px;"><a href="mailto:theresa_woo_wai_mun@schools.gov.sg">theresa_woo_wai_mun@schools.gov.sg</a></td>
@@ -54,6 +49,11 @@ variant: markdown
       <td style="border: 1px solid black; padding: 10px;">Cluster ICT Manager</td>
       <td style="border: 1px solid black; padding: 10px;">Mr Hasif</td>
       <td style="border: 1px solid black; padding: 10px;"><a href="mailto:muhammad_hasif_mohd_hanifah@moe.edu.sg">muhammad_hasif_mohd_hanifah@moe.edu.sg</a></td>
+    </tr>
+		   <tr>
+      <td style="border: 1px solid black; padding: 10px;">ICT Associate</td>
+      <td style="border: 1px solid black; padding: 10px;">Mr Wang Wei</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:wang_wei_e@moe.edu.sg">wang_wei_e@moe.edu.sg</a></td>
     </tr>
     <tr>
       <td style="border: 1px solid black; padding: 10px;">Operation Support Officer</td>
@@ -108,6 +108,11 @@ variant: markdown
       <td style="border: 1px solid black; padding: 10px;">SEN Officer</td>
       <td style="border: 1px solid black; padding: 10px;">Ms Cheryl Teng</td>
       <td style="border: 1px solid black; padding: 10px;"><a href="mailto:teng_li_ting_cheryl@schools.gov.sg">teng_li_ting_cheryl@schools.gov.sg</a></td>
+    </tr>
+		    <tr>
+      <td style="border: 1px solid black; padding: 10px;">School Counsellor</td>
+      <td style="border: 1px solid black; padding: 10px;">Ms Nur'atika</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:Nuratika_ZainalAbidin@schools.gov.sg">Nuratika_ZainalAbidin@schools.gov.sg</a></td>
     </tr>
     <tr>
       <td style="border: 1px solid black; padding: 10px;">School Counsellor</td>
