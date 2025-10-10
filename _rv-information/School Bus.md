@@ -1,111 +1,83 @@
 ---
 title: School Bus
 permalink: /school-bus/
-variant: tiptap
+variant: markdown
 description: ""
 ---
-<h3>School Bus Advertisement</h3>
-<p>To apply, please refer to the service requirements and the application
-procedure below.</p>
-<p></p>
-<h4>Service Requirements</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/1__Call_for_Proposals__For_Single_Bus_Service__20_Aug_2025.pdf" rel="noopener nofollow" target="_blank">Call for Proposal</a>
-</p>
-</li>
-<li>
-<p><a href="/files/2__TC_for_School_Bus_Operator_to_Provide_School_Bus_Services__For_Single_Bus_Service_.pdf" rel="noopener nofollow" target="_blank">Terms and Conditions for School Bus Operator to provide School Bus Service</a>
-</p>
-</li>
-<li>
-<p><a href="/files/3__Request_for_School_Bus_Service_and_TC_Governing_the_Requests_for_Services___For_Single_Bus_Service_.pdf" rel="noopener nofollow" target="_blank">Request for School Bus Service</a>
-</p>
-</li>
+<h2>Elite Transport Pte Ltd</h2>
+
+<p>Please contact Mr Nicholas Ng on School Bus transport matters.</p>
+<p>If you are unable to reach him via call, please send him a message via:</p>
+
+<ul>
+  <li><strong>Tel No./Handphone No.:</strong> 64797597 / 92774567</li>
+  <li><strong>Email:</strong> <a href="mailto:rvps.schoolbus@gmail.com">rvps.schoolbus@gmail.com</a></li>
 </ul>
-<p></p>
-<h4>Application Procedure</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>Complete the <a href="/files/Information_from_Vendor__For_Single_Bus_Service_.pdf" rel="noopener nofollow" target="_blank">Call for Proposal - Annex A</a>
-</p>
-</li>
-<li>
-<p>Submit the completed form and required documents in a sealed envelope
-to the school General Office by 1pm on 2 September 2025. (<a href="https://www.rivervalleypri.moe.edu.sg/informations/" rel="noopener nofollow" target="_blank">Please note General Office Opening Hours</a>)</p>
-</li>
-</ul>
-<p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Address: River Valley Primary School, 2 River Valley Green, Singapore
-237993</p>
-</li>
-<li>
-<p>Contact Number: 6737 1785</p>
-</li>
-<li>
-<p>Email: chen_wanying@schools.gov.sg</p>
-</li>
-<li>
-<p>Contact Person: Ms Chen Wanying, Admin Manager</p>
-</li>
-</ul>
-<p></p>
-<h4>How to get there:</h4>
-<p>By MRT:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Alight at Great World MRT (Thomson-East Coast Line) Use exit 1 Head east
-on River Valley Green</p>
-</li>
-</ul>
-<p>By Bus:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Bus service to River Valley Road : SBS Transit: 32, 54, 139, 195</p>
-</li>
-<li>
-<p>Bus service to Kim Seng Road : SBS Transit: 5, 16, 175, 195</p>
-</li>
-<li>
-<p>SMRT: 75, 970</p>
-</li>
-</ul>
-<p></p>
-<p>By Car:</p>
-<p>Route 1 CTE Exit 4 (Orchard Road)</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>After exit, turn right to Kramat Road</p>
-</li>
-<li>
-<p>Turn left to Koek Road</p>
-</li>
-<li>
-<p>Go straight down to Killiney Road and subsequently River Valley Close</p>
-</li>
-<li>
-<p>Turn right to River Valley Green</p>
-</li>
-</ol>
-<p>Route 2 CTE Exit 1B (Outram Road/Tiong Bahru Road)</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>After exit, go straight along Chin Swee Road</p>
-</li>
-<li>
-<p>Turn left to Havelock Road</p>
-</li>
-<li>
-<p>Turn right to Saiboo Road</p>
-</li>
-<li>
-<p>Go straight along Martin Road and River Valley Close</p>
-</li>
-<li>
-<p>Turn left to River Valley Green</p>
-</li>
-</ol>
-<p></p>
-<p></p>
+
+<p><strong>Period of appointment:</strong> 1 January 2026 to 31 December 2027</p>
+
+<p><strong>Daily school bus services</strong> (i.e. for sending pupils from home to school and vice versa)</p>
+
+<table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
+  <thead style="background-color: #f2f2f2;">
+    <tr>
+      <th style="border: 1px solid #ccc; padding: 8px;">Distance</th>
+      <th style="border: 1px solid #ccc; padding: 8px;">Up to 15-seaters (1 way)</th>
+      <th style="border: 1px solid #ccc; padding: 8px;">Up to 15-seaters (2 way)</th>
+      <th style="border: 1px solid #ccc; padding: 8px;">&gt;15-seaters (1 way)</th>
+      <th style="border: 1px solid #ccc; padding: 8px;">&gt;15-seaters (2 way)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid #ccc; padding: 8px;">Up to 2km</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">$130</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">$147</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">$130</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">$147</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ccc; padding: 8px;">&gt;2 – 4km</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">$153</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">$170</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">$153</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">$170</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ccc; padding: 8px;">&gt;4 – 6km</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">$181</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">$198</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">$181</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">$198</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>Bus Services for after-school activities</strong> (i.e. sending pupils home from school after enrichment programmes, supplementary classes or CCA)</p>
+
+<table style="width: 100%; border-collapse: collapse;">
+  <thead style="background-color: #f2f2f2;">
+    <tr>
+      <th style="border: 1px solid #ccc; padding: 8px;">Distance</th>
+      <th style="border: 1px solid #ccc; padding: 8px;">Up to 15-seaters</th>
+      <th style="border: 1px solid #ccc; padding: 8px;">&gt;15-seaters</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid #ccc; padding: 8px;">Up to 2km</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">$5</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">$5</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ccc; padding: 8px;">&gt;2 – 4km</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">$6</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">$6</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ccc; padding: 8px;">&gt;4 – 6km</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">$7</td>
+      <td style="border: 1px solid #ccc; padding: 8px;">$7</td>
+    </tr>
+  </tbody>
+</table>
