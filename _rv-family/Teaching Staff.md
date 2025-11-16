@@ -301,7 +301,7 @@ description: ""
       </td>
       <td>
         Mr Dheelip<br>
-        <a href="mailto:dheelip_kumar@schools.gov.sg">dheelip_kumar@schools.gov.sg</a>
+        <a href="mailto:Dheelip_Kumar_Mohana_Dass@schools.gov.sg">Dheelip_Kumar_Mohana_Dass@schools.gov.sg</a>
       </td>
       <td></td>
     </tr>
