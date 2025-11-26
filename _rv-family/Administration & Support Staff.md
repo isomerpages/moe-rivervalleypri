@@ -40,6 +40,11 @@ variant: markdown
       <td style="border: 1px solid black; padding: 10px;">Mr Chong</td>
       <td style="border: 1px solid black; padding: 10px;"><a href="mailto:chong_kwek_fah_a@schools.gov.sg">chong_kwek_fah_a@schools.gov.sg</a></td>
     </tr>
+		    <tr>
+      <td style="border: 1px solid black; padding: 10px;">Administrative Executive</td>
+      <td style="border: 1px solid black; padding: 10px;">Ms Yeo</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:nikki_yeo@schools.gov.sg">nikki_yeo@schools.gov.sg</a></td>
+    </tr>
     <tr>
       <td style="border: 1px solid black; padding: 10px;">Management Support Officer</td>
       <td style="border: 1px solid black; padding: 10px;">Mdm Theresa Woo</td>
