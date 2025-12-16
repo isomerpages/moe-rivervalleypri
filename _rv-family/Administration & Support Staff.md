@@ -20,16 +20,6 @@ variant: markdown
       <td style="border: 1px solid black; padding: 10px;">Ms Chen Wanying</td>
       <td style="border: 1px solid black; padding: 10px;"><a href="mailto:chen_wanying@schools.gov.sg">chen_wanying@schools.gov.sg</a></td>
     </tr>
-    <tr>
-      <td style="border: 1px solid black; padding: 10px;">Administration Manager</td>
-      <td style="border: 1px solid black; padding: 10px;">Ms Kaur</td>
-      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:kamaljeet_kaur@schools.gov.sg">kamaljeet_kaur@schools.gov.sg</a></td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid black; padding: 10px;">Operations Manager</td>
-      <td style="border: 1px solid black; padding: 10px;">Mr Eric Woo</td>
-      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:woo_yeong_sang@schools.gov.sg">woo_yeong_sang@schools.gov.sg</a></td>
-    </tr>
 		 <tr>
       <td style="border: 1px solid black; padding: 10px;">Operations Manager</td>
       <td style="border: 1px solid black; padding: 10px;">Mr Simon Ang</td>
@@ -123,11 +113,6 @@ variant: markdown
       <td style="border: 1px solid black; padding: 10px;">School Counsellor</td>
       <td style="border: 1px solid black; padding: 10px;">Ms Nur'atika</td>
       <td style="border: 1px solid black; padding: 10px;"><a href="mailto:Nuratika_ZainalAbidin@schools.gov.sg">Nuratika_ZainalAbidin@schools.gov.sg</a></td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid black; padding: 10px;">School Counsellor</td>
-      <td style="border: 1px solid black; padding: 10px;">Mdm Lynn</td>
-      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:loo_shook_ling_a">loo_shook_ling_a@schools.gov.sg</a></td>
     </tr>
     <tr>
       <td style="border: 1px solid black; padding: 10px;">School Counselling</td>
