@@ -170,8 +170,8 @@ description: ""
     <tr>
       <td>Kindness</td>
       <td>
-        Ms Asveeny<br>
-        <a href="mailto:asveeny_sanjeevi@schools.gov.sg">asveeny_sanjeevi@schools.gov.sg</a>
+        Ms Lin Chuqing<br>
+        <a href="mailto:lin_chuqing@schools.gov.sg">lin_chuqing@schools.gov.sg</a>
       </td>
       <td>
         Ms Lee Seow Yian<br>
