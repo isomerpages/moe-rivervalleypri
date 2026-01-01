@@ -72,8 +72,8 @@ description: ""
         <a href="mailto:siew_may_qi_emily@schools.gov.sg">siew_may_qi_emily@schools.gov.sg</a>
       </td>
       <td>
-        Mr Nathaniel Ng<br>
-        <a href="mailto:ng_jun_ting_Nathaniel@schools.gov.sg">ng_jun_ting_Nathaniel@schools.gov.sg</a>
+        Ms Jolynn<br>
+        <a href="mailto:Yang_Shuojun@schools.gov.sg">Yang_Shuojun@schools.gov.sg</a>
       </td>
       <td></td>
     </tr>
