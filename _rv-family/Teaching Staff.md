@@ -19,7 +19,7 @@ description: ""
         <a href="mailto:chin_mee_yen@schools.gov.sg">chin_mee_yen@schools.gov.sg</a>
       </td>
       <td>
-        Mr Saddiq<br>
+       Mr Mohamed<br>
         <a href="mailto:mohamed_saddiq_b_mohamed@schools.gov.sg">mohamed_saddiq_b_mohamed@schools.gov.sg</a>
       </td>
     </tr>
@@ -129,12 +129,16 @@ description: ""
         Mrs Rajan<br>
         <a href="mailto:kasinathan_vadivaloo_kavitha@schools.gov.sg">kasinathan_vadivaloo_kavitha@schools.gov.sg</a>
       </td>
+			    <td>
+        Ms Hong Yilin<br>
+        <a href="mailto:Hong_Yilin@schools.gov.sg">Hong_Yilin@schools.gov.sg</a>
+      </td>
     </tr>
     <tr>
       <td>Friendship</td>
       <td>
-        Ms Emily Siew<br>
-        <a href="mailto:siew_may_qi_emily@schools.gov.sg">siew_may_qi_emily@schools.gov.sg</a>
+        Mr Tyler Ng<br>
+        <a href="mailto:ng_min_yu_tyler@schools.gov.sg">ng_min_yu_tyler@schools.gov.sg</a>
       </td>
       <td>
         Mr Mohamed<br>
