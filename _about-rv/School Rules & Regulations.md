@@ -261,7 +261,7 @@ teachers at the assembly areas or in the classroom.</p>
 offence that carries severe consequences.</p>
 </li>
 <li>
-<p><strong>All students are not allowed to have in their possession any weapon.  They are also not allowed to bring any weapon-like item, such as scissors and pen-knife, which can be used or intended to be used to cause harm to others.</strong>
+<p><strong>All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item, such as scissors and pen-knife, which can be used or intended to be used to cause harm to others.</strong>
 </p>
 </li>
 <li>
