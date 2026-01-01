@@ -29,7 +29,7 @@ and Learning with a Learning Device (Primary) – <a href="https://go.gov.sg/cw-
 </p>
 <p></p>
 <h3>Guidelines</h3>
-<p><strong>1.	General</strong>
+<p><strong>1. General</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -41,7 +41,7 @@ purposes.</p>
 <p></p>
 </li>
 </ul>
-<p><strong>2.	Being a Responsible Digital Citizen</strong>
+<p><strong>2. Being a Responsible Digital Citizen</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -76,7 +76,7 @@ selling, or any commercial activities.</p>
 <p>If I do not follow these rules, I understand that the school may take
 disciplinary action in line with the school’s discipline policy.</p>
 <p></p>
-<p><strong>3.	Respecting Copyright</strong>
+<p><strong>3. Respecting Copyright</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -89,7 +89,7 @@ or illegal way.</p>
 <p></p>
 </li>
 </ul>
-<p><strong>4.	Using Artificial Intelligence (AI)</strong>
+<p><strong>4. Using Artificial Intelligence (AI)</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -105,7 +105,7 @@ by my teacher.</p>
 <p></p>
 </li>
 </ul>
-<p><strong>5.	Staying Safe and Secure Online</strong>
+<p><strong>5. Staying Safe and Secure Online</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
