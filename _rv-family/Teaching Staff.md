@@ -281,12 +281,12 @@ description: ""
     <tr>
       <td>Diligence</td>
       <td>
-        Mr Ong Wen Kai<br>
-        <a href="mailto:ong_wen_kai@schools.gov.sg">ong_wen_kai@schools.gov.sg</a>
+        	Mr Spencer Khoo<br>
+        <a href="mailto:Spencer_Khoo@schools.gov.sg">spencer_Khoo@schools.gov.sg</a>
       </td>
       <td>
-        Mr Dheelip<br>
-        <a href="mailto:Dheelip_Kumar_Mohana_Dass@schools.gov.sg">Dheelip_Kumar_Mohana_Dass@schools.gov.sg</a>
+        Mdm Chia Fung Fung<br>
+        <a href="mailto:chia_fung_fung@schools.gov.sg">chia_fung_fung@schools.gov.sg</a>
       </td>
       <td></td>
     </tr>
