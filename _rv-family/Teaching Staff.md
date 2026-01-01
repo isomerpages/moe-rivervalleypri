@@ -84,8 +84,8 @@ description: ""
         <a href="mailto:idawatee_ahmad@schools.gov.sg">idawatee_ahmad@schools.gov.sg</a>
       </td>
       <td>
-        Ms Lin Chuqing<br>
-        <a href="mailto:lin_chuqing.gov.sg">lin_chuqing@schools.gov.sg</a>
+        Ms Rachel Boey<br>
+        <a href="mailto:boey_jia_qi_rachel@schools.gov.sg">boey_jia_qi_rachel@schools.gov.sg</a>
       </td>
       <td></td>
     </tr>
