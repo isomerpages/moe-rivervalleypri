@@ -210,7 +210,6 @@ repeat offenders.</p>
 </li>
 </ul>
 <p></p>
-<p>&nbsp;</p>
 <h4><strong>7.&nbsp;&nbsp; BULLYING</strong></h4>
 <p>At our school, we have a zero-tolerance policy towards bullying. Bullying
 is defined as any repeated or persistent behaviour, whether in person or
