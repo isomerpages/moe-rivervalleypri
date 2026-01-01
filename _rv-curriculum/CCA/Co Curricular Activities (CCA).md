@@ -66,8 +66,8 @@ Similar to the LEAPS Approach used by the secondary schools, we adopt it into de
     </tr>
     <tr>
       <td style="border: 1px solid black; padding: 10px;">Dance Ensemble</td>
-      <td style="border: 1px solid black; padding: 10px;">Ms Sim Kay Yin</td>
-      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:sim_kay_yin@schools.gov.sg">sim_kay_yin@schools.gov.sg</a></td>
+      <td style="border: 1px solid black; padding: 10px;">Mrs Chua Chin Ling</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:lau_chin_ling@schools.gov.sg">slau_chin_ling@schools.gov.sg</a></td>
     </tr>
     <tr>
       <td style="border: 1px solid black; padding: 10px;">Drama</td>
@@ -76,8 +76,8 @@ Similar to the LEAPS Approach used by the secondary schools, we adopt it into de
     </tr>
     <tr>
       <td style="border: 1px solid black; padding: 10px;">Visual Arts Club</td>
-      <td style="border: 1px solid black; padding: 10px;">Ms Angeles Kee</td>
-      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:kee_angeles@schools.gov.sg">kee_angeles@schools.gov.sg</a></td>
+      <td style="border: 1px solid black; padding: 10px;">Mdm Tan Xiao Jing</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:tan_xiao_jing@schools.gov.sg">tan_xiao_jing@schools.gov.sg</a></td>
     </tr>
     <tr>
       <td style="border: 1px solid black; padding: 10px; vertical-align: top;" rowspan="7">Sports &amp; Games</td>
@@ -92,8 +92,8 @@ Similar to the LEAPS Approach used by the secondary schools, we adopt it into de
     </tr>
     <tr>
       <td style="border: 1px solid black; padding: 10px;">Floorball (Boys only)</td>
-      <td style="border: 1px solid black; padding: 10px;">Ms Ranjini</td>
-      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:ranjinidevi_thanasegaram@schools.gov.sg">ranjinidevi_thanasegaram@schools.gov.sg</a></td>
+      <td style="border: 1px solid black; padding: 10px;">Ms Emily Seow</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:seow_pei_suan_emily@schools.gov.sg">seow_pei_suan_emily@schools.gov.sg</a></td>
     </tr>
     <tr>
       <td style="border: 1px solid black; padding: 10px;">Football (Boys only)</td>
@@ -102,13 +102,13 @@ Similar to the LEAPS Approach used by the secondary schools, we adopt it into de
     </tr>
     <tr>
       <td style="border: 1px solid black; padding: 10px;">Netball (Girls only)</td>
-      <td style="border: 1px solid black; padding: 10px;">Mrs Cecilia Huang</td>
-      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:oh_seow_huey_cecilia@schools.gov.sg">oh_seow_huey_cecilia@schools.gov.sg</a></td>
+      <td style="border: 1px solid black; padding: 10px;">Mdm Chang Te Fang</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:chang_te_fang@schools.gov.sg">chang_te_fang@schools.gov.sg</a></td>
     </tr>
     <tr>
       <td style="border: 1px solid black; padding: 10px;">Volleyball (Girls only)</td>
-      <td style="border: 1px solid black; padding: 10px;">Mr Lao Li</td>
-      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:lao_li@schools.gov.sg">lao_li@schools.gov.sg</a></td>
+      <td style="border: 1px solid black; padding: 10px;">Mdm Shabana</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:nurjhana_shabana_musa_bharooch@schools.gov.sg">nurjhana_shabana_musa_bharooch@schools.gov.sg</a></td>
     </tr>
     <tr>
       <td style="border: 1px solid black; padding: 10px;">Wushu</td>
