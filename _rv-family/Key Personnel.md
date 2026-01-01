@@ -20,9 +20,9 @@ variant: markdown
       <td style="border: 1px solid black; padding: 10px;"><a href="mailto:Yap_Ying_Hui_Andrea@schools.gov.sg">Yap_Ying_Hui_Andrea@schools.gov.sg</a></td>
     </tr>
     <tr>
-      <td style="border: 1px solid black; padding: 10px;">Mother Tongue Languages</td>
-      <td style="border: 1px solid black; padding: 10px;">Ms Kay Ee Ee</td>
-      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:kay_ee_ee@schools.gov.sg">kay_ee_ee@schools.gov.sg</a></td>
+      <td style="border: 1px solid black; padding: 10px;">Science</td>
+      <td style="border: 1px solid black; padding: 10px;">Mr Ivan Ng</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:Ng_Wee_Liat_Ivan@schools.gov.sg">Ng_Wee_Liat_Ivan@schools.gov.sg</a></td>
     </tr>
     <tr>
       <td style="border: 1px solid black; padding: 10px;">PE / CCA / Aesthetics</td>
@@ -62,13 +62,18 @@ variant: markdown
     </tr>
   </thead>
   <tbody>
+		    <tr>
+      <td style="border: 1px solid black; padding: 10px;">Primary 1 &amp; Primary 3</td>
+      <td style="border: 1px solid black; padding: 10px;">Mdm Choo</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:choo_wai_sum@schools.gov.sg">choo_wai_sum@schools.gov.sg</a></td>
+    </tr>
     <tr>
-      <td style="border: 1px solid black; padding: 10px;">Primary 3 &amp; Primary 5</td>
+      <td style="border: 1px solid black; padding: 10px;">Primary 4 &amp; Primary 6</td>
       <td style="border: 1px solid black; padding: 10px;">Ms Lena Lim</td>
       <td style="border: 1px solid black; padding: 10px;"><a href="mailto:lena_lim@schools.gov.sg">lena_lim@schools.gov.sg</a></td>
     </tr>
     <tr>
-      <td style="border: 1px solid black; padding: 10px;">Primary 1 &amp; Primary 4</td>
+      <td style="border: 1px solid black; padding: 10px;">Primary 2 &amp; Primary 5</td>
       <td style="border: 1px solid black; padding: 10px;">Mdm Janaki</td>
       <td style="border: 1px solid black; padding: 10px;"><a href="mailto:janaki_retanam@schools.gov.sg">janaki_retanam@schools.gov.sg</a></td>
     </tr>
@@ -89,6 +94,11 @@ variant: markdown
       <td style="border: 1px solid black; padding: 10px;">English Language</td>
       <td style="border: 1px solid black; padding: 10px;">Ms Tan Jia Ying</td>
       <td style="border: 1px solid black; padding: 10px;"><a href="mailto:tan_jia_ying_a@schools.gov.sg">tan_jia_ying_a@schools.gov.sg</a></td>
+    </tr>
+		    <tr>
+      <td style="border: 1px solid black; padding: 10px;">Mother Tongue Languages</td>
+      <td style="border: 1px solid black; padding: 10px;">Ms Ma Ning</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:Ma_ning_a@schools.gov.sg">ma_ning_a@schools.gov.sg</a></td>
     </tr>
     <tr>
       <td style="border: 1px solid black; padding: 10px;">Science</td>
@@ -162,7 +172,7 @@ nadia_erlyna_fauzilan@schools.gov.sg</a></td>
     </tr>
 		    <tr>
       <td style="border: 1px solid black; padding: 10px;">Senior Teacher (ML)</td>
-      <td style="border: 1px solid black; padding: 10px;">Mr Saddiq</td>
+      <td style="border: 1px solid black; padding: 10px;">Mr Mohamed</td>
       <td style="border: 1px solid black; padding: 10px;"><a href="mailto:mohamed_saddiq_b_mohamed@schools.gov.sg">mohamed_saddiq_b_mohamed@schools.gov.sg</a></td>
     </tr>
   </tbody>
