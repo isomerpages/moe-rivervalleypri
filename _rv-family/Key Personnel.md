@@ -62,13 +62,18 @@ variant: markdown
     </tr>
   </thead>
   <tbody>
+		    <tr>
+      <td style="border: 1px solid black; padding: 10px;">Primary 1 &amp; Primary 3</td>
+      <td style="border: 1px solid black; padding: 10px;">Mdm Choo</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:choo_wai_sum@schools.gov.sg">choo_wai_sum@schools.gov.sg</a></td>
+    </tr>
     <tr>
-      <td style="border: 1px solid black; padding: 10px;">Primary 3 &amp; Primary 5</td>
+      <td style="border: 1px solid black; padding: 10px;">Primary 4 &amp; Primary 6</td>
       <td style="border: 1px solid black; padding: 10px;">Ms Lena Lim</td>
       <td style="border: 1px solid black; padding: 10px;"><a href="mailto:lena_lim@schools.gov.sg">lena_lim@schools.gov.sg</a></td>
     </tr>
     <tr>
-      <td style="border: 1px solid black; padding: 10px;">Primary 1 &amp; Primary 4</td>
+      <td style="border: 1px solid black; padding: 10px;">Primary 2 &amp; Primary 5</td>
       <td style="border: 1px solid black; padding: 10px;">Mdm Janaki</td>
       <td style="border: 1px solid black; padding: 10px;"><a href="mailto:janaki_retanam@schools.gov.sg">janaki_retanam@schools.gov.sg</a></td>
     </tr>
