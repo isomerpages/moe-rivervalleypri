@@ -159,12 +159,12 @@ description: ""
     <tr>
       <td>Honesty</td>
       <td>
-        Mrs Chua Chin Ling<br>
-        <a href="mailto:lau_chin_ling@schools.gov.sg">lau_chin_ling@schools.gov.sg</a>
+        Mdm Shabana<br>
+        <a href="mailto:nurjhana_shabana_musa_bharooch@schools.gov.sg">nurjhana_shabana_musa_bharooch@schools.gov.sg</a>
       </td>
       <td>
-        Mdm Chong Ailing<br>
-        <a href="mailto:chong_ai_ling_a@schools.gov.sg">chong_ai_ling_a@schools.gov.sg</a>
+        Ms Wang Jiaxin<br>
+        <a href="mailto:wang_jiaxin@schools.gov.sg">wang_jiaxin@schools.gov.sg</a>
       </td>
     </tr>
     <tr>
