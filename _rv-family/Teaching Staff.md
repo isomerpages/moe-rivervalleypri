@@ -148,12 +148,12 @@ description: ""
     <tr>
       <td>Graciousness</td>
       <td>
-        Mrs Priscilla Yip<br>
-        <a href="mailto:goh_shu_yi_priscilla@schools.gov.sg">goh_shu_yi_priscilla@schools.gov.sg</a>
+        Mr Noah Lim<br>
+        <a href="mailto:lim_juin_meng@schools.gov.sg">lim_juin_meng@schools.gov.sg</a>
       </td>
       <td>
-        Ms Cheong<br>
-        <a href="mailto:grace_cheong_poh_wai@schools.gov.sg">grace_cheong_poh_wai@schools.gov.sg</a>
+        Mdm Heng Soo Inn<br>
+        <a href="mailto:heng_soo_inn@schools.gov.sg">heng_soo_inn@schools.gov.sg</a>
       </td>
     </tr>
     <tr>
