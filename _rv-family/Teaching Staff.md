@@ -126,11 +126,9 @@ description: ""
     <tr>
       <td>Endurance</td>
       <td>
-        Ms Ranjinidevi<br>
-        <a href="mailto:ranjinidevi_thanasegaram@schools.gov.sg">ranjinidevi_thanasegaram@schools.gov.sg</a>
+        Mrs Rajan<br>
+        <a href="mailto:kasinathan_vadivaloo_kavitha@schools.gov.sg">kasinathan_vadivaloo_kavitha@schools.gov.sg</a>
       </td>
-      <td>-</td>
-      <td></td>
     </tr>
     <tr>
       <td>Friendship</td>
