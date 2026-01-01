@@ -434,46 +434,42 @@ description: ""
         <a href="mailto:abdul_mufsin@schools.gov.sg">abdul_mufsin@schools.gov.sg</a>
       </td>
       <td>
-        Mdm Wong Ching Yee<br>
-        <a href="mailto:wong_ching_yee@schools.gov.sg">wong_ching_yee@schools.gov.sg</a>
+        Ms Kathleen Lee<br>
+        <a href="mailto:kathleen_lee_mui_hwa_a@schools.gov.sg">kathleen_lee_mui_hwa_a@schools.gov.sg</a>
       </td>
-      <td></td>
     </tr>
     <tr>
       <td>Diligence</td>
       <td>
-        Ms Chan Qiuting<br>
-        <a href="mailto:chan_qiuting@schools.gov.sg">chan_qiuting@schools.gov.sg</a>
+        Ms Bernadette Kor<br>
+        <a href="mailto:bernadette_kor_hong_yin@schools.gov.sg">bernadette_kor_hong_yin@schools.gov.sg</a>
       </td>
       <td>
-        Mdm Tan Xiao Jing<br>
-        <a href="mailto:tan_xiao_jing@schools.gov.sg">tan_xiao_jing@schools.gov.sg</a>
+        Mr Dheelip<br>
+        <a href="mailto:dheelip_kumar_mohana_dass@schools.gov.sg">dheelip_kumar_mohana_dass@schools.gov.sg</a>
       </td>
-      <td></td>
     </tr>
     <tr>
       <td>Endurance</td>
       <td>
-        Ms Sim Kay Yin<br>
-        <a href="mailto:sim_kay_yin@schools.gov.sg">sim_kay_yin@schools.gov.sg</a>
+        Mr Joseph Yuan<br>
+        <a href="mailto:joseph_yuan_weijie@schools.gov.sg">joseph_yuan_weijie@schools.gov.sg</a>
       </td>
       <td>
-        Ms Tan Yee Li<br>
-        <a href="mailto:tan_yee_li@schools.gov.sg">tan_yee_li@schools.gov.sg</a>
+       Mdm Chang Te Fang<br>
+        <a href="mailto:chang_te_fang@schools.gov.sg">chang_te_fang@schools.gov.sg</a>
       </td>
-      <td></td>
     </tr>
     <tr>
       <td>Friendship</td>
       <td>
-        Mrs Cecilia Huang<br>
-        <a href="mailto:oh_seow_huey_cecilia@schools.gov.sg">oh_seow_huey_cecilia@schools.gov.sg</a>
+        Ms Ng Wee Hua<br>
+        <a href="mailto:ng_wee_hua@schools.gov.sg">ng_wee_hua@schools.gov.sg</a>
       </td>
       <td>
-        Ms Lynn Teo<br>
-        <a href="mailto:teo_mei_ling_lynn@schools.gov.sg">teo_mei_ling_lynn@schools.gov.sg</a>
+        Ms Lena Lim<br>
+        <a href="mailto:lena_lim@schools.gov.sg">lena_lim@schools.gov.sg</a>
       </td>
-      <td></td>
     </tr>
     <tr>
       <td>Graciousness</td>
@@ -482,24 +478,19 @@ description: ""
         <a href="mailto:chung_li_koon@schools.gov.sg">chung_li_koon@schools.gov.sg</a>
       </td>
       <td>
-        Ms Sofia<br>
-        <a href="mailto:sofia_samri@schools.gov.sg">sofia_samri@schools.gov.sg</a>
+        Ms Asveeny<br>
+        <a href="mailto:asveeny_sanjeevi@schools.gov.sgg">asveeny_sanjeevi@schools.gov.sg</a>
       </td>
-      <td></td>
     </tr>
     <tr>
       <td>Honesty</td>
       <td>
-        Mr Chopra<br>
-        <a href="mailto:pavanjeev_singh_chopra@schools.gov.sg">pavanjeev_singh_chopra@schools.gov.sg</a>
+        Mdm Celina Leng<br>
+        <a href="mailto:leng_sok_wah_celina@schools.gov.sg">leng_sok_wah_celina@schools.gov.sg</a>
       </td>
       <td>
-        Ms Kathleen Lee<br>
-        <a href="mailto:kathleen_lee_mui_hwa_a@schools.gov.sg">kathleen_lee_mui_hwa_a@schools.gov.sg</a>
-      </td>
-      <td>
-        Mrs Pearlin Ng<br>
-        <a href="mailto:lim_siew_chuan_pearlin@schools.gov.sg">lim_siew_chuan_pearlin@schools.gov.sg</a>
+        Ms Emily Seow<br>
+        <a href="mailto:seow_pei_suan_emily@schools.gov.sg">seow_pei_suan_emily@schools.gov.sg	</a>
       </td>
     </tr>
   </tbody>
