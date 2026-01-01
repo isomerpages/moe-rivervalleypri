@@ -20,9 +20,9 @@ variant: markdown
       <td style="border: 1px solid black; padding: 10px;"><a href="mailto:Yap_Ying_Hui_Andrea@schools.gov.sg">Yap_Ying_Hui_Andrea@schools.gov.sg</a></td>
     </tr>
     <tr>
-      <td style="border: 1px solid black; padding: 10px;">Mother Tongue Languages</td>
-      <td style="border: 1px solid black; padding: 10px;">Ms Kay Ee Ee</td>
-      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:kay_ee_ee@schools.gov.sg">kay_ee_ee@schools.gov.sg</a></td>
+      <td style="border: 1px solid black; padding: 10px;">Science</td>
+      <td style="border: 1px solid black; padding: 10px;">Mr Ivan Ng</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:Ng_Wee_Liat_Ivan@schools.gov.sg">Ng_Wee_Liat_Ivan@schools.gov.sg</a></td>
     </tr>
     <tr>
       <td style="border: 1px solid black; padding: 10px;">PE / CCA / Aesthetics</td>
