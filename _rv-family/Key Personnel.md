@@ -95,6 +95,11 @@ variant: markdown
       <td style="border: 1px solid black; padding: 10px;">Ms Tan Jia Ying</td>
       <td style="border: 1px solid black; padding: 10px;"><a href="mailto:tan_jia_ying_a@schools.gov.sg">tan_jia_ying_a@schools.gov.sg</a></td>
     </tr>
+		    <tr>
+      <td style="border: 1px solid black; padding: 10px;">Mother Tongue Languages</td>
+      <td style="border: 1px solid black; padding: 10px;">Ms Ma Ning</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:Ma_ning_a@schools.gov.sg">ma_ning_a@schools.gov.sg</a></td>
+    </tr>
     <tr>
       <td style="border: 1px solid black; padding: 10px;">Science</td>
       <td style="border: 1px solid black; padding: 10px;">Ms Asveeny</td>
