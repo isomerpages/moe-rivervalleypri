@@ -57,23 +57,19 @@ description: ""
     <tr>
       <td>Graciousness</td>
       <td>
+        Ms Chan Qiuting<br>
+        <a href="mailto:chan_qiuting@schools.gov.sg">chan_qiuting@schools.gov.sg</a>
+      </td>
+      <td>
         Ms Zakiah<br>
         <a href="mailto:zakiah_kassim@schools.gov.sg">zakiah_kassim@schools.gov.sg</a>
-      </td>
-      <td>
-        Ms Angeles Kee<br>
-        <a href="mailto:kee_angeles@schools.gov.sg">kee_angeles@schools.gov.sg</a>
-      </td>
-      <td>
-        Ms Aisah<br>
-        <a href="mailto:aisah_mansor_a@schools.gov.sg">aisah_mansor_a@schools.gov.sg</a>
       </td>
     </tr>
     <tr>
       <td>Honesty</td>
       <td>
-        Mdm Shabana<br>
-        <a href="mailto:nurjhana_shabana_musa_bharooch@schools.gov.sg">nurjhana_shabana_musa_bharooch@schools.gov.sg</a>
+        Ms Emily Siew<br>
+        <a href="mailto:siew_may_qi_emily@schools.gov.sg">siew_may_qi_emily@schools.gov.sg</a>
       </td>
       <td>
         Mr Nathaniel Ng<br>
