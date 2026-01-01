@@ -372,24 +372,23 @@ description: ""
     <tr>
       <td>Endurance</td>
       <td>
-        Ms Andrea Yap<br>
-        <a href="mailto:Yap_Ying_Hui_Andrea@schools.gov.sg">Yap_Ying_Hui_Andrea@schools.gov.sg</a>
+        Mr Fabian Koh<br>
+        <a href="mailto:koh_zong_cheng_fabian@schools.gov.sg">koh_zong_cheng_fabian@schools.gov.sg</a>
       </td>
       <td>
-        Mr Joseph Yuan<br>
-        <a href="mailto:joseph_yuan_weijie@schools.gov.sg">joseph_yuan_weijie@schools.gov.sg</a>
+        Ms Xing Fuyi<br>
+        <a href="mailto:Xing_Fuyi@schools.gov.sg">Xing_Fuyi@schools.gov.sg</a>
       </td>
-      <td></td>
     </tr>
     <tr>
       <td>Friendship</td>
       <td>
-        Ms Lena Lim<br>
-        <a href="mailto:lena_lim@schools.gov.sg">lena_lim@schools.gov.sg</a>
+        Mdm Janaki<br>
+        <a href="mailto:janaki_retanam@schools.gov.sg">janaki_retanam@schools.gov.sg</a>
       </td>
       <td>
-        Ms Sherlyn Ng<br>
-        <a href="mailto:ng_wee_hua@schools.gov.sg">ng_wee_hua@schools.gov.sg</a>
+        Mr Ong Wen Kai<br>
+        <a href="mailto:ong_wen_kai@schools.gov.sg">ong_wen_kai@schools.gov.sg</a>
       </td>
       <td></td>
     </tr>
@@ -400,23 +399,19 @@ description: ""
         <a href="mailto:tay_sock_hwee_sheila@schools.gov.sg">tay_sock_hwee_sheila@schools.gov.sg</a>
       </td>
       <td>
-        Ms Eunice Chua<br>
-        <a href="mailto:Eunice_Chua_Hwee_Kee@schools.gov.sg">Eunice_Chua_Hwee_Kee@schools.gov.sg</a>
-      </td>
-      <td>
-        Mdm Chia Fung Fung<br>
-        <a href="mailto:chia_fung_fung@schools.gov.sg">chia_fung_fung@schools.gov.sg</a>
+        Ms Evelyn Ng<br>
+        <a href="mailto:ng_geok_neo_evelyn@schools.gov.sg">ng_geok_neo_evelyn@schools.gov.sg</a>
       </td>
     </tr>
     <tr>
       <td>Honesty</td>
       <td>
-        Mdm Celina Leng<br>
-        <a href="mailto:leng_sok_wah_celina@schools.gov.sg">leng_sok_wah_celina@schools.gov.sg</a>
+        Mrs Cecilia Huang<br>
+        <a href="mailto:oh_seow_huey_cecilia@schools.gov.sg">oh_seow_huey_cecilia@schools.gov.sg</a>
       </td>
       <td>
-        Ms Emily Seow<br>
-        <a href="mailto:seow_pei_suan_emily@schools.gov.sg">seow_pei_suan_emily@schools.gov.sg</a>
+        Ms Ma Ning<br>
+        <a href="mailto:ma_ning_a@schools.gov.sg">ma_ning_a@schools.gov.sg</a>
       </td>
       <td></td>
     </tr>
