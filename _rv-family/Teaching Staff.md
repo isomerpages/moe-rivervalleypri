@@ -237,12 +237,12 @@ description: ""
     <tr>
       <td>Graciousness</td>
       <td>
-        Mrs Gladys Chung<br>
-        <a href="mailto:ng_wai_heng_gladys@schools.gov.sg">ng_wai_heng_gladys@schools.gov.sg</a>
+        Mrs Jeanie Koh<br>
+        <a href="mailto:Jeanie_Quek_Jun_Li@schools.gov.sg">Jeanie_Quek_Jun_Li@schools.gov.sg</a>
       </td>
       <td>
-        Mr Iskandar<br>
-        <a href="mailto:iskandar_dzulkarnain_b_isnin@schools.gov.sg">iskandar_dzulkarnain_b_isnin@schools.gov.sg</a>
+        Mrs Kannan<br>
+        <a href="mailto:thilagarani_kannan@schools.gov.sg">thilagarani_kannan@schools.gov.sg</a>
       </td>
     </tr>
     <tr>
