@@ -349,28 +349,24 @@ description: ""
     <tr>
       <td>Confidence</td>
       <td>
-        Mr Mufsin<br>
-        <a href="mailto:abdul_mufsin@schools.gov.sg">abdul_mufsin@schools.gov.sg</a>
+        Mr Ivan Ng<br>
+        <a href="mailto:ng_wee_liat_ivan@schools.gov.sg">ng_wee_liat_ivan@schools.gov.sg</a>
       </td>
       <td>
-        Ms Tay Ruiqi<br>
-        <a href="mailto:tay_ruiqi@schools.gov.sg">tay_ruiqi@schools.gov.sg</a>
+        Ms Chen Chueh Ching<br>
+        <a href="mailto:chen_chueh_ching@schools.gov.sg">chen_chueh_ching@schools.gov.sg</a>
       </td>
       <td></td>
     </tr>
     <tr>
       <td>Diligence</td>
       <td>
-        Ms Joy Ang<br>
-        <a href="mailto:ang_soo_en_joy@schools.gov.sg">ang_soo_en_joy@schools.gov.sg</a>
+        Ms Tan Jia Ying<br>
+        <a href="mailto:tan_jia_ying_a@schools.gov.sg">tan_jia_ying_a@schools.gov.sg</a>
       </td>
       <td>
-        Ms Karen Chin<br>
-        <a href="mailto:karen_chin_kar_wen@schools.gov.sg">karen_chin_kar_wen@schools.gov.sg</a>
-      </td>
-      <td>
-        Ms Gu Xiaomei<br>
-        <a href="mailto:gu_xiaomei@schools.gov.sg">gu_xiaomei@schools.gov.sg</a>
+        Mdm Meenakumari<br>
+        <a href="mailto:Muthurajamurthy_Meenakumari@schools.gov.sg">Muthurajamurthy_Meenakumari@schools.gov.sg</a>
       </td>
     </tr>
     <tr>
