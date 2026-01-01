@@ -4,9 +4,8 @@ permalink: /acceptable-use-policy-for-use-of-edtech-resources/
 variant: tiptap
 description: ""
 ---
-<p></p>
-<p>Acceptable Use Policy (AUP) for use of EdTech Resources</p>
-<p>Purpose of the Acceptable Use Policy (AUP)</p>
+<h1>Acceptable Use Policy (AUP) for use of EdTech Resources</h1>
+<h3>Purpose of the Acceptable Use Policy (AUP)</h3>
 <p>Technology is an important part of learning today. This Acceptable Use
 Policy (AUP) explains how you should use educational technology (EdTech)
 safely and responsibly. By following these guidelines, you will learn to
