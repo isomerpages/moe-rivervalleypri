@@ -29,10 +29,11 @@ a doctor and/or where appropriate, a letter from the parents/ guardians.</p>
 </ul>
 <p></p>
 <h4><strong>2.&nbsp;&nbsp;&nbsp;&nbsp; APPEARANCE AND UNIFORM</strong></h4>
-<p>2.1 The school uniform is to be worn at all times whenever a student comes
+<p>The school uniform is to be worn at all times whenever a student comes
 to school and at all school related activities including those held during
 the school vacation or outside the school premises. <strong>Students are to wear the prescribed school uniform and modification to the uniform is not allowed</strong>.</p>
-<p>2.2 Uniform Prescription</p>
+<p><strong>Uniform Prescription</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Name tags are to be sewn on the left of their school uniform below the
@@ -46,7 +47,8 @@ school badge, and above the school badge for PE t-shirt.</p>
 knee cap. Their belts are to be worn within the belt hoops.</p>
 </li>
 </ul>
-<p>2.3 Shoes and Socks</p>
+<p><strong>Shoes and Socks</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Only white canvas shoes are allowed.</p>
@@ -55,13 +57,15 @@ knee cap. Their belts are to be worn within the belt hoops.</p>
 <p>Only RVPS socks are to be worn at all times.</p>
 </li>
 </ul>
-<p>2.4 School Tie</p>
+<p><strong>School Tie</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>School tie are to be worn on Monday, General Assembly day.</p>
 </li>
 </ul>
-<p>2.5 PE Attire</p>
+<p><strong>PE Attire</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Students are allowed to report to school in their PE attire on days which
@@ -72,7 +76,8 @@ they have PE lessons. PE t-shirts are to be tucked in at all times.</p>
 the whole day.</p>
 </li>
 </ul>
-<p>2.6 Jewellery</p>
+<p><strong>Jewellery</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>No ornaments or jewellery are allowed.</p>
@@ -84,7 +89,8 @@ the whole day.</p>
 <p>For girls, only a set of ear hole piercing is allowed.</p>
 </li>
 </ul>
-<p>2.7 Hair and Nails</p>
+<p><strong>Hair and Nails</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>No fanciful hair cut is allowed.</p>
