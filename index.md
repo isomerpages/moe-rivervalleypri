@@ -15,8 +15,5 @@ sections:
         - title: Waitlist Application Form
           description: Click here to apply
           url: http://go.gov.sg/2024rvwaitlist
-        - title: Sexuality Education 2025
-          description: Click here to read more
-          url: /rv-curriculum/cce/sexuality-education-2025/
       variant: image
 ---
