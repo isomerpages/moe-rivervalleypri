@@ -193,45 +193,45 @@ description: ""
     <tr>
       <td>Confidence</td>
       <td>
-        Ms Nadia Erlyna<br>
-        <a href="mailto:nadia_erlyna_fauzilan@schools.gov.sg">nadia_erlyna_fauzilan@schools.gov.sg</a>
+        Ms Kay Ee<br>
+        <a href="mailto:kay_ee_ee@schools.gov.sg">kay_ee_ee@schools.gov.sg</a>
       </td>
       <td>
-        Ms Chen Chueh Ching<br>
-        <a href="mailto:chen_chueh_ching@schools.gov.sg">chen_chueh_ching@schools.gov.sg</a>
+        Ms Lynn Teo<br>
+        <a href="mailto:teo_mei_ling_lynn@schools.gov.sg">teo_mei_ling_lynn@schools.gov.sg</a>
       </td>
     </tr>
     <tr>
       <td>Diligence</td>
       <td>
-        Mr Spencer Khoo<br>
-        <a href="mailto:Spencer_Khoo@schools.gov.sg">Spencer_Khoo@schools.gov.sg</a>
+        Mrs Pearlin Ng<br>
+        <a href="mailto:lim_siew_chuan_pearlin@schools.gov.sg">lim_siew_chuan_pearlin@schools.gov.sg</a>
       </td>
       <td>
-        Mdm Chang Te Fang<br>
-        <a href="mailto:chang_te_fang@schools.gov.sg">chang_te_fang@schools.gov.sg</a>
+        Mdm Huang Xin<br>
+        <a href="mailto:huang_xin@schools.gov.sg">huang_xin@schools.gov.sg</a>
       </td>
     </tr>
     <tr>
       <td>Endurance</td>
       <td>
-        Ms Lye Fong Ying<br>
-        <a href="mailto:lye_fong_ying@schools.gov.sg">lye_fong_ying@schools.gov.sg</a>
+        Mr Iskandar<br>
+        <a href="mailto:iskandar_dzulkarnain_b_isnin@schools.gov.sg">iskandar_dzulkarnain_b_isnin@schools.gov.sg</a>
       </td>
       <td>
-        Ms Sabrina Choo<br>
-        <a href="mailto:sabrina_choo_pei_hoon_a@schools.gov.sg">sabrina_choo_pei_hoon_a@schools.gov.sg</a>
+        Ms Tay Ruiqi<br>
+        <a href="mailto:tay_ruiqi@schools.gov.sg">tay_ruiqi@schools.gov.sg</a>
       </td>
     </tr>
     <tr>
       <td>Friendship</td>
       <td>
-        Ms Desirene Teng<br>
-        <a href="mailto:teng_siew_hong@schools.gov.sg">teng_siew_hong@schools.gov.sg</a>
+        Mrs Ho-Tan Lay Yen<br>
+        <a href="mailto:tan_lay_yen_a@schools.gov.sg">tan_lay_yen_a@schools.gov.sg</a>
       </td>
       <td>
-        Mdm Rajes<br>
-        <a href="mailto:lakshmanan_rajeswari@schools.gov.sg">lakshmanan_rajeswari@schools.gov.sg</a>
+        Mrs Chua Chin Ling<br>
+        <a href="mailto:lau_chin_ling@schools.gov.sg">lau_chin_ling@schools.gov.sg</a>
       </td>
     </tr>
     <tr>
