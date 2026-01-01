@@ -326,12 +326,12 @@ description: ""
     <tr>
       <td>Honesty</td>
       <td>
-        Mdm Huang Xin<br>
-        <a href="mailto:huang_xin@schools.gov.sg">huang_xin@schools.gov.sg</a>
+        Ms Jada Woo<br>
+        <a href="mailto:jada_woo@schools.gov.sg">jada_woo@schools.gov.sg</a>
       </td>
       <td>
-        Mrs Serene Lee<br>
-        <a href="mailto:neo_xiao_ling_serene@schools.gov.sg">neo_xiao_ling_serene@schools.gov.sg</a>
+        Mdm Wong Ching Yee<br>
+        <a href="mailto:wong_ching_yee@schools.gov.sg">wong_ching_yee@schools.gov.sg</a>
       </td>
       <td></td>
     </tr>
