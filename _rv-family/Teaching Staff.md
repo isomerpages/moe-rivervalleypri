@@ -141,10 +141,9 @@ description: ""
         <a href="mailto:ng_min_yu_tyler@schools.gov.sg">ng_min_yu_tyler@schools.gov.sg</a>
       </td>
       <td>
-        Mr Mohamed<br>
-        <a href="mailto:mohamed_saddiq_b_mohamed@schools.gov.sg">mohamed_saddiq_b_mohamed@schools.gov.sg</a>
+        Ms Sofia<br>
+        <a href="mailto:sofia_samri@schools.gov.sg">sofia_samri@schools.gov.sg</a>
       </td>
-      <td></td>
     </tr>
     <tr>
       <td>Graciousness</td>
