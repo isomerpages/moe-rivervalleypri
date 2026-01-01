@@ -270,14 +270,13 @@ description: ""
     <tr>
       <td>Confidence</td>
       <td>
-        Mdm Janaki<br>
-        <a href="mailto:janaki_retanam@schools.gov.sg">janaki_retanam@schools.gov.sg</a>
+        Ms Nadia<br>
+        <a href="mailto:nadia_erlyna_fauzilan@schools.gov.sg">nadia_erlyna_fauzilan@schools.gov.sg</a>
       </td>
       <td>
-        Ms Loh Wei Ting<br>
-        <a href="mailto:loh_Wei_Ting_A@schools.gov.sg">loh_Wei_Ting_A@schools.gov.sg</a>
+        Ms Xu Lifen<br>
+        <a href="mailto:xu_lifen@schools.gov.sg">xu_lifen@schools.gov.sg</a>
       </td>
-      <td></td>
     </tr>
     <tr>
       <td>Diligence</td>
