@@ -248,12 +248,12 @@ description: ""
     <tr>
       <td>Honesty</td>
       <td>
-        Ms Jada Woo<br>
-        <a href="mailto:jada_woo@schools.gov.sg">jada_woo@schools.gov.sg</a>
+        Mr Chopra<br>
+        <a href="mailto:pavanjeev_singh_chopra@schools.gov.sg">pavanjeev_singh_chopra@schools.gov.sg</a>
       </td>
       <td>
-        Mr Fabian Koh<br>
-        <a href="mailto:koh_zong_cheng_fabian@schools.gov.sg">koh_zong_cheng_fabian@schools.gov.sg</a>
+        Mdm Rajes<br>
+        <a href="mailto:lakshmanan_rajeswari@schools.gov.sg">lakshmanan_rajeswari@schools.gov.sg</a>
       </td>
     </tr>
   </tbody>
