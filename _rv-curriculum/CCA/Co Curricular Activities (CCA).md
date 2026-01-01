@@ -128,8 +128,8 @@ Similar to the LEAPS Approach used by the secondary schools, we adopt it into de
     </tr>
     <tr>
       <td style="border: 1px solid black; padding: 10px;">Scouts (Boys only)</td>
-      <td style="border: 1px solid black; padding: 10px;">Ms Roshane</td>
-      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:roshane_rajandran@schools.gov.sg">roshane_rajandran@schools.gov.sg</a></td>
+      <td style="border: 1px solid black; padding: 10px;">Ms Tan Jia Ying</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:tan_jia_ying_a@schools.gov.sg">tan_jia_ying_a@schools.gov.sg</a></td>
     </tr>
   </tbody>
 </table>
