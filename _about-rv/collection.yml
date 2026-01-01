@@ -2,6 +2,7 @@ collections:
   about-rv:
     output: true
     order:
+      - Acceptable Use Policy for use of EdTech Resources.md
       - About RV.md
       - School Crest.md
       - Vision, Mission & Values.md
