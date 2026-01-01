@@ -44,8 +44,8 @@ learning experience with the class.</p>
     </tr>
     <tr>
       <td style="border: none; padding: 10px; text-align: center;">Outdoor Education 1</td>
+      <td style="border: none; padding: 10px; text-align: center;">Sports &amp; Games</td>
       <td style="border: none; padding: 10px; text-align: center;">Performing Arts: Drama</td>
-      <td style="border: none; padding: 10px; text-align: center;">Sports and Games</td>
     </tr>
     <tr>
       <th style="border: none; padding: 10px; background-color: #e0f0ff; text-align: center;" colspan="3">
