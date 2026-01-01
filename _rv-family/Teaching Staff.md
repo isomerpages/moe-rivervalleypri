@@ -15,49 +15,42 @@ description: ""
     <tr>
       <td>Confidence</td>
       <td>
-        Mdm Jolene Seah<br>
-        <a href="mailto:seah_shi_hui_jolene@schools.gov.sg">seah_shi_hui_jolene@schools.gov.sg</a>
+        Ms Jamie Chin<br>
+        <a href="mailto:chin_mee_yen@schools.gov.sg">chin_mee_yen@schools.gov.sg</a>
       </td>
       <td>
-        Ms Aisyah<br>
-        <a href="mailto:irniaisyah_mohamed_ambri@schools.gov.sg">irniaisyah_mohamed_ambri@schools.gov.sg</a>
-      </td>
-      <td>
-        Ms Lau<br>
-        <a href="mailto:lau_chet_ying@schools.gov.sg">lau_chet_ying@schools.gov.sg</a>
+        Mr Saddiq<br>
+        <a href="mailto:mohamed_saddiq_b_mohamed@schools.gov.sg">mohamed_saddiq_b_mohamed@schools.gov.sg</a>
       </td>
     </tr>
     <tr>
       <td>Diligence</td>
       <td>
-        Mr Lao Li<br>
-        <a href="mailto:lao_li@schools.gov.sg">lao_li@schools.gov.sg</a>
-      </td>
-      <td>
-        Ms Bernadette Kor<br>
-        <a href="mailto:bernadette_kor_hong_yin@schools.gov.sg">bernadette_kor_hong_yin@schools.gov.sg</a>
+        Ms Tan Yee Li<br>
+        <a href="mailto:tan_yee_li@schools.gov.sg">tan_yee_li@schools.gov.sg</a>
       </td>
       <td></td>
     </tr>
     <tr>
       <td>Endurance</td>
       <td>
-        Mrs Rajan<br>
-        <a href="mailto:kasinathan_vadivaloo_kavitha@schools.gov.sg">kasinathan_vadivaloo_kavitha@schools.gov.sg</a>
-      </td><td>
-        Ms Hong Yilin<br>
-        <a href="mailto:hong_yilin@gov.sg">hong_yilin@schools.gov.sg</a>
+        Mrs Serene Lee<br>
+        <a href="mailto:neo_xiao_ling_serene@schools.gov.sg">neo_xiao_ling_serene@schools.gov.sg</a>
+      </td>
+			<td>
+        Ms Joy Ang<br>
+        <a href="mailto:ang_soo_en_joy@schools.gov.sg">ang_soo_en_joy@schools.gov.sg</a>
       </td>
     </tr>
     <tr>
       <td>Friendship</td>
       <td>
-        Mr Tyler Ng<br>
-        <a href="mailto:ng_min_yu_tyler@schools.gov.sg">ng_min_yu_tyler@schools.gov.sg</a>
+        Mrs Priscilla Yip<br>
+        <a href="mailto:goh_shu_yi_priscilla@schools.gov.sg">goh_shu_yi_priscilla@schools.gov.sg</a>
       </td>
       <td>
-        Mdm Ler Shiaw Han<br>
-        <a href="mailto:Ler_Shiaw_Han@schools.gov.sg">Ler_Shiaw_Han@schools.gov.sg</a>
+        Ms Sharis How<br>
+        <a href="mailto:How_Yi_Yun@schools.gov.sg">How_Yi_Yun@schools.gov.sg</a>
       </td>
       <td></td>
     </tr>
