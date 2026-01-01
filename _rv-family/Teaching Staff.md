@@ -304,25 +304,24 @@ description: ""
     <tr>
       <td>Friendship</td>
       <td>
-        Mrs Ho-Tan Lay Yen<br>
-        <a href="mailto:tan_lay_yen_a@schools.gov.sg">tan_lay_yen_a@schools.gov.sg</a>
+        	Ms Desirene Teng<br>
+        <a href="mailto:teng_siew_hong@schools.gov.sg">teng_siew_hong@schools.gov.sg</a>
       </td>
       <td>
-        Mdm Mary Chum<br>
-        <a href="mailto:chum_siew_yun_mary@schools.gov.sg">chum_siew_yun_mary@schools.gov.sg</a>
+        Mdm Tan Xiao Jing<br>
+        <a href="mailto:tan_xiao_jing@schools.gov.sg">tan_xiao_jing@schools.gov.sg</a>
       </td>
     </tr>
     <tr>
       <td>Graciousness</td>
       <td>
-        Ms Evelyn Ng<br>
-        <a href="mailto:ng_geok_neo_evelyn@schools.gov.sg">ng_geok_neo_evelyn@schools.gov.sg</a>
+        Mrs Gladys Chung<br>
+        <a href="mailto:ng_wai_heng_gladys@schools.gov.sg">ng_wai_heng_gladys@schools.gov.sg</a>
       </td>
       <td>
-        Mdm Meenakumari<br>
-            <a href="mailto:Muthurajamurthy_Meenakumari@schools.gov.sg">Muthurajamurthy_Meenakumari@schools.gov.sg</a>
+        Mr Wan Jiajun<br>
+            <a href="mailto:wan_jiajun@schools.gov.sg">wan_jiajun@schools.gov.sg</a>
       </td>
-      <td></td>
     </tr>
     <tr>
       <td>Honesty</td>
