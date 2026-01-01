@@ -7,44 +7,36 @@ variant: tiptap
 <h3><strong>General Information</strong></h3>
 <p></p>
 <h4><strong>1.&nbsp;&nbsp;&nbsp;&nbsp; ATTENDANCE AND PUNCTUALITY</strong></h4>
-<p>1.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Attendance in school is compulsory.
-Attendance will be taken by the first period of the day.</p>
-<p>1.2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are required to be with
-their classes no later than 7.30 a.m.</p>
-<p>1.3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students who are not with their
-classes when flag-raising ceremony commences will be considered late.</p>
-<p>1.4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students who are Singapore citizens
-must sing the National Anthem and take the Pledge. Students will take the
-Pledge with the right fist placed over the heart.</p>
-<p>1.5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Absence from school must be accompanied
-by a medical certificate and/or where appropriate, a letter from the parents.</p>
+<p>1.1. Attendance in school is compulsory. Attendance will be taken by the
+first period of the day.</p>
+<p>1.2. Students are required to be with their classes <strong>no later than 7.30 a.m</strong>.</p>
+<p>1.3. Students who are not with their classes when flag-raising ceremony
+commences <strong>will be considered late</strong>.</p>
+<p>1.4.	<strong>Students who are Singapore Citizens must sing the National Anthem and take the pledge.  Students will take the pledge with the right fist placed over the heart.</strong>
+</p>
+<p>1.5. Absence from school must be accompanied by a medical certificate
+from a doctor and/or where appropriate, a letter from the parents/ guardians.</p>
+<p></p>
 <p>&nbsp;</p>
 <h4><strong>2.&nbsp;&nbsp;&nbsp;&nbsp; APPEARANCE AND UNIFORM</strong></h4>
-<p>2.1&nbsp;&nbsp; The school uniform is to be worn whenever a student comes
+<p>2.1 The school uniform is to be worn at all times whenever a student comes
 to school and at all school related activities including those held during
-the school vacation or outside the school premises.&nbsp; Students are
-to wear the prescribed school uniform and modification to the uniform is
-not allowed.</p>
-<p><strong>2.2&nbsp;&nbsp; Uniform Prescription</strong>
-</p>
+the school vacation or outside the school premises. <strong>Students are to wear the prescribed school uniform and modification to the uniform is not allowed</strong>.</p>
+<p>2.2 Uniform Prescription</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Name tags are to be sewn on the left of their school uniform below the
-school badge, and above the school badge for PE T-shirt.</p>
+school badge, and above the school badge for PE t-shirt.</p>
 </li>
 <li>
 <p>For boys, their shirts are to be tucked in at all times.</p>
 </li>
 <li>
 <p>For girls, their pinafores are to be at most 3 fingers length from the
-knee cap.</p>
-</li>
-<li>
-<p>For girls, their belts are to be worn within the belt hoops.</p>
+knee cap. Their belts are to be worn within the belt hoops.</p>
 </li>
 </ul>
-<p><strong>2.3&nbsp;&nbsp; Shoes and Socks</strong>
-</p>
+<p>2.3 Shoes and Socks</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Only white canvas shoes are allowed.</p>
@@ -53,27 +45,24 @@ knee cap.</p>
 <p>Only RVPS socks are to be worn at all times.</p>
 </li>
 </ul>
-<p><strong>2.4&nbsp;&nbsp; School Tie</strong>
-</p>
+<p>2.4 School Tie</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>School ties are to be worn on Monday, General Assembly day.</p>
+<p>School tie are to be worn on Monday, General Assembly day.</p>
 </li>
 </ul>
-<p><strong>2.5&nbsp;&nbsp; PE Attire</strong>
-</p>
+<p>2.5 PE Attire</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Students are allowed to report to school in their PE attire on days which
 they have PE lessons. PE t-shirts are to be tucked in at all times.</p>
 </li>
 <li>
-<p>On CCA days (Fridays), P3 to P6 students may wear their CCA T-shirt for
+<p>On CCA days (Friday), P3 to P6 students may wear their CCA t-shirt for
 the whole day.</p>
 </li>
 </ul>
-<p><strong>2.6&nbsp;&nbsp; Jewellery</strong>
-</p>
+<p>2.6 Jewellery</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>No ornaments or jewellery are allowed.</p>
@@ -85,17 +74,15 @@ the whole day.</p>
 <p>For girls, only a set of ear hole piercing is allowed.</p>
 </li>
 </ul>
-<p><strong>2.7&nbsp;&nbsp; Hair</strong>
-</p>
+<p>2.7 Hair and Nails</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>No fanciful hair cut is allowed.</p>
 </li>
 <li>
 <p>For boys, hair must be cut short and neat with slope at the back and not
-touching the collar.&nbsp; The hair at both sides should not touch the
-ears.&nbsp; Long side-burns are not allowed.&nbsp; Hair must not be gelled
-or waxed.</p>
+touching the collar. The hair at both sides should not touch the ears.
+Long side-burns are not allowed. Hair must not be gelled or waxed.</p>
 </li>
 <li>
 <p>All boys must be neat in appearance, clean shaven and no facial hair is
@@ -103,11 +90,15 @@ allowed.</p>
 </li>
 <li>
 <p>For girls, if they have hair touching the second line of the collar, it
-must be tied up neatly only with black or navy-blue elastic band.&nbsp;
-Loose hair or fringe must be neatly pinned up.&nbsp; Fanciful haircuts
-are not allowed.&nbsp; Hair must not be tinted, dyed or gelled.</p>
+must be tied up neatly only with black or navy-blue elastic band. Loose
+hair or fringe must be neatly pinned up. Fanciful haircuts are not allowed.
+Hair must not be tinted, dyed or gelled.</p>
+</li>
+<li>
+<p>Nails must be kept short, clean and without nail polish.</p>
 </li>
 </ul>
+<p></p>
 <p>&nbsp;</p>
 <h4><strong>3.&nbsp;&nbsp;&nbsp;&nbsp; CLASSROOM CONDUCT</strong></h4>
 <p>Every class will be assessed based on the RV Class T.E.A.M. Awards.</p>
