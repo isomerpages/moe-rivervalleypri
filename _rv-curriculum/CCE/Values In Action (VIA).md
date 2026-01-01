@@ -62,12 +62,12 @@ Through this project, students learnt the importance of gratitude and empathy of
     <tr>
       <td style="border: none; padding: 10px; vertical-align: top;">
         <div style="text-align: center;">
-          <img style="width: 100%; max-width: 400px; height: auto; border-radius: 6px;" alt="" src="/images/2025 CCE/VIA/Level_VIA_2.jpg">
+          <img style="width: 100%; max-width: 400px; height: auto; border-radius: 6px;" alt="" src="/images/2025 CCE/VIA/level_via_5_ntuc.jpg">
         </div>
       </td>
       <td style="border: none; padding: 10px; vertical-align: top;">
         <div style="text-align: center;">
-          <img style="width: 100%; max-width: 400px; height: auto; border-radius: 6px;" alt="" src="/images/2025 CCE/VIA/Level_VIA_1.jpg">
+          <img style="width: 100%; max-width: 400px; height: auto; border-radius: 6px;" alt="" src="/images/2025 CCE/VIA/Level_VIA_6___CAAC.jpg">
         </div>
       </td>
     </tr>
