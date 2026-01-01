@@ -293,14 +293,13 @@ description: ""
     <tr>
       <td>Endurance</td>
       <td>
-        Ms Kay Ee Ee<br>
-        <a href="mailto:kay_ee_ee@schools.gov.sg">kay_ee_ee@schools.gov.sg</a>
+        Ms Lye Fong Ying<br>
+        <a href="mailto:lye_fong_ying@schools.gov.sg">lye_fong_ying@schools.gov.sg</a>
       </td>
       <td>
-        Mrs Jeanie Koh<br>
-        <a href="mailto:Jeanie_Quek_Jun_Li@schools.gov.sg">Jeanie_Quek_Jun_Li@schools.gov.sg</a>
+        Ms Eunice Chua<br>
+        <a href="mailto:Eunice_Chua_Hwee_Kee@schools.gov.sg">Eunice_Chua_Hwee_Kee@schools.gov.sg</a>
       </td>
-      <td></td>
     </tr>
     <tr>
       <td>Friendship</td>
