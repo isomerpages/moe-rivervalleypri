@@ -172,7 +172,7 @@ nadia_erlyna_fauzilan@schools.gov.sg</a></td>
     </tr>
 		    <tr>
       <td style="border: 1px solid black; padding: 10px;">Senior Teacher (ML)</td>
-      <td style="border: 1px solid black; padding: 10px;">Mr Saddiq</td>
+      <td style="border: 1px solid black; padding: 10px;">Mr Mohamed</td>
       <td style="border: 1px solid black; padding: 10px;"><a href="mailto:mohamed_saddiq_b_mohamed@schools.gov.sg">mohamed_saddiq_b_mohamed@schools.gov.sg</a></td>
     </tr>
   </tbody>
