@@ -103,27 +103,23 @@ description: ""
     <tr>
       <td>Confidence</td>
       <td>
-        Ms Jamie Chin<br>
-        <a href="mailto:chin_mee_yen@schools.gov.sg">chin_mee_yen@schools.gov.sg</a>
+        Mdm Jolene Seah<br>
+        <a href="mailto:seah_shi_hui_jolene@schools.gov.sg">seah_shi_hui_jolene@schools.gov.sg</a>
       </td>
       <td>
-        Mr Wan Jiajun<br>
-        <a href="mailto:wan_jiajun@schools.gov.sg">wan_jiajun@schools.gov.sg</a>
-      </td>
-			   <td>
-        Ms Tsai<br>
-        <a href="mailto:tsai_menghsiu@schools.gov.sg">tsai_menghsiu@schools.gov.sg</a>
+        Ms Aisyah<br>
+        <a href="mailto:irniaisyah_mohamed_ambri@schools.gov.sg">irniaisyah_mohamed_ambri@schools.gov.sg</a>
       </td>
     </tr>
     <tr>
       <td>Diligence</td>
       <td>
-        Ms Roshane<br>
-        <a href="mailto:roshane_rajandran@schools.gov.sg">roshane_rajandran@schools.gov.sg</a>
+        Ms Andrea Yap<br>
+        <a href="mailto:Yap_Ying_Hui_Andrea@schools.gov.sg">Yap_Ying_Hui_Andrea@schools.gov.sg</a>
       </td>
       <td>
-        Ms Xu Lifen<br>
-        <a href="mailto:xu_lifen@schools.gov.sg">xu_lifen@schools.gov.sg</a>
+        Mr Lao Li<br>
+        <a href="mailto:lao_li@schools.gov.sg">lao_li@schools.gov.sg</a>
       </td>
       <td></td>
     </tr>
