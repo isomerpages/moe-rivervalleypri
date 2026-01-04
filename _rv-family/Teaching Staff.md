@@ -193,7 +193,7 @@ description: ""
     <tr>
       <td>Confidence</td>
       <td>
-        Ms Kay Ee<br>
+        Ms Kay Ee Ee<br>
         <a href="mailto:kay_ee_ee@schools.gov.sg">kay_ee_ee@schools.gov.sg</a>
       </td>
       <td>
