@@ -37,7 +37,7 @@ variant: markdown
         <p><strong>Website:</strong> <a href="https://www.pacificbookstores.com/">https://www.pacificbookstores.com/</a></p>
         <p><strong>Tel:</strong> 6464 0111 (Customer Service Hotline)</p>
         <p>Available from 9.00am to 5.30pm, Monday to Friday</p>
-        <p><strong>Operating Hours:</strong> 8.15am - 4.15pm</p>
+        <p><strong>Operating Hours:</strong> 9.00am - 3.00pm</p>
         <p>Closed on Saturday, Sunday and Public Holidays.</p>
       </td>
     </tr>
