@@ -29,7 +29,10 @@ description: ""
         Ms Tan Yee Li<br>
         <a href="mailto:tan_yee_li@schools.gov.sg">tan_yee_li@schools.gov.sg</a>
       </td>
-      <td></td>
+  	<td>
+        Ms Audrey Low<br>
+        <a href="mailto:low_yee_ching@schools.gov.sg">low_yee_ching@schools.gov.sg</a>
+      </td>
     </tr>
     <tr>
       <td>Endurance</td>
