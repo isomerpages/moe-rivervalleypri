@@ -17,6 +17,6 @@ sections:
           url: http://go.gov.sg/2024rvwaitlist
         - title: MOE Sexuality Education In Schools
           description: Click here to find out more
-          url: ""
+          url: /rv-curriculum/cce/sexuality-education-2026
       variant: image
 ---
