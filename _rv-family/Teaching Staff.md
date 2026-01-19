@@ -31,7 +31,7 @@ description: ""
       </td>
   	<td>
         Ms Sabrina Choo<br>
-        <a href="mailto:Sabrina_Choo_Pei_Hoon_A@schools.gov.sg">Sabrina_Choo_Pei_Hoon_A</a>
+        <a href="mailto:Sabrina_Choo_Pei_Hoon_A@schools.gov.sg">Sabrina_Choo_Pei_Hoon_A@schools.gov.sg</a>
       </td>
     </tr>
     <tr>
