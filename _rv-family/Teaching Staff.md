@@ -30,8 +30,8 @@ description: ""
         <a href="mailto:tan_yee_li@schools.gov.sg">tan_yee_li@schools.gov.sg</a>
       </td>
   	<td>
-        Ms Audrey Low<br>
-        <a href="mailto:low_yee_ching@schools.gov.sg">low_yee_ching@schools.gov.sg</a>
+        Ms Sabrina Choo<br>
+        <a href="mailto:Sabrina_Choo_Pei_Hoon_A@schools.gov.sg">Sabrina_Choo_Pei_Hoon_A@schools.gov.sg</a>
       </td>
     </tr>
     <tr>
