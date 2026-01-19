@@ -1,6 +1,6 @@
 ---
-title: Sexuality Education 2025
-permalink: /rv-curriculum/cce/sexuality-education-2025/
+title: Sexuality Education 2026
+permalink: /rv-curriculum/cce/sexuality-education-2026/
 description: ""
 third_nav_title: CCE
 variant: markdown
