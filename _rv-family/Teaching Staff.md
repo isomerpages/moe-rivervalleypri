@@ -154,6 +154,10 @@ description: ""
         Mr Noah Lim<br>
         <a href="mailto:lim_juin_meng@schools.gov.sg">lim_juin_meng@schools.gov.sg</a>
       </td>
+			<td>
+        Ms Karen Chin<br>
+        <a href="mailto:Karen_Chin_Kar_Wen@schools.gov.sg">karen_chin_kar_wen@schools.gov.sg</a>
+      </td>
       <td>
         Mdm Heng Soo Inn<br>
         <a href="mailto:heng_soo_inn@schools.gov.sg">heng_soo_inn@schools.gov.sg</a>
@@ -224,6 +228,10 @@ description: ""
       <td>
         Ms Tay Ruiqi<br>
         <a href="mailto:tay_ruiqi@schools.gov.sg">tay_ruiqi@schools.gov.sg</a>
+      </td>
+			<td>
+        Mdm Germaine Choo<br>
+        <a href="mailto:choo_wai_sum@schools.gov.sg">choo_wai_sum@schools.gov.sg</a>
       </td>
     </tr>
     <tr>
@@ -314,6 +322,10 @@ description: ""
         Mdm Tan Xiao Jing<br>
         <a href="mailto:tan_xiao_jing@schools.gov.sg">tan_xiao_jing@schools.gov.sg</a>
       </td>
+			<td>
+        Mdm Lau Chet Ying<br>
+        <a href="mailto:Lau_Chet_Ying@schools.gov.sg">Lau_Chet_Ying@schools.gov.sg</a>
+      </td>
     </tr>
     <tr>
       <td>Graciousness</td>
@@ -324,6 +336,10 @@ description: ""
       <td>
         Mr Wan Jiajun<br>
             <a href="mailto:wan_jiajun@schools.gov.sg">wan_jiajun@schools.gov.sg</a>
+      </td>
+			  <td>
+        Mdm Mary Chum<br>
+            <a href="mailto:Chum_Siew_Yun_Mary@schools.gov.sg">Chum_Siew_Yun_Mary@schools.gov.sg</a>
       </td>
     </tr>
     <tr>
