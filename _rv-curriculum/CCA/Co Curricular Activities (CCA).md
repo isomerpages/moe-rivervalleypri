@@ -67,7 +67,7 @@ Similar to the LEAPS Approach used by the secondary schools, we adopt it into de
     <tr>
       <td style="border: 1px solid black; padding: 10px;">Dance Ensemble</td>
       <td style="border: 1px solid black; padding: 10px;">Mrs Chua Chin Ling</td>
-      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:lau_chin_ling@schools.gov.sg">slau_chin_ling@schools.gov.sg</a></td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:lau_chin_ling@schools.gov.sg">lau_chin_ling@schools.gov.sg</a></td>
     </tr>
     <tr>
       <td style="border: 1px solid black; padding: 10px;">Drama</td>
