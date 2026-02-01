@@ -19,6 +19,10 @@ develop cross-cultural skills.</p>
 <p>Below are some events that the Dance Ensemble took part in:</p>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Dance/6.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Dance/1.png">
 </div>
 <p></p>
