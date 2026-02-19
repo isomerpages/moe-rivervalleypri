@@ -50,6 +50,11 @@ variant: markdown
       <td style="border: 1px solid black; padding: 10px;">Ms Patricia Lee</td>
       <td style="border: 1px solid black; padding: 10px;"><a href="mailto:Patricia_Lee_Ru_Ying@schools.gov.sg">patricia_lee_ru_ying@schools.gov.sg</a></td>
     </tr>
+		    <tr>
+      <td style="border: 1px solid black; padding: 10px;">Management Support Officer</td>
+      <td style="border: 1px solid black; padding: 10px;">Ms Siti Raffinah </td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:Siti_Raffinah_Azmi@schools.gov.sg">Siti_Raffinah_Azmi@schools.gov.sg</a></td>
+    </tr>
     <tr>
       <td style="border: 1px solid black; padding: 10px;">Cluster ICT Manager</td>
       <td style="border: 1px solid black; padding: 10px;">Mr Hasif</td>
