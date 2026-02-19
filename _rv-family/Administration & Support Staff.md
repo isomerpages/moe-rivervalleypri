@@ -37,7 +37,7 @@ variant: markdown
     </tr>
 		    <tr>
       <td style="border: 1px solid black; padding: 10px;">Administrative Executive</td>
-      <td style="border: 1px solid black; padding: 10px;">Ms Yeo</td>
+      <td style="border: 1px solid black; padding: 10px;">Ms Nikki Yeo</td>
       <td style="border: 1px solid black; padding: 10px;"><a href="mailto:nikki_yeo@schools.gov.sg">nikki_yeo@schools.gov.sg</a></td>
     </tr>
     <tr>
