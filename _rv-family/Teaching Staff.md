@@ -38,7 +38,7 @@ description: ""
       <td>Endurance</td>
       <td>
         Mrs Serene Lee<br>
-        <a href="mailto:neo_xiao_ling_serene@schools.gov.sg">neo_xiao_ling_serene@schools.gov.sg</a>
+        <a href="mailto:neo_xiao_ling_serene_a@schools.gov.sg">neo_xiao_ling_serene_a@schools.gov.sg</a>
       </td>
 			<td>
         Ms Joy Ang<br>
