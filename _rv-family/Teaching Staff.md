@@ -52,7 +52,7 @@ description: ""
         <a href="mailto:goh_shu_yi_priscilla@schools.gov.sg">goh_shu_yi_priscilla@schools.gov.sg</a>
       </td>
       <td>
-        Ms Sharis How<br>
+        Mrs Sharis Han<br>
         <a href="mailto:How_Yi_Yun@schools.gov.sg">How_Yi_Yun@schools.gov.sg</a>
       </td>
       <td></td>
