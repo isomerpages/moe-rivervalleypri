@@ -135,14 +135,12 @@ description: ""
 			    <td>
         Ms Morrie Tan<br>
         <a href="mailto:morrie_tan_shu_zhen_a@schools.gov.sg">morrie_tan_shu_zhen_a@schools.gov.sg</a>
-      </td>
-			      
+      </td>  
 			    <td>
         Ms Yap Lay Hong<br>
         <a href="mailto:Yap_Lay_Hong_B@schools.gov.sg">Yap_Lay_Hong_B@schools.gov.sg</a>
       </td>
     </tr>
-    
     <tr>
       <td>Friendship</td>
       <td>
