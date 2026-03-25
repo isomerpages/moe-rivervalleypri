@@ -30,8 +30,8 @@ description: ""
         <a href="mailto:tan_yee_li@schools.gov.sg">tan_yee_li@schools.gov.sg</a>
       </td>
   	<td>
-        Ms Sabrina Choo<br>
-        <a href="mailto:Sabrina_Choo_Pei_Hoon_A@schools.gov.sg">Sabrina_Choo_Pei_Hoon_A@schools.gov.sg</a>
+        Ms Desiree Seng<br>
+        <a href="mailto:desiree_seng_boon_huang@schools.gov.sg">desiree_seng_boon_huang@schools.gov.sg</a>
       </td>
     </tr>
     <tr>
@@ -133,8 +133,12 @@ description: ""
         <a href="mailto:kasinathan_vadivaloo_kavitha@schools.gov.sg">kasinathan_vadivaloo_kavitha@schools.gov.sg</a>
       </td>
 			    <td>
-        Ms Hong Yilin<br>
-        <a href="mailto:Hong_Yilin@schools.gov.sg">Hong_Yilin@schools.gov.sg</a>
+        Ms Morrie Tan<br>
+        <a href="mailto:morrie_tan_shu_zhen_a@schools.gov.sg">morrie_tan_shu_zhen_a@schools.gov.sg</a>
+      </td>  
+			    <td>
+        Ms Yap Lay Hong<br>
+        <a href="mailto:Yap_Lay_Hong_B@schools.gov.sg">Yap_Lay_Hong_B@schools.gov.sg</a>
       </td>
     </tr>
     <tr>
