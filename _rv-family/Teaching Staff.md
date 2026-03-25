@@ -30,7 +30,7 @@ description: ""
         <a href="mailto:tan_yee_li@schools.gov.sg">tan_yee_li@schools.gov.sg</a>
       </td>
   	<td>
-        Ms Desiree<br>
+        Ms Desiree Seng<br>
         <a href="mailto:desiree_seng_boon_huang@schools.gov.sg">desiree_seng_boon_huang@schools.gov.sg</a>
       </td>
     </tr>
@@ -134,9 +134,15 @@ description: ""
       </td>
 			    <td>
         Ms Morrie Tan<br>
-        <a href="mailto:morrie_tan_shu_zhen_a@moe.edu.sg">morrie_tan_shu_zhen_a@moe.edu.sg</a>
+        <a href="mailto:morrie_tan_shu_zhen_a@schools.gov.sg">morrie_tan_shu_zhen_a@schools.gov.sg</a>
+      </td>
+			      
+			    <td>
+        Ms Yap Lay Hong<br>
+        <a href="mailto:Yap_Lay_Hong_B@schools.gov.sg">Yap_Lay_Hong_B@schools.gov.sg</a>
       </td>
     </tr>
+    
     <tr>
       <td>Friendship</td>
       <td>
