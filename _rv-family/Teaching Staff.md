@@ -133,7 +133,7 @@ description: ""
         <a href="mailto:kasinathan_vadivaloo_kavitha@schools.gov.sg">kasinathan_vadivaloo_kavitha@schools.gov.sg</a>
       </td>
 			    <td>
-        Ms Morrie Tan<br>
+        Mrs Morrie Chua<br>
         <a href="mailto:morrie_tan_shu_zhen_a@schools.gov.sg">morrie_tan_shu_zhen_a@schools.gov.sg</a>
       </td>  
 			    <td>
