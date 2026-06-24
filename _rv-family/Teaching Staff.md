@@ -215,8 +215,8 @@ description: ""
     <tr>
       <td>Diligence</td>
       <td>
-        Mrs Pearlin Ng<br>
-        <a href="mailto:lim_siew_chuan_pearlin@schools.gov.sg">lim_siew_chuan_pearlin@schools.gov.sg</a>
+        Mdm Rosalind Chua<br>
+        <a href="mailto:Rosalind_Chua_Suan_Cheng_B@schools.gov.sg">Rosalind_Chua_Suan_Cheng_B@schools.gov.sg</a>
       </td>
       <td>
         Mdm Huang Xin<br>
