@@ -252,8 +252,8 @@ description: ""
     <tr>
       <td>Graciousness</td>
       <td>
-        Mdm Chua Li Joo<br>
-        <a href="mailto:Jeanie_Quek_Jun_Li@schools.gov.sg">Jeanie_Quek_Jun_Li@schools.gov.sg</a>
+        Ms Julia Chua<br>
+        <a href="mailto:CHUA_LI_JOO@schools.gov.sg">chua_li_joo@schools.gov.sg</a>
       </td>
       <td>
         Mrs Kannan<br>
