@@ -252,7 +252,7 @@ description: ""
     <tr>
       <td>Graciousness</td>
       <td>
-        Mrs Jeanie Koh<br>
+        Mdm Chua Li Joo<br>
         <a href="mailto:Jeanie_Quek_Jun_Li@schools.gov.sg">Jeanie_Quek_Jun_Li@schools.gov.sg</a>
       </td>
       <td>
