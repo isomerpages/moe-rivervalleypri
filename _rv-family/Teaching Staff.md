@@ -52,8 +52,8 @@ description: ""
         <a href="mailto:goh_shu_yi_priscilla@schools.gov.sg">goh_shu_yi_priscilla@schools.gov.sg</a>
       </td>
       <td>
-        Mrs Sharis Han<br>
-        <a href="mailto:How_Yi_Yun@schools.gov.sg">How_Yi_Yun@schools.gov.sg</a>
+        Mrs Tan-Chu Pau Leng<br>
+        <a href="mailto:chu_pau_leng_c@schools.gov.sg">chu_pau_leng_c@schools.gov.sg</a>
       </td>
       <td></td>
     </tr>
@@ -75,8 +75,8 @@ description: ""
         <a href="mailto:siew_may_qi_emily@schools.gov.sg">siew_may_qi_emily@schools.gov.sg</a>
       </td>
       <td>
-        Ms Jolynn<br>
-        <a href="mailto:Yang_Shuojun@schools.gov.sg">Yang_Shuojun@schools.gov.sg</a>
+        Ms Lim Seow Wei<br>
+        <a href="mailto:lim_seow_wei_a@schools.gov.sg">lim_seow_wei_a@schools.gov.sg</a>
       </td>
       <td></td>
     </tr>
