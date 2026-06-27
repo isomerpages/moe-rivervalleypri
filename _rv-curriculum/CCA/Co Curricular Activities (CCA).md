@@ -76,8 +76,8 @@ Similar to the LEAPS Approach used by the secondary schools, we adopt it into de
     </tr>
     <tr>
       <td style="border: 1px solid black; padding: 10px;">Visual Arts Club</td>
-      <td style="border: 1px solid black; padding: 10px;">Mdm Tan Xiao Jing</td>
-      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:tan_xiao_jing@schools.gov.sg">tan_xiao_jing@schools.gov.sg</a></td>
+      <td style="border: 1px solid black; padding: 10px;">Mrs Priscilla Yip</td>
+      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:goh_shu_yi_priscilla@schools.gov.sg">	goh_shu_yi_priscilla@schools.gov.sg</a></td>
     </tr>
     <tr>
       <td style="border: 1px solid black; padding: 10px; vertical-align: top;" rowspan="7">Sports &amp; Games</td>
