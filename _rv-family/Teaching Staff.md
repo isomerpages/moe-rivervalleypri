@@ -215,12 +215,12 @@ description: ""
     <tr>
       <td>Diligence</td>
       <td>
-        Mdm Rosalind Chua<br>
-        <a href="mailto:Rosalind_Chua_Suan_Cheng_B@schools.gov.sg">Rosalind_Chua_Suan_Cheng_B@schools.gov.sg</a>
-      </td>
-      <td>
         Mdm Huang Xin<br>
         <a href="mailto:huang_xin@schools.gov.sg">huang_xin@schools.gov.sg</a>
+      </td>
+			      <td>
+        Mdm Rosalind Chua<br>
+        <a href="mailto:Rosalind_Chua_Suan_Cheng_B@schools.gov.sg">Rosalind_Chua_Suan_Cheng_B@schools.gov.sg</a>
       </td>
     </tr>
     <tr>
