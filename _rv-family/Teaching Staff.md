@@ -271,8 +271,8 @@ description: ""
         <a href="mailto:lakshmanan_rajeswari@schools.gov.sg">lakshmanan_rajeswari@schools.gov.sg</a>
       </td>
 			      <td>
-        Mr Keith<br>
-        <a href="mailto:lakshmanan_rajeswari@schools.gov.sg">lakshmanan_rajeswari@schools.gov.sg</a>
+        Mr Keith Teo<br>
+        <a href="mailto:keith_teo_zhe_ming@schools.gov.sg">keith_teo_zhe_ming@schools.gov.sg</a>
       </td>
     </tr>
     
@@ -290,12 +290,16 @@ description: ""
     <tr>
       <td>Confidence</td>
       <td>
-        Ms Nadia<br>
-        <a href="mailto:nadia_erlyna_fauzilan@schools.gov.sg">nadia_erlyna_fauzilan@schools.gov.sg</a>
+        Mr Dominic Heng<br>
+        <a href="mailto:dominic_heng_zhaocheng@schools.gov.sg">dominic_heng_zhaocheng@schools.gov.sg</a>
       </td>
       <td>
         Ms Xu Lifen<br>
         <a href="mailto:xu_lifen@schools.gov.sg">xu_lifen@schools.gov.sg</a>
+      </td>
+			      <td>
+        Ms Nadia<br>
+        <a href="mailto:nadia_erlyna_fauzilan@schools.gov.sg">nadia_erlyna_fauzilan@schools.gov.sg</a>
       </td>
     </tr>
     <tr>
