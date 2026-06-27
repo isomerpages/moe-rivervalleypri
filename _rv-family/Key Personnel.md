@@ -106,11 +106,6 @@ variant: markdown
       <td style="border: 1px solid black; padding: 10px;"><a href="mailto:asveeny_sanjeevi@schools.gov.sg">asveeny_sanjeevi@schools.gov.sg</a></td>
     </tr>
     <tr>
-      <td style="border: 1px solid black; padding: 10px;">Aesthetics</td>
-      <td style="border: 1px solid black; padding: 10px;">Mrs Priscilla Yip</td>
-      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:goh_shu_yi_priscilla@schools.gov.sg">goh_shu_yi_priscilla@schools.gov.sg</a></td>
-    </tr>
-    <tr>
       <td style="border: 1px solid black; padding: 10px;">Student Management &amp; Student Leadership</td>
       <td style="border: 1px solid black; padding: 10px;">Mr Mufsin</td>
       <td style="border: 1px solid black; padding: 10px;"><a href="mailto:abdul_mufsin@schools.gov.sg">abdul_mufsin@schools.gov.sg</a></td>
@@ -124,11 +119,6 @@ variant: markdown
       <td style="border: 1px solid black; padding: 10px;">Student Wellbeing</td>
       <td style="border: 1px solid black; padding: 10px;">Ms Bernadette Kor</td>
       <td style="border: 1px solid black; padding: 10px;"><a href="mailto:bernadette_kor_hong_yin@schools.gov.sg">bernadette_kor_hong_yin@schools.gov.sg</a></td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid black; padding: 10px;">Co-Curricular Activities</td>
-      <td style="border: 1px solid black; padding: 10px;">Mr Fabian Koh</td>
-      <td style="border: 1px solid black; padding: 10px;"><a href="mailto:koh_zong_cheng_fabian@schools.gov.sg">koh_zong_cheng_fabian@schools.gov.sg</a></td>
     </tr>
 		  <tr>
       <td style="border: 1px solid black; padding: 10px;">Assistant Year Head</td>

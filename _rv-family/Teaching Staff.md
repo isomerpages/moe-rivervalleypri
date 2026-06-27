@@ -52,8 +52,8 @@ description: ""
         <a href="mailto:goh_shu_yi_priscilla@schools.gov.sg">goh_shu_yi_priscilla@schools.gov.sg</a>
       </td>
       <td>
-        Mrs Sharis Han<br>
-        <a href="mailto:How_Yi_Yun@schools.gov.sg">How_Yi_Yun@schools.gov.sg</a>
+        Mrs Tan-Chu Pau Leng<br>
+        <a href="mailto:chu_pau_leng_c@schools.gov.sg">chu_pau_leng_c@schools.gov.sg</a>
       </td>
       <td></td>
     </tr>
@@ -75,8 +75,8 @@ description: ""
         <a href="mailto:siew_may_qi_emily@schools.gov.sg">siew_may_qi_emily@schools.gov.sg</a>
       </td>
       <td>
-        Ms Jolynn<br>
-        <a href="mailto:Yang_Shuojun@schools.gov.sg">Yang_Shuojun@schools.gov.sg</a>
+        Ms Lim Seow Wei<br>
+        <a href="mailto:lim_seow_wei_a@schools.gov.sg">lim_seow_wei_a@schools.gov.sg</a>
       </td>
       <td></td>
     </tr>
@@ -215,12 +215,12 @@ description: ""
     <tr>
       <td>Diligence</td>
       <td>
-        Mrs Pearlin Ng<br>
-        <a href="mailto:lim_siew_chuan_pearlin@schools.gov.sg">lim_siew_chuan_pearlin@schools.gov.sg</a>
-      </td>
-      <td>
         Mdm Huang Xin<br>
         <a href="mailto:huang_xin@schools.gov.sg">huang_xin@schools.gov.sg</a>
+      </td>
+			      <td>
+        Mdm Rosalind Chua<br>
+        <a href="mailto:Rosalind_Chua_Suan_Cheng_B@schools.gov.sg">Rosalind_Chua_Suan_Cheng_B@schools.gov.sg</a>
       </td>
     </tr>
     <tr>
@@ -252,8 +252,8 @@ description: ""
     <tr>
       <td>Graciousness</td>
       <td>
-        Mrs Jeanie Koh<br>
-        <a href="mailto:Jeanie_Quek_Jun_Li@schools.gov.sg">Jeanie_Quek_Jun_Li@schools.gov.sg</a>
+        Ms Julia Chua<br>
+        <a href="mailto:CHUA_LI_JOO@schools.gov.sg">chua_li_joo@schools.gov.sg</a>
       </td>
       <td>
         Mrs Kannan<br>
@@ -270,7 +270,12 @@ description: ""
         Mdm Rajes<br>
         <a href="mailto:lakshmanan_rajeswari@schools.gov.sg">lakshmanan_rajeswari@schools.gov.sg</a>
       </td>
+			      <td>
+        Mr Keith Teo<br>
+        <a href="mailto:keith_teo_zhe_ming@schools.gov.sg">keith_teo_zhe_ming@schools.gov.sg</a>
+      </td>
     </tr>
+    
   </tbody>
 </table>
 
@@ -285,12 +290,16 @@ description: ""
     <tr>
       <td>Confidence</td>
       <td>
-        Ms Nadia<br>
-        <a href="mailto:nadia_erlyna_fauzilan@schools.gov.sg">nadia_erlyna_fauzilan@schools.gov.sg</a>
+        Mr Dominic Heng<br>
+        <a href="mailto:dominic_heng_zhaocheng@schools.gov.sg">dominic_heng_zhaocheng@schools.gov.sg</a>
       </td>
       <td>
         Ms Xu Lifen<br>
         <a href="mailto:xu_lifen@schools.gov.sg">xu_lifen@schools.gov.sg</a>
+      </td>
+			      <td>
+        Ms Nadia<br>
+        <a href="mailto:nadia_erlyna_fauzilan@schools.gov.sg">nadia_erlyna_fauzilan@schools.gov.sg</a>
       </td>
     </tr>
     <tr>
