@@ -136,10 +136,6 @@ description: ""
         Mrs Morrie Chua<br>
         <a href="mailto:morrie_tan_shu_zhen_a@schools.gov.sg">morrie_tan_shu_zhen_a@schools.gov.sg</a>
       </td>  
-			    <td>
-        Ms Yap Lay Hong<br>
-        <a href="mailto:Yap_Lay_Hong_B@schools.gov.sg">Yap_Lay_Hong_B@schools.gov.sg</a>
-      </td>
     </tr>
     <tr>
       <td>Friendship</td>
@@ -161,10 +157,6 @@ description: ""
 			<td>
         Ms Karen Chin<br>
         <a href="mailto:Karen_Chin_Kar_Wen@schools.gov.sg">karen_chin_kar_wen@schools.gov.sg</a>
-      </td>
-      <td>
-        Mdm Heng Soo Inn<br>
-        <a href="mailto:heng_soo_inn@schools.gov.sg">heng_soo_inn@schools.gov.sg</a>
       </td>
     </tr>
     <tr>
