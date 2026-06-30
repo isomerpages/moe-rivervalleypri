@@ -264,7 +264,7 @@ description: ""
       </td>
 			      <td>
         Mr Keith Teo<br>
-        <a href="mailto:keith_teo_zhe_ming@schools.gov.sg">keith_teo_zhe_ming@schools.gov.sg</a>
+        <a href="mailto:keith_teo_zhe_ming_a@schools.gov.sg">keith_teo_zhe_ming_a@schools.gov.sg</a>
       </td>
     </tr>
     
